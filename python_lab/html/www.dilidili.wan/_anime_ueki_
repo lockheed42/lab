@@ -1,0 +1,1373 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+	<head>
+		<meta charset="utf-8">
+		<title>植木的法则-  在线&下载 - 嘀哩嘀哩</title>
+		<meta name="keywords" content="植木的法则全集,植木的法则动画" />
+		<meta name="description" content="火野国中1年级的植木耕助，某天突然得到了“将自己认为是垃圾的东西变成树”的能力，授予他这个能力的是天神候补的天界人小林老师。100名天神候补授予各自选中的中学生以不同的能力，让其战斗，能够选中最强中学生的天神候补就可以成为下届的神。于是一场惊天动地的战斗展开了。" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+        <meta name="applicable-device" content="pc,mobile">
+		<script src="http://static.jfrft.com/js/uaredirect.js"></script>
+        <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/ueki/");</script>
+        <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/ueki/"/>
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/ueki/" >		
+	<link rel="canonical" href="http://www.dilidili.wang/anime/ueki/"/>
+	<link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+        <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+        <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js" defer></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+<script>
+	jQuery(function(){
+	new jbCollect('a._collect', '#content1');
+});
+</script>
+        <base target="_blank">
+<style>
+</style>        
+    </head>
+	<body>
+	<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201707/" target="_blank">七月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+					
+                <div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>植木的法则</a></div>
+                <div class="aside_cen2">                    
+                    <div class="detail con24 clear">
+                        <dl>
+                            <dt><img src="http://static.jfrft.com/uploads/allimg/161118/1_1720475805.jpg" alt="植木的法则"/></dt>
+                            <dd>
+                                <h1>植木的法则</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="植木的法则" data-url="http://www.dilidili.wang/anime/ueki/" data-icon="http://static.jfrft.com/uploads/allimg/161118/1_1720475805.jpg"><span>收藏</span></a></div><br/>
+								<span class="play_cs">播放次数:<script src="http://www.dilidili.wang/plus/countlist.php?view=yes&aid=2450&mid=" type='text/javascript' language="javascript"></script></span>
+                                <p><div class="d_label"><b>地区：</b><a href="/riyu/" title="日本动漫">日本</a></div><div class="d_label"><b>年代：</b><a href="/2010xq/" title="2010年之前番">2010年之前</a></div></p>
+                                <p><div class="d_label"><b>标签：</b>搞笑|热血|励志|冒险</div><div class="d_label"><b>状态：</b>完结</div></p>
+								<p><div class="d_label2"><b>看点：</b>正义少年从环保（误）做起</div></p>
+                                <p><div class="d_label2"><b>简介：</b>火野国中1年级的植木耕助，某天突然得到了“将自己认为是垃圾的东西变成树”的能力，授予他这个能力的是天神候补的天界人小林老师。100名天神候补授予各自选中的中学生以不同的能力，让其战斗，能够选中最强中学生的天神候补就可以成为下届的神。于是一场惊天动地的战斗展开了。</div></p>
+                                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('植木的法则','','','http://www.dilidili.wang/anime/ueki/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                                <p>
+                                <div class="button_bar">
+                                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>							
+																							
+                                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                                </div>
+                                </p>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="con24 m-10 xf_news">
+                        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+                        </div>
+						<div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+                        <div class="time_pic list">
+                            <div class="time_con">
+                                <div class="swiper-container xfswiper1">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                             <ul class="clear">
+											  <li><a href="http://www.dilidili.wang/watch3/50278/" target="_self"><em><span>第1话</span>植木的法则 第1话 植木耕助・正义的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50279/" target="_self"><em><span>第2话</span>植木的法则 第2话 战斗开始的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50280/" target="_self"><em><span>第3话</span>植木的法则 第3话 ＂才＂的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50281/" target="_self"><em><span>第4话</span>植木的法则 第4话 体术之男! 李崩的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50282/" target="_self"><em><span>第5话</span>植木的法则 第5话 最强的能力者,罗贝多的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50283/" target="_self"><em><span>第6话</span>植木的法则 第6话 离别的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50284/" target="_self"><em><span>第7话</span>植木的法则 第7话 小林老师的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50285/" target="_self"><em><span>第8话</span>植木的法则 第8话 光明磊落!鬼纹的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50286/" target="_self"><em><span>第9话</span>植木的法则 第9话 鬼纹之特训的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50287/" target="_self"><em><span>第10话</span>植木的法则 第10话 没有回报之正义的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50288/" target="_self"><em><span>第11话</span>植木的法则 第11话 罗贝多十人团的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50289/" target="_self"><em><span>第12话</span>植木的法则 第12话 天界人的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50290/" target="_self"><em><span>第13话</span>植木的法则 第13话 天界兽的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50291/" target="_self"><em><span>第14话</span>植木的法则 第14话 觉醒脏器的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50292/" target="_self"><em><span>第15话</span>植木的法则 第15话 铃子的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50293/" target="_self"><em><span>第16话</span>植木的法则 第16话 新天界人的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50294/" target="_self"><em><span>第17话</span>植木的法则 第17话 二种能力的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50295/" target="_self"><em><span>第18话</span>植木的法则 第18话 战栗!德古拉高楼的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50296/" target="_self"><em><span>第19话</span>植木的法则 第19话 哥萨克之舞的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50297/" target="_self"><em><span>第20话</span>植木的法则 第20话 猫与老鼠的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50298/" target="_self"><em><span>第21话</span>植木的法则 第21话 佐野清一郎的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50299/" target="_self"><em><span>第22话</span>植木的法则 第22话 犬丸的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50300/" target="_self"><em><span>第23话</span>植木的法则 第23话 植木VS十人团的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50301/" target="_self"><em><span>第24话</span>植木的法则 第24话 少年罗贝路特的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50302/" target="_self"><em><span>第25话</span>植木的法则 第25话 复活!木木的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50303/" target="_self"><em><span>第26话</span>植木的法则 第26话 恐怖! 阿诺的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50304/" target="_self"><em><span>第27话</span>植木的法则 第27话 秀吉的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50305/" target="_self"><em><span>第28话</span>植木的法则 第28话 太阳之家的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50306/" target="_self"><em><span>第29话</span>植木的法则 第29话 别死啊 天仔的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50307/" target="_self"><em><span>第30话</span>植木的法则 第30话 三次选考的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50308/" target="_self"><em><span>第31话</span>植木的法则 第31话 最强组合的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50309/" target="_self"><em><span>第32话</span>植木的法则 第32话 真正的强大!的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50310/" target="_self"><em><span>第33话</span>植木的法则 第33话 冲突! 植木对李崩的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50311/" target="_self"><em><span>第34话</span>植木的法则 第34话 玛莉莲队的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50312/" target="_self"><em><span>第35话</span>植木的法则 第35话 上当了啊啊啊啊啊! 的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50313/" target="_self"><em><span>第36话</span>植木的法则 第36话 伙伴的证明的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50314/" target="_self"><em><span>第37话</span>植木的法则 第37话 神器的弱点的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50315/" target="_self"><em><span>第38话</span>植木的法则 第38话 佐野·觉醒!! 的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50316/" target="_self"><em><span>第39话</span>植木的法则 第39话 封闭的心的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50317/" target="_self"><em><span>第40话</span>植木的法则 第40话 了不起的'爱'的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50318/" target="_self"><em><span>第41话</span>植木的法则 第41话 真与假的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50319/" target="_self"><em><span>第42话</span>植木的法则 第42话 巴洛瓦队的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50320/" target="_self"><em><span>第43话</span>植木的法则 第43话 骄媚姿势的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50321/" target="_self"><em><span>第44话</span>植木的法则 第44话 植木·二级! 的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50322/" target="_self"><em><span>第45话</span>植木的法则 第45话 来自过去的攻击的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50323/" target="_self"><em><span>第46话</span>植木的法则 第46话 神和少女和未来的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50324/" target="_self"><em><span>第47话</span>植木的法则 第47话 成为神的阿诺的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50325/" target="_self"><em><span>第48话</span>植木的法则 第48话 第四次选考的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50326/" target="_self"><em><span>第49话</span>植木的法则 第49话 十星的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50327/" target="_self"><em><span>第50话</span>植木的法则 第50话 植木对阿诺的法则</em></a></li><li><a href="http://www.dilidili.wang/watch3/50328/" target="_self"><em><span>第51话</span>植木的法则 第51话 空白之才的法则</em></a></li>	 
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            	<div class="playjs swiper-pagination"></div>
+                            </div>
+                            <div class="time_con">
+								<p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                                <div class="swiper-container xfswiper3">
+							<ul class="clear">
+                                    <li class="list_xz">
+                                        <a href="http://pan.baidu.com/s/1pLSyVhh" target="_blank">全集</a>
+									<li>
+                                 </ul>
+                                </div>
+                            </div>
+							<div class="time_con">
+                                <div class="swiper-container swiper4">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                            <ul>
+                                                <li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50278/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第1话</span>植木的法则 第1话 植木耕助・正义的法则<br/>由于班导小林老师真实身分为天神候补，因而植木耕助被赋与“将垃圾化为树木”能力。同班同学森爱曾一度怀疑植木是外星人，但经过小林解说后决定守护植木“才”，因为植木每运用能力伤</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50279/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第2话</span>植木的法则 第2话 战斗开始的法则<br/>攸关下届天神宝座战斗游戏正式揭幕，为了保护植木才，森爱几乎成了随身保镳。然而两人却不知道战斗游戏一事，对于空白之才也毫无所知。就此时能将口中水变成火超能力者“平丸男”，向</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50280/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第3话</span>植木的法则 第3话 ＂才＂的法则<br/>植木与平丸男战斗终于分出胜负，而平丸男候补神也因为犯规而被打入地狱。之后出现超能力者，渴望获得跑步之才足立，植木历经一番苦战后，终于顺利打败对手。正当森爱以为一切顺利之际</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50281/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第4话</span>植木的法则 第4话 体术之男! 李崩的法则<br/>为了避免植木才全部消失，森爱假藉探病之名带着植木前往小林老师住处，行搜查之实，并且计算机里发现了一项惊人秘密──植木法则。并且得知只要每打败一名超能力者植木才，就会追加一</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50282/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第5话</span>植木的法则 第5话 最强的能力者,罗贝多的法则<br/>苦练7年才领悟出来的秘拳“岩窟王”，遭到破解。这让李崩决定另觅对手，与植木战斗也暂时落幕。接着为姊姊送东西路上，植木与森爱遇见了一个喜欢撒谎的嘻哈男，同时也遇到超能力者B</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50283/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第6话</span>植木的法则 第6话 离别的法则<br/>罗贝多打败BJ之后，紧接着主动向植木寄出了挑战书。让原本勉强压抑怒火植木彻底抓狂，决定不顾小林老师叮咛，替麻吉BJ报仇。可惜双方实力差距太大，植木打从一开始便居于劣势，就千钧</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50284/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第7话</span>植木的法则 第7话 小林老师的法则<br/>小林老师被打入地狱之后，植木来到其住处。看见了所写日记，发现老师日记里写全自己之后，植木下定决心赢得这场战斗。就此时接替小林候补神淀川现身，不料开口第一句话竟然要植木退出</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50285/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第8话</span>植木的法则 第8话 光明磊落!鬼纹的法则<br/>得知植木决心赢得战斗，森爱又一如往常为了守护植木才，而如影随形，并且向淀川借来行动计算机，以便第一时间得知敌人动向。紧接着新对手使用能力把踢出的土变成铁球，着实让植木吃尽</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50286/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第9话</span>植木的法则 第9话 鬼纹之特训的法则<br/>为植木所败鬼纹，带来了罗贝多十人团消息，并且警告成员之一黑影，已经盯上了植木。某一天败罗贝多手上的BJ跑来找植木，目也跟罗贝多十人团有关。接着植木、BJ以及森爱三人遇见了一名</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50287/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第10话</span>植木的法则 第10话 没有回报之正义的法则<br/>罗贝多十人团成员之一“黑影”，利用能够将影子变成黏土人能力，向植木发动猛烈攻击。甚至抓准植木不会对自己人出手的弱点，制造出与森爱以及BJ一模一样的黏土人，让植木顿时陷入危机</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50288/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第11话</span>植木的法则 第11话 罗贝多十人团的法则<br/>卡谬．罗素因为对自己人出手，而让植木怒火彻底爆发。但却因为刚跟黑影打过一场，因此赢得相当惊险。之后某一天，一名自称明神太郎人出现植木面前，不但表示自己隶属于罗贝多十人团，</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50289/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第12话</span>植木的法则 第12话 天界人的法则<br/>由于植木不肯对罗贝多低头，所以罗贝多百般刁难植木。植木克服了种种困难坚持了下来。森爱去找植木的时候遇见了植木的家人，并得知植木并不是植木家的亲生孩子。植木参加了罗贝多十人</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50290/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第13话</span>植木的法则 第13话 天界兽的法则<br/>虽然奉命与阿雷修共同执行任务，但植木却完全不动手。直到阿雷修打败敌人才老实说出自己入团目的，并且主动挑战阿雷修。就此时，一名长相怪异生物“天界兽”，突然出现，直嚷着要吃了</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50291/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第14话</span>植木的法则 第14话 觉醒脏器的法则<br/>植木回到十人团所之处后，原本打算谎称阿雷修败于敌人之手，但却因为受不了罗贝多言语挑衅，而主动说出事实真相，也让自己立刻成为吨诛杀对象。双方对战第一回合吨以为植木已死，而离</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50292/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第15话</span>植木的法则 第15话 铃子的法则<br/>通过觉醒脏器试炼后，植木短时间内晋升为四星级天界人，并且一雪前耻打败了吨，而十人团接着登场，则马克．马丁尼以及铃子洁拉德，就双方激战之际，赫然发现之前败于植木之手的阿雷修</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50293/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第16话</span>植木的法则 第16话 新天界人的法则<br/>解决了马克之后，植木因为连续战斗，再加上接受觉醒，脏器试炼终于因为伤势严重而昏了。过去小天于将放入治疗兽体内疗伤，而植木伤愈之前铃子决定设法牵制十人团。不料十人团早已得知</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50294/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第17话</span>植木的法则 第17话 二种能力的法则<br/>为了瓦解十人团，植木迎战最后一面对手──明神太郎，但却惊觉一个人居然拥有两种能力。对自己有着十足自信明神决定说明原因，当成送植木等人上黄泉礼物。经过一番激战后，植木绝不轻</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50295/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第18话</span>植木的法则 第18话 战栗!德古拉高楼的法则<br/>好不容易打败明神之后，植木趁着铃子住院疗伤期间，再度进入觉醒脏器接受试炼，并且一天之内，顺利通过五星级与六星级测试。原本打算等铃子出院再带领大家前往挑战罗贝多，同时救出佐</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50296/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第19话</span>植木的法则 第19话 哥萨克之舞的法则<br/>因为一直无法找出尤帕欧限定条件，让植木吃尽了苦头。正当众人焦急之际，神经一向超大条的植木却突然语出惊人，无意间说出众人找寻已久的限定条件。顺利通过第一关之后，第二战由森爱</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50297/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第20话</span>植木的法则 第20话 猫与老鼠的法则<br/>由于第二战结果平手，所以森爱与卡巴拉仍然保有出赛权。紧接着第三关由铃子对上卡巴拉，地点猫咪竞赛场。胜负关键于让对手变成老鼠并且成为猫咪食物，铃子心中暗自发誓绝对不让小爱之</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50298/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第21话</span>植木的法则 第21话 佐野清一郎的法则<br/>铃子顺利击败卡巴拉之后，德古拉高楼战斗终于迈入了第四战。而植木队目前战绩两胜一平手，因此只要再赢一场就可以全身而退。第四战由植木对上佐野，原本植木打算以平手收场，但经由佐</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50299/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第22话</span>植木的法则 第22话 犬丸的法则<br/>发现佐野故意落败后，卡尔巴瑟随即表示要变更条件，进而抖出惊人秘密。原来佐野加入十人团是为了拯救遭卡尔巴瑟，置入死亡五角蛭犬丸。得知自己让众人陷入危机原因之后，犬丸决定违反</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50300/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第23话</span>植木的法则 第23话 植木VS十人团的法则<br/>尽管拥有十人团全部成员能力的卡尔巴瑟，依然不是植木对手。眼看战况越来越不利，不得已只好搬出压箱宝。但或许因为太过有把握反而无意间泄露了自己限定条件。最后饮恨落败，而罗贝多</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50301/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第24话</span>植木的法则 第24话 少年罗贝路特的法则<br/>铃子表示罗贝多之所以会变得判若两人，原因于小时候所发生事件。因为遭到朋友诬陷，让罗贝多自此不再相信人类，甚而企图毁灭人间界。而植木虽然明白了来龙去脉，却依然表示不能让罗贝</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50302/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第25话</span>植木的法则 第25话 复活!木木的法则<br/>虽然被植木所救，但罗贝多却没有因此改过自新，反而变本加厉对植木发动更猛烈攻击。就植木千钧一发之际，佐野与铃子因为墙壁崩塌而得以逃出防护罩控制。两人于联手对付罗贝多，可惜却</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50303/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第26话</span>植木的法则 第26话 恐怖! 阿诺的法则<br/>为了迫使秀吉加入沙克，率领众人企图破坏太阳之家，并且将小爱与孩子们五花大绑，就紧要关头，秀吉赶了回来。想不到却依然不敌卡布修的能力，而动弹不得。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50304/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第27话</span>植木的法则 第27话 秀吉的法则<br/>就马力欧奉命执行破坏计画之际，一直不见人影的植木终于现身。而且一口气就解决了马力欧，以及再度登场倪可。并且在秀吉帮助之下，又顺利解决了队长卡布修。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50305/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第28话</span>植木的法则 第28话 太阳之家的法则<br/>原本不愿离开太阳之家的秀吉，得知有办法拯救坠入地狱候补神之后，孩子们鼓励之下，终于决定加入植木一行人行列。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50306/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第29话</span>植木的法则 第29话 别死啊 天仔的法则<br/>植木终于顺利通过八星级试炼，并且决定觉醒脏器3天休养期过后，立刻接受九星级试炼。但小天看起来却若有所思，原来天界兽最多只能帮助天界人提升7个等级，所以植木倘若接受九星级试炼</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50307/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第30话</span>植木的法则 第30话 三次选考的法则<br/>期待已久的第二次选拔终于来临，想不到竟跌破众人眼镜，选冰棒而抽到鸣谢惠顾的植人等人则直接由天神辅佐，带领前往第三次选拔会场──天界。这次有25名选手参加，共分成5支队伍，而首</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50308/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第31话</span>植木的法则 第31话 最强组合的法则<br/>解决吉塔耳之后，植木与小爱沿路寻找目标。不料植木却遭到水果追杀，而与小爱分散。就此时，小爱遇见了秀吉。并且遭到开着战车的古拉诺追杀，之后小爱阴错阳差遇见了铃子与佐野，以及</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50309/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第32话</span>植木的法则 第32话 真正的强大!的法则<br/>虽然顺利打败古拉诺队三名成员，可惜地图所显现都不是关键藏宝地点，就植木答应不会跟弱小的贝可鲁交手后，小爱抓着直升机现身了。这次队长古拉诺企图联合贝可鲁一起对付植木与小爱，</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50310/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第33话</span>植木的法则 第33话 冲突! 植木对李崩的法则<br/>植木等人顺利击败了古拉诺队，没想到就众人准备观赏玛莉琳队与卡布修队比赛之际，淀川却表示比赛早已结束。原来卡布修队不仅短短5分钟之内全军覆没，甚至可以用体无完肤来形容另。一</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50311/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第34话</span>植木的法则 第34话 玛莉莲队的法则<br/>植木队与玛莉琳队比赛终于揭开序幕，不料比赛开始没多久，植木等人立刻被诱进一栋破旧建筑物。因为怕建筑物倒塌，使得铃子与植木都不敢贸然出手，之后由于对手丢出闪光手榴弹，让铃子</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50312/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第35话</span>植木的法则 第35话 上当了啊啊啊啊啊! 的法则<br/>植木虽然以自己为饵设法替同伴争取逃亡时间，不料却依然被玛莉琳等人看穿，进而决定留下男爵收拾植木，其他人则一同追击佐野等人。面对神器与武术皆不管用的男爵，植木简直吃尽了苦头</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50313/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第36话</span>植木的法则 第36话 伙伴的证明的法则<br/>将铃子交给天界幽灵照顾之后，没有任何后顾之忧的佐野三人，藉由绝佳团队默契与智慧，首先击败了敌队布丁。就此时，未能成功找到植木，玛莉琳透过无线电表示自己即将与众人会合。为了</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50314/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第37话</span>植木的法则 第37话 神器的弱点的法则<br/>玛莉琳归队后，战况随即逆转。佐野、森爱以及秀吉完全不是对手。这时佐野要求秀吉伺机逃离，自己则留下来保护已然筋疲力尽的小爱。但原本顺利脱逃的秀吉实不忍心弃伙伴于不顾，最后还</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50315/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第38话</span>植木的法则 第38话 佐野·觉醒!! 的法则<br/>比赛途中，天神突然宣布比赛时间只剩下10分钟，并且公布双方持有10点点数项炼人于演变成植木vs玛莉琳、佐野vs马修以及森爱vs曼莫莉。情势面对可以变成六只手臂的马修着实让佐野吃尽了苦</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50316/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第39话</span>植木的法则 第39话 封闭的心的法则<br/>历经一番激战，能力提升至第2等级的佐野终于顺利击败马修，为植木队取得一分。另一方面原本绞尽脑汁想要打败玛莉琳的植木看见玛莉琳眼神之后，态度丕变。不论玛莉琳如何攻击，甚至祭</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50317/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第40话</span>植木的法则 第40话 了不起的'爱'的法则<br/>玛莉琳因为用尽自身气力而昏厥，但植木却没有取下项炼，也让掌握这场比赛胜负关键落森爱与曼莫莉身上，紧要关头，森爱一直不为人所知的能力终于发动，进而为植木队获得胜利。为了晋级</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50318/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第41话</span>植木的法则 第41话 真与假的法则<br/>对上帕洛乌队前，植木等人暂时得以回到人间界休生养息，趁着这次返家。植木决定接受小天所言，对家人坦白自己的身份，以及比赛、能力等事实之后再度回到天界。植木无意间巧遇一位大叔</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50319/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第42话</span>植木的法则 第42话 巴洛瓦队的法则<br/>第三次选拔最终战，植木队与帕洛乌之战终于揭开序幕。不料，就在开战没多久，小天竟发现帕洛乌队所有成员都是天界人。经由抽签第一回合，铃子没想到对手能力可以让非生物变成生物，让</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50320/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第43话</span>植木的法则 第43话 骄媚姿势的法则<br/>帕洛乌队之战第二回合，由佐野对上六星级天界人迪亚哥斯达由于实力差距悬殊。佐野对战之初始终占不了上风，最后虽然运用智慧给对手致命一击，却因为待无效化地带时间超过10秒钟而将胜</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50321/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第44话</span>植木的法则 第44话 植木·二级! 的法则<br/>与帕洛乌队最后决战，由双方队长一较高下。不料，开赛前森爱等人却从小天口中得知一件令人震惊事实，─植木已经失去所有神器。原来植木经由亲生父亲指点，得知自己如果想要提升至第</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50322/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第45话</span>植木的法则 第45话 来自过去的攻击的法则<br/>与植木对战过程中，帕洛乌不断想起自己悲伤过往。原来身为天界人因为误将母亲视为小偷，竟以神器把母亲打成了似近植物人，让不仅自责不已，更认为自己个怪物。就此时马格雷特以实现这</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50323/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第46话</span>植木的法则 第46话 神和少女和未来的法则<br/>想不到让天神企划这场国中生战斗契机，竟数年前与植木之母─植木春子初次相遇，生性乐观的植木春子让天神明白正视未来重要性，也让萌生解救守人一族跳脱过去囹圄念头。而第三次选拔结</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50324/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第47话</span>植木的法则 第47话 成为神的阿诺的法则<br/>众人静静等待第四次选拔来临之际，天神与马格雷特之间激战也告一段落。双方最后以平手收场，而天神苦口婆心劝导，似乎也让马格雷特心态产生了微妙变化。不料就马格雷特即将离去之际，</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50325/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第48话</span>植木的法则 第48话 第四次选考的法则<br/>亚诺占据天神身体后，不仅立刻进行第四次选拔，同时也改变了比赛规则，也就第一个打败人，就是最后优胜者。无论一对一或者以多击寡都不受限制。另一方面马格雷特则企图利用体内天界兽</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50326/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第49话</span>植木的法则 第49话 十星的法则<br/>为了阻止亚诺已然失控疯狂行为，亲生父亲马格雷特决定利用天界兽帮助植木提升至十星级。而植木进入觉醒脏器这段期间，佐野与铃子则与班、迪亚哥斯达联手对付亚诺。可惜却全然不是对手</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50327/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第50话</span>植木的法则 第50话 植木对阿诺的法则<br/>马格雷特帮助之下，植木终于顺利变成十星级天界人，并千钧一发之际利，用飞行神器“花鸟风月”救了森爱一命。接着便与亚诺展开一场激烈对决。就双方僵持不下之际，亚诺却此时释放，被</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/50328/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第51话</span>植木的法则 第51话 空白之才的法则<br/>植木的法则 第51话 空白之才的法则</div>
+                                                    </a>
+                                                </li>
+                                            </ul>
+										</div>
+                                    </div>
+                                </div>
+                                <div class="swiper-button-next swiper-button-next4"></div>
+                                <div class="swiper-button-prev swiper-button-prev4"></div>
+                            </div>	
+                          <div class="time_con">
+                            	<div class="stafflist">
+                                    <div class="staff">
+									<p class="row">原作：福地翼（小学馆「周刊少年サンデー」连载）</p><p class="row">监督：わたなべひろし</p><p class="row">系列构成：川濑敏文</p><p class="row">人物设定：田头しのぶ</p><p class="row">动画制作：STUDIO DEEN</p>
+                                    </div>
+                                    <div class="cast">
+									<p class="row">主要配音：川上伦子 能登麻美子 朴璐美 保志总一朗 山口胜平</p>
+                                    </div>
+                                </div>
+                        </div>	
+                        </div>
+                    </div><!--tab slider end-->                       
+                    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+                    <div class="con24">
+                        <div class="stitle">
+                            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/beelzebub">恶魔奶爸</a><a href="/anime/hxyzdej">火星异种第二季</a><a href="/anime/quanhuanchuanshiji">拳王创世纪</a><a href="/anime/ultramangeed">捷德奥特曼</a><a href="/anime/bleach">境界动漫全集</a>
+                            </span>
+                        </div>
+						 <div class="swiper-container swiper3">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <ul class="m_pic clear">
+										<li><a href="/anime/terraformars"><img src="http://static.jfrft.com/images/cover/11155.jpg"/><p>火星异种</p><div class="fc_m"><strong>火星异种</strong></div></a></li><li><a href="/anime/kyojin2"><img src="http://static.jfrft.com/uploads/allimg/160427/1_1502023841.jpg"/><p>进击的巨人II</p><div class="fc_m"><strong>进击的巨人第二季</strong></div></a></li><li><a href="/anime/jmqskabuto"><img src="http://static.jfrft.com/uploads/allimg/160720/1_1456043131.jpg"/><p>假面骑士KABUTO</p><div class="fc_m"><strong>假面骑士KABUTO</strong></div></a></li><li><a href="/anime/dragonball-kai"><img src="http://static.jfrft.com/uploads/201512/1-15122311095L01.jpg"/><p>龙珠改</p><div class="fc_m"><strong>七龙珠改</strong></div></a></li><li><a href="/anime/shokugekisoma3"><img src="http://www.dilidili.wang/uploads/allimg/170830/290_1606361211.jpg"/><p>食戟之灵 第三季</p><div class="fc_m"><strong>食戟之灵 第三季</strong></div></a></li><li><a href="/anime/nippon"><img src="http://static.jfrft.com/uploads/allimg/160623/1_2158449721.jpg"/><p>野狼前锋</p><div class="fc_m"><strong>野狼前锋</strong></div></a></li><li><a href="/anime/aonoexorcist"><img src="http://static.jfrft.com/uploads/201509/1-15092314405I12.jpg"/><p>青之驱魔师</p><div class="fc_m"><strong>青之驱魔师</strong></div></a></li><li><a href="/anime/fairytailmove"><img src="http://static.jfrft.com/uploads/allimg/161117/1_1410475451.jpg"/><p>妖精的尾巴剧场版</p><div class="fc_m"><strong>妖精的尾巴剧场版</strong></div></a></li><li><a href="/anime/initialdOVA"><img src="http://static.jfrft.com/uploads/allimg/160629/1_2341372691.gif"/><p>头文字D剧场版</p><div class="fc_m"><strong>头文字D剧场版</strong></div></a></li><li><a href="/anime/TengenToppa"><img src="http://static.jfrft.com/uploads/allimg/201510/1-1510291144370-L.jpg"/><p>天元突破红莲之眼</p><div class="fc_m"><strong>天元突破红莲之眼</strong></div></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="swiper-button-next swiper-button-next3"></div>
+                            <div class="swiper-button-prev swiper-button-prev3"></div>
+                        </div>
+                    </div>
+<script src="http://static.jfrft.com/templets/default/js/swiper.min.js"></script>
+<script>	
+jQuery(".playjs").hide();
+	function changeSwiper1(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+//		alert(arrlen);
+        var len = 0;		
+        if (_is) {
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+				}else{
+					len = parseInt(arrlen / 2);
+					}
+				} else {
+					if(arrlen % 20 >0){
+						len = parseInt(arrlen / 20)+1;
+						}else{
+							len = parseInt(arrlen / 20);
+						}
+					}
+			if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+    changeSwiper1('.xfswiper0');
+	changeSwiper1('.xfswiper1');
+	changeSwiper1('.xfswiper2');
+	changeSwiper1('.xfswiper3');
+	changeSwiper1('.xfswiper4');
+	changeSwiper1('.xfswiper5');
+	changeSwiper1('.xfswiper6');
+    changeSwiper('.swiper3');
+    changeSwiper('.swiper5');
+    changeSwiper('.swiper6');
+	changeSwiper('.swiper7');
+	changeSwiper2('.swiper4');
+    jQuery(window).resize(function () {
+		changeSwiper1('.xfswiper0');
+		changeSwiper1('.xfswiper1');
+		changeSwiper1('.xfswiper2');
+		changeSwiper1('.xfswiper3');
+		changeSwiper1('.xfswiper4');
+		changeSwiper1('.xfswiper5');
+		changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+		changeSwiper('.swiper7');
+		changeSwiper2('.swiper4');
+    });
+var swiper1 = new Swiper('.xfswiper1', {
+	nextButton: '.xfswiper-button-next1',
+	prevButton: '.xfswiper-button-prev1',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper2', {
+	nextButton: '.xfswiper-button-next2',
+	prevButton: '.xfswiper-button-prev2',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper3', {
+	nextButton: '.xfswiper-button-next3',
+	prevButton: '.xfswiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper3 = new Swiper('.swiper3', {
+	nextButton: '.swiper-button-next3',
+	prevButton: '.swiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper4 = new Swiper('.swiper4', {
+	nextButton: '.swiper-button-next4',
+	prevButton: '.swiper-button-prev4',
+	spaceBetween: 30
+});
+var swiper5 = new Swiper('.swiper5', {
+	nextButton: '.swiper-button-next5',
+	prevButton: '.swiper-button-prev5',
+	spaceBetween: 30
+});
+var swiper6 = new Swiper('.swiper6', {
+	nextButton: '.swiper-button-next6',
+	prevButton: '.swiper-button-prev6',
+	spaceBetween: 30
+});
+var swiper7 = new Swiper('.swiper7', {
+	nextButton: '.swiper-button-next7',
+	prevButton: '.swiper-button-prev7',
+	spaceBetween: 30
+});
+    var week = new Date();
+    jQuery(".xf_news .pk_time a").removeClass("current");
+    jQuery(".xf_news .time_pic .time_con").hide();
+    if (week != 0) {
+        jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+        jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+        new Swiper(".xfswiper"+(0), {
+            nextButton: '.xfswiper-button-next'+(0),
+            prevButton: '.xfswiper-button-prev'+(0),
+            spaceBetween: 30
+        });
+    }
+    jQuery(".xf_news .pk_time a").each(function(index){
+        jQuery(this).click(function(){
+            jQuery(".xf_news .pk_time a").removeClass("current");
+            jQuery(this).addClass("current");
+            jQuery(".xf_news .time_pic .time_con").hide();
+            jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+            new Swiper(".xfswiper"+index, {
+                nextButton: '.xfswiper-button-next'+index,
+                prevButton: '.xfswiper-button-prev'+index,
+                spaceBetween: 30
+            });
+			jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+        });
+    });
+var swiper = new Swiper('.xfswiper1', {
+	pagination: '.swiper-pagination',
+	paginationClickable: true,
+	paginationBulletRender: function (index, className) {
+		return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+	}
+});
+var mySwiper1 = new Swiper('.swiper1',{
+	pagination: '.pagination1',
+	paginationClickable: true,
+	moveStartThreshold: 100,
+	autoplay:4000
+});
+var mySwiper2 = new Swiper('.swiper2',{
+	pagination: '.pagination2',
+	paginationClickable: true,
+	moveStartThreshold: 100
+});
+  var webWidth = 736;
+    function changeSwiper(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 5 >0){
+				len = parseInt(arrlen / 5)+1;
+			}else{
+				len = parseInt(arrlen / 5);
+			}
+        }		
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+    function changeSwiper2(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 8 >0){
+				len = parseInt(arrlen / 8)+1;
+			}else{
+				len = parseInt(arrlen / 8);
+			}
+        }		
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+jQuery(function() {
+	jQuery(".closed").click(
+	  function(){
+		  jQuery(".topimg").slideUp();
+	});
+	// 收缩展开效果
+	   jQuery(".adminico").click(function(){
+		 jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   },function(){
+		jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   });
+	jQuery(".a_open").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").slideDown(500);
+		  jQuery(".fc_black").show();
+		  jQuery(".a_closed").show();
+	});
+	jQuery(".a_closed").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+	});
+	jQuery(".fc_black").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+		  jQuery(".a_closed").hide();
+	});
+	jQuery(".rm_pank .pk_year a").each(function(index){
+	   jQuery(this).mouseover(
+		  function(){
+			  jQuery(".rm_pank .pk_year a").removeClass("current");
+			  jQuery(this).addClass("current");
+			  jQuery(".rm_pank .rm_main .rm_con").hide();
+			  jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+	  })
+	});
+	var headHeight=$(".head_top").height();
+	var nav=$("#navf");
+	$(window).scroll(function(){
+		if($(this).scrollTop()>headHeight){
+			nav.addClass("navFix");
+		}
+		else{
+			nav.removeClass("navFix");
+		}
+	})
+	var headHeight2=$(".topimg").height();
+	var nav2=jQuery("#topnavf");
+    jQuery(window).scroll(function(){
+		if($(this).scrollTop()>headHeight2){
+			nav2.addClass("topnavFix");
+		}
+		else{
+			nav2.removeClass("topnavFix");
+		}
+	});
+});
+</script>
+                    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+                    <div class="con24">
+                       <!-- <div class="stitle">
+                            <h3>评论</h3>
+                            <span class="s_f">
+                                <a href="http://bbs.005.tv">D站论坛</a>
+                                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+                            </span>
+<a href="" id="login_1_2" style="float:right;" target="_self">评论前请先登录或注册</a>
+                        </div>-->		
+                        <div style="margin:20px 0; text-align:center;">
+                           
+ <!--UY BEGIN 
+                            <div id="uyan_frame"></div>
+                            <div id="SOHUCS" sid="www_dilidili_com_t2450"></div> 
+                            <script>
+                                document.write("<link rel=\"stylesheet\" href=\"http://static.jfrft.com/css/cy.css\"\/>");
+                            </script>
+                            <script type="text/javascript"> (function(){ var appid = 'cyrWI9WPo'; var conf = 'eea24c2162fe79b36d73e420792de754'; var width = window.innerWidth || document.documentElement.clientWidth; if (width < 960) { window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>'); } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("http://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
+                            <!--UY END -->
+
+<link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='613388' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+				<script type="text/javascript" src="http://www.dilidili.wang/templets/default/zuixingengxin2.htm"></script>
+                <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+            </div>
+			<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>				
+		</div>
+        <div class="fc_black"></div>
+<input type='hidden' value='613388' id='bbs_tid' name='bbs_tid'>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/muban/js/w234.js"></script>
+<script>
+	var hre=window.encodeURIComponent(window.location.href);
+	var ahre="http://usr.005.tv?refurl="+hre;
+	$("#login_1_2").attr("href",ahre); 
+</script>
+	</body>
+</html>

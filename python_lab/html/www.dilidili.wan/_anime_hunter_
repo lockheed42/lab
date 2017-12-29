@@ -1,0 +1,1888 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="utf-8">
+    <title>全职猎人重制版分集剧情介绍（全148集）-  在线&下载 - 嘀哩嘀哩</title>
+    <meta name="keywords" content="全职猎人重制版" />
+    <meta name="description" content="住在鲸鱼岛的少年-小杰​​，他的梦想就是要像父亲一样成为一名「猎人」。向分散在这个世界各角落的财宝、秘宝、珍品、珍兽…及「未知」赌上性命挑战，决心要成为全职猎人而踏上旅途……" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <script src="http://static.jfrft.com/js/uaredirect.js"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/hunter/");</script>
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/hunter/"/>
+    <link rel="canonical" href="http://www.dilidili.wang/anime/hunter/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/hunter/" >
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+    <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+    <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js" defer></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+    <script>
+        jQuery(function(){
+            new jbCollect('a._collect', '#content1');
+        });
+    </script>
+    <base target="_blank">
+    <style>
+    </style>
+</head>
+<body>
+<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201707/" target="_blank">七月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+
+<div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>全职猎人（2011）</a></div>
+<div class="aside_cen2">
+    <div class="detail con24 clear">
+        <dl>
+            <dt><img src="http://static.jfrft.com/images/cover/4000.jpg" alt="全职猎人重制版分集剧情介绍（全148集）"/></dt>
+            <dd>
+                <h1>全职猎人重制版分集剧情介绍（全148集）</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="全职猎人重制版分集剧情介绍（全148集）" data-url="http://www.dilidili.wang/anime/hunter/" data-icon="http://static.jfrft.com/images/cover/4000.jpg"><span>收藏</span></a></div><br/>
+                <span class="play_cs">播放次数:<script src="http://www.dilidili.wang/plus/countlist.php?view=yes&aid=8&mid=" type='text/javascript' language="javascript"></script></span>
+                <p><div class="d_label"><b>地区：</b><a href="/riyu/" title="日本动漫">日本</a></div><div class="d_label"><b>年代：</b><a href="/anime/201110/" title="2011年10月新番">2011年10月</a></div></p>
+                <p><div class="d_label"><b>标签：</b>动作|冒险|童年|热血</div><div class="d_label"><b>状态：</b>完结</div></p>
+                <p><div class="d_label2"><b>看点：</b>赌上性命的冒险开始了！</div></p>
+                <p><div class="d_label2"><b>简介：</b>住在鲸鱼岛的少年-小杰​​，他的梦想就是要像父亲一样成为一名「猎人」。向分散在这个世界各角落的财宝、秘宝、珍品、珍兽…及「未知」赌上性命挑战，决心要成为全职猎人而踏上旅途……</div></p>
+                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('全职猎人重制版分集剧情介绍（全148集）','','','http://www.dilidili.wang/anime/hunter/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                <p>
+                <div class="button_bar">
+                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>
+                    
+                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                </div>
+                </p>
+            </dd>
+        </dl>
+    </div>
+    <div class="con24 m-10 xf_news">
+        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+        </div>
+        <div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+        <div class="time_pic list">
+            <div class="time_con">
+                <div class="swiper-container xfswiper1">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul class="clear">
+                                <li><a href="http://www.dilidili.wang/watch/4001/" target="_self"><em><span>第1话</span>全职猎人（2011） 第1话「旅程×与×同伴」</em></a></li><li><a href="http://www.dilidili.wang/watch/4002/" target="_self"><em><span>第2话</span>全职猎人（2011） 第2话「试验×试验」</em></a></li><li><a href="http://www.dilidili.wang/watch/4003/" target="_self"><em><span>第3话</span>全职猎人（2011） 第3话「对手×幸存者」</em></a></li><li><a href="http://www.dilidili.wang/watch/4004/" target="_self"><em><span>第4话</span>全职猎人（2011） 第4话「希望×野心」</em></a></li><li><a href="http://www.dilidili.wang/watch/4005/" target="_self"><em><span>第5话</span>全职猎人（2011） 第5话「西索×悄悄接近」</em></a></li><li><a href="http://www.dilidili.wang/watch/4006/" target="_self"><em><span>第6话</span>全职猎人（2011） 第6话「意外×的×课题」</em></a></li><li><a href="http://www.dilidili.wang/watch/4007/" target="_self"><em><span>第7话</span>全职猎人（2011） 第7话「飞行船×的×决赛」</em></a></li><li><a href="http://www.dilidili.wang/watch/4008/" target="_self"><em><span>第8话</span>全职猎人（2011） 第8话「少数×服从×多数」</em></a></li><li><a href="http://www.dilidili.wang/watch/4009/" target="_self"><em><span>第9话</span>全职猎人（2011） 第9话「小心×囚犯」</em></a></li><li><a href="http://www.dilidili.wang/watch/4010/" target="_self"><em><span>第10话</span>全职猎人（2011） 第10话「欺敌×的×契机」</em></a></li><li><a href="http://www.dilidili.wang/watch/4011/" target="_self"><em><span>第11话</span>全职猎人（2011） 第11话「赌博×产生的×麻烦」</em></a></li><li><a href="http://www.dilidili.wang/watch/4012/" target="_self"><em><span>第12话</span>全职猎人（2011） 第12话「最后×的×觉悟」</em></a></li><li><a href="http://www.dilidili.wang/watch/4013/" target="_self"><em><span>第13话</span>全职猎人（2011） 第13话「小杰×寄来的×信」</em></a></li><li><a href="http://www.dilidili.wang/watch/4014/" target="_self"><em><span>第14话</span>全职猎人（2011） 第14话「命中×猎物」</em></a></li><li><a href="http://www.dilidili.wang/watch/4015/" target="_self"><em><span>第15话</span>全职猎人（2011） 第15话「尔虞我诈×的×争夺战」</em></a></li><li><a href="http://www.dilidili.wang/watch/4016/" target="_self"><em><span>第16话</span>全职猎人（2011） 第16话「败北×与×屈辱」</em></a></li><li><a href="http://www.dilidili.wang/watch/4017/" target="_self"><em><span>第17话</span>全职猎人（2011） 第17话「洞窟×陷阱」</em></a></li><li><a href="http://www.dilidili.wang/watch/4018/" target="_self"><em><span>第18话</span>全职猎人（2011） 第18话「重要×的×面试」</em></a></li><li><a href="http://www.dilidili.wang/watch/4019/" target="_self"><em><span>第19话</span>全职猎人（2011） 第19话「打不赢×也×不认输」</em></a></li><li><a href="http://www.dilidili.wang/watch/4020/" target="_self"><em><span>第20话</span>全职猎人（2011） 第20话「难以理解×的×发展」</em></a></li><li><a href="http://www.dilidili.wang/watch/4021/" target="_self"><em><span>第21话</span>全职猎人（2011） 第21话「兄弟间×的×问题」</em></a></li><li><a href="http://www.dilidili.wang/watch/4022/" target="_self"><em><span>第22话</span>全职猎人（2011） 第22话「危险×的×看门狗」</em></a></li><li><a href="http://www.dilidili.wang/watch/4023/" target="_self"><em><span>第23话</span>全职猎人（2011） 第23话「守卫×的×责任」</em></a></li><li><a href="http://www.dilidili.wang/watch/4024/" target="_self"><em><span>第24话</span>全职猎人（2011） 第24话「揍敌客×家族」</em></a></li><li><a href="http://www.dilidili.wang/watch/4025/" target="_self"><em><span>第25话</span>全职猎人（2011） 第25话「看不到×就×见不到」</em></a></li><li><a href="http://www.dilidili.wang/watch/4026/" target="_self"><em><span>第26话</span>全职猎人（2011） 第26话「从那之后×跟×接下来」</em></a></li><li><a href="http://www.dilidili.wang/watch/4027/" target="_self"><em><span>第27话</span>全职猎人（2011） 第27话「登上×斗技场」</em></a></li><li><a href="http://www.dilidili.wang/watch/4028/" target="_self"><em><span>第28话</span>全职猎人（2011） 第28话「念×与×燃」</em></a></li><li><a href="http://www.dilidili.wang/watch/4029/" target="_self"><em><span>第29话</span>全职猎人（2011） 第29话「觉醒×跟×可能性」</em></a></li><li><a href="http://www.dilidili.wang/watch/4030/" target="_self"><em><span>第30话</span>全职猎人（2011） 第30话「激烈战斗×与×纠葛」</em></a></li><li><a href="http://www.dilidili.wang/watch/4031/" target="_self"><em><span>第31话</span>全职猎人（2011） 第31话「因缘×与×执着」</em></a></li><li><a href="http://www.dilidili.wang/watch/4032/" target="_self"><em><span>第32话</span>全职猎人（2011） 第32话「惊奇×的×胜利」</em></a></li><li><a href="http://www.dilidili.wang/watch/4033/" target="_self"><em><span>第33话</span>全职猎人（2011） 第33话「肤浅×的×威胁」</em></a></li><li><a href="http://www.dilidili.wang/watch/4034/" target="_self"><em><span>第34话</span>全职猎人（2011） 第34话「凭实力×雪耻」</em></a></li><li><a href="http://www.dilidili.wang/watch/4035/" target="_self"><em><span>第35话</span>全职猎人（2011） 第35话「确实×的×合格」</em></a></li><li><a href="http://www.dilidili.wang/watch/4036/" target="_self"><em><span>第36话</span>全职猎人（2011） 第36话「大大的人情×与×小小一踢」</em></a></li><li><a href="http://www.dilidili.wang/watch/4037/" target="_self"><em><span>第37话</span>全职猎人（2011） 第37话「金×与×小杰」</em></a></li><li><a href="http://www.dilidili.wang/watch/4038/" target="_self"><em><span>第38话</span>全职猎人（2011） 第38话「老爸×的×答覆」</em></a></li><li><a href="http://www.dilidili.wang/watch/4039/" target="_self"><em><span>第39话</span>全职猎人（2011） 第39话「愿望×跟×誓言」</em></a></li><li><a href="http://www.dilidili.wang/watch/4040/" target="_self"><em><span>第40话</span>全职猎人（2011） 第40话「念能力者×是×协力者」</em></a></li><li><a href="http://www.dilidili.wang/watch/4041/" target="_self"><em><span>第41话</span>全职猎人（2011） 第41话「豪杰×齐聚」</em></a></li><li><a href="http://www.dilidili.wang/watch/4042/" target="_self"><em><span>第42话</span>全职猎人（2011） 第42话「防守×与×攻击」</em></a></li><li><a href="http://www.dilidili.wang/watch/4043/" target="_self"><em><span>第43话</span>全职猎人（2011） 第43话「冲击×的×惨剧」</em></a></li><li><a href="http://www.dilidili.wang/watch/4044/" target="_self"><em><span>第44话</span>全职猎人（2011） 第44话「激战×的×伏笔」</em></a></li><li><a href="http://www.dilidili.wang/watch/4045/" target="_self"><em><span>第45话</span>全职猎人（2011） 第45话「拘束×与×约束」</em></a></li><li><a href="http://www.dilidili.wang/watch/4046/" target="_self"><em><span>第46话</span>全职猎人（2011） 第46话「追迹者×跟×等待之人」</em></a></li><li><a href="http://www.dilidili.wang/watch/4047/" target="_self"><em><span>第47话</span>全职猎人（2011） 第47话「制约×与×誓约」</em></a></li><li><a href="http://www.dilidili.wang/watch/4048/" target="_self"><em><span>第48话</span>全职猎人（2011） 第48话「利眼×的×眼力」</em></a></li><li><a href="http://www.dilidili.wang/watch/4049/" target="_self"><em><span>第49话</span>全职猎人（2011） 第49话「追踪×加×分析」</em></a></li><li><a href="http://www.dilidili.wang/watch/4050/" target="_self"><em><span>第50话</span>全职猎人（2011） 第50话「伙伴×与×刀」</em></a></li><li><a href="http://www.dilidili.wang/watch/4051/" target="_self"><em><span>第51话</span>全职猎人（2011） 第51话「残酷×的×战场」</em></a></li><li><a href="http://www.dilidili.wang/watch/4052/" target="_self"><em><span>第52话</span>全职猎人（2011） 第52话「袭击×与×冲击」</em></a></li><li><a href="http://www.dilidili.wang/watch/4053/" target="_self"><em><span>第53话</span>全职猎人（2011） 第53话「伪装×的×假象」</em></a></li><li><a href="http://www.dilidili.wang/watch/4054/" target="_self"><em><span>第54话</span>全职猎人（2011） 第54话「失准×的×占卜」</em></a></li><li><a href="http://www.dilidili.wang/watch/4055/" target="_self"><em><span>第55话</span>全职猎人（2011） 第55话「同伴×与×作假」</em></a></li><li><a href="http://www.dilidili.wang/watch/4056/" target="_self"><em><span>第56话</span>全职猎人（2011） 第56话「最爱×与×最糟」</em></a></li><li><a href="http://www.dilidili.wang/watch/4057/" target="_self"><em><span>第57话</span>全职猎人（2011） 第57话「抢先×与×规定」</em></a></li><li><a href="http://www.dilidili.wang/watch/4058/" target="_self"><em><span>第58话</span>全职猎人（2011） 第58话「结束×的×理由」</em></a></li><li><a href="http://www.dilidili.wang/watch/4059/" target="_self"><em><span>第59话</span>全职猎人（2011） 第59话「竞标×与×焦躁」</em></a></li><li><a href="http://www.dilidili.wang/watch/4060/" target="_self"><em><span>第60话</span>全职猎人（2011） 第60话「定案×与×开始」</em></a></li><li><a href="http://www.dilidili.wang/watch/4061/" target="_self"><em><span>第61话</span>全职猎人（2011） 第61话「延揽×与×挚友」</em></a></li><li><a href="http://www.dilidili.wang/watch/4062/" target="_self"><em><span>第62话</span>全职猎人（2011） 第62话「现实×与×原石」</em></a></li><li><a href="http://www.dilidili.wang/watch/4063/" target="_self"><em><span>第63话</span>全职猎人（2011） 第63话「师父×很×无情」</em></a></li><li><a href="http://www.dilidili.wang/watch/4064/" target="_self"><em><span>第64话</span>全职猎人（2011） 第64话「许可×与×恐吓」</em></a></li><li><a href="http://www.dilidili.wang/watch/4065/" target="_self"><em><span>第65话</span>全职猎人（2011） 第65话「邪拳×与×猜拳」</em></a></li><li><a href="http://www.dilidili.wang/watch/4066/" target="_self"><em><span>第66话</span>全职猎人（2011） 第66话「攻略×与×策略」</em></a></li><li><a href="http://www.dilidili.wang/watch/4067/" target="_self"><em><span>第67话</span>全职猎人（2011） 第67话「15×与×15」</em></a></li><li><a href="http://www.dilidili.wang/watch/4068/" target="_self"><em><span>第68话</span>全职猎人（2011） 第68话「海盗×与×推测」</em></a></li><li><a href="http://www.dilidili.wang/watch/4069/" target="_self"><em><span>第69话</span>全职猎人（2011） 第69话「热血×对决」</em></a></li><li><a href="http://www.dilidili.wang/watch/4070/" target="_self"><em><span>第70话</span>全职猎人（2011） 第70话「毅力×跟×友情」</em></a></li><li><a href="http://www.dilidili.wang/watch/4071/" target="_self"><em><span>第71话</span>全职猎人（2011） 第71话「谈判×与×交易」</em></a></li><li><a href="http://www.dilidili.wang/watch/4072/" target="_self"><em><span>第72话</span>全职猎人（2011） 第72话「追踪×机会」</em></a></li><li><a href="http://www.dilidili.wang/watch/4073/" target="_self"><em><span>第73话</span>全职猎人（2011） 第73话「凶器×和×正气」</em></a></li><li><a href="http://www.dilidili.wang/watch/4074/" target="_self"><em><span>第74话</span>全职猎人（2011） 第74话「胜者×与×败者」</em></a></li><li><a href="http://www.dilidili.wang/watch/4075/" target="_self"><em><span>第75话</span>全职猎人（2011） 第75话「仁友×和×挚友」</em></a></li><li><a href="http://www.dilidili.wang/watch/4076/" target="_self"><em><span>第76话</span>全职猎人（2011） 第76话「再开×和×理会」</em></a></li><li><a href="http://www.dilidili.wang/watch/4077/" target="_self"><em><span>第77话</span>全职猎人（2011） 第77话「不安×和×出现」</em></a></li><li><a href="http://www.dilidili.wang/watch/4078/" target="_self"><em><span>第78话</span>全职猎人（2011） 第78话「恐怖×的×增殖」</em></a></li><li><a href="http://www.dilidili.wang/watch/4079/" target="_self"><em><span>第79话</span>全职猎人（2011） 第79话「NG×的×NGL」</em></a></li><li><a href="http://www.dilidili.wang/watch/4080/" target="_self"><em><span>第80话</span>全职猎人（2011） 第80话「极恶×与×灾难」</em></a></li><li><a href="http://www.dilidili.wang/watch/4081/" target="_self"><em><span>第81话</span>全职猎人（2011） 第81话「战斗×的×开始」</em></a></li><li><a href="http://www.dilidili.wang/watch/4082/" target="_self"><em><span>第82话</span>全职猎人（2011） 第82话「凯特×的×小丑」</em></a></li><li><a href="http://www.dilidili.wang/watch/4083/" target="_self"><em><span>第83话</span>全职猎人（2011） 第83话「感化×之后的×进化」</em></a></li><li><a href="http://www.dilidili.wang/watch/4084/" target="_self"><em><span>第84话</span>全职猎人（2011） 第84话「命定×的×觉醒」</em></a></li><li><a href="http://www.dilidili.wang/watch/4085/" target="_self"><em><span>第85话</span>全职猎人（2011） 第85话「光×和×影」</em></a></li><li><a href="http://www.dilidili.wang/watch/4086/" target="_self"><em><span>第86话</span>全职猎人（2011） 第86话「誓约×和×重新开始」</em></a></li><li><a href="http://www.dilidili.wang/watch/4087/" target="_self"><em><span>第87话</span>全职猎人（2011） 第87话「决斗×中×逃亡」</em></a></li><li><a href="http://www.dilidili.wang/watch/4088/" target="_self"><em><span>第88话</span>全职猎人（2011） 第88话「猜拳×与×弱点」</em></a></li><li><a href="http://www.dilidili.wang/watch/4089/" target="_self"><em><span>第89话</span>全职猎人（2011） 第89话「温柔×与×强大」</em></a></li><li><a href="http://www.dilidili.wang/watch/4090/" target="_self"><em><span>第90话</span>全职猎人（2011） 第90话「利息×和×诅咒」</em></a></li><li><a href="http://www.dilidili.wang/watch/4152/" target="_self"><em><span>第91话</span>全职猎人（2011） 第91话「强者×与×弱者」</em></a></li><li><a href="http://www.dilidili.wang/watch/4169/" target="_self"><em><span>第92话</span>全职猎人（2011） 第92话「一个愿望×与×两个誓言」</em></a></li><li><a href="http://www.dilidili.wang/watch/4434/" target="_self"><em><span>第93话</span>全职猎人（2011） 第93话「庞姆×和×约会」</em></a></li><li><a href="http://www.dilidili.wang/watch/4599/" target="_self"><em><span>第94话</span>全职猎人（2011） 第94话「朋友×与×启程」</em></a></li><li><a href="http://www.dilidili.wang/watch/4799/" target="_self"><em><span>第95话</span>全职猎人（2011） 第95话「怨恨×和×可怕」</em></a></li><li><a href="http://www.dilidili.wang/watch/4879/" target="_self"><em><span>第96话</span>全职猎人（2011） 第96话「不执法×的×法务人员」</em></a></li><li><a href="http://www.dilidili.wang/watch/4898/" target="_self"><em><span>第97话</span>全职猎人（2011） 第97话「激斗×与×歼灭」</em></a></li><li><a href="http://www.dilidili.wang/watch/4948/" target="_self"><em><span>第98话</span>全职猎人（2011） 第98话「潜入×与×筛选」</em></a></li><li><a href="http://www.dilidili.wang/watch/5094/" target="_self"><em><span>第99话</span>全职猎人（2011） 第99话「配合×和×生物进化」</em></a></li><li><a href="http://www.dilidili.wang/watch/5288/" target="_self"><em><span>第100话</span>全职猎人（2011） 第100话「追缉×就是×追击」</em></a></li><li><a href="http://www.dilidili.wang/watch/5387/" target="_self"><em><span>第101话</span>全职猎人（2011） 第101话「伊加路哥×和×雷神」</em></a></li><li><a href="http://www.dilidili.wang/watch/5553/" target="_self"><em><span>第102话</span>全职猎人（2011） 第102话「能力×和×对弈」</em></a></li><li><a href="http://www.dilidili.wang/watch/5932/" target="_self"><em><span>第103话</span>全职猎人（2011） 第103话「罪×和×黄泉」</em></a></li><li><a href="http://www.dilidili.wang/watch/6042/" target="_self"><em><span>第104话</span>全职猎人（2011） 第104话「迷惑×和×不知所措」</em></a></li><li><a href="http://www.dilidili.wang/watch/6089/" target="_self"><em><span>第105话</span>全职猎人（2011） 第105话「觉悟×和×觉醒」</em></a></li><li><a href="http://www.dilidili.wang/watch/6172/" target="_self"><em><span>第106话</span>全职猎人（2011） 第106话「诺布×和×莫老五」</em></a></li><li><a href="http://www.dilidili.wang/watch/6517/" target="_self"><em><span>第107话</span>全职猎人（2011） 第107话「回归×和×引退」</em></a></li><li><a href="http://www.dilidili.wang/watch/6573/" target="_self"><em><span>第108话</span>全职猎人（2011） 第108话「小麦×和×军仪」</em></a></li><li><a href="http://www.dilidili.wang/watch/6778/" target="_self"><em><span>第109话</span>全职猎人（2011） 第109话「前进开始×所以×行动开始」</em></a></li><li><a href="http://www.dilidili.wang/watch/6887/" target="_self"><em><span>第110话</span>全职猎人（2011） 第110话「困惑×和×念头」</em></a></li><li><a href="http://www.dilidili.wang/watch/7145/" target="_self"><em><span>第111话</span>全职猎人（2011） 第111话「突入×和×侵入」</em></a></li><li><a href="http://www.dilidili.wang/watch/7239/" target="_self"><em><span>第112话</span>全职猎人（2011） 第112话「怪物×对×怪物」</em></a></li><li><a href="http://www.dilidili.wang/watch/7295/" target="_self"><em><span>第113话</span>全职猎人（2011） 第113话「虫子×和×恩惠」</em></a></li><li><a href="http://www.dilidili.wang/watch/7467/" target="_self"><em><span>第114话</span>全职猎人（2011） 第114话「分隔×和×误算」</em></a></li><li><a href="http://www.dilidili.wang/watch/7672/" target="_self"><em><span>第115话</span>全职猎人（2011） 第115话「义务×和×疑问」</em></a></li><li><a href="http://www.dilidili.wang/watch/7830/" target="_self"><em><span>第116话</span>全职猎人（2011） 第116话「复仇×与×修复」</em></a></li><li><a href="http://www.dilidili.wang/watch/7896/" target="_self"><em><span>第117话</span>全职猎人（2011） 第117话「侮辱×和×雪耻」</em></a></li><li><a href="http://www.dilidili.wang/watch/7969/" target="_self"><em><span>第118话</span>全职猎人（2011） 第118话「伪装×的×愤怒」</em></a></li><li><a href="http://www.dilidili.wang/watch/8234/" target="_self"><em><span>第119话</span>全职猎人（2011） 第119话「强×章鱼×弱×章鱼」</em></a></li><li><a href="http://www.dilidili.wang/watch/8319/" target="_self"><em><span>第120话</span>全职猎人（2011） 第120话「假的×和×真的」</em></a></li><li><a href="http://www.dilidili.wang/watch/8379/" target="_self"><em><span>第121话</span>全职猎人（2011） 第121话「败北×和×脸面」</em></a></li><li><a href="http://www.dilidili.wang/watch/8756/" target="_self"><em><span>第122话</span>全职猎人（2011） 第122话「原则×和×名字」</em></a></li><li><a href="http://www.dilidili.wang/watch/9063/" target="_self"><em><span>第123话</span>全职猎人（2011） 第123话「蜈蚣×和×追忆」</em></a></li><li><a href="http://www.dilidili.wang/watch/9143/" target="_self"><em><span>第124话</span>全职猎人（2011） 第124话「溃决×和×觉醒」</em></a></li><li><a href="http://www.dilidili.wang/watch/9232/" target="_self"><em><span>第125话</span>全职猎人（2011） 第125话「武之长处×和×武之短处」</em></a></li><li><a href="http://www.dilidili.wang/watch/9317/" target="_self"><em><span>第126话</span>全职猎人（2011） 第126话「零×和×蔷薇」</em></a></li><li><a href="http://www.dilidili.wang/watch/9374/" target="_self"><em><span>第127话</span>全职猎人（2011） 第127话「敌意×和×决意」</em></a></li><li><a href="http://www.dilidili.wang/watch/9425/" target="_self"><em><span>第128话</span>全职猎人（2011） 第128话「无上的喜悦×和×无偿的爱」</em></a></li><li><a href="http://www.dilidili.wang/watch/9486/" target="_self"><em><span>第129话</span>全职猎人（2011） 第129话「目标×和×目的」</em></a></li><li><a href="http://www.dilidili.wang/watch/9544/" target="_self"><em><span>第130话</span>全职猎人（2011） 第130话「魔法×和×绝望」</em></a></li><li><a href="http://www.dilidili.wang/watch/9598/" target="_self"><em><span>第131话</span>全职猎人（2011） 第131话「愤怒×和×希望」</em></a></li><li><a href="http://www.dilidili.wang/watch/9674/" target="_self"><em><span>第132话</span>全职猎人（2011） 第132话「先攻×和×先动」</em></a></li><li><a href="http://www.dilidili.wang/watch/9758/" target="_self"><em><span>第133话</span>全职猎人（2011） 第133话「生存×的×期限」</em></a></li><li><a href="http://www.dilidili.wang/watch/9838/" target="_self"><em><span>第134话</span>全职猎人（2011） 第134话「一句话×就是×那个人」</em></a></li><li><a href="http://www.dilidili.wang/watch/9890/" target="_self"><em><span>第135话</span>全职猎人（2011） 第135话「这个人×和×这个瞬间」</em></a></li><li><a href="http://www.dilidili.wang/watch/10081/" target="_self"><em><span>第136话</span>全职猎人（2011） 第136话「归乡×和×真名」</em></a></li><li><a href="http://www.dilidili.wang/watch/10144/" target="_self"><em><span>第137话</span>全职猎人（2011） 第137话「十二支×的×争论」</em></a></li><li><a href="http://www.dilidili.wang/watch/10217/" target="_self"><em><span>第138话</span>全职猎人（2011） 第138话「撒娇要求×和×许愿」</em></a></li><li><a href="http://www.dilidili.wang/watch/10274/" target="_self"><em><span>第139话</span>全职猎人（2011） 第139话「阿路加×和×拿尼加」</em></a></li><li><a href="http://www.dilidili.wang/watch/10349/" target="_self"><em><span>第140话</span>全职猎人（2011） 第140话「参选×和×改选」</em></a></li><li><a href="http://www.dilidili.wang/watch/10435/" target="_self"><em><span>第141话</span>全职猎人（2011） 第141话「魔术师×和×执事」</em></a></li><li><a href="http://www.dilidili.wang/watch/10557/" target="_self"><em><span>第142话</span>全职猎人（2011） 第142话「针×和×狩猎」</em></a></li><li><a href="http://www.dilidili.wang/watch/10638/" target="_self"><em><span>第143话</span>全职猎人（2011） 第143话「罪×和×指甲」</em></a></li><li><a href="http://www.dilidili.wang/watch/10722/" target="_self"><em><span>第144话</span>全职猎人（2011） 第144话「裁决×和×喝彩」</em></a></li><li><a href="http://www.dilidili.wang/watch/10778/" target="_self"><em><span>第145话</span>全职猎人（2011） 第145话「完败×和×再会」</em></a></li><li><a href="http://www.dilidili.wang/watch/10938/" target="_self"><em><span>第146话</span>全职猎人（2011） 第146话「会长×和×废除」</em></a></li><li><a href="http://www.dilidili.wang/watch/11058/" target="_self"><em><span>第147话</span>全职猎人（2011） 第147话「拯救×和×未来」</em></a></li><li><a href="http://www.dilidili.wang/watch/11148/" target="_self"><em><span>第148话</span>全职猎人（2011） 第148话「至今为止×和×从今以后」</em></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="playjs swiper-pagination"></div>
+            </div>
+            <div class="time_con">
+                <p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                <div class="swiper-container xfswiper3">
+                    <ul class="clear">
+                        <li class="list_xz">
+                            <a href="http://pan.baidu.com/s/1nvdyTJV" target="_blank">01-148</a>
+                        <li>
+                    </ul>
+                </div>
+            </div>
+            <div class="time_con">
+                <div class="swiper-container swiper4">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul>
+                                <li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4001/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_001.jpg"/>
+                                        <div class="fjjq"><span>第1话</span>全职猎人（2011） 第1话「旅程×与×同伴」<br/>12岁的小杰为了像父亲一样成为猎人，在达成与扶养他长大的米特阿姨的约定后，踏上猎人试验的旅途。在前往试验会场的船上，小杰遇见了同样是要成为猎人的雷欧力跟酷拉皮卡。他们两人互</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4002/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_002.jpg"/>
+                                        <div class="fjjq"><span>第2话</span>全职猎人（2011） 第2话「试验×试验」<br/>抵达试验会场所在地的小杰、雷欧力与酷拉皮卡等三人，照着船长的指示走向通往试验会场的捷径。当走到贫民窟时，有位老婆婆率领了一群人在路上等着他们。老婆婆向他们提问，若是答不出</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4003/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_003.jpg"/>
+                                        <div class="fjjq"><span>第3话</span>全职猎人（2011） 第3话「对手×幸存者」<br/>三人在凶狸狐的带领之下，终于进入试验会场，而会场内也早已经聚集了许多的考生。像是自称试验老手的东巴、散发诡谲氛围的西索、话讲个不停的忍者半藏，以及手持滑板的少年奇犽等。第</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4004/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_004.jpg"/>
+                                        <div class="fjjq"><span>第4话</span>全职猎人（2011） 第4话「希望×野心」<br/>第一次试验的内容就是跟着考官萨茨走到第二次试验会场。在单调又见不到终点的路线上，开始陆续出现脱退者。而跟着酷拉皮卡一起跑的雷欧力虽然也跑得越来越吃力，但基于他对猎人的执着</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4005/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_005.jpg"/>
+                                        <div class="fjjq"><span>第5话</span>全职猎人（2011） 第5话「西索×悄悄接近」<br/>在通过漫长的地下隧道后，出现在考生面前的是浓雾弥漫的湿地地带。由于视线不佳，考生们一直遭到各式各样的怪物袭击。小杰与奇犽跑在前头，但在后方的酷拉​​皮卡跟雷欧力眼前，却看</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4006/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_006.jpg"/>
+                                        <div class="fjjq"><span>第6话</span>全职猎人（2011） 第6话「意外×的×课题」<br/>在与西索对峙之后，小杰等人顺利抵达第二次试验的会场。担任第二次试验考官的门淇与卜哈剌所开出的考题是要考生们做料理。于是考生们为了做出让美食猎人门淇感到满意的料理而努力。究</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4007/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_007.jpg"/>
+                                        <div class="fjjq"><span>第7话</span>全职猎人（2011） 第7话「飞行船×的×决赛」<br/>小杰等人在顺利结束第二次试验后，搭上了前往第三次试验会场的飞行船。小杰与奇犽在飞行船内探险时巧遇尼特罗会长，并与其展开对决。而且明明只是从尼特罗手中抢到球的单纯小游戏，却</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4008/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_008.jpg"/>
+                                        <div class="fjjq"><span>第8话</span>全职猎人（2011） 第8话「少数×服从×多数」<br/>飞行船抵达的目的地是第三次试验会场贱阱塔的顶楼，只要能在72小时之内，活着抵达地面上就算合格。小杰、奇犽、酷拉皮卡与雷欧力等四人好不容易进入塔内，却陷入了必须凑满五个人才能</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4009/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_009.jpg"/>
+                                        <div class="fjjq"><span>第9话</span>全职猎人（2011） 第9话「小心×囚犯」<br/>小杰等人必须在四场比赛中赢得三场才行。而在第二场时，小杰面临到的比赛是只要让蜡烛的火先熄灭的人就输。却没想到，小杰拿的蜡烛上暗藏玄机。而下一场酷拉皮卡要和连续杀人犯──喳</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4010/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_010.jpg"/>
+                                        <div class="fjjq"><span>第10话</span>全职猎人（2011） 第10话「欺敌×的×契机」<br/>本以为在小杰与酷拉皮卡取胜，比数变成二胜一败时，敌人却主张喳唬只是昏过去而已，跟酷拉皮卡之间并没有分出胜负。相对于不愿意给予喳唬最后一击的酷拉皮卡，雷欧力却因为焦虑而显得</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4011/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_011.jpg"/>
+                                        <div class="fjjq"><span>第11话</span>全职猎人（2011） 第11话「赌博×产生的×麻烦」<br/>雷欧力跟对方进行的是比剩余时间为筹码的赌局。一回神，雷欧力的筹码竟然只剩下10小时。被逼到无路可退的雷欧力所选的方式是猜拳。雷欧力虽然信心十足，在心理战上却完全败给了对手。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4012/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_012.jpg"/>
+                                        <div class="fjjq"><span>第12话</span>全职猎人（2011） 第12话「最后×的×觉悟」<br/>五个人各自度过50小时的等待时间。就在再度前进，以表决克服了重重难关后，就在时间大概只剩1个小时的时候，众人的眼前出现了两扇门。一条是可以五人通行的艰苦远路，另一条则是只能三</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4013/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_013.jpg"/>
+                                        <div class="fjjq"><span>第13话</span>全职猎人（2011） 第13话「小杰×寄来的×信」<br/>扶养小杰长大的米特一直很担心去参加猎人试验的小杰。就在这时候，米特收到小杰寄来的信，内容提到自在猎人试验一路上所经历的事情、认识的同伴等，还有目前突破的难关。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4014/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_014.jpg"/>
+                                        <div class="fjjq"><span>第14话</span>全职猎人（2011） 第14话「命中×猎物」<br/>前往第四次试验考场──赛比掳岛的考生们，在那里所面临到的试验内容，是自己所抽中的号码牌有3分、自己的号码牌也是3分，除此之外的全都是1分，考生必须在一个星期内凑满6分，这样就</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4015/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_015.jpg"/>
+                                        <div class="fjjq"><span>第15话</span>全职猎人（2011） 第15话「尔虞我诈×的×争夺战」<br/>小杰藉由好血蝶找出他的猎物──西索，并且在一旁企图以拿手的钓竿伺机抢夺西索的号码牌。而另一方面，雷欧力虽被东巴所骗，连号码牌都被抢走了，但在酷拉皮卡相助之下成功夺回。在得</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4016/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_016.jpg"/>
+                                        <div class="fjjq"><span>第16话</span>全职猎人（2011） 第16话「败北×与×屈辱」<br/>酷拉皮卡与雷欧力虽然被西索锁定，但在交涉之后，得以免于一战。不过，无法抑制杀气的西索还是继续寻找下个目标。就在西索攻击目标的一瞬间，小杰成功以钓竿抢到了西索的号码牌，没想</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4017/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_017.jpg"/>
+                                        <div class="fjjq"><span>第17话</span>全职猎人（2011） 第17话「洞窟×陷阱」<br/>奇犽与尾随他的伊目礼战斗，轻而易举地就胜利了。另一方面，小杰与雷欧力跟酷拉皮卡会合，为了抢夺雷欧力的目标－－彭丝的​​号码牌而拟定计画。三人循着彭丝的气息来到可疑的洞窟，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4018/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_018.jpg"/>
+                                        <div class="fjjq"><span>第18话</span>全职猎人（2011） 第18话「重要×的×面试」<br/>小杰等人在洞窟当中被毒蛇团团围住，但布下毒蛇陷阱的疤彭却早已经死亡，无法解除毒蛇的包围，而被毒蛇咬伤的雷欧力，情况不断在恶化。后来，小杰总算是顺利通过试验了，但在进行下个</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4019/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_019.jpg"/>
+                                        <div class="fjjq"><span>第19话</span>全职猎人（2011） 第19话「打不赢×也×不认输」<br/>小杰一行人终于来到最终试验，最终试验是赢的人就能先合格的淘汰赛！在杀了对手即失去资格的规则下，进行的第一场比赛始小杰vs半藏。虽然小杰对半藏毫无招架之力，却也没有认输的打算</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4020/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_020.jpg"/>
+                                        <div class="fjjq"><span>第20话</span>全职猎人（2011） 第20话「难以理解×的×发展」<br/>小杰在与半藏的决斗中被折断了手，等他在病房醒过来时，萨茨便告知他已经通过试验的事。但听到唯一的淘汰者是奇犽时，难以置信的小杰从萨茨口中得知奇犽在跟哥哥－－伊耳谜决斗时的状</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4021/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_021.jpg"/>
+                                        <div class="fjjq"><span>第21话</span>全职猎人（2011） 第21话「兄弟间×的×问题」<br/>如果奇犽是被迫成为杀手就绝不原谅──对伊耳谜怒气大发的小杰，为了带回奇犽而决定前往枯枯戮山。而萨茨在目送小杰一行人离开的同时，口中还喃喃说着：「猎人试验还没有结束」……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4022/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_022.jpg"/>
+                                        <div class="fjjq"><span>第22话</span>全职猎人（2011） 第22话「危险×的×看门狗」<br/>小杰、雷欧力跟酷拉皮卡在抵达巴托奇亚共和国后，搭乘观光巴士前往枯枯戮山，却被城墙般的正门给阻挡在外。若是从旁边守卫走的小门进入也会被看门狗给咬死。即使如此，无论如何都要见</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4023/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_023.jpg"/>
+                                        <div class="fjjq"><span>第23话</span>全职猎人（2011） 第23话「守卫×的×责任」<br/>小杰一行人为了见到奇犽而选鹅从「试炼之门」进入，并为了打开门而在佣人的房间锻炼身体。另一方面，奇犽得知小杰等人前来见他。小杰、雷欧力ㄍ酷拉皮卡虽发挥特训的成果开门进到里面</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4024/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_024.jpg"/>
+                                        <div class="fjjq"><span>第24话</span>全职猎人（2011） 第24话「揍敌客×家族」<br/>小杰等人受到心系奇犽的卡娜莉亚协助而来到宅邸了。可是却从奇曲的口中听到奇犽由于在独居房当中，所以不能见面的讯息。而此时，席巴找奇犽过去，问他「想跟朋友见面吗？」老实回答想</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4025/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_025.jpg"/>
+                                        <div class="fjjq"><span>第25话</span>全职猎人（2011） 第25话「看不到×就×见不到」<br/>小杰等人在卡娜莉亚的带路下抵达管家室。在那里遇见的管家梧桐提意用掷硬币来评断小杰究竟适不适合当奇犽的朋友。获得胜利，顺利与奇犽重逢的小杰，又将迈向下个新目标……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4026/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_026.jpg"/>
+                                        <div class="fjjq"><span>第26话</span>全职猎人（2011） 第26话「从那之后×跟×接下来」<br/>在顺利将奇犽带出揍敌客家后，酷拉皮卡、雷欧力与小杰跟奇犽在约定好9月1日友克鑫市再会后而暂时道别了。正愁着不知该往何处去时，奇犽提意到天空斗技场修行，同时赚取旅费。而在前往</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4027/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_027.jpg"/>
+                                        <div class="fjjq"><span>第27话</span>全职猎人（2011） 第27话「登上×斗技场」<br/>小杰与奇犽开始在越往上爬就越能跟强者战斗的天空斗技场修行兼赚钱，并且遇见了一个从1楼立刻升上20楼的同年纪的少年──智喜。在和全身充满破绽的智喜对战当中，奇犽对于智喜企图使出</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4028/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_028.jpg"/>
+                                        <div class="fjjq"><span>第28话</span>全职猎人（2011） 第28话「念×与×燃」<br/>智喜的师父－－云古，让小杰与奇犽得知名为『燃』的存在。但奇犽对于云古所阐述的说明却持疑。就这么还没掌握到其中隐藏的秘密时，不断比赛的两人终于抵达200楼级……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4029/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_029.jpg"/>
+                                        <div class="fjjq"><span>第29话</span>全职猎人（2011） 第29话「觉醒×跟×可能性」<br/>为了突破在200楼等着的西索布下的『念』壁，小杰与奇犽拜托云古无论如何都要让他们能发动念。眼看着选手登记的时限步步逼近，小杰与奇犽开始进行『念』的基础要素「四大行」之一－－『</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4030/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_030.jpg"/>
+                                        <div class="fjjq"><span>第30话</span>全职猎人（2011） 第30话「激烈战斗×与×纠葛」<br/>小杰在天空斗技场200楼级的初战对​​上了念能力者－－疾斗。小杰虽然发动着『缠』一边战斗，但在能够随意操纵念力陀螺的疾斗面前，还是只能拼命防守。被逼到穷途末路的小杰不断思考该</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4031/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_031.jpg"/>
+                                        <div class="fjjq"><span>第31话</span>全职猎人（2011） 第31话「因缘×与×执着」<br/>在小杰身负重伤后又过了1个月，西索与华石斗郎即将要在天空斗技场进行比赛。由于华石斗郎曾让西索倒地，这次也发出了「不会赢就不会比赛」的自信宣言。但西索始终是面带着微笑参加比</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4032/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_032.jpg"/>
+                                        <div class="fjjq"><span>第32话</span>全职猎人（2011） 第32话「惊奇×的×胜利」<br/>华石斗郎以能做出自己分身的念能力顺利进行比赛，并成功废掉西索的手臂。但即使如此，西索的神情依旧泰若自得，丝毫不受影响。接着，西索开始展开反击……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4033/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_033.jpg"/>
+                                        <div class="fjjq"><span>第33话</span>全职猎人（2011） 第33话「肤浅×的×威胁」<br/>小杰与奇犽在2个月后，再度开始修练念。此时，疾斗、杀大索跟狸狈多三人又出现在他们眼前，并要求小杰、奇犽跟他们比赛。知道他们三人的企图，小杰跟奇犽都拒绝了他们的要求，但从杀</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4034/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_034.jpg"/>
+                                        <div class="fjjq"><span>第34话</span>全职猎人（2011） 第34话「凭实力×雪耻」<br/>面临与疾斗、狸狈多比赛的小杰，将他们利用智喜的怒气收在心里，迎接比赛。小杰不但将疾斗所有招式给接下来，甚至还压倒性地赢得胜利。看着小杰的成长，西索脸上露出一抹诡异的笑容。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4035/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_035.jpg"/>
+                                        <div class="fjjq"><span>第35话</span>全职猎人（2011） 第35话「确实×的×合格」<br/>为了学会念能力的集大成－－发，小杰与奇犽更加努力修练。而小杰为了要还当初在猎人试验中欠下的人情，于是决定跟西索交手。为了揍西索脸部一击重拳，再把号码牌还给他，小杰与西索的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4036/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_036.jpg"/>
+                                        <div class="fjjq"><span>第36话</span>全职猎人（2011） 第36话「大大的人情×与×小小一踢」<br/>击中西索一击的小杰，把西索在猎人试验中拿给他的号码牌还给了西索。看到小杰显著的成长而感到兴奋不已的西索，甚至还使出了自己的念能力攻击小杰。体会到难以言喻的恐怖，小杰决定使</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4037/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_037.jpg"/>
+                                        <div class="fjjq"><span>第37话</span>全职猎人（2011） 第37话「金×与×小杰」<br/>小杰在学会念能力后，终于成为真正的猎人一员，并带着奇犽回到鲸鱼岛。这时候，米特交给小杰一个盒子，据说是金当年请她转交而托付给她的。但是，不管用再大的力气都打不开那个盒子…</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4038/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_038.jpg"/>
+                                        <div class="fjjq"><span>第38话</span>全职猎人（2011） 第38话「老爸×的×答覆」<br/>小杰打开金所留下的盒子，听了里面的录音带，里头传出的是金的声音。没想到，只要一停止播放，录音带就自己复写，把原本录进的内容给消除了！于是，金所留下的线索，就只剩戒指跟游戏</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4039/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_039.jpg"/>
+                                        <div class="fjjq"><span>第39话</span>全职猎人（2011） 第39话「愿望×跟×誓言」<br/>幻影旅团……是酷拉皮卡憎恨的对象，在5年前的那一天，亲人、朋友，还有『火红眼』……一切全被旅团给夺走了。酷拉皮卡立誓要拿回族人们的『眼球』，将旅团打入地狱深处。酷拉皮卡的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4040/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_040.jpg"/>
+                                        <div class="fjjq"><span>第40话</span>全职猎人（2011） 第40话「念能力者×是×协力者」<br/>造访人体收藏家宅邸的酷拉皮卡等5人受到神秘的武装集团袭击。酷拉皮卡陆续击退袭击者，冷静查探四周的状况时，发现到一个行迹可疑的人……另一方面，小杰等人也为了金所留下的线索『</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4041/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_041.jpg"/>
+                                        <div class="fjjq"><span>第41话</span>全职猎人（2011） 第41话「豪杰×齐聚」<br/>世界最大的拍卖会即将在巨大都市友克鑫举行。幻影旅团团员在团长库洛洛的召集之下在这都市集合。在库洛洛告知这次行动的目的后，拍卖会即将开始，杀戮的强盗集团即将开始行动!!</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4042/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_042.jpg"/>
+                                        <div class="fjjq"><span>第42话</span>全职猎人（2011） 第42话「防守×与×攻击」<br/>拍卖会第一天终于到来。小杰、奇犽与雷欧力为了筹措标下『Greed Island』的资金而四处奔走，酷拉皮卡则是负责监视拍卖会会场的动静。此时，幻影旅团正悄悄潜入拍卖会场。所有人的命运在友</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4043/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_043.jpg"/>
+                                        <div class="fjjq"><span>第43话</span>全职猎人（2011） 第43话「冲击×的×惨剧」<br/>幻影旅团袭击了黑帮所举办的地下拍卖会会场。整个会场被完全压制住，别说是拍卖品，就连参加拍卖的人都全部消失了。于是黑帮给予奖金，通缉袭击会场的人。就连负责守备的酷拉皮卡也跟</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4044/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_044.jpg"/>
+                                        <div class="fjjq"><span>第44话</span>全职猎人（2011） 第44话「激战×的×伏笔」<br/>黑帮的最终王牌阴兽企图歼灭窝金等人。但窝金一个人便陆续打倒了阴兽成员。在这场战斗中，窝金无意露出背后的蜘蛛刺青！面对寻找已久的幻影旅团成员，酷拉皮卡决定放手一搏……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4045/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_045.jpg"/>
+                                        <div class="fjjq"><span>第45话</span>全职猎人（2011） 第45话「拘束×与×约束」<br/>酷拉皮卡终于抓到幻影旅团中的其中一人－－窝金。然而，窝金即使在被拘束的状态下，仍不改其蛮横的态度，住使得酷拉皮卡对窝近的憎恨更加高涨。此时，酷拉皮卡收到西索传来的简讯……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4046/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_046.jpg"/>
+                                        <div class="fjjq"><span>第46话</span>全职猎人（2011） 第46话「追迹者×跟×等待之人」<br/>窝金在同伴的帮助下逃了出来。但是，自尊心受伤的愤怒下，窝金为了打倒酷拉皮卡而开始寻找起他的下落。得知藏身处已经被幻影旅团发现，酷拉皮卡让老板到安全的地方避难后，独自一人等</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4047/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_047.jpg"/>
+                                        <div class="fjjq"><span>第47话</span>全职猎人（2011） 第47话「制约×与×誓约」<br/>酷拉皮卡终于和杀害窟卢塔族同胞的幻影旅团成员窝金面对面。然而，窝金却​​对窟卢塔族一点印象都没有，使得酷拉皮卡感到十分愤怒。于是，酷拉皮卡看窝金一对一的决斗终于揭开了序幕</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4048/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_048.jpg"/>
+                                        <div class="fjjq"><span>第48话</span>全职猎人（2011） 第48话「利眼×的×眼力」<br/>为了得到贪婪之岛，小杰、奇犽和雷欧力为了筹钱而四处奔走。就在这时，小杰想到了在古董市集寻找值钱物品这个方法。他们想要用低价买进、高价卖出，谁知道他们看上的东西都被人捷足先</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4049/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_049.jpg"/>
+                                        <div class="fjjq"><span>第49话</span>全职猎人（2011） 第49话「追踪×加×分析」<br/>小杰等人想用旅团的悬赏金一口气筹到钱。 同一时间，玛奇和信长对窝金迟迟未归一事心生疑惑，于是为了寻找锁链小子而现身在人群中。 为了打听旅团的情报，小杰和奇犽小心翼翼跟在他们</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4050/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_050.jpg"/>
+                                        <div class="fjjq"><span>第50话</span>全职猎人（2011） 第50话「伙伴×与×刀」<br/>小杰和奇犽双双被幻影旅团抓走了。 旅团向他们追问有关锁链小子的事，而不知道锁链小子就是酷拉皮卡的两人自然无从回答，眼看就要获得释放，没想到信长却为了要向团长推荐他们入团而</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4051/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_051.jpg"/>
+                                        <div class="fjjq"><span>第51话</span>全职猎人（2011） 第51话「残酷×的×战场」<br/>为了歼灭旅团，黑帮召集了酷拉皮卡等人组织杀手部队。 另一方面，独缺酷拉皮卡一人的诺斯拉护卫团则是在照顾妮翁，却没想到才一没注意，妮翁就为了参加拍卖会而趁机逃走了。 而此时跟</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4052/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_052.jpg"/>
+                                        <div class="fjjq"><span>第52话</span>全职猎人（2011） 第52话「袭击×与×冲击」<br/>为了替同伴报仇，幻影旅团潜入了设有拍卖会会场的大楼。 十老头所召集的杀手们逐一被团长库洛洛给撂倒。 就在会场内不平静的气氛之下，传说中的暗杀者一族－－揍敌客家的桀诺跟席巴开</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4053/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_053.jpg"/>
+                                        <div class="fjjq"><span>第53话</span>全职猎人（2011） 第53话「伪装×的×假象」<br/>幻影旅团的团长已死…酷拉皮卡因这突如其来的情报感到错愕，对于这消息难以置信的他，甚至还跑当现场亲眼确认…另一方面，照原定计画举办的拍卖会上，竟然出现了应该已丧命的旅团成员</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4054/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_054.jpg"/>
+                                        <div class="fjjq"><span>第54话</span>全职猎人（2011） 第54话「失准×的×占卜」<br/>小杰、奇犽、酷拉皮卡跟雷欧力等四人久违地齐聚一堂。 酷拉皮卡将之前发生的事，以及自己念能力的特殊性告诉其他人。 在听了酷拉皮卡的话后，奇犽回想起旅团的幸存者中有个能读取他人</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4055/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_055.jpg"/>
+                                        <div class="fjjq"><span>第55话</span>全职猎人（2011） 第55话「同伴×与×作假」<br/>西索因库洛洛的占卜而蒙上出卖团员的嫌疑。 对于西索为了跟库洛洛一战而不惜窜改占卜内容的赌注，库洛洛将会…？ 而得知旅团还活着的酷拉皮卡跟小杰等人合作，进行捕捉派克诺妲的计画</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4056/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_056.jpg"/>
+                                        <div class="fjjq"><span>第56话</span>全职猎人（2011） 第56话「最爱×与×最糟」<br/>库洛洛试图从妮翁的本性去找出链子杀手－－酷拉皮卡的所在地。 另一方面，监视着幻影旅团基地的奇犽跟旋律会合，察觉到旅团正朝着酷拉皮卡所在的饭店前进。 彼此追查对方的旅团跟酷拉</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4057/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_057.jpg"/>
+                                        <div class="fjjq"><span>第57话</span>全职猎人（2011） 第57话「抢先×与×规定」<br/>幻影旅团终于知道酷拉皮卡就是打倒窝金的人。 迟早旅团也会知道被他们抓到的小杰跟奇犽其实是酷拉皮卡同伴!?库洛洛带着小杰等人在旅馆大厅与派克诺妲等人碰面。 突如其来的停电，小杰</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4058/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_058.jpg"/>
+                                        <div class="fjjq"><span>第58话</span>全职猎人（2011） 第58话「结束×的×理由」<br/>酷拉皮卡抓到了库洛洛，并以释放小杰与奇犽为条件跟派克诺妲交涉。 眼看着旅团团长就在眼前，酷拉皮卡难掩心中的动摇。 究竟酷拉皮卡所采取的报复是…与旅团间的战斗终于迎向终幕了。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4059/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_059.jpg"/>
+                                        <div class="fjjq"><span>第59话</span>全职猎人（2011） 第59话「竞标×与×焦躁」<br/>寻找金的线索－－游戏软体贪婪之岛的拍卖终于开始了。 小杰与奇犽虽然希望能以玩家的身分让标下贪婪的岛的买家雇用，但对方认为他们两人的实力不足而拒于门外。 为了通过玩家审查，两</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4060/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_060.jpg"/>
+                                        <div class="fjjq"><span>第60话</span>全职猎人（2011） 第60话「定案×与×开始」<br/>小杰和奇犽终于要挑战玩家审查了。 负责审查的绝兹绝拉所提示的合格条件就只有「发动练」。 200名参加者中，只有32名能被录取的合格门槛，小杰与奇犽是否能顺利跨过!?</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4061/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_061.jpg"/>
+                                        <div class="fjjq"><span>第61话</span>全职猎人（2011） 第61话「延揽×与×挚友」<br/>小杰与奇犽虽然进入到金所留下的线索－－贪婪之岛的世界当中，但在那里就只有金的留言。 决定要好好享受游戏的小杰等人，为了收集情报而前往附近的城镇。 在那里，他们受到为了破关而</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4062/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_062.jpg"/>
+                                        <div class="fjjq"><span>第62话</span>全职猎人（2011） 第62话「现实×与×原石」<br/>为了寻求咒语卡，小杰与奇犽决定前往魔法都市?玛沙多拉。 途中，有各式各样的怪物出现在小杰等人的眼前，他们面对棘手的怪物陷入苦战，一直无法顺利前进。 有名少女－－比司吉似乎很感</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4063/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_063.jpg"/>
+                                        <div class="fjjq"><span>第63话</span>全职猎人（2011） 第63话「师父×很×无情」<br/>自愿指导小杰跟奇犽的比司吉，最初赋予他们的试炼就是在2周内打倒奖金猎人－－匕诺透！ 虽然对手身上负伤，但毕竟也是被悬赏的逃犯，身手自然了得。 究竟小杰跟奇犽又会怎么做呢!?</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4064/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_064.jpg"/>
+                                        <div class="fjjq"><span>第64话</span>全职猎人（2011） 第64话「许可×与×恐吓」<br/>在比司吉的指导之下，小杰与奇犽的念能力逐步确实地在成长中，就连一开始抓不到的怪物也能轻松抓到了！ 就在两人埋头修行的同时，在联手破关的人面前，炸弹魔现身了…</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4065/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_065.jpg"/>
+                                        <div class="fjjq"><span>第65话</span>全职猎人（2011） 第65话「邪拳×与×猜拳」<br/>在听了比司吉述说猜拳的由来后，小杰为了以猜拳学习强化系、放出系跟具现化系的必杀技而每天修练。 另一方面，奇犽为了考猎人试验而暂时离开游戏，回到现实世界。 就在这时候，小杰与</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4066/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_066.jpg"/>
+                                        <div class="fjjq"><span>第66话</span>全职猎人（2011） 第66话「攻略×与×策略」<br/>奇犽在轻松通过第2次的猎人试验，顺利成为猎人后回到游戏中。 小杰、奇犽、比司吉3人再次齐聚，开始认真攻略游戏！ 顺利收集卡片。 另一方面，即将快要破关的玩家为了攻略游戏而拟定策</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4067/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_067.jpg"/>
+                                        <div class="fjjq"><span>第67话</span>全职猎人（2011） 第67话「15×与×15」<br/>甘舒等人在欺骗了绝兹绝拉后，终于收集到了96种指定口袋卡片。 为了不让甘舒破关，其他玩家向小杰、奇犽提议组成共同战线，并且为了独占甘舒所没有的卡片－－一坪海岸线而前往寿富拉比</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4068/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_068.jpg"/>
+                                        <div class="fjjq"><span>第68话</span>全职猎人（2011） 第68话「海盗×与×推测」<br/>要把15名海盗从城镇赶出去才能获得一坪海岸线。 小杰等人虽然立刻尝试与海盗头目－－磊札接触，却败于对手压倒性的实力之下。 为了再次挑战，小杰等人必须寻求更强的伙伴，于是决定找</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4069/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_069.jpg"/>
+                                        <div class="fjjq"><span>第69话</span>全职猎人（2011） 第69话「热血×对决」<br/>小杰等人与西索、果列奴一起再次挑战磊札，不足的伙伴则是找绝兹绝拉组充数。 虽然他们在事前已经针对比赛项目拟定对策，也一路赢得胜利，但最后等着他们的却是跟磊札的躲避球对决！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4070/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_070.jpg"/>
+                                        <div class="fjjq"><span>第70话</span>全职猎人（2011） 第70话「毅力×跟×友情」<br/>小杰由于接不住磊札丢出的球而到外场去了，即使喊出BACK回到场内，但西索也早已负伤，战况并不乐观。 就在此时，小杰想到了一个可以让磊札输球的秘计，那就是跟奇犽共同合作…</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4071/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_071.jpg"/>
+                                        <div class="fjjq"><span>第71话</span>全职猎人（2011） 第71话「谈判×与×交易」<br/>磊札认真起来了，为了接住磊札的球，小杰、奇犽还有西索等三人正面迎击，总算把球接下来了。 小杰将全身的念灌注在球上朝磊札丢出。 这场躲避球赛即将分出胜负！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4072/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_072.jpg"/>
+                                        <div class="fjjq"><span>第72话</span>全职猎人（2011） 第72话「追踪×机会」<br/>为了破关，就无法避面与甘舒等人对决。 依绝兹绝拉的提案，在他引开甘舒​​的三个星期内，小杰等人进行特训。 就在绝兹绝拉为了绊住甘舒而暂时离开游戏时，却从巴特拉口中得知意想不</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4073/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_073.jpg"/>
+                                        <div class="fjjq"><span>第73话</span>全职猎人（2011） 第73话「凶器×和×正气」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4074/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_074.jpg"/>
+                                        <div class="fjjq"><span>第74话</span>全职猎人（2011） 第74话「胜者×与×败者」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4075/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_075.jpg"/>
+                                        <div class="fjjq"><span>第75话</span>全职猎人（2011） 第75话「仁友×和×挚友」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4076/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_076.jpg"/>
+                                        <div class="fjjq"><span>第76话</span>全职猎人（2011） 第76话「再开×和×理会」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4077/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_077.jpg"/>
+                                        <div class="fjjq"><span>第77话</span>全职猎人（2011） 第77话「不安×和×出现」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4078/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_078.jpg"/>
+                                        <div class="fjjq"><span>第78话</span>全职猎人（2011） 第78话「恐怖×的×增殖」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4079/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_079.jpg"/>
+                                        <div class="fjjq"><span>第79话</span>全职猎人（2011） 第79话「NG×的×NGL」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4080/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_080.jpg"/>
+                                        <div class="fjjq"><span>第80话</span>全职猎人（2011） 第80话「极恶×与×灾难」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4081/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_081.jpg"/>
+                                        <div class="fjjq"><span>第81话</span>全职猎人（2011） 第81话「战斗×的×开始」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4082/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_082.jpg"/>
+                                        <div class="fjjq"><span>第82话</span>全职猎人（2011） 第82话「凯特×的×小丑」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4083/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_083.jpg"/>
+                                        <div class="fjjq"><span>第83话</span>全职猎人（2011） 第83话「感化×之后的×进化」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4084/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_084.jpg"/>
+                                        <div class="fjjq"><span>第84话</span>全职猎人（2011） 第84话「命定×的×觉醒」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4085/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_085.jpg"/>
+                                        <div class="fjjq"><span>第85话</span>全职猎人（2011） 第85话「光×和×影」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4086/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_086.jpg"/>
+                                        <div class="fjjq"><span>第86话</span>全职猎人（2011） 第86话「誓约×和×重新开始」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4087/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_087.jpg"/>
+                                        <div class="fjjq"><span>第87话</span>全职猎人（2011） 第87话「决斗×中×逃亡」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4088/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_088.jpg"/>
+                                        <div class="fjjq"><span>第88话</span>全职猎人（2011） 第88话「猜拳×与×弱点」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4089/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_089.jpg"/>
+                                        <div class="fjjq"><span>第89话</span>全职猎人（2011） 第89话「温柔×与×强大」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4090/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_090.jpg"/>
+                                        <div class="fjjq"><span>第90话</span>全职猎人（2011） 第90话「利息×和×诅咒」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4152/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_091.jpg"/>
+                                        <div class="fjjq"><span>第91话</span>全职猎人（2011） 第91话「强者×与×弱者」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4169/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_092.jpg"/>
+                                        <div class="fjjq"><span>第92话</span>全职猎人（2011） 第92话「一个愿望×与×两个誓言」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4434/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_093.jpg"/>
+                                        <div class="fjjq"><span>第93话</span>全职猎人（2011） 第93话「庞姆×和×约会」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4599/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_094.jpg"/>
+                                        <div class="fjjq"><span>第94话</span>全职猎人（2011） 第94话「朋友×与×启程」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4799/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_095.jpg"/>
+                                        <div class="fjjq"><span>第95话</span>全职猎人（2011） 第95话「怨恨×和×可怕」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4879/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_096.jpg"/>
+                                        <div class="fjjq"><span>第96话</span>全职猎人（2011） 第96话「不执法×的×法务人员」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4898/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_097.jpg"/>
+                                        <div class="fjjq"><span>第97话</span>全职猎人（2011） 第97话「激斗×与×歼灭」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4948/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_098.jpg"/>
+                                        <div class="fjjq"><span>第98话</span>全职猎人（2011） 第98话「潜入×与×筛选」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5094/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_099.jpg"/>
+                                        <div class="fjjq"><span>第99话</span>全职猎人（2011） 第99话「配合×和×生物进化」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5288/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_100.jpg"/>
+                                        <div class="fjjq"><span>第100话</span>全职猎人（2011） 第100话「追缉×就是×追击」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5387/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_101.jpg"/>
+                                        <div class="fjjq"><span>第101话</span>全职猎人（2011） 第101话「伊加路哥×和×雷神」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5553/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_102.jpg"/>
+                                        <div class="fjjq"><span>第102话</span>全职猎人（2011） 第102话「能力×和×对弈」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5932/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_103.jpg"/>
+                                        <div class="fjjq"><span>第103话</span>全职猎人（2011） 第103话「罪×和×黄泉」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6042/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_104.jpg"/>
+                                        <div class="fjjq"><span>第104话</span>全职猎人（2011） 第104话「迷惑×和×不知所措」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6089/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_105.jpg"/>
+                                        <div class="fjjq"><span>第105话</span>全职猎人（2011） 第105话「觉悟×和×觉醒」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6172/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_106.jpg"/>
+                                        <div class="fjjq"><span>第106话</span>全职猎人（2011） 第106话「诺布×和×莫老五」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6517/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_107.jpg"/>
+                                        <div class="fjjq"><span>第107话</span>全职猎人（2011） 第107话「回归×和×引退」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6573/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_108.jpg"/>
+                                        <div class="fjjq"><span>第108话</span>全职猎人（2011） 第108话「小麦×和×军仪」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6778/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_109.jpg"/>
+                                        <div class="fjjq"><span>第109话</span>全职猎人（2011） 第109话「前进开始×所以×行动开始」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6887/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_110.jpg"/>
+                                        <div class="fjjq"><span>第110话</span>全职猎人（2011） 第110话「困惑×和×念头」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7145/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_111.jpg"/>
+                                        <div class="fjjq"><span>第111话</span>全职猎人（2011） 第111话「突入×和×侵入」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7239/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_112.jpg"/>
+                                        <div class="fjjq"><span>第112话</span>全职猎人（2011） 第112话「怪物×对×怪物」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7295/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_113.jpg"/>
+                                        <div class="fjjq"><span>第113话</span>全职猎人（2011） 第113话「虫子×和×恩惠」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7467/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_114.jpg"/>
+                                        <div class="fjjq"><span>第114话</span>全职猎人（2011） 第114话「分隔×和×误算」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7672/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_115.jpg"/>
+                                        <div class="fjjq"><span>第115话</span>全职猎人（2011） 第115话「义务×和×疑问」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7830/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_116.jpg"/>
+                                        <div class="fjjq"><span>第116话</span>全职猎人（2011） 第116话「复仇×与×修复」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7896/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_117.jpg"/>
+                                        <div class="fjjq"><span>第117话</span>全职猎人（2011） 第117话「侮辱×和×雪耻」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7969/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_118.jpg"/>
+                                        <div class="fjjq"><span>第118话</span>全职猎人（2011） 第118话「伪装×的×愤怒」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8234/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_119.jpg"/>
+                                        <div class="fjjq"><span>第119话</span>全职猎人（2011） 第119话「强×章鱼×弱×章鱼」<br/>全职猎人蚂蚁篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8319/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_120.jpg"/>
+                                        <div class="fjjq"><span>第120话</span>全职猎人（2011） 第120话「假的×和×真的」<br/>全职猎人重制版 第120话</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8379/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_121.jpg"/>
+                                        <div class="fjjq"><span>第121话</span>全职猎人（2011） 第121话「败北×和×脸面」<br/>战斗画面终于要切换到会长和蚁王这边了，会长大人要放终结技了！非战斗人员请撤退！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8756/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_122.jpg"/>
+                                        <div class="fjjq"><span>第122话</span>全职猎人（2011） 第122话「原则×和×名字」<br/>王的心开始动摇，即使连他自己都不曾发现。偏于人性的一面萌芽之后，结局是否会改变呢...会长与王的大战即将展开！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9063/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_123.jpg"/>
+                                        <div class="fjjq"><span>第123话</span>全职猎人（2011） 第123话「蜈蚣×和×追忆」<br/>章鱼哥与威尔芬的最终对决！威尔芬你的演技实在是有点儿差-0- 庞姆再度变身，湿身福利大放送！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9143/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_124.jpg"/>
+                                        <div class="fjjq"><span>第124话</span>全职猎人（2011） 第124话「溃决×和×觉醒」<br/>庞姆试图接近小杰，被奇犽拦下。小天使这一身伤痕看的人好心疼[泪]</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9232/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_125.jpg"/>
+                                        <div class="fjjq"><span>第125话</span>全职猎人（2011） 第125话「武之长处×和×武之短处」<br/>痴汉普夫你就不要再作死了-.- 你家王爱的是小麦不是你啊~</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9317/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_126.jpg"/>
+                                        <div class="fjjq"><span>第126话</span>全职猎人（2011） 第126话「零×和×蔷薇」<br/>会长与王的激斗接近高潮，已经隐约嗅到了便当的味道(TωT) </div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9374/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_127.jpg"/>
+                                        <div class="fjjq"><span>第127话</span>全职猎人（2011） 第127话「敌意×和×决意」<br/>最后那句“尼特罗会长，谢谢你”真的泪目了(T∇T) 还记得当年猎考的时候三人一起抢球的场景么[泪]</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9425/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_128.jpg"/>
+                                        <div class="fjjq"><span>第128话</span>全职猎人（2011） 第128话「无上的喜悦×和×无偿的爱」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9486/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_129.jpg"/>
+                                        <div class="fjjq"><span>第129话</span>全职猎人（2011） 第129话「目标×和×目的」<br/>王暂时失忆，痴汉普夫试图趁机干掉小麦-0- 如果这都不算爱！！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9544/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_130.jpg"/>
+                                        <div class="fjjq"><span>第130话</span>全职猎人（2011） 第130话「魔法×和×绝望」<br/>[泪]这集看的快哭出来了，彼多终于道出关于凯特的真相，残酷到不忍直视。小杰也彻底崩溃，冈叔要来了[蜡烛]</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9598/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_131.jpg"/>
+                                        <div class="fjjq"><span>第131话</span>全职猎人（2011） 第131话「愤怒×和×希望」<br/>“我马上赶过去！你等着我！”[泪]愿得一人心，切片炒西芹！该来的还是要来的，准备迎接突破天际的冈叔和期待已久的复刊情报吧！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9674/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_132.jpg"/>
+                                        <div class="fjjq"><span>第132话</span>全职猎人（2011） 第132话「先攻×和×先动」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9758/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_133.jpg"/>
+                                        <div class="fjjq"><span>第133话</span>全职猎人（2011） 第133话「生存×的×期限」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9838/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_134.jpg"/>
+                                        <div class="fjjq"><span>第134话</span>全职猎人（2011） 第134话「一句话×就是×那个人」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9890/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_135.jpg"/>
+                                        <div class="fjjq"><span>第135话</span>全职猎人（2011） 第135话「这个人×和×这个瞬间」<br/>“谢谢你”“该道谢的，应该是我吧”“最后，你能叫我的名字吗？”“睡个好觉吧，梅路艾姆SAMA” （这一刻任何的图像都是多余的QAQ）</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10081/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_136.jpg"/>
+                                        <div class="fjjq"><span>第136话</span>全职猎人（2011） 第136话「归乡×和×真名」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10144/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_137.jpg"/>
+                                        <div class="fjjq"><span>第137话</span>全职猎人（2011） 第137话「十二支×的×争论」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10217/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_138.jpg"/>
+                                        <div class="fjjq"><span>第138话</span>全职猎人（2011） 第138话「撒娇要求×和×许愿」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10274/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_139.jpg"/>
+                                        <div class="fjjq"><span>第139话</span>全职猎人（2011） 第139话「阿路加×和×拿尼加」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10349/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_140.jpg"/>
+                                        <div class="fjjq"><span>第140话</span>全职猎人（2011） 第140话「参选×和×改选」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10435/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_141.jpg"/>
+                                        <div class="fjjq"><span>第141话</span>全职猎人（2011） 第141话「魔术师×和×执事」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10557/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_142.jpg"/>
+                                        <div class="fjjq"><span>第142话</span>全职猎人（2011） 第142话「针×和×狩猎」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10638/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_143.jpg"/>
+                                        <div class="fjjq"><span>第143话</span>全职猎人（2011） 第143话「罪×和×指甲」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10722/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_144.jpg"/>
+                                        <div class="fjjq"><span>第144话</span>全职猎人（2011） 第144话「裁决×和×喝彩」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10778/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_145.jpg"/>
+                                        <div class="fjjq"><span>第145话</span>全职猎人（2011） 第145话「完败×和×再会」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10938/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_146.jpg"/>
+                                        <div class="fjjq"><span>第146话</span>全职猎人（2011） 第146话「会长×和×废除」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11058/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_147.jpg"/>
+                                        <div class="fjjq"><span>第147话</span>全职猎人（2011） 第147话「拯救×和×未来」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11148/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/hunter/images/thumb_148.jpg"/>
+                                        <div class="fjjq"><span>第148话</span>全职猎人（2011） 第148话「至今为止×和×从今以后」<br/>暂无介绍</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next swiper-button-next4"></div>
+                <div class="swiper-button-prev swiper-button-prev4"></div>
+            </div>
+
+            <div class="time_con">
+                <div class="stafflist">
+                    <div class="staff">
+                        
+
+                    </div>
+                    <div class="cast">
+                        
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div><!--tab slider end-->
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+    <div class="con24">
+        <div class="stitle">
+            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/kpzdxdz2">卡片战斗先导者</a><a href="/anime/quanhuanchuanshiji">拳王创世纪</a><a href="/anime/kabanegitv">甲铁城的卡巴内瑞</a><a href="/anime/aonoexorcist">青之驱魔师</a><a href="/anime/gintama4">银魂第四季</a>
+                            </span>
+        </div>
+        <div class="swiper-container swiper3">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <ul class="m_pic clear">
+                        <li><a href="/anime/aotushijie"><img src="http://static.jfrft.com/uploads/allimg/160814/7_2234443671.jpg"/><p>凹凸世界</p><div class="fc_m"><strong>凹凸世界</strong></div></a></li><li><a href="/anime/hxyzdej"><img src="http://static.jfrft.com/uploads/201602/1-1602221K42Q44.jpg"/><p>火星异种第二季</p><div class="fc_m"><strong>火星异种第二季</strong></div></a></li><li><a href="/anime/luoyingys2"><img src="http://www.dilidili.wang/uploads/allimg/170327/1_1610319221.jpg"/><p>剑风传奇第二季 续</p><div class="fc_m"><strong>剑风传奇第二季 续</strong></div></a></li><li><a href="/anime/sengokumusou"><img src="http://static.jfrft.com/images/cover/12031.jpg"/><p>战国无双</p><div class="fc_m"><strong>战国无双</strong></div></a></li><li><a href="/anime/quanhuanchuanshiji"><img src="http://static.jfrft.com/uploads/allimg/161002/1_1506286461.jpg"/><p>拳王创世纪</p><div class="fc_m"><strong>拳王创世纪</strong></div></a></li><li><a href="/anime/wuxianzhiwr"><img src="http://static.jfrft.com/uploads/allimg/161103/1_2137469941.jpg"/><p>无限之住人</p><div class="fc_m"><strong>无限之住人</strong></div></a></li><li><a href="/anime/fairytail2"><img src="http://m.dilidili.com/uploads/allimg/160407/1_1757464752.jpg"/><p>妖精的尾巴 第二季</p><div class="fc_m"><strong>妖精的尾巴 第二季</strong></div></a></li><li><a href="/anime/terraformars"><img src="http://static.jfrft.com/images/cover/11155.jpg"/><p>火星异种</p><div class="fc_m"><strong>火星异种</strong></div></a></li><li><a href="/anime/hunter"><img src="http://static.jfrft.com/images/cover/4000.jpg"/><p>全职猎人（2011）</p><div class="fc_m"><strong>全职猎人重制版分集剧情介绍（全148集）</strong></div></a></li><li><a href="/anime/kyojin/oad"><img src="http://static.jfrft.com/images/cover/14141.jpg"/><p>进击的巨人 OAD</p><div class="fc_m"><strong>进击的巨人 OAD</strong></div></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="swiper-button-next swiper-button-next3"></div>
+            <div class="swiper-button-prev swiper-button-prev3"></div>
+        </div>
+    </div>
+
+    <script src="/templets/default/js/swiper.min.js"></script>
+    <script>
+        jQuery(".playjs").hide();
+        function changeSwiper1(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+//		alert(arrlen);
+            var len = 0;
+            if (_is) {
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                if(arrlen % 20 >0){
+                    len = parseInt(arrlen / 20)+1;
+                }else{
+                    len = parseInt(arrlen / 20);
+                }
+            }
+            if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+        changeSwiper1('.xfswiper0');
+        changeSwiper1('.xfswiper1');
+        changeSwiper1('.xfswiper2');
+        changeSwiper1('.xfswiper3');
+        changeSwiper1('.xfswiper4');
+        changeSwiper1('.xfswiper5');
+        changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+        changeSwiper('.swiper7');
+        changeSwiper2('.swiper4');
+        jQuery(window).resize(function () {
+            changeSwiper1('.xfswiper0');
+            changeSwiper1('.xfswiper1');
+            changeSwiper1('.xfswiper2');
+            changeSwiper1('.xfswiper3');
+            changeSwiper1('.xfswiper4');
+            changeSwiper1('.xfswiper5');
+            changeSwiper1('.xfswiper6');
+            changeSwiper('.swiper3');
+            changeSwiper('.swiper5');
+            changeSwiper('.swiper6');
+            changeSwiper('.swiper7');
+            changeSwiper2('.swiper4');
+        });
+        var swiper1 = new Swiper('.xfswiper1', {
+            nextButton: '.xfswiper-button-next1',
+            prevButton: '.xfswiper-button-prev1',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper2', {
+            nextButton: '.xfswiper-button-next2',
+            prevButton: '.xfswiper-button-prev2',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper3', {
+            nextButton: '.xfswiper-button-next3',
+            prevButton: '.xfswiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper3 = new Swiper('.swiper3', {
+            nextButton: '.swiper-button-next3',
+            prevButton: '.swiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper4 = new Swiper('.swiper4', {
+            nextButton: '.swiper-button-next4',
+            prevButton: '.swiper-button-prev4',
+            spaceBetween: 30
+        });
+        var swiper5 = new Swiper('.swiper5', {
+            nextButton: '.swiper-button-next5',
+            prevButton: '.swiper-button-prev5',
+            spaceBetween: 30
+        });
+        var swiper6 = new Swiper('.swiper6', {
+            nextButton: '.swiper-button-next6',
+            prevButton: '.swiper-button-prev6',
+            spaceBetween: 30
+        });
+        var swiper7 = new Swiper('.swiper7', {
+            nextButton: '.swiper-button-next7',
+            prevButton: '.swiper-button-prev7',
+            spaceBetween: 30
+        });
+
+        var week = new Date();
+        jQuery(".xf_news .pk_time a").removeClass("current");
+        jQuery(".xf_news .time_pic .time_con").hide();
+        if (week != 0) {
+            jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+            jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+            new Swiper(".xfswiper"+(0), {
+                nextButton: '.xfswiper-button-next'+(0),
+
+                prevButton: '.xfswiper-button-prev'+(0),
+                spaceBetween: 30
+            });
+        }
+
+        jQuery(".xf_news .pk_time a").each(function(index){
+            jQuery(this).click(function(){
+                jQuery(".xf_news .pk_time a").removeClass("current");
+                jQuery(this).addClass("current");
+                jQuery(".xf_news .time_pic .time_con").hide();
+                jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+                new Swiper(".xfswiper"+index, {
+                    nextButton: '.xfswiper-button-next'+index,
+                    prevButton: '.xfswiper-button-prev'+index,
+                    spaceBetween: 30
+                });
+                jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+            });
+        });
+
+        var swiper = new Swiper('.xfswiper1', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+            paginationBulletRender: function (index, className) {
+                return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+            }
+        });
+
+        var mySwiper1 = new Swiper('.swiper1',{
+            pagination: '.pagination1',
+            paginationClickable: true,
+            moveStartThreshold: 100,
+            autoplay:4000
+        });
+        var mySwiper2 = new Swiper('.swiper2',{
+            pagination: '.pagination2',
+            paginationClickable: true,
+            moveStartThreshold: 100
+        });
+        var webWidth = 736;
+        function changeSwiper(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 5 >0){
+                    len = parseInt(arrlen / 5)+1;
+                }else{
+                    len = parseInt(arrlen / 5);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        function changeSwiper2(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 8 >0){
+                    len = parseInt(arrlen / 8)+1;
+                }else{
+                    len = parseInt(arrlen / 8);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        jQuery(function() {
+            jQuery(".closed").click(
+                    function(){
+                        jQuery(".topimg").slideUp();
+                    });
+
+            // 收缩展开效果
+            jQuery(".adminico").click(function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+            },function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+            });
+
+            jQuery(".a_open").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").slideDown(500);
+                        jQuery(".fc_black").show();
+                        jQuery(".a_closed").show();
+                    });
+            jQuery(".a_closed").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                    });
+            jQuery(".fc_black").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                        jQuery(".a_closed").hide();
+                    });
+            jQuery(".rm_pank .pk_year a").each(function(index){
+                jQuery(this).mouseover(
+                        function(){
+                            jQuery(".rm_pank .pk_year a").removeClass("current");
+                            jQuery(this).addClass("current");
+                            jQuery(".rm_pank .rm_main .rm_con").hide();
+                            jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+                        })
+            });
+
+            var headHeight=$(".head_top").height();
+            var nav=$("#navf");
+            $(window).scroll(function(){
+                if($(this).scrollTop()>headHeight){
+                    nav.addClass("navFix");
+                }
+                else{
+                    nav.removeClass("navFix");
+                }
+            })
+
+            var headHeight2=$(".topimg").height();
+            var nav2=jQuery("#topnavf");
+            jQuery(window).scroll(function(){
+                if($(this).scrollTop()>headHeight2){
+                    nav2.addClass("topnavFix");
+                }
+                else{
+                    nav2.removeClass("topnavFix");
+                }
+            });
+
+        });
+
+    </script>
+
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+    <div class="con24">
+        <!--<div class="stitle">
+            <h3>评论</h3>
+            <span class="s_f">
+                <a href="http://bbs.005.tv">D站论坛</a>
+                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+            </span>
+            <a href="http://usr.005.tv" style="float:right;">评论前请先登录或注册</a>
+        </div>	-->
+        <div style="margin:20px 0; text-align:center;">
+            <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='611369' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+            <!-- UY BEGIN -->
+            <!--<div id="uyan_frame"></div>
+            <div class="comment">
+            <i>全职猎人重制版分集剧情介绍（全148集）评论</i>-->
+            <!-- 多说评论框 start -->
+            <!--<div class="ds-thread" data-thread-key="8" data-title="全职猎人重制版分集剧情介绍（全148集）" data-url=
+        "http://www.dilidili.wang/anime/hunter/"></div>-->
+            <!-- 多说评论框 end -->
+            <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+            <!--<script type="text/javascript">
+            var duoshuoQuery = {short_name:"dzhan"};
+                (function() {
+                    var ds = document.createElement('script');
+                    ds.type = 'text/javascript';ds.async = true;
+                    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                    ds.charset = 'UTF-8';
+                    (document.getElementsByTagName('head')[0]
+                     || document.getElementsByTagName('body')[0]).appendChild(ds);
+                })();
+                </script>-->
+            <!-- 多说公共JS代码 end -->
+        </div>
+        <!-- UY END -->
+    </div>
+</div>
+<div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+    <script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script>
+    <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+</div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>			
+</div>
+<div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/muban/js/w234.js"></script>
+</body>
+</html>

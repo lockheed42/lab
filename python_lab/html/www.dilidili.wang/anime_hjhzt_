@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>画江湖专题｜嘀哩嘀哩</title>
+<meta name="keywords" content="画江湖专题" />
+<meta name="description" content="画江湖系列动画是北京若森数字科技有限公司制作" />
+<link href="http://static.jfrft.com/css/bangumi.css" rel="stylesheet" media="screen" type="text/css" />
+</head>
+<body>
+<script>
+!function(){
+var interval = 30;
+interval *= 60000;
+var timestamp = parseInt(new Date / interval) * interval;
+document.writeln('<script src="/js/site-wide.js?'+ timestamp + '"><\/script>');
+}();
+</script>
+<div class="header">
+<img src="http://static.jfrft.com/css/123.jpg" alt="嘀哩嘀哩" />
+<div class="primary">
+<div class="search">
+<!--plus/search.php-->
+<form action="http://static.jfrft.com/search/index.html" method="get">
+<fieldset>
+<legend>搜索：</legend>
+<label for="inp-query"></label>
+<div class="inp"><input id="inp-query" name="q" size="22" maxlength="60" value=""></div>
+<div class="inp-btn"><input type="submit" value="搜索"></div>
+</fieldset>
+</form>
+</div>
+<div class="logo"><a href="http://www.dilidili.wang/">嘀哩嘀哩</a></div>
+</div>
+</div>
+<div class="nav">
+<ul class="menu clearfix">
+<li>
+<a class="on" href="http://www.dilidili.wang/">首页</a>
+<a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a>
+<a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a>
+<a href="http://www.dilidili.wang/anime/bleach/">死神</a>
+<a href="http://www.dilidili.wang/anime/hunter/">全职猎人</a>
+<a href="http://www.dilidili.wang/anime/gintama/">银魂</a>
+<a href="http://www.dilidili.wang/anime/kurobas/">黑子的篮球</a>
+<a href="http://www.dilidili.wang/anime/fairytail2/">妖精的尾巴</a>
+<a href="http://bbs.005.tv/forum.php" target="_blank"><strong style="color:blue;">D站论坛</strong></a>
+</li>
+<li class="anime"><a href="http://www.dilidili.wang/anime/">新番动漫</a></li>
+</ul>
+</div>
+<style>
+  #cs_right_bottom{display:none;}
+  .ad:nth-of-type(3){display:none;}
+</style>
+
+<div class="main">
+<div class="left">
+
+<div class="item">
+<div class="content">
+<div class="title">
+<a href="http://www.dilidili.wang/anime/hjhzblr/" target="_blank">画江湖之不良人</a>
+<span class="data">2015年10月1日</span>
+</div>
+<p><b>班底：</b>出品人：蔡洪雄 张轶弢 陈璐璐 总策划：张轶弢 刘阔 剧本策划：张轶弢 刘阔 关心 监制：吴震 周宁 庞大龙</p>
+<p><b>声优：</b>边江，阎萌萌，赵毅，禇珺，申秋香，白雪岑</p>
+<p><b>看点：</b>原创大型三维成人武侠动画钜制</p>
+<p><b>简介：</b>围绕唐代从事侦缉捕盗职务的官差“不良人”这个组织所隐匿起来的龙泉宝藏而展开。黄巢起义、朱温篡位、李氏族诛、友珪弑父等著名的历史事件也贯穿其中。
+</p>
+</div>
+<div class="cover">
+<a href="http://www.dilidili.wang/anime/hjhzblr/" target="_blank">
+<img src="http://static.jfrft.com/uploads/allimg/160413/6_1133252011.jpg">
+</a>
+</div>
+</div>
+
+<div class="item">
+<div class="content">
+<div class="title">
+<a href="http://www.dilidili.wang/anime/hjhbledej/" target="_blank">画江湖之不良人第二季</a>
+<span class="data">2016年7月21日</span>
+</div>
+<p><b>班底：</b>出品人：蔡洪雄 张轶弢 陈璐璐 总策划：张轶弢 刘阔 剧本策划：张轶弢 刘阔 关心 监制：吴震 周宁 庞大龙</p>
+<p><b>声优：</b>边江，阎萌萌，赵毅，禇珺，申秋香，白雪岑</p>
+<p><b>看点：</b>三维成人武侠动画连续剧</p>
+<p><b>简介：</b>继续带来潞州之战，凤翔之战等五代十国时期的经典战役，更有后唐庄宗李存勖、铁枪王彦章等著名历史人物陆续登场。</p>
+</div>
+<div class="cover">
+<a href="http://www.dilidili.wang/anime/hjhbledej/" target="_blank">
+<img src="http://static.jfrft.com/uploads/allimg/160929/1_1511418031.jpg">
+</a>
+</div>
+</div>
+
+<div class="item">
+<div class="content">
+<div class="title">
+<a href="http://www.dilidili.wang/anime/hjhzbmt/" target="_blank">画江湖之杯莫停</a>
+<span class="data">2016年7月21日</span>
+</div>
+<p><b>班底：</b>总导演：关心 总监制：刘阔 编剧: 关心，冯云，高泰然 配音导演：褚珺 </p>
+<p><b>声优：</b>陈光，山新，边江，褚珺，赵毅，王凯等</p>
+<p><b>看点：</b>《画江湖之杯莫停》是《画江湖》系列的第三部作品。</p>
+<p><b>简介：</b>《画江湖之杯莫停》是若森数字出品的大型三维武侠动画《画江湖》系列的又一匠心力作。故事发生在一个惟权力与力量至上的江湖中，讲述了多年前，中州的宗帅、北地的完颜藏和南疆的文太极三人争霸天下，因各家损失惨重，便立下二十年休战盟约。</p>
+</div>
+<div class="cover">
+<a href="http://www.dilidili.wang/anime/hjhzbmt/" target="_blank">
+<img src="http://static.jfrft.com/uploads/allimg/161103/1_1544251781.jpg">
+</a>
+</div>
+</div>
+
+<div class="item">
+<div class="content">
+<div class="title">
+<a href="http://www.dilidili.wang/anime/hjhzhsms/" target="_blank">画江湖之换世门生</a>
+<span class="data">2017年9月14日</span>
+</div>
+<p><b>班底：</b>编剧：于奥，周铁男，舒奕澄，周飞龙 总导演：刘阔 配音导演：褚珺</p>
+<p><b>声优：</b>彭尧、褚珺、张磊 、白雪岑 、边江 、阎萌萌 、范哲琛 、杨默 、王凯 、赵毅 、林兰、赵述仁、齐斯伽、李璐、汤水雨、四刀徽章</p>
+<p><b>看点：</b>而这一切的背后，似乎又酝酿着更大的阴谋……</p>
+<p><b>简介：</b>在《画江湖之换世门生》的世界里，各方势力暗涌纷争。无宗会二少爷念阳枭因怀疑其父之死与五元堂有关，只身前去寻仇意欲将五元堂斩尽杀绝，不料刀斧帮突然出现，绑住念阳枭并将他推下悬崖。令所有人意外的是，已经掉下悬崖的念阳枭又突然出现在了悬崖边……</p>
+</div>
+<div class="cover">
+<a href="http://www.dilidili.wang/anime/hjhzhsms/" target="_blank">
+<img src="http://www.dilidili.wang/uploads/allimg/170419/1_1119168591.jpg">
+</a>
+</div>
+</div>
+
+<div class="item">
+<div class="content">
+<div class="title">
+<a href="http://www.dilidili.wang/anime/hjhzxl/" target="_blank">画江湖之侠岚</a>
+<span class="data">2017年11月30日</span>
+</div>
+<p><b>班底：</b>总导演：刘阔 编剧：舒奕橙、关心、Colin 配音导演：褚珺</p>
+<p><b>声优：</b>惠龙，褚珺，赵毅，边江，山新，王凯，邱秋，李璐，白雪岑，阎萌萌，张震</p>
+<p><b>看点：</b>少年‘侠岚’们带着各自的疑惑与梦想走向了一条充满艰难险阻的成长之路…</p>
+<p><b>简介：</b>这是一个关于亲情的故事；这是一个关于友情的故事；这是一个关于寻找自我的故事；辗迟，一个孤儿，与被他称作‘辣妈’的老板娘以及老板娘的侄女墨夷生活在一起。可就在他五岁那年的一天夜里，姐姐墨夷被坏人捉走了，从此，辗迟便立志要找到怪物救回姐姐。</p>
+</div>
+<div class="cover">
+<a href="http://www.dilidili.wang/anime/hjhzxl/" target="_blank">
+<img src="http://www.dilidili.wang/uploads/allimg/171130/290_1737367241.jpg">
+</a>
+</div>
+</div>
+
+
+
+
+</div>
+<div class="right">
+<div class="ad"><script type="text/javascript" src="http://static.jfrft.com/js/w360.js"></script></div>
+<div class="mod">
+<h2>日漫新番</h2>
+<div class="newest">
+<ul>
+<li><a href="http://www.dilidili.wang/anime/201310/" target="_blank">2013年10月新番</a><span class="pl"></span></li>
+<li><a href="http://www.dilidili.wang/anime/201401/" target="_blank">2014年01月新番</a><span class="pl"></span></li>
+<li><a href="http://www.dilidili.wang/anime/201404/" target="_blank">2014年04月新番</a><span class="pl"></span></li>
+<li><a href="http://www.dilidili.wang/anime/201407/" target="_blank">2014年07月新番</a><span class="pl"></span></li>
+<li><a href="http://www.dilidili.wang/anime/201410/" target="_blank">2014年10月新番</a><span class="pl"></span></li>
+<li><a href="http://www.dilidili.wang/anime/201501/" target="_blank">2015年01月新番</a><span class="pl"></span></li>
+<li><a href="http://www.dilidili.wang/anime/201504/" target="_blank">2015年04月新番</a><span class="pl"></span></li>
+<li><a href="http://www.dilidili.wang/anime/201507/" target="_blank">2015年07月新番</a><span class="pl"></span></li>
+</ul>
+</div>
+</div>
+<div class="comments">
+<h2>说点什么呢· · · · · ·</h2>
+<!-- Duoshuo Comment BEGIN -->
+    <div class="ds-thread"  data-thread-key="99999" data-author-key="1"  data-url="http://www.dilidili.wang/./anime/guoman/" data-title="画江湖专题"></div>
+    <script type="text/javascript">
+    var duoshuoQuery = {short_name: "dzhan"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = 'http://static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    </script>
+<!-- Duoshuo Comment END --><div id="ds-ssr" class="mt1">
+    <dl class="tbox">
+        <dt> <strong>评论列表（网友评论仅供网友表达个人看法，并不表明本站同意其观点或证实其描述）</strong> </dt>
+        <dd>
+            <div class="dede_comment">
+                <div class="decmt-box1">
+                    <ul>
+                        <li id="commetcontentNew"></li>
+
+ 
+                    </ul>
+                </div>
+            </div>
+        </dd>
+    </dl>
+</div>
+
+
+</div>
+</div>
+</div>
+<script src="http://static.jfrft.com/js/tongji.js" type='text/javascript' language="javascript"></script>
+<script>
+var __cs_rich_info__ = {};__cs_rich_info__.asdata = [
+
+{swfurl:'http://c.tb1u.com/b/1/159/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/159/0.html?uid=318366',eps:'NGEgICAgICAgICAgNDFTUVhTVlZMUlVXUFlMV1NWVExQTFNSV1hXTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/604/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/604/0.html?uid=318366',eps:'YzggICAgICAgICAgMGJTUVhTVlZMUlVXUFlMV1NWVExRTFNSV1lQTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/607/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/607/0.html?uid=318366',eps:'OWUgICAgICAgICAgOWVTUVhTVlZMUlVXUFlMV1NWVExSTFNSV1lTTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/610/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/610/0.html?uid=318366',eps:'MzkgICAgICAgICAgMWZTUVhTVlZMUlVXUFlMV1NWVExTTFNSV1lWTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/1040/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/1040/0.html?uid=318366',eps:'NzIgICAgICAgICAgODBTUVhTVlZMUlVXUFlMV1NWVExQTFNWUFZVTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/604/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/604/0.html?uid=318366',eps:'YzggICAgICAgICAgMGJTUVhTVlZMUlVXUFlMV1NWVExRTFNSV1lQTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/607/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/607/0.html?uid=318366',eps:'OWUgICAgICAgICAgOWVTUVhTVlZMUlVXUFlMV1NWVExSTFNSV1lTTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/610/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/610/0.html?uid=318366',eps:'MzkgICAgICAgICAgMWZTUVhTVlZMUlVXUFlMV1NWVExTTFNSV1lWTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+];
+__cs_rich_info__.w=300;
+__cs_rich_info__.h=250;
+__cs_rich_info__.close_top=3;
+__cs_rich_info__.close_left=(300-36);
+__cs_rich_info__.close_width=25;
+__cs_rich_info__.close_height=13;
+__cs_rich_info__.keepClose=0;
+__cs_rich_info__.flash=0;
+__cs_rich_info__.richtype=0;
+__cs_rich_info__.duration=3600;
+__cs_rich_info__.delaytime=100;
+__cs_rich_info__.interval=50;
+__cs_rich_info__.domain='rwq.youle55.com';
+__cs_rich_info__.sitetype= 4;
+__cs_rich_info__.showlogo=0;
+__cs_rich_info__.rich_div_id='cs_right_bottom';
+__cs_rich_info__.div_close_id='cs_rich_close';
+__cs_rich_info__.cookiehead='cscpvrich';
+__cs_rich_info__.offset=0;
+__cs_rich_info__.offsetx=0;
+__cs_rich_info__.closetype=0;
+__cs_rich_info__.self_list=['cs_couplet_left','cs_couplet_right','cs_right_bottom','ft_couplet_left','ft_couplet_right','ft_right_bottom'];
+document.writeln("<sty"+"le>#cs_couplet_left,#cs_couplet_right,#cs_right_bottom,#ft_couplet_left,#ft_couplet_right,#ft_right_bottom{z-index:2147483647;}</s" + "tyle>");
+var __pS_cs = document.createElement('script');
+__pS_cs.type = "text/javascript";__pS_cs.src="http://img.twcczhu.com/js/rr/rich03.js?v0.1";
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(__pS_cs, x); 
+</script>
+<script src="http://static.jfrft.com/plus/count.php?aid=17379&mid=1" type='text/javascript' language="javascript"></script>
+
+</body>
+</html>
