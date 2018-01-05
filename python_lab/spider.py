@@ -7,13 +7,14 @@
 
 __author__ = 'lockheed'
 
-import pymysql
-import pymysql.cursors
 import urllib.request
 from bs4 import BeautifulSoup
+import pymysql
+import pymysql.cursors
 from datetime import datetime
 import os
 import redis
+import traceback
 
 '''
 记录错误日志
@@ -21,8 +22,8 @@ import redis
 
 
 def error_log(e):
-    with open("./log/error/error.txt", 'a') as f:
-        f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(e) + '\n')
+    with open("./log/error/error.log", 'a') as f:
+        f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(traceback.format_exc()) + '\n')
 
 
 '''判断link是否已经抓取过。抓取过返回 False
@@ -34,6 +35,16 @@ def url_is_get(pool, url):
 
     is_get = r.setnx(url, 1)
     return True if is_get == True else False
+
+
+'''获取http前缀的长度'''
+
+
+def get_http_prefix_len(url):
+    if url[:7] == 'https://':
+        return 8
+    else:
+        return 7
 
 
 '''
@@ -81,9 +92,10 @@ def get_file_name(url):
 
     # 匹配不到域名后缀，直接保存
     if index == -1:
-        return url[7:].replace('/', '_')
+        return url.replace('/', '_')
     else:
-        dir = url[7:index + suffix_len]
+        dir = url[:index + suffix_len]
+        dir = dir.replace('/', '_')
         if not os.path.exists("./html/" + dir):
             os.mkdir("./html/" + dir)
         if url[index + suffix_len + 1:] == '':
@@ -109,6 +121,12 @@ def catch(url, deep=0):
         # 基础信息
         time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         host = get_host(url)
+        connection = pymysql.connect(host='localhost',
+                                     user='root',
+                                     password='',
+                                     db='test',
+                                     port=3306,
+                                     charset='utf8')
 
         # 抓取数据
         res_data = urllib.request.urlopen(url)
@@ -127,39 +145,53 @@ def catch(url, deep=0):
         # 去重
         href = set(href)
 
-        #TODO 需要优化 ----->
-        #插入首页html
-        sql_main = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
-        sql_main = sql_main + "('" + host[7:] + "','" + url + "', 0, '" + str(deep)  + "','" + time + "')"
+        if deep == 0:
+            # 插入首页html
+            pid = 0
+            sql_main = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
+            sql_main = sql_main + "('" + host[get_http_prefix_len(host):] + "','" + url + "'," + str(pid) + ", '" + str(
+                deep) + "','" + time + "')"
 
-        #插入当前html下的子链接
+            with connection.cursor() as cursor:
+                cursor.execute(sql_main)
+                connection.commit()
+        else:
+            # 查询当前url的id
+            sql_main = "select * from t_html where `current_url` = '" + url + "'"
+            with connection.cursor() as cursor:
+                cursor.execute(sql_main)
+                data = cursor.fetchone()
+                connection.commit()
+            if data is not None:
+                pid = data[0]
+            else:
+                pid = -1
+                with open("./log/error/skip.log", 'a') as f:
+                    f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  在数据库被未插入  ' + str(url) + '\n')
+
+        # 插入当前html下的子链接
         sql = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
         for ele in href:
             if ele is not None and ele[:4] == 'http':
-                sql = sql + "('" + host[7:] + "','" + url + "','" + str(deep) + "','" + ele + "','" + time + "'),"
+                sql = sql + "('" + host[get_http_prefix_len(host):] + "','" + ele + "','" + str(pid) + "','" + str(
+                    deep) + "','" + time + "'),"
         sql = sql.rstrip(',')
-        #TODO <------ 优化结束
-
 
         # 把html文件写入。存入html路径下
         with open("./html/" + get_file_name(url), 'w') as f:
             f.write(content)
-
-        connection = pymysql.connect(host='localhost',
-                                     user='root',
-                                     password='',
-                                     db='test',
-                                     port=3306,
-                                     charset='utf8')
 
         with connection.cursor() as cursor:
             cursor.execute(sql)
             connection.commit()
 
         # 超过挖掘深度后不在继续
-        if deep > 2:
+        if deep > 7:
             return
         for ele in href:
+            # 下一步url 为None时跳过
+            if ele is None:
+                continue
             # 下一步地址可能省略host。如果检测不到host，把当前host给到url继续抓取。
             next_host = get_host(ele)
             if next_host == '':
@@ -169,14 +201,15 @@ def catch(url, deep=0):
                 catch(ele, deep + 1)
             else:
                 # TODO 非同一域名另外保存根目录
-                with open("./log/error/skip.txt", 'a') as f:
-                    f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(host) + '  ' + str(ele) + '\n')
+                with open("./log/error/skip.log", 'a') as f:
+                    f.write(
+                        datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  非同一域名  ' + str(host) + '  ' + str(ele) + '\n')
     except BaseException as e:
         error_log(e)
         return
 
 
-url = "http://www.dilidili.wang"
+url = "http://588ku.com"
 
 pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
 r = redis.Redis(connection_pool=pool)
