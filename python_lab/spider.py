@@ -26,18 +26,60 @@ def error_log(e):
         f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(traceback.format_exc()) + '\n')
 
 
-'''判断link是否已经抓取过。抓取过返回 False
+'''
+判断link是否已经抓取过。抓取过返回 False
 '''
 
 
-def url_is_get(pool, url):
+def url_is_get(url):
+    global pool
     r = redis.Redis(connection_pool=pool)
 
     is_get = r.setnx(url, 1)
-    return True if is_get == True else False
+    return True if is_get else False
 
 
-'''获取http前缀的长度'''
+'''
+推入url等待抓取队列
+key结构：url_queue:{host}:{deep} = url
+'''
+
+
+def url_push(host, url, deep):
+    global pool
+    r = redis.Redis(connection_pool=pool)
+    queue_key = "url_queue:" + host + ":" + deep
+    r.lpush(queue_key, url)
+
+
+'''
+从队列获取要抓取的url
+辅助key，表达当前哪个深度的队列有数据待处理
+    url_deep:{host} = deep
+如果当前队列pop为None，辅助key+1，表示下次从更深的队列获取数据
+返回值：url, deep
+'''
+
+
+def url_pop(host):
+    global pool
+    r = redis.Redis(connection_pool=pool)
+    url_deep_key = "url_deep:" + host
+    deep = r.get(url_deep_key)
+    queue_key = "url_queue:" + host + ":" + deep
+    pop_url = r.rpop(queue_key)
+    # 如果当前深度队列 已取完，从下一级深度读取
+    if pop_url is None:
+        deep = deep + 1
+        r.set(url_deep_key, deep)
+        queue_key = "url_queue:" + host + ":" + deep
+        pop_url = r.rpop(queue_key)
+    return pop_url, deep
+
+
+'''
+获取http前缀的长度值+1，用于截取
+'''
 
 
 def get_http_prefix_len(url):
@@ -111,16 +153,20 @@ def get_file_name(url):
 '''
 
 
-def catch(url, deep=0):
+def catch(host):
+    global deep_limit
     try:
-        global pool
-        # 阻止重复抓取
-        if url_is_get(pool, url) == False:
-            return
-
         # 基础信息
         time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        host = get_host(url)
+        url, deep = url_pop(host)
+        if url is None:
+            return
+
+        # TODO 这里有问题，pop是一次一条url，中断之后整个程序就中断了
+        # 阻止重复抓取
+        if url_is_get(url) == False:
+            return
+
         connection = pymysql.connect(host='localhost',
                                      user='root',
                                      password='',
@@ -132,6 +178,10 @@ def catch(url, deep=0):
         res_data = urllib.request.urlopen(url)
         res = res_data.read()
         content = res.decode('utf-8')
+
+        # 把html文件写入。存入html路径下
+        with open("./html/" + get_file_name(url), 'w') as f:
+            f.write(content)
 
         # 链接列表
         href = []
@@ -177,16 +227,12 @@ def catch(url, deep=0):
                     deep) + "','" + time + "'),"
         sql = sql.rstrip(',')
 
-        # 把html文件写入。存入html路径下
-        with open("./html/" + get_file_name(url), 'w') as f:
-            f.write(content)
-
         with connection.cursor() as cursor:
             cursor.execute(sql)
             connection.commit()
 
         # 超过挖掘深度后不在继续
-        if deep > 7:
+        if deep > deep_limit:
             return
         for ele in href:
             # 下一步url 为None时跳过
@@ -209,10 +255,16 @@ def catch(url, deep=0):
         return
 
 
-url = "http://588ku.com"
-
+# 抓取深度限制
+deep_limit = 2
+# 根域名
+url = "http://m.yue-me.com/pages/instro/company.html"
+# 重置redis缓存
 pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
 r = redis.Redis(connection_pool=pool)
 r.flushdb()
+# 初始化 url队列
+r.set('url_deep:' + url, 0)
+url_push(url, url, 0)
 
 catch(url)
