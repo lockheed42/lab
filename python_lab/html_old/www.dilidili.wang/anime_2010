@@ -1,0 +1,2047 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="http://static.jfrft.com/js/uaredirect.js" type="text/javascript"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/2010/");</script>
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/2010/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/2010/" >
+    <link rel="canonical" href="http://www.dilidili.wang/anime/2010/"/>
+    <title>2010年新番动漫大全_嘀哩嘀哩</title>
+    <meta name="keywords" content="2010年新番动漫,2010年新番动漫排行榜,2010年新番动漫大全" />
+    <meta name="description" content="嘀哩嘀哩2010年新番大全为广大2010年新番动漫爱好者提供最新、最齐全的2010年新番动画，第一时间收集整理最完整的2010年新番动画播放列表，为您带来一场美妙的动漫盛宴。" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+    <link rel="stylesheet" href="http://static.jfrft.com/templets/default/css/swiper.min.css">
+    <script src="http://static.jfrft.com/templets/default/js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+    <base target="_blank">
+</head>
+<body>
+
+<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201801/" target="_blank">一月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+
+
+<div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>2010新番</a> ></div>
+
+<div class="aside_cen2 main_left">
+    <div class="con24 m-20 clear">
+        <div class="stitle">
+            <h1>2010年新番动漫大全</h1>
+                            <span class="s_f">
+                            </span>
+        </div>
+        <div class="tagbox">
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><a href="/anime/2018/">2018新番:</a><a href="/anime/201801/">1月</a></div>
+            <div class="nianfan"><a href="/anime/2017/">2017新番:</a><a href="/anime/201701/">1月</a><a href="/anime/201704/">4月</a><a href="/anime/201707/">7月</a><a href="/anime/201710/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2016/">2016新番:</a><a href="/anime/201601/">1月</a><a href="/anime/201604/">4月</a><a href="/anime/201607/">7月</a><a href="/anime/201610/">10月</a></div>
+        </dd>
+    </dl>
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><a href="/anime/2015/">2015动漫:</a><a href="/anime/201501/">1月</a><a href="/anime/201504/">4月</a><a href="/anime/201507/">7月</a><a href="/anime/201510/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2014/">2014动漫:</a><a href="/anime/201401/">1月</a><a href="/anime/201404/">4月</a><a href="/anime/201407/">7月</a><a href="/anime/201410/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2013/">2013动漫:</a><a href="/anime/201301/">1月</a><a href="/anime/201304/">4月</a><a href="/anime/201307/">7月</a><a href="/anime/201310/">10月</a></div>
+        </dd>
+    </dl>
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><a href="/anime/2012/">2012动漫:</a><a href="/anime/201201/">1月</a><a href="/anime/201204/">4月</a><a href="/anime/201207/">7月</a><a href="/anime/201210/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2011/">2011动漫:</a><a href="/anime/201101/">1月</a><a href="/anime/201104/">4月</a><a href="/anime/201107/">7月</a><a href="/anime/201110/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2010/">2010动漫:</a><a href="/anime/201001/">1月</a><a href="/anime/201004/">4月</a><a href="/anime/201007/">7月</a><a href="/anime/201010/">10月</a></div>
+        </dd>
+    </dl>
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><a href="/anime/2010xq/">00年代</a> <a href="/anime/2000xq/">更早</a></div>
+        </dd>
+    </dl>
+</div>
+<div class="tagbox">
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><span>地区：</span><a href="/riyu/">日本</a><a href="/guoyu/">中国</a><a href="/yingyu/">欧美</a><a href="/yueyu/">港台</a></div>
+            <div class="nianfan"><span>播放方式：</span><a href="/tvdh/">TV版</a><a href="/jcdh/">剧场版</a></div>
+        </dd>
+    </dl>
+</div>
+<div class="tagbox">
+    <dl class="tag-list">
+        <dd>
+            <span>类型：</span><a href="/gaoxiao/">搞笑</a><a href="/kehuan/">科幻</a><a href="/yundong/">运动</a><a href="/danmei/">耽美</a><a href="/zhiyuxi/">治愈系</a><a href="/luoli/">萝莉</a><a href="/zhenren/">真人</a><a href="/zhuangbi/">装逼</a><a href="/youxi/">游戏</a>
+            <!--<a href="/roufan/">肉番</a>--><a href="/tuili/">推理</a><a href="/qingchun/">青春</a><a href="/kongbu/">恐怖</a><a href="/jizhan/">机战</a><a href="/rexue/">热血</a><a href="/qingxiaoshuo/">轻小说</a><a href="/maoxian/">冒险</a><a href="/hougong/">后宫</a><a href="/qihuan/">奇幻</a><a href="/tongnian/">童年</a><a href="/lianai/">恋爱</a><a href="/meishaonv/">美少女</a><a href="/lizhi/">励志</a><a href="/baihe/">百合</a><a href="/paomianfan/">泡面番</a><a href="/yinv/">乙女</a>
+            <a href="/anime/riju/">
+                <font color='red'>日剧专区</font>
+            </a>
+        </dd>
+    </dl>
+</div>
+        <div class="anime_list">
+            <center><h2>日本动漫</h2></center>
+            <dl>
+                <dt><a hrel="/pokemon/bw/"><img src="http://static.jfrft.com/images/cover/5042.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/pokemon/bw/">宠物小精灵BW</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年9月</div></p>
+                    <p><div class="d_label"><b>标签：</b>游戏改编|冒险|童年|奇幻</div><div class="d_label"><b>播放：</b>196784</div></p>
+                    <p><b>看点：</b>宠物小精灵 童年系列</p>
+                    <p><b>简介：</b>新的冒险舞台伊修地区。居住着许多未知的小精灵。在所有训练家都充满期待与兴奋地踏上这个地方时，突如其来的巨雷声响遍这块土地。漩涡般的黑云布满整个天空。在那中心有着仿佛是小精灵的影子…</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/yojouhan/"><img src="http://static.jfrft.com/uploads/allimg/201511/1-15111GH6250-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/yojouhan/">四叠半神话大系</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年04月</div></p>
+                    <p><div class="d_label"><b>标签：</b>轻小说|奇幻|励志</div><div class="d_label"><b>播放：</b>186438</div></p>
+                    <p><b>看点：</b>青春恶搞、少男苦涩、傻气纯爱、时空奇幻</p>
+                    <p><b>简介：</b>身为大三学生的“我”，梦想着多采多姿的校园生活却过了两年毫无意义的生活。虽然入学时在众多社团中选择了网球社，但是因为无法与人对话而失去容身之处。这时，他遇上有同样际遇的小津，两人组成了在社团内外四处妨碍人恋爱、恶名昭彰的“黑色丘比特”。没有遇到小津的话肯定能与黑发少女过著缤纷的人生！如果那时候选了其</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/nuramago2/"><img src="http://static.jfrft.com/uploads/allimg/160324/1_1349127701.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/nuramago2/">滑头鬼之孙 千年魔京</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>奇幻|热血|冒险 </div><div class="d_label"><b>播放：</b>220442</div></p>
+                    <p><b>看点：</b>话说滑头鬼的头也是和头发一样长</p>
+                    <p><b>简介：</b>自幼和妖怪们住在一起的少年“陆雄”非常喜欢妖怪，而且也希望能继承自己的祖父“妖怪首领滑瓢”，成为一个优秀的妖怪首领，但在他知道很多人们都非常讨厌妖怪后，他的想法因此有所改变。 平时的外表是普通少年的陆雄，由于拥有 1/4 的妖怪血统，因此能在夜晚时变身成为妖怪。在几经波折后，陆雄开始思考自己的身分和</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/durarara2/"><img src="http://static.jfrft.com/images/cover/6100.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/durarara2/">无头骑士异闻录×2</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>奇幻|冒险|轻小说</div><div class="d_label"><b>播放：</b>283445</div></p>
+                    <p><b>看点：</b>东京池袋街头暴力事件</p>
+                    <p><b>简介：</b>以东京池袋为舞台，讲述了向往非日常生活的高中生、被称为池袋最强的男人、经营情报屋，以玩弄人心为乐的青年、专接不寻常病患的密医以及骑着漆黑色机车的“无头骑士”等人错综复杂又息息相关的都市生活。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/denyuden/"><img src="http://static.jfrft.com/uploads/201508/1-150R006133M41.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/denyuden/">传说中勇者的传说</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>基|轻小说改|冒险|奇幻</div><div class="d_label"><b>播放：</b>188104</div></p>
+                    <p><b>看点：</b>轻小说改编,在魔幻世界中一个壮阔的冒险剧故事</p>
+                    <p><b>简介：</b>这是个留有诸多传说的世界。位于大陆南面的国家——罗兰德帝国的人民因贵族的腐败而受到了苛政的压迫，过着贫苦的生活。另一方面，受命于国王希翁的青年莱纳与少女菲利斯还在继续着他们的旅程。遗憾的是，主角莱纳是个超没干劲的男人。他只希望能建立一个一天到晚睡觉就能活下去的王国。可是这样的他们却被卷进战争的漩涡之</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/angelbeats/"><img src="http://static.jfrft.com/uploads/201508/1-150P4135643125.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/angelbeats/">Angel Beats！</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>青春|冒险</div><div class="d_label"><b>播放：</b>280804</div></p>
+                    <p><b>看点：</b>大魔王和NA-GA的组合，PA的动画</p>
+                    <p><b>简介：</b>故事从男主角音无从“死后的世界”醒来开始，认识了一个叫仲村由理的女孩。原来，由理在“死后的世界”率领着一个名为“死后世界战线”，简称“SSS”的组织。“SSS”成立的主要目的是反抗赐予他们生前悲哀命运的神以及神之使者——天使，在天使超乎常理的异能面前，“SSS”只能用枪来反抗……</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/Higurashi3/"><img src="http://static.jfrft.com/uploads/201508/1-150P6143011P3.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/Higurashi3/">寒蝉鸣泣之时OVA</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>游戏|搞笑|治愈系|美少女</div><div class="d_label"><b>播放：</b>190893</div></p>
+                    <p><b>看点：</b>雏见泽的继续</p>
+                    <p><b>简介：</b>包括了《寒蝉鸣泣之时-礼》《寒蝉鸣泣之时-煌》和《寒蝉鸣泣之时-拡》</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/strikewitches2/"><img src="http://static.jfrft.com/images/2124002.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/strikewitches2/">强袭魔女 第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>萝莉|励志|动作|百合|肉番</div><div class="d_label"><b>播放：</b>160744</div></p>
+                    <p><b>看点：</b>战斗吧萝莉军团</p>
+                    <p><b>简介：</b>有一个和我们所生存的的地方非常相似，充满了魔力的世界。在那里，到处都是战乱和灾荒魔力，那是出现年幼的少女身上，随着年龄的增加渐渐消失的谜一般的力量。拥有那种力量的少女们不需要手就移动东西，使之漂浮空中，还可以借由魔力生成领域来保护别人。被称为魔女的她们，受人尊敬，予人畏惧...</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/kamisiru/"><img src="http://static.jfrft.com/uploads/allimg/160310/1_2158026091.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/kamisiru/">只有神知道的世界</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>漫画改|青春|搞笑|推理</div><div class="d_label"><b>播放：</b>167425</div></p>
+                    <p><b>看点：</b>玩游戏交妹子攻略</p>
+                    <p><b>简介：</b>主人公桂木桂马是少女恋爱游戏的高手，神乎其技的他可以同时玩六款游戏、还可以分别享受其中剧情，也因此桂马被称做“攻陷之神”。而被称为神的桂马，遇上了来自地狱的恶魔，成为负责逮捕从地狱逃到人间的驱魂，於是要对现实生活中的女生展开“攻略”，填满她们的芳心，让驱魂无处可躲…。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/yhjcb/"><img src="http://static.jfrft.com/images/cover/3300.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/yhjcb/">银魂剧场版</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>漫画改编|搞笑|热血</div><div class="d_label"><b>播放：</b>428603</div></p>
+                    <p><b>看点：</b>毒舌、吐槽、无厘头、异想天开的恶搞···</p>
+                    <p><b>简介：</b>银魂本作是以科幻时代剧为题材的搞笑漫画。以风格独特的毒舌、吐槽、无厘头、异想天开的恶搞，为作品的特色与卖点，但也不时穿插感人的故事，以及人生道理的描写。</p>
+                    <p><b style="color:#F00">状态:</b> 连载中 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/maidsama/"><img src="http://static.jfrft.com/uploads/allimg/161014/1_1521479691.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/maidsama/">会长是女仆大人！</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年04月</div></p>
+                    <p><div class="d_label"><b>标签：</b>青春|恋爱|搞笑</div><div class="d_label"><b>播放：</b>213516</div></p>
+                    <p><b>看点：</b>最爱女仆</p>
+                    <p><b>简介：</b>文武双全的完美会长，其实是一个女仆，原男校星华高中里，男生占了全部学生的八成以上。而那帮占少数的女学生只能一直忍耐着大咧咧又粗暴的男生，度过高中的每一日。打破了这种局面的，是本校首位女学生会长——鲇沢美咲。文武双全的美咲，为了让学校生活变得规律化而每日奋斗着。可是，美咲她却有一个不为人知的秘密。那就</p>
+                    <p><b style="color:#F00">状态:</b>  </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/amagami1/"><img src="http://static.jfrft.com/uploads/allimg/201512/1-1512202311030-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/amagami1/">圣诞之吻SS第一季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年07月</div></p>
+                    <p><div class="d_label"><b>标签：</b>游戏|恋爱|肉番|青春</div><div class="d_label"><b>播放：</b>348590</div></p>
+                    <p><b>看点：</b>带一点福利的纯爱动漫</p>
+                    <p><b>简介：</b>少男杀手森岛遥前辈、爽朗的棚町薫、软绵绵的中多纱江学妹、丰满可爱的青梅竹马樱井梨穗子、帅气学妹七咲逢，以及班长绚辻词。……</p>
+                    <p><b style="color:#F00">状态:</b>  </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/amagami2/"><img src="http://static.jfrft.com/uploads/allimg/201512/1-1512202315260-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/amagami2/">圣诞之吻SS第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年07月</div></p>
+                    <p><div class="d_label"><b>标签：</b>美少女|恋爱|青春</div><div class="d_label"><b>播放：</b>218107</div></p>
+                    <p><b>看点：</b>橘纯一攻略所有女主角</p>
+                    <p><b>简介：</b>少男杀手森岛遥前辈、爽朗的棚町薫、软绵绵的中多纱江学妹、丰满可爱的青梅竹马樱井梨穗子、帅气学妹七咲逢，以及班长绚辻词。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/gundam-oo2/"><img src="http://static.jfrft.com/uploads/allimg/201601/1-1601262322380-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/gundam-oo2/">机动战士高达OO第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年07月</div></p>
+                    <p><div class="d_label"><b>标签：</b>热血|科幻|机甲</div><div class="d_label"><b>播放：</b>284685</div></p>
+                    <p><b>看点：</b>经典的高达剧情故事走向，买机体的作品</p>
+                    <p><b>简介：</b>西历2307年。由于化石燃料的枯竭，人类开始寻找全新形式的能源——由3条巨大的轨道式升降梯所组成的巨型太阳光发电系统。然而，能够分享这一能源的，只能是世界上的一部分大国及其同盟国。 拥有3条巨大的轨道式升降梯的3个超级大国及其联盟：以美利坚合众国为中心的“UNICORN”,以中国、俄罗斯、印度为中心</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/campanella/"><img src="http://static.jfrft.com/uploads/allimg/160308/1_2121153781.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/campanella/">祝福的钟声</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年07月</div></p>
+                    <p><div class="d_label"><b>标签：</b>游戏|冒险|美少女</div><div class="d_label"><b>播放：</b>128754</div></p>
+                    <p><b>看点：</b>画风良心</p>
+                    <p><b>简介：</b>故事发生在名为“艾尔塔利亚”的都市之中，在那里，汇聚着来自世界各地价值连城的宝藏。收获祭即将拉开序幕，这盛大的庆典吸引了各地商人、游客前来参加，整个城市陷入了一片欢乐而躁动的海洋之中，据传说，祭奠当满，将出现流星缀满天空的壮观景象。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/hakuoki1/"><img src="http://static.jfrft.com/uploads/allimg/160314/1_2131349531.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/hakuoki1/">薄樱鬼第一季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年04月</div></p>
+                    <p><div class="d_label"><b>标签：</b>治愈系|奇幻</div><div class="d_label"><b>播放：</b>179999</div></p>
+                    <p><b>看点：</b>人与人，人与妖的战争</p>
+                    <p><b>简介：</b>动乱的幕末时期，雪村千鹤是在江户长大的兰学医者雪村纲道的女儿.父亲纲道原本应该是与女儿分开后在京都工作的。可是父亲突然神秘失踪，因为联络不上父亲而担心的千鹤决定女扮男装前往京都探访。在那里，她所看见的是，与饥渴地寻求鲜血的妖怪所战斗并制伏他们的新选组的队士们。千鹤与新选组结下了奇妙缘分，并因缘际会之</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/hakuoki2/"><img src="http://static.jfrft.com/uploads/allimg/160308/1_2101437141.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/hakuoki2/">薄樱鬼碧血录</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>治愈系|奇幻</div><div class="d_label"><b>播放：</b>169381</div></p>
+                    <p><b>看点：</b>人与人，人与妖的战争</p>
+                    <p><b>简介：</b>主人公雪村千鹤,是在江户长大的兰学医者(即西医)的女儿.父亲纲道原本应该是与女儿分开后在京都工作的.因为联络不上父亲而担心的千鹤前往京都探访.千鹤在那里所看见的是,与饥渴地寻求鲜血的妖怪所战斗并制伏他们的新选组的队士们——.千鹤与新选组结下了奇妙缘分.在搜索失...</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/project-index2/"><img src="http://static.jfrft.com/uploads/201512/1-151222225941c4.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/project-index2/">魔法禁书目录第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>轻小说|后宫|奇幻</div><div class="d_label"><b>播放：</b>202448</div></p>
+                    <p><b>看点：</b>掌握了十万三千本究极魔法书的少女与拥有抹杀一切奇迹的神上之手的少年，将面临一系列故事……</p>
+                    <p><b>简介：</b>罗马正教的登场将魔法侧的故事拓展到了学园都市，而上条他们的战斗舞台也将走向世界。另一方面，通过描述学园都市的学生生活和潜伏在其背后的黑暗，科学侧的故事也将会逐步展开。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/Omamori/"><img src="http://static.jfrft.com/uploads/201511/1-151111140S3249.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/Omamori/">守护猫娘绯鞠</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>后宫|恋爱|肉番</div><div class="d_label"><b>播放：</b>219603</div></p>
+                    <p><b>看点：</b>我摔倒了要妹子亲亲才可以起来</p>
+                    <p><b>简介：</b>天河优人是一个非常普通的高中生。七年前父母去世，而独自一人生活。而常常受到身为青梅竹马的凛子的照顾，除此之外是个非常平凡的少年。对猫异常过敏，所以凛子如果对叫不起床的优人会将她的爱猫当作终极武器来使用，逼迫优人起床。 正当优人迎接了16岁的生日的早上，神秘的美少女“绯鞠”突然出现了。原来优人是守护人</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/shiki/"><img src="http://static.jfrft.com/uploads/201508/1-150R10IK0353.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/shiki/">尸鬼</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>恐怖|奇幻|治愈系</div><div class="d_label"><b>播放：</b>237635</div></p>
+                    <p><b>看点：</b>与尸鬼的战斗</p>
+                    <p><b>简介：</b>动画讲述了在一个封闭的小村庄外场村的村民在山上发现死尸后，村子的居民就一个个离奇的死去和搬走。敏夫医生和少年夏野发现了这些事情都是新搬来村子的尸鬼所为，经过一番斗争，村民最终冲到尸鬼的巢穴，赶走尸鬼。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/kuroshitsuji2/"><img src="http://static.jfrft.com/images/cover/5200.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/kuroshitsuji2/">黑执事Ⅱ</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年</div></p>
+                    <p><div class="d_label"><b>标签：</b>耽美|乙女|奇幻</div><div class="d_label"><b>播放：</b>261368</div></p>
+                    <p><b>看点：</b>连角色都完全换了血的《黑执事》第2季……</p>
+                    <p><b>简介：</b>19世纪后期，英国名门贵族，托西法家族，执事在起舞，只为了他的主人。然而，孤独以及新的黑暗……</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/danceinvampire/"><img src="http://static.jfrft.com/uploads/allimg/201510/1-1510120954570-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/danceinvampire/">吸血鬼同盟无修</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>动作 | 少女 | 情感 | 奇幻</div><div class="d_label"><b>播放：</b>19911</div></p>
+                    <p><b>看点：</b>吸血鬼女王米娜与她的仆人狼人少年晓之间的爱情与战争</p>
+                    <p><b>简介：</b>一直过着普通高中生生活的镝木晃，年幼时曾经与人缔结了一个盟约，那就是要侍奉君临黑暗世界的吸血鬼女王。在晃17岁生日的那天，吸血鬼女王米娜・柴佩西出现在他面前。她说她来日本的目的是要在日本建立一个吸血鬼专用居住区——吸血鬼特区（Vampire Bund）。知道吸血鬼存在的事实后人类社会动荡不安。米娜与</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/kuragehime/"><img src="http://static.jfrft.com/uploads/201510/1-15100Q05J0S6.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/kuragehime/">海月姬</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>治愈系|搞笑|乙女|青春</div><div class="d_label"><b>播放：</b>145529</div></p>
+                    <p><b>看点：</b>宅女、伪娘聚义堂</p>
+                    <p><b>简介：</b>主角仓下月海是一名梦想着成为插画家，并且非常喜欢水母的女孩。她为了梦想而来到东京，后入住了女生公寓“天水馆”，这里的住客大多是宅女，对她们来讲拥有时尚感的人就全是她们的敌人。一天，为了营救水母，月海遇到了一名超美的伪娘。于是发生在宅女、伪娘之间的故事就此展开。</p>
+                    <p><b style="color:#F00">状态:</b> 已完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/seikimatsu/"><img src="http://static.jfrft.com/uploads/allimg/201512/1-1512221552330-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/seikimatsu/">世纪末超自然学院</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>冒险|奇幻|青春</div><div class="d_label"><b>播放：</b>164349</div></p>
+                    <p><b>看点：</b>奇异的超自然事件</p>
+                    <p><b>简介：</b>1999年，长野县长野市松代的皆神山坐落着一座私立学院。这座学院因为接二连三发生奇怪现象，被周围的人称作“超自然学院”。这座学院的校长和学生都夜以继日的研究这些奇怪现象。校长去世后，非常讨厌“超自然”的校长的女儿神代玛雅接替了他的位置，她遇见了从2012年穿越来的内田文明。这之后，他们二人不断遭遇学</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/fortune-arterial/"><img src="http://static.jfrft.com/uploads/201512/1-15122Q64914343.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/fortune-arterial/">赤之约束</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>游戏改编|后宫|校园</div><div class="d_label"><b>播放：</b>146306</div></p>
+                    <p><b>看点：</b>吸血鬼题材校园恋爱动漫</p>
+                    <p><b>简介：</b>这里是海上交通要塞珠津岛，有着樱花观赏名所珠津山和号称永不枯竭的池塘千年泉。主人公支仓孝平转学来到珠津岛6年制全寄宿英国贵族学校“修智馆学院”，然而这里却有着吸血鬼…</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/overrun/"><img src="http://static.jfrft.com/uploads/201602/1-16022303302b44.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/overrun/">娇蛮猫娘大横行</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>轻小说|青春|搞笑|后宫</div><div class="d_label"><b>播放：</b>281285</div></p>
+                    <p><b>看点：</b>萌萌哒的猫娘</p>
+                    <p><b>简介：</b>平凡的男生都筑巧与没有血缘关系的姐姐都筑乙女两人生活在一起。并不擅长经营的姐姐把自己家里的西点店STRAY CATS弄得惨淡不堪，幸亏有家住附近的青梅竹马芹泽文乃帮忙，才勉强维持着每日的营业。正在这种情况下，姐姐乙女还捡回了一个不得了的东西，更新奇的是那位学园排名第一的大小姐还想创立一个新的社团。面</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/AsobiniIkuyo/"><img src="http://static.jfrft.com/uploads/allimg/161125/1_1712271062.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/AsobiniIkuyo/">玩伴猫耳娘</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年07月</div></p>
+                    <p><div class="d_label"><b>标签：</b>科幻|后宫|恋爱|肉番</div><div class="d_label"><b>播放：</b>437069</div></p>
+                    <p><b>看点：</b>卡哇伊的猫耳少女</p>
+                    <p><b>简介：</b>这是一部描写拥有猫耳猫尾的可爱宇宙少女爱丽丝与住在冲绳的少年嘉和骑央一同生活的作品，嘉和骑央是一个普通高中一年级生，他在他们一族中的第五代长老的首次忌辰，遇到了和叔叔喝啤酒的猫耳少女爱丽丝，自称自己是外星人，来地球的目的是为了做调查并顺便游玩。</p>
+                    <p><b style="color:#F00">状态:</b> 完成 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/oreimo/"><img src="http://static.jfrft.com/uploads/201508/1-150R50G04a47.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/oreimo/">我的妹妹哪有这么可爱第一季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>轻小说|后宫|治愈系|恋爱|青春</div><div class="d_label"><b>播放：</b>212148</div></p>
+                    <p><b>看点：</b>名字已经证明了一切</p>
+                    <p><b>简介：</b>高坂京介，普通到不能再普通的男高中生。却有个体育万能、学业优秀、人缘极佳的漂亮妹妹高坂桐乃，不过当妹妹的桐乃完全没把当哥哥的京介放在眼里，关系不佳的两人，京介认为这种充满代沟的状态，今后也会一直持续下去！但没想到，某天京介意外发现到妹妹一个不为人知的超大秘密？！从此，京介平凡庸俗的人生开始有了巨大变</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/Kakushi/"><img src="http://static.jfrft.com/uploads/allimg/201509/1-15091Q110590-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/Kakushi/">神隐之狼</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年01月</div></p>
+                    <p><div class="d_label"><b>标签：</b>游戏|冒险|推理|恋爱</div><div class="d_label"><b>播放：</b>235444</div></p>
+                    <p><b>看点：</b>神秘杀人事件？</p>
+                    <p><b>简介：</b>昭和58年的夏天。16岁的少年九澄博士因为父亲的关系，从市中心移居至建设于山中的新兴小镇嫦娥街就读高一。嫦娥街被一条河流分为“旧市街”和“新市街”2部分，这里残存着充满神秘色彩的各种奇怪传承以及风俗。在适应着新环境的同时准备快乐地享受全新生活的九澄博士却在意着班上唯一与他保持距离的班长栉名田眠。在少</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/scramble/"><img src="http://static.jfrft.com/uploads/201508/1-150RQGP5494.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/scramble/">壳中少女</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年11月</div></p>
+                    <p><div class="d_label"><b>标签：</b>小说改编|科幻|战斗</div><div class="d_label"><b>播放：</b>182399</div></p>
+                    <p><b>看点：</b>原作获得第24届日本SF大奖</p>
+                    <p><b>简介：</b>故事发生在科学技术高度发展的未来，由于先前爆发的战争而导致科技崩坏的世界。在有着“通往天国之街”之称的Mardock Scramble街上，住着故事的主人公赌场老板兼赌博师榭尔的情人巴洛特。过于残酷的生活经历让巴洛特心扉紧闭，后来在榭尔设下的陷阱中险些丧命，千钧一发之际幸得犯罪搜查官博士和乌夫库克营</p>
+                    <p><b style="color:#F00">状态:</b>  </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/Shoukanjuu/"><img src="http://static.jfrft.com/uploads/allimg/160316/1_2034134621.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/Shoukanjuu/">笨蛋测验召唤兽</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>青春|搞笑|恋爱</div><div class="d_label"><b>播放：</b>289573</div></p>
+                    <p><b>看点：</b>被系统测成笨蛋怎办？</p>
+                    <p><b>简介：</b>文月学园采用根据科学、偶然性和神秘学所开发的“测验召唤系统”，让感叹学历低落的学生之间掀起了一股新的风潮。在这所依照分班考试成绩严格实行分班的学园里，男主角吉井明久自信满满地等待着测验结果，结果却被分到最差的班级F班！同时，考试坐在明久身边的姬路瑞希因患病中途退场，优异的成绩作废，同样被分到F班。明</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/k-on2/"><img src="http://static.jfrft.com/uploads/allimg/160512/1_1428201761.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/k-on2/">轻音少女第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>治愈系|励志|美少女|百合|青春</div><div class="d_label"><b>播放：</b>355680</div></p>
+                    <p><b>看点：</b>废萌的代表，酥软软少女们的日常，治愈</p>
+                    <p><b>简介：</b>新学年开始，除了小梓，大家都升上三年级，还被分到了同一个班级。然而要是再不招揽新成员入部，来年四名成员毕业离校，轻音部就要面临废部的命运了……</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/soraotojcb/"><img src="http://static.jfrft.com/uploads/allimg/161107/1_1819365591.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/soraotojcb/">天降之物 剧场版</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年</div></p>
+                    <p><div class="d_label"><b>标签：</b>后宫|肉番|搞笑</div><div class="d_label"><b>播放：</b>251806</div></p>
+                    <p><b>看点：</b>天上开始掉天使了……而她，可以实现废柴男任何非分之想……</p>
+                    <p><b>简介：</b>信守“和平第一”的废柴男樱井智树每天过着碌碌无为的生活，然而有一天，突然从天上落下一个天使，天使名叫伊卡罗斯，她拥有能实现樱井智树愿望的力量。于是身体健康青春勃发的智树开始提出一个又一个让人脸红心跳的愿望……</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/soraoto2/"><img src="http://static.jfrft.com/images/cover/6015.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/soraoto2/">天降之物f</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年</div></p>
+                    <p><div class="d_label"><b>标签：</b>后宫|肉番|搞笑</div><div class="d_label"><b>播放：</b>252310</div></p>
+                    <p><b>看点：</b>天上开始掉天使了……而她，可以实现废柴男任何非分之想……</p>
+                    <p><b>简介：</b>信守“和平第一”的废柴男樱井智树每天过着碌碌无为的生活，然而有一天，突然从天上落下一个天使，天使名叫伊卡罗斯，她拥有能实现樱井智树愿望的力量。于是身体健康青春勃发的智树开始提出一个又一个让人脸红心跳的愿望……</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/seitokai/"><img src="http://static.jfrft.com/uploads/201508/1-150Q509450VB.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/seitokai/">妄想学生会</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>青春|肉番|后宫</div><div class="d_label"><b>播放：</b>421120</div></p>
+                    <p><b>看点：</b>荤段子学生会归来，接受学姐的调戏吧！</p>
+                    <p><b>简介：</b>私立樱才学园原是传统女子高中，但被迫改为男女合校。作为改制后第一年入学的28名男性新生之一的津田隆利，被拉入了学生会——三位美女干部功力无敌，不得不吐槽的生活轰然开启。”</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/fate-sn/"><img src="http://static.jfrft.com/uploads/allimg/161116/1_1817211321.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/fate-sn/">Fate/stay night [Unlimited Blade Works]</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>游戏|奇幻|动作|恋爱|热血</div><div class="d_label"><b>播放：</b>183009</div></p>
+                    <p><b>看点：</b>某天，士郎捲入了一场叫做“圣杯战争”的魔术师们的战争中……</p>
+                    <p><b>简介：</b>圣杯是传说中可实现持有者一切愿望的宝物，而为了得到圣杯的仪式就被称为圣杯战争。参与者有7人。卫宫切嗣的养子卫宫士郎，偶然地与servant中的剑士Saber订定契约，被卷入战争当中。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/nuramago/"><img src="http://static.jfrft.com/uploads/201510/1-15101614541K45.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/nuramago/">滑头鬼之孙 第一季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>奇幻|热血|冒险 </div><div class="d_label"><b>播放：</b>262573</div></p>
+                    <p><b>看点：</b>话说滑头鬼的头也是和头发一样长</p>
+                    <p><b>简介：</b>自幼和妖怪们住在一起的少年“陆雄”非常喜欢妖怪，而且也希望能继承自己的祖父“妖怪首领滑瓢”，成为一个优秀的妖怪首领，但在他知道很多人们都非常讨厌妖怪后，他的想法因此有所改变。 平时的外表是普通少年的陆雄，由于拥有 1/4 的妖怪血统，因此能在夜晚时变身成为妖怪。在几经波折后，陆雄开始思考自己的身分和</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/yosuganosora/"><img src="http://static.jfrft.com/images/cover/10200.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/yosuganosora/">缘之空</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>恋爱|后宫</div><div class="d_label"><b>播放：</b>1334795</div></p>
+                    <p><b>看点：</b>恨妹不成穹 恨穹不是妹</p>
+                    <p><b>简介：</b>主人公春日野悠和他的双胞胎妹妹穹在父母事故身亡后，来到了位于奥木染镇的祖父家中，在那里开始新的生活。与昔日到访奥木染镇时认识的天女目瑛和依媛奈绪重逢，认识了新的朋友，以及被妹妹所依赖，就这样悠的新生活展开了。在安稳的日子里，悠渐渐地注意到了对自己来说谁是最重要的存在……</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/hotd/"><img src="http://static.jfrft.com/images/cover/11400.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/hotd/">学园默示录</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>漫画改|奇幻|冒险|热血</div><div class="d_label"><b>播放：</b>575018</div></p>
+                    <p><b>看点：</b>来乳摇默示录看御姐大战丧尸！</p>
+                    <p><b>简介：</b>该作可以看做是《生化危机》的校园版，讲述了人类被谜样的病毒攻击，受到病毒感染的人类会变成僵尸，并且攻击一切活动的物体，甚至死亡多年的尸体也同样会受到感染。于是日常中平静的校园变成了战场，主人公小室孝和宫本丽等幸存的高校生不得不拿起武器，与僵尸勇敢作战。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/uraboku/"><img src="http://static.jfrft.com/uploads/allimg/201510/1-15102QH2570-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/uraboku/">无法逃离的背叛</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年04月</div></p>
+                    <p><div class="d_label"><b>标签：</b>冒险|奇幻|耽美|乙女</div><div class="d_label"><b>播放：</b>140469</div></p>
+                    <p><b>看点：</b>伪BL的BL动漫</p>
+                    <p><b>简介：</b>故事的主角为一名拥有“接触对方就能够读取对方思考”的特殊能力的高中生樱井夕月，自小在孤儿院长大的他孤僻寂寞，这种能力困扰着夕月，他时常想自己生存着到底是为了什么。直到有一天，在他的面前出现了一个似曾相识的名叫泽斯的美青年。泽斯告诉夕月，千万不能在招致杀身之祸的...</p>
+                    <p><b style="color:#F00">状态:</b>  </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/durarara/"><img src="http://static.jfrft.com/images/cover/6100.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/durarara/">无头骑士异闻录</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>奇幻|冒险|轻小说</div><div class="d_label"><b>播放：</b>161477</div></p>
+                    <p><b>看点：</b>东京池袋街头暴力事件</p>
+                    <p><b>简介：</b>以东京池袋为舞台，讲述了向往非日常生活的高中生、被称为池袋最强的男人、经营情报屋，以玩弄人心为乐的青年、专接不寻常病患的密医以及骑着漆黑色机车的“无头骑士”等人错综复杂又息息相关的都市生活</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/mitsudomoe/"><img src="http://static.jfrft.com/uploads/allimg/201512/1-15121Q454070-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/mitsudomoe/">超元气三姐妹第一季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年07月</div></p>
+                    <p><div class="d_label"><b>标签：</b>漫画改|搞笑|美少女</div><div class="d_label"><b>播放：</b>113970</div></p>
+                    <p><b>看点：</b>超元气三姐妹~~超恶搞的笑园漫画改编</p>
+                    <p><b>简介：</b>故事以丸井家就读小学六年级的三胞胎姐妹为中心，长女三叶是一个稍嫌早熟的虐待狂少女，以女王自居的她，认为所有的人都要对他服从。次女双叶是个有点色色的少女，头脑简单四肢发达的她，最喜欢的东西就是女人的胸部。三女一叶则是个有点不可思议的阴沉型少女，常被人误认是灵异少女，但是在家中的料理及家事都是由她负责。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/Hanamaru/"><img src="http://static.jfrft.com/uploads/allimg/201509/1-15092QH1330-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/Hanamaru/">花丸幼稚园</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年01月</div></p>
+                    <p><div class="d_label"><b>标签：</b>治愈系|搞笑|萝莉</div><div class="d_label"><b>播放：</b>165288</div></p>
+                    <p><b>看点：</b>这里是一群超级卡哇伊的小盆友。</p>
+                    <p><b>简介：</b>欢迎来到花丸幼稚园! 这里是一群活泼卡哇伊的孩子们每天生活的乐园。 陷入恋爱的女孩子・杏一直都喜欢着自己的班主任土田老师,为杏的恋爱加油...</p>
+                    <p><b style="color:#F00">状态:</b>  </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/wagnaria/"><img src="http://static.jfrft.com/uploads/150703/1-150F31I152927.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/wagnaria/">迷糊餐厅 第一季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑|恋爱</div><div class="d_label"><b>播放：</b>143767</div></p>
+                    <p><b>看点：</b>又来看润子吐槽了</p>
+                    <p><b>简介：</b>小鸟游是家中独子，上有姐姐下有妹妹，从小生活在女人堆里，酷爱一切和可爱有关的事物。机缘巧合的来到一家叫做瓦古娜利亚的餐厅打工，开始了学校、打工、家事三点一线的忙碌生活。小鸟游渐渐发现，原来瓦古娜利亚餐厅的店员都各具特色：种岛是个外形娇小，长着一张娃娃脸的可爱女生，凭借这令自己相当头疼的卡哇伊外形深得</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/Blacklagoon/"><img src="http://static.jfrft.com/uploads/201509/1-15091GHJ2410.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/Blacklagoon/">黑礁第一季&第二季&第三季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2006年,2010年</div></p>
+                    <p><div class="d_label"><b>标签：</b>美少女|热血|冒险</div><div class="d_label"><b>播放：</b>220321</div></p>
+                    <p><b>看点：</b>公司职员冈岛的复仇之旅...</p>
+                    <p><b>简介：</b>在一次护送公司机密文件的途中，旭日重工的普通职员冈岛绿郎（浪川大辅 配音）遭到了名叫黑礁商会的神秘组织的袭击和绑架，机密文件亦被夺走。为了保证秘密不被泄露，旭日重工采取了消抹行动——包括文件和冈岛绿郎本人。在得知了自己被公司抛弃的消息之后，冈岛决定用自己的方式为自己谋得一条生路。冈岛向黑礁商会提出了</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/Kuttsukiboshi/"><img src="http://static.jfrft.com/uploads/allimg/161111/1_1658388591.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/Kuttsukiboshi/">紧扣的星星</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年08月</div></p>
+                    <p><div class="d_label"><b>标签：</b>百合|青春|乙女</div><div class="d_label"><b>播放：</b>287340</div></p>
+                    <p><b>看点：</b>一对小百合</p>
+                    <p><b>简介：</b>动画中讲述了了女高中生纪衣子和亚绫二人度过的“有点危险”的暑假。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/underthebridge/"><img src="http://static.jfrft.com/uploads/allimg/160412/1_1606142331.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/underthebridge/">荒川爆笑团</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑|治愈系</div><div class="d_label"><b>播放：</b>187422</div></p>
+                    <p><b>看点：</b>地球人不能发射电波的桥下</p>
+                    <p><b>简介：</b>电视动画系列《荒川爆笑团》改编自日本漫画家中村光原作的同名漫画。故事的主角小招是个身价不凡的企业家独生子，因为他被荒川桥上的奇妙女生小珊所救，加上长辈教导他“不求人也不欠人债”的观念，莫名其妙的让他开始了与小珊的交往，同时也开始居住在荒川桥下的日子。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/underthebridge2/"><img src="http://static.jfrft.com/uploads/allimg/160412/1_1608004271.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/underthebridge2/">荒川爆笑团 第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑|治愈系</div><div class="d_label"><b>播放：</b>162722</div></p>
+                    <p><b>看点：</b>地球人不能发射电波的桥下</p>
+                    <p><b>简介：</b>电视动画系列《荒川爆笑团》改编自日本漫画家中村光原作的同名漫画。故事的主角小招是个身价不凡的企业家独生子，因为他被荒川桥上的奇妙女生小珊所救，加上长辈教导他“不求人也不欠人债”的观念，莫名其妙的让他开始了与小珊的交往，同时也开始居住在荒川桥下的日子。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/yakumo/"><img src="http://static.jfrft.com/uploads/allimg/160427/1_2211188031.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/yakumo/">心灵侦探八云</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>推理|悬疑|校园</div><div class="d_label"><b>播放：</b>97097</div></p>
+                    <p><b>看点：</b>各种莫名其妙的案件莫名其妙的推理</p>
+                    <p><b>简介：</b>在上大学二年级的小泽晴香为了帮助一个“被灵附身了”的朋友，敲开来电影研究会的门。在那等着她的是传闻中拥有灵能力的齐藤八云。八云是一个看起来没有生气头发乱糟糟，仿佛将自己的心灵封闭起来了的青年，但是他的左眼却非常的惹眼，是血红的瞳色……</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/hidamarisketch3//"><img src="http://static.jfrft.com/uploads/allimg/160503/1_2145403961.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/hidamarisketch3//">向阳素描第三季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>漫画改|搞笑|校园</div><div class="d_label"><b>播放：</b>85552</div></p>
+                    <p><b>看点：</b>少女与少女之间的日常，迷样的画风</p>
+                    <p><b>简介：</b>《向阳素描第四季》全集主角是一位憧憬山吹高中美术科，并以优异的成绩入学的少女由乃。因为家中离学校很远，而住在学校校门前的公寓“向阳庄”。住在隔壁的是同学年的同学宫子而在各自房间正下方的是学姐寻和沙英。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/jiugouzx//"><img src="http://static.jfrft.com/uploads/allimg/160511/1_2207368851.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/jiugouzx//">咎狗之血</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>动作|耽美|游戏</div><div class="d_label"><b>播放：</b>242791</div></p>
+                    <p><b>看点：</b>冷漠，孤独，什么都无所谓，只是活着，活着。死到底是什么？而对于活着这个概念也似乎没什么理解。</p>
+                    <p><b>简介：</b>西历20XX年，第三次世界范围内大规模战争爆发。 ニホン（日本）步向完全军事化国家。 战后，ニホン（日本）分裂为东（CFC）与西（日兴连）两部分，废弃的首都トシマ（丰岛）成了犯罪都市。 作为战争武器而培养的一群孩子，在没有送上战场之前，战争却结束了。 以死亡和战斗为主题而养育，即使被送回普通的世界，</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/yingxiongren/"><img src="http://static.jfrft.com/uploads/allimg/160518/1_1629368251.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/yingxiongren/">英雄人</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>热血</div><div class="d_label"><b>播放：</b>166403</div></p>
+                    <p><b>看点：</b>这是个男主。。。</p>
+                    <p><b>简介：</b>在美国西海岸的中心城市，憧憬着HERO的少年Joey一边打工，一边和祖母二人每天快乐地生活。至到某天，Joey捡到了一个破烂机器人玩具并着手修理它，然后为它起名叫“HEROMAN”。之后的某天夜晚，一度强力的闪电击中了Joey家，机器人玩具被雷光包围，化身成一个拥有电击能力的巨大机器人“HEROMA</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/bsoxgz/"><img src="http://static.jfrft.com/uploads/allimg/160523/1_1415125891.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/bsoxgz/">变身！偶像公主</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>冒险|恋爱|童年|美少女</div><div class="d_label"><b>播放：</b>155869</div></p>
+                    <p><b>看点：</b>会变身的美少女偶像</p>
+                    <p><b>简介：</b>在世界的另一端，有一个叫“童话王国”的梦幻世界，女王神情忧愁地看着天空上的幸福之星不断消失，要是再这样下去，童话王国就要消失了，为了拯救童话王国，女王决定让三个魔法宠物带着王子历经艰难阻挠好不容易得到的魔法石去人间寻找符合条件的三位少女：雪森苹果、高城蕾拉和笹原名月。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/katanamonogatali/"><img src="http://static.jfrft.com/uploads/allimg/160524/1_1018358371.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/katanamonogatali/">刀语</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>轻小说改|奇幻|冒险</div><div class="d_label"><b>播放：</b>238992</div></p>
+                    <p><b>看点：</b>化物语原作——西尾维新作品</p>
+                    <p><b>简介：</b>故事发生在中世纪的日本，鑢七花（细谷佳正配音）是一个外表强壮头脑简单的男子，生于武术世家的他背负着传承“虚刀流”的重任。从小到大，鑢七花便被当做一把刀来培养，这种变态的教育方式使得他最终走上了弑亲的悲剧道路。在奇策士咎儿（田村由加莉配音）的鼓动和怂恿下，鑢七花踏上了漫漫的修炼之路，他要找到锻制师四季</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/jdxdxralat/"><img src="http://static.jfrft.com/uploads/allimg/160526/6_1411308321.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/jdxdxralat/">借东西的小人阿莉埃蒂</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>奇幻</div><div class="d_label"><b>播放：</b>191470</div></p>
+                    <p><b>看点：</b>改编自英国作家玛丽·诺顿的奇幻小说《地板下的小人》</p>
+                    <p><b>简介：</b>在郊外一个荒废的庭院中有一座大的老房子。在它的地板下，已经14岁的少女小人阿莉埃蒂和爸爸波特、妈妈霍米莉3人安静地生活着。在那屋里，住着两位老妇人。为了不让女主人牧贞子家佣的阿春发现，阿莉埃蒂一家，只能一点一点地借一些足够维持生活的必需品，像肥皂、曲奇、砂糖、电、汽油之类的。某年的夏天，那个屋子里来</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/nizjd/"><img src="http://static.jfrft.com/uploads/allimg/160602/1_0937393191.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/nizjd/">逆转监督</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>运动</div><div class="d_label"><b>播放：</b>80492</div></p>
+                    <p><b>看点：</b>真实的足球故事</p>
+                    <p><b>简介：</b>本作的叙事视点并非放于某个接近传奇的足球队队长身上，而是在过去那些足球漫画中并不起眼的监督角色，本作就是讲述这名名为达海猛的足球监督（教练）运用优秀出众的头脑，以出奇制胜的战术部署，赢得各个比赛，从而重建弱小足球俱乐部的故事。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/snygsl//"><img src="http://static.jfrft.com/uploads/allimg/160615/7_0353244721.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/snygsl//">少女妖怪石榴</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>奇幻|冒险</div><div class="d_label"><b>播放：</b>168988</div></p>
+                    <p><b>看点：</b>解决妖怪和有关系的不可思议的案</p>
+                    <p><b>简介：</b>为解决妖怪和有关系的不可思议的案件，当权组织“妖人省”被设立，并且那个组织被分为妖怪一派的代表和人类一派的代表。被“妖人省”召集了的人包括西王母桃、薄萤、鬼灯、雪洞与陆军少尉总角景、芳野葛利剑、花桐丸龙搭档共7人，被置于妖怪根治的任务！</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/ztgjsnfems//"><img src="http://static.jfrft.com/uploads/allimg/160626/1_2149002331.png"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/ztgjsnfems//">侦探歌剧少女福尔摩斯</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>游戏改|萝莉|百合|美少女</div><div class="d_label"><b>播放：</b>104808</div></p>
+                    <p><b>看点：</b>侦探歌剧少女福尔摩斯动画</p>
+                    <p><b>简介：</b>作品讲述的是在二十一世纪这个“大侦探时代”中，以侦都横浜为舞台，4名立志成为名侦探的少女与曾经是侦探的青年的故事。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/msdgs2//"><img src="http://static.jfrft.com/uploads/allimg/160626/1_2151047741.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/msdgs2//">梦色蛋糕师第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>恋爱|美少女</div><div class="d_label"><b>播放：</b>115680</div></p>
+                    <p><b>看点：</b>根据本作改编的TV动画从2009年10月开始在日本播放，</p>
+                    <p><b>简介：</b>松本夏实从2008年9月起在集英社旗下漫画杂志「RIBON」上连载的作品「梦色蛋糕师」，故事围绕超喜欢蛋糕的14岁少女天野草莓展开，虽然她对做蛋糕一窍不通，但是梦想成为蛋糕师，她总想着制作梦一般的蛋糕，开设满载笑容的蛋糕店。有一天她遇到了一位男蛋糕师，并被邀请来到甜点名校圣玛莉学园就读。草莓既甜又严</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/gangtiesia/"><img src="http://static.jfrft.com/uploads/allimg/160626/1_2153212011.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/gangtiesia/">钢铁侠</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>科幻</div><div class="d_label"><b>播放：</b>92321</div></p>
+                    <p><b>看点：</b>动画版的钢铁侠</p>
+                    <p><b>简介：</b>托尼·史塔克是斯塔克武器制造企业CEO、物理学家、工程师，同时也是天才发明家。有一天当托尼乘坐直升机返回美国时，遭遇一伙恐怖分子的导弹袭击。混乱中被导弹碎片击中心脏的托尼醒后发现胸口多了个奇怪的装置，正是这个仪器维系着自己的生命。原来是同为人质的英森博士用一块汽车电磁铁吸住了他体内的弹片，保住了他的</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/mianbaomimi/"><img src="http://static.jfrft.com/uploads/allimg/160626/1_2155356861.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/mianbaomimi/">面包咪咪</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>泡面番|治愈系</div><div class="d_label"><b>播放：</b>111916</div></p>
+                    <p><b>看点：</b>吐司咪咪是天然酵母妈妈所生的最小孩</p>
+                    <p><b>简介：</b>吐司咪咪是天然酵母妈妈所生的最小孩子，是个喜欢打扮的6切片吐司。这是吐司咪咪和它同伴们的又可爱又快乐的故事。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/qsyqwhbm/"><img src="http://static.jfrft.com/uploads/allimg/160628/1_2137407491.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/qsyqwhbm/">大神与七位伙伴们</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>校园|恋爱|搞笑|少女</div><div class="d_label"><b>播放：</b>172543</div></p>
+                    <p><b>看点：</b>为了纠正乱世而努力战斗！热血恋爱喜剧即将登场！</p>
+                    <p><b>简介：</b>从事借贷活动的恐怖组织御伽学园学生相互扶助协会，俗称——御伽银行！它究竟是正义的一方？还是邪恶组织？亦或仅仅是怪人的集合体？凶暴的一只大神·新型傲骄女子高中生大神凉子和喜欢着她的视线恐怖症下垂眼男生森野亮子以及外表看上去很萝莉其实很腹黑的赤井林檎，当然还有其他的伙伴们，他们为所欲为想做就做，为了纠正</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/gwlrrj/"><img src="http://static.jfrft.com/uploads/allimg/160628/1_2138208721.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/gwlrrj/">怪物猎人日记</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>泡面番|搞笑|游戏</div><div class="d_label"><b>播放：</b>87226</div></p>
+                    <p><b>看点：</b>怪物猎人日记</p>
+                    <p><b>简介：</b>在猫猫们幸福的生活着的村庄里，猫猫们每天都为了村庄的发展以及得到报酬，狩猎特产蘑菇、搬运雌火龙的卵、钓黄金鱼等，勇敢的挑战各项难题。可是村里的几个小伙伴利达、喵咪、帕卡塞、普尼等却每次都拖后腿，他们究竟能否应对每次遇到的危机呢？</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/jhdztwy/"><img src="http://static.jfrft.com/uploads/allimg/160628/1_2138102461.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/jhdztwy/">江户盗贼团五叶</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>耽美</div><div class="d_label"><b>播放：</b>199611</div></p>
+                    <p><b>看点：</b>saraiya goyouさらい屋五葉</p>
+                    <p><b>简介：</b>本作的主人公名为秋津政之助，他因懦弱和害羞的性格而沦为浪人。某天，政之助被偶然遇见的风流浪子弥一看中，并被邀请担任他的保镖。后来才得知，原来弥一是以偷呃拐骗为生计的盗贼团伙“五叶”的一员。究竟政之助的命运将怎样呢？真正的羁绊、坚强、温柔又是什么呢？在这里，大江户艳色绘卷拉开了帷幕！</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/hdxyq//"><img src="http://static.jfrft.com/uploads/allimg/160628/1_2137566501.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/hdxyq//">和殿下一起</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>耽美|搞笑|热血</div><div class="d_label"><b>播放：</b>132233</div></p>
+                    <p><b>看点：</b>战国武将恶搞</p>
+                    <p><b>简介：</b>《和殿下一起》是以战国时代的武将为主，恶搞历史事件的一部爆笑作品。作品中有众多的战国名将登场，并且这些被称作“殿下”的战国名将在作品中基本上都充当被属下吐槽的对象。例如武田信玄这种半路出家的武将，年轻的时候充当毒舌角色，到了功成名就之后就沦落为被属下吐槽的对象。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/npkft//"><img src="http://static.jfrft.com/uploads/allimg/160630/1_2149246071.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/npkft//">女仆咖啡厅</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>恋爱|治愈系</div><div class="d_label"><b>播放：</b>72955</div></p>
+                    <p><b>看点：</b>女仆系列！！！！</p>
+                    <p><b>简介：</b>岚山步鸟是丸子商店街咖啡厅“SEASIDE”的一名普通的兼职服务生。某一天，店长兴起念头决定把咖啡厅打造成时下流行的女仆咖啡厅，可惜咖啡厅里没有一个人对女仆咖啡厅有了解。通常的话，应该先到别的咖啡厅去调查才对，可是“SEASIDE”仅仅让服务生穿上女仆的服装就宣布重新开业了。步鸟的同级生同时也是同事</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/gwnli//"><img src="http://static.jfrft.com/uploads/allimg/160917/1_1627285461.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/gwnli//">怪盗丽奈</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>泡面番|搞笑</div><div class="d_label"><b>播放：</b>88940</div></p>
+                    <p><b>看点：</b>本作就是由这些人编织而成的怪盗戏剧。</p>
+                    <p><b>简介：</b>怪盗丽奈，平时是“Faminya”的看板娘，其实暗中和助手鼠太郎一起策划对店铺的地下仓库进行偷盗。大江户警察局正好位于“Faminya”旁边，那里的工口警部、妄想刑警、天然女警组成了笨蛋警察3人组，势要捉拿怪盗丽奈归案，但结果却是屡遭失败。本作就是由这些人编织而成的怪盗戏剧。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/ddwts//"><img src="http://static.jfrft.com/uploads/allimg/160630/1_2149489231.jpeg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/ddwts//">吊带袜天使</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑|奇幻|冒险|肉番</div><div class="d_label"><b>播放：</b>195842</div></p>
+                    <p><b>看点：</b>成年小女警</p>
+                    <p><b>简介：</b>在天堂和地狱的裂缝之间有一座城市——堕天城，在那里人们一直饱受“恶灵”的袭击。蚀人心的黑暗，至今仍在悄悄地侵蚀这个城市。有人正试图以超自然力，消灭这些由欲望产生的恶灵，担负了这驱逐黑暗使命的，究竟是上帝的使者，还是恶魔的仆从?</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/kongzhiyin/"><img src="http://static.jfrft.com/uploads/allimg/161111/1_1705193841.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/kongzhiyin/">空之音</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>剧情|美少女</div><div class="d_label"><b>播放：</b>126151</div></p>
+                    <p><b>看点：</b>假名、汉文等都是远古象形文字，连人口也很少，科技也退化没有再进步下去。 </p>
+                    <p><b>简介：</b>年幼的空深彼方曾在废墟里遇到过一个女性，这个女性手拿着一个小号为彼方吹奏了一曲《奇异恩典》。因此彼方对成为喇叭手有了兴趣，带着“进了军队就能吹小号”的错误想法，空深彼方加入了军队，并驻留在赛兹的第1121小队。故事从她被卷入泼水节的骚动开始。故事时间是在不太遥远的未来，过于漫长的战事的痕迹污染了整个</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/axispowers2/"><img src="http://static.jfrft.com/uploads/allimg/160715/1_1505047791.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/axispowers2/">黑塔利亚 第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑|耽美|泡面番</div><div class="d_label"><b>播放：</b>128223</div></p>
+                    <p><b>看点：</b>敏感的题材+腐女的YY腐作</p>
+                    <p><b>简介：</b>《黑塔利亚》（Axis powers ヘタリア）是一部于互联网上连载的漫画，作者为日丸屋秀和，作品以世界历史为主轴。它把将多个国家以及该国的文化以及风土民情拟人化，主要以喜剧的四格及短篇为主。描述二战这个比较敏感的话题，但是轻松搞笑的氛围还是深受读者欢迎，因为可爱的人物造型使得在女性读者群中也拥有很</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/shimengzhe/"><img src="http://static.jfrft.com/uploads/allimg/160725/1_1436055891.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/shimengzhe/">食梦者第一季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年10月</div></p>
+                    <p><div class="d_label"><b>标签：</b>热血|恋爱|励志|青春</div><div class="d_label"><b>播放：</b>180424</div></p>
+                    <p><b>看点：</b>本作是大场鸫和小畑健继《死亡笔记》后再度合作的作品。</p>
+                    <p><b>简介：</b>为了追求只有极少数的人才能得到的光荣，真城最高及高木秋人决定搭档步上艰难的漫画之路。真城以高度的画功，高木则以文才见长，俩人创造出新的漫画传说！！</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/colorful/"><img src="http://static.jfrft.com/uploads/allimg/160914/1_1628335941.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/colorful/">意外的幸运签</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年8月</div></p>
+                    <p><div class="d_label"><b>标签：</b>奇幻|恋爱</div><div class="d_label"><b>播放：</b>149569</div></p>
+                    <p><b>看点：</b>重生的机会</p>
+                    <p><b>简介：</b>“我”冥冥中来至天国，却被那个有些聒噪的使者普拉普拉拦住去路。在他所说，上帝给了十恶不赦的我一次重生的机会，以此体味和感受生命真正的价值。“我”不由分说被重新投回人间，灵魂进入了一个初三学生小林真的体内。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/tianlaizhiyin/"><img src="http://static.jfrft.com/uploads/allimg/160917/1_1720461761.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/tianlaizhiyin/">天籁之音（打工声优）</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010</div></p>
+                    <p><div class="d_label"><b>标签：</b>萝莉|治愈系</div><div class="d_label"><b>播放：</b>102517</div></p>
+                    <p><b>看点：</b>从小小声优开始的治愈故事</p>
+                    <p><b>简介：</b>OVA动漫打工声优全集另名声音的那点事，讲述了主人公青柳柑奈，在十六岁生日那天受到社长姐姐拜托去她的游戏公司担当游戏的配音工作，而万万没想到的是这是家C人向游戏公司，显然柑奈要为C人向游戏中的角色配音。对于一名才十六岁的少女来说，这件事是难度极大的。就这样，糟糕而又充满搞笑要素的故事开演了。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/jxqrm3/"><img src="http://static.jfrft.com/uploads/allimg/161011/1_2214512801.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/jxqrm3/">交响情人梦第三季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年</div></p>
+                    <p><div class="d_label"><b>标签：</b>励志|乙女|恋爱</div><div class="d_label"><b>播放：</b>177647</div></p>
+                    <p><b>看点：</b>音乐与恋爱</p>
+                    <p><b>简介：</b>浪漫之都巴黎，一对沉浸在音乐世界的年轻人为了各自的梦想而努力打拼。作为马尔雷院团的首席指挥，千秋真一（关智一 配音）以前所未有的劲头全速前进。为了能够集中精神从事音乐事业，他在未和野田惠（川澄绫子 配音）进行事先沟通的情况下决定搬离公寓。另一方面，野田妹渴望参赛的愿望被老师拒绝，前辈风头无量的舞台表</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/guaidaoliya/"><img src="http://www.dilidili.wang/uploads/allimg/170525/6_1124395211.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/guaidaoliya/">怪盗丽娅</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年</div></p>
+                    <p><div class="d_label"><b>标签：</b>喜剧|奇幻</div><div class="d_label"><b>播放：</b>38606</div></p>
+                    <p><b>看点：</b>一个逗比怪盗的故事</p>
+                    <p><b>简介：</b>怪盗丽娅，平时是“Faminya”的看板娘，其实暗中和助手鼠太郎一起策划对店铺的地下仓库进行偷盗。大江户警察局正好位于“Faminya”旁边，那里的工口警部、妄想刑警、天然女警组成了笨蛋警察3人组，势要捉拿怪盗丽娅归案，但结果却是屡遭失败。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/major6/"><img src="http://www.dilidili.wang/uploads/allimg/170602/6_0945446262.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/major6/">棒球大联盟 第六季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010</div></p>
+                    <p><div class="d_label"><b>标签：</b>热血|竞技|励志|体育</div><div class="d_label"><b>播放：</b>58159</div></p>
+                    <p><b>看点：</b>历经少棒联盟与高中棒球时代，进入美国大联盟挑战的成长历程。</p>
+                    <p><b>简介：</b>主角本田吾郎的父亲本田茂治本来是职业棒球选手，自幼丧母，但是六岁时父亲在比赛中被乔吉普森的触身球击中头部而脑血肿而过世。其后吾郎的幼稚园老师星野桃子(茂治的女友)便收养吾郎，九岁时茂野英毅与星野桃子结婚，本田吾郎姓氏便改为茂野，历经少棒联盟与高中棒球时代，进入美国大联盟挑战的成长历程。 励志+亲情+</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/xinfeng2/"><img src="http://www.dilidili.wang/uploads/allimg/170606/6_1437596991.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/xinfeng2/">信蜂 第二季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010</div></p>
+                    <p><div class="d_label"><b>标签：</b>冒险|科幻|剧情</div><div class="d_label"><b>播放：</b>17992</div></p>
+                    <p><b>看点：</b>一步步揭开了世界的真相</p>
+                    <p><b>简介：</b>没有黎明的世界・琥珀之地。 在那充满危险的黑暗世界中，送信员“信蜂”拼命地传递着人们“心”中的“信件”。 憧憬着年幼时遇到的恩人葛修而成为信蜂的少年拉格。 然而，终于走出第一步的拉格所面对的是葛修已经被解雇的事实。 拉格发誓，必定要带回远去首都失去“心”并消失身影的葛修。 但无情的是，好不容易再会的</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl>
+
+        </div>
+
+    </div>
+    <p>----------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+    <div class="con24 m-20 clear">
+
+        <div class="anime_list">
+            <center><h2>中国动漫</h2></center>
+            <dl>
+                <dt><a hrel="/anime/qinshimingyue3/"><img src="http://static.jfrft.com/uploads/201602/1-16020311341G22.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/qinshimingyue3/">秦时明月之 诸子百家</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年</div></p>
+                    <p><div class="d_label"><b>标签：</b>历史/冒险</div><div class="d_label"><b>播放：</b>36598</div></p>
+                    <p><b>看点：</b>这个名字给人一种奇怪的感觉~</p>
+                    <p><b>简介：</b>公元前222年，秦发兵六十万攻楚，楚军节节败退。秦灭六国，统一中国，成为历史上第一位帝王。然而，乱世并未结束，一股强大的力量正在为颠覆大秦而崛起。墨家、儒家、道家、法家、兵家、纵横家、阴阳家、医家、农家、名家等，历史上称之为诸子百家。他们有的集结六国残余势力，为推翻帝国保证伺机而动；有的追随帝国主人</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/amt3/"><img src="http://static.jfrft.com/uploads/allimg/201602/1-1602021K4040-L.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/amt3/">我叫MT第三季</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年5月</div></p>
+                    <p><div class="d_label"><b>标签：</b>热血/搞笑/冒险</div><div class="d_label"><b>播放：</b>24480</div></p>
+                    <p><b>看点：</b>《魔兽世界》爱好者绝对不能错过</p>
+                    <p><b>简介：</b>经过漫长的成长哀木涕5人终于成长起来，这一季故事讲述奥山之战异常激烈，部落方召唤出了冰雪之王洛克霍拉。最后结果的会如何呢？</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/shougongjie/"><img src="http://static.jfrft.com/uploads/allimg/160414/6_1117224811.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/shougongjie/">手工街</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>幼稚/温暖/亲子</div><div class="d_label"><b>播放：</b>34728</div></p>
+                    <p><b>看点：</b>幼儿亲子动漫</p>
+                    <p><b>简介：</b>《手工街》虚拟出一个由手工纸模型建立的童话世界。在这个神奇的世界中,传统的中国古典视觉元素与现代化的生活方式融为一体。人,房屋,动物,花草,日月,交通工具,所能看到的一切都是由手工折纸创造而成,这里的居民们也是由一张张纸片折叠出来的</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/qyxqt/"><img src="http://static.jfrft.com/uploads/allimg/160414/6_1620479241.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/qyxqt/">侠义小青天</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>历史/推理 </div><div class="d_label"><b>播放：</b>20616</div></p>
+                    <p><b>看点：</b>弘扬中华民族文化中的国粹</p>
+                    <p><b>简介：</b>《侠义小青天》由乾豪动漫出品，为剧情故事片，第一部六十五集，共分为《学院大赛》《惊天大劫案》《宝林寺齐案》《神偷谍影》《宝灯救赎》五个复杂案件。</p>
+                    <p><b style="color:#F00">状态:</b>  </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/kjyszdhx/"><img src="http://static.jfrft.com/uploads/allimg/160419/6_1420246351.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/kjyszdhx/">铠甲勇士之帝皇侠</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>动作|机战|奇幻|热血</div><div class="d_label"><b>播放：</b>20518</div></p>
+                    <p><b>看点：</b>最强的武器 就是存在于心中的意念</p>
+                    <p><b>简介：</b>在铠甲勇士炎龙侠、风鹰侠、黒犀侠、地虎侠、雪獒侠合体为帝皇侠齐心协力封印了暗影黑魔兽后，城市恢复了宁静与幸福，ERP组织也逐渐缩小了规模，由以炘南、北淼为首的五人战斗小组缩编为一个拥有五个光影村后人血统召唤人。由于之前并没有对从铠甲勇士B队手里逃出的异能兽10号进行成功封印，于是美真（杨亚饰）寻找到</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/zhuzhuxia5/"><img src="http://static.jfrft.com/uploads/allimg/160420/6_1043448731.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/zhuzhuxia5/">猪猪侠5积木世界里的童话故事</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑</div><div class="d_label"><b>播放：</b>25143</div></p>
+                    <p><b>看点：</b></p>
+                    <p><b>简介：</b>《猪猪侠之积木世界的童话》（52集）以《安徒生童话》和《格林童话》中的经典故事为创作背景，延续猪猪侠系列动画一贯的幽默风格，塑造了如白雪公主、灰姑娘、白马王子、小红帽等30多个西方童话故事中的经典人物，讲述猪猪家族因被卷入时空裂缝，掉入到由积木拼装而成的童话世界。在童话世界里，猪猪侠凭借其机智勇敢战</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/tjkklong/"><img src="http://static.jfrft.com/uploads/allimg/160421/6_1000572691.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/tjkklong/">钢甲卡卡龙</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年7月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑|励志|机战</div><div class="d_label"><b>播放：</b>22880</div></p>
+                    <p><b>看点：</b></p>
+                    <p><b>简介：</b>机器西元3000年，人类已经生活在一个充满机器的时代了，生活的一切几乎都是依靠机器完成的。故事发生在一个叫乌拉拉的现代化小城里，在乌拉拉城的城中央有一座高耸入云的乌拉拉山，山下就是繁华的乌拉拉城。 主人公小天的外公就是醉心于机器人研究的查理理老博士，老博士知道机器给人类带来现代化生活的便利，也意识到</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/xiabxj/"><img src="http://static.jfrft.com/uploads/allimg/160421/6_1643409421.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/xiabxj/">瞎兵泄将</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑</div><div class="d_label"><b>播放：</b>20207</div></p>
+                    <p><b>看点：</b></p>
+                    <p><b>简介：</b>《瞎兵泄将》是一部以都市上班族工作生活为蓝本的系列动画片，多年的职场生涯，作者深切体会到个体的渺小。于是带着调侃和自嘲的态度，将上班族分为两种：瞎兵与泄将，瞎兵们喜欢在泄将背后偷懒，做小动作，而泄将们却爱监视着瞎兵们的一举一动，本片诙谐幽默地演绎着这对看似冤家的组合摩擦出的故事。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/cgclzbj/"><img src="http://static.jfrft.com/uploads/allimg/160425/6_1755492781.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/cgclzbj/">春光灿烂猪八戒</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑|剧情|奇幻</div><div class="d_label"><b>播放：</b>29168</div></p>
+                    <p><b>看点：</b>由“春猪之父”之称的范小天策划、出品</p>
+                    <p><b>简介：</b> 相传上古至宝火灵珠、水灵珠每隔一千年便会重现人间。这两颗灵珠具有非常--非常--强大的魔力，在人界最危机的关头，它们会找到各自合适的主人，并协助他们对抗荼毒人间的恶魔。 这不，一千年过去了，魔界的大恶魔猫妖正蓄谋得到水火灵珠，她偷偷来到人界，搜寻灵珠的下落；天界得知这个消息，为了避免灵珠落入魔界手</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/dddklrj/"><img src="http://static.jfrft.com/uploads/allimg/160426/6_1031297381.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/dddklrj/">豆丁的快乐日记</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>搞笑</div><div class="d_label"><b>播放：</b>36738</div></p>
+                    <p><b>看点：</b></p>
+                    <p><b>简介：</b>反映的是孩子们日常学习生活中的小故事，人物形象生动可爱，情节风趣幽默，不但受到小朋友们的欢迎，也往往会让家长们笑着回忆起自己的童年时代。</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/tqbmxt/"><img src="http://static.jfrft.com/uploads/allimg/160428/6_1522559551.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/tqbmxt/">淘气包马小跳</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年4月</div></p>
+                    <p><div class="d_label"><b>标签：</b>国漫</div><div class="d_label"><b>播放：</b>16268</div></p>
+                    <p><b>看点：</b></p>
+                    <p><b>简介：</b>“淘气包马小跳系列”是杨红樱最新创作的儿童小说系列，作品诙谐幽默、好玩有趣，通过描写一群调皮孩子的快乐生活以及他们和家长、老师、同学的好玩的故事，映射当代儿童的生活现实与心理现实，深情呼唤张扬孩子的天性，舒展童心、童趣，探析成人世界与儿童世界之间的隔膜、误区，倡导理解、沟通，让孩子拥有健康、和谐、完</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/klxqd4b/"><img src="http://static.jfrft.com/uploads/allimg/160503/6_1633227061.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/klxqd4b/">快乐星球第四部</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>科幻|冒险</div><div class="d_label"><b>播放：</b>17333</div></p>
+                    <p><b>看点：</b></p>
+                    <p><b>简介：</b>步平凡是六一班的小学生，聪明、顽皮、讲义气，知识渊博，喜欢搞恶作剧。一天，由于一个很偶然的意外，步平凡陷入昏迷之中。步平凡的爸爸、妈妈万分着急，想了各种办法为步平凡治病，都没有效果。步平凡的爸爸在万般无奈的情况下，向快乐星球发出了求救信号。 摆脱了黑暗星球的骚扰，快乐星球的生活又恢复了平静。棒棒是快</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/fengsuzj/"><img src="http://static.jfrft.com/uploads/allimg/160504/6_1129509341.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/fengsuzj/">锋速战警</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>励志|奇幻|动作</div><div class="d_label"><b>播放：</b>14616</div></p>
+                    <p><b>看点：</b></p>
+                    <p><b>简介：</b>《锋速战警》讲的是未来地球环境污染严重，人类不但生活在有害的空间中，还遭受着来自外太空不明生物威胁。调皮捣蛋的安小龙屡次和企图统治地球的外星敌人交锋，无意中与好朋友兔牙一起入选了超能战队。原本为了保卫人们生命安全的他，却因为急于要表现自己而犯下了大错，虽然击败了敌人，但所造成的损失却直接导致了超能战</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/kekeczrj/"><img src="http://static.jfrft.com/uploads/allimg/160504/6_1548104001.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/kekeczrj/">科科成长日记</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                    <p><div class="d_label"><b>标签：</b>国漫</div><div class="d_label"><b>播放：</b>16748</div></p>
+                    <p><b>看点：</b></p>
+                    <p><b>简介：</b>科科是念二年级的小学生，和其他小朋友一样，他每天念着连大人都觉得头疼的小学教材，机灵的头脑总是有着问不完的问题，爱玩爱闯的他一路跌跌撞撞地长大着。他有个让自己骄傲的爸爸。因为科科的爸爸是个伟大科学研究者，最让科科神气的是爸爸会做很多各种各样奇怪的飞机。 科科在一个雷雨交加的傍晚收留了一个楚楚可怜的小</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl><dl>
+                <dt><a hrel="/anime/xyxqt/"><img src="http://static.jfrft.com/uploads/allimg/161228/1_1541557071.jpg"/></a></dt>
+                <dd>
+                    <h3><a href="/anime/xyxqt/">侠义小青天</a></h3>
+
+                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年</div></p>
+                    <p><div class="d_label"><b>标签：</b>冒险|亲子</div><div class="d_label"><b>播放：</b>1029</div></p>
+                    <p><b>看点：</b>中华民族文化中的诸多国粹。</p>
+                    <p><b>简介：</b>根据古典名著《三侠五义》故事改编的国内首部大型全三维侦破武侠动画剧情片《侠义小青天》，即将在央视及全国各大电视台轮番播放。作为中国第一部大型三维侦破武侠动画片，《侠义小青天》立足中国传统文化，融入了人们耳熟能详的古典武侠《三侠五义》故事，以少年时期的包拯为主角，讲述了包拯与展昭、五鼠等小伙伴们运用勇</p>
+                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                </dd>
+            </dl>
+
+        </div>
+
+    </div>
+
+
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad4();</script></div>
+
+</div>
+<script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script>
+<div class="aside_rig movebox"><script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+<div class="aside_rig movebox">
+
+<!--     Duoshuo Comment BEGIN
+    <div class="ds-thread"  data-thread-key="29039" data-author-key="1"  data-url="http://www.dilidili.wang/anime/youyaoqidm/" data-title=""></div>
+    <script type="text/javascript">
+        var duoshuoQuery = {short_name: "dzhan"};
+        (function() {
+            var ds = document.createElement('script');
+            ds.type = 'text/javascript';ds.async = true;
+            ds.src = 'http://static.duoshuo.com/embed.js';
+            ds.charset = 'UTF-8';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+        })();
+    </script>
+     Duoshuo Comment END -->
+    <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='611644' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+</div>
+
+</div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>			
+</div>
+<div class="fc_black"></div>
+
+
+
+<script src="http://static.jfrft.com/templets/default/js/swiper.min.js"></script>
+<script>
+    var mySwiper1 = new Swiper('.swiper1',{
+        pagination: '.pagination1',
+        paginationClickable: true,
+        moveStartThreshold: 100,
+        autoplay:4000
+    });
+    var mySwiper2 = new Swiper('.swiper2',{
+        pagination: '.pagination2',
+        paginationClickable: true,
+        moveStartThreshold: 100
+    });
+    var webWidth = 736;
+    function changeSwiper(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+            if(arrlen % 2>0){
+                len = parseInt(arrlen / 2)+1;
+            }else{
+                len = parseInt(arrlen / 2);
+            }
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+            if(arrlen % 5 >0){
+                len = parseInt(arrlen / 5)+1;
+            }else{
+                len = parseInt(arrlen / 5);
+            }
+        }
+
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+            ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+
+
+    function changeSwiper1(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+//		alert(arrlen);
+        var len = 0;
+        if (_is) {
+            if(arrlen % 2>0){
+                len = parseInt(arrlen / 2)+1;
+            }else{
+                len = parseInt(arrlen / 2);
+            }
+        } else {
+            if(arrlen % 8 >0){
+                len = parseInt(arrlen / 8)+1;
+            }else{
+                len = parseInt(arrlen / 8);
+            }
+        }
+
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+            ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+
+
+    changeSwiper1('.xfswiper0');
+    changeSwiper1('.xfswiper1');
+    changeSwiper1('.xfswiper2');
+    changeSwiper1('.xfswiper3');
+    changeSwiper1('.xfswiper4');
+    changeSwiper1('.xfswiper5');
+    changeSwiper1('.xfswiper6');
+    changeSwiper('.swiper3');
+    changeSwiper('.swiper4');
+    changeSwiper('.swiper5');
+    changeSwiper('.swiper6');
+    changeSwiper('.swiper7');
+    jQuery(window).resize(function () {
+        changeSwiper1('.xfswiper0');
+        changeSwiper1('.xfswiper1');
+        changeSwiper1('.xfswiper2');
+        changeSwiper1('.xfswiper3');
+        changeSwiper1('.xfswiper4');
+        changeSwiper1('.xfswiper5');
+        changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper4');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+        changeSwiper('.swiper7');
+    });
+    var swiper3 = new Swiper('.swiper3', {
+        nextButton: '.swiper-button-next3',
+        prevButton: '.swiper-button-prev3',
+        spaceBetween: 30
+    });
+    var swiper4 = new Swiper('.swiper4', {
+        nextButton: '.swiper-button-next4',
+        prevButton: '.swiper-button-prev4',
+        spaceBetween: 30
+    });
+    var swiper5 = new Swiper('.swiper5', {
+        nextButton: '.swiper-button-next5',
+        prevButton: '.swiper-button-prev5',
+        spaceBetween: 30
+    });
+    var swiper6 = new Swiper('.swiper6', {
+        nextButton: '.swiper-button-next6',
+        prevButton: '.swiper-button-prev6',
+        spaceBetween: 30
+    });
+    var swiper7 = new Swiper('.swiper7', {
+        nextButton: '.swiper-button-next7',
+        prevButton: '.swiper-button-prev7',
+        spaceBetween: 30
+    });
+
+    jQuery(function() {
+        jQuery(".closed").click(
+                function(){
+                    jQuery(".topimg").slideUp();
+                });
+
+        // 收缩展开效果
+        jQuery(".adminico").click(function(){
+            jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+        },function(){
+            jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+        });
+
+
+        jQuery(".a_open").click(
+                function(){
+                    jQuery(this).hide();
+                    jQuery(".aside_lef").slideDown(500);
+                    jQuery(".fc_black").show();
+                    jQuery(".a_closed").show();
+                });
+        jQuery(".a_closed").click(
+                function(){
+                    jQuery(this).hide();
+                    jQuery(".aside_lef").hide();
+                    jQuery(".fc_black").hide();
+                    jQuery(".a_open").show();
+                });
+        jQuery(".fc_black").click(
+                function(){
+                    jQuery(this).hide();
+                    jQuery(".aside_lef").hide();
+                    jQuery(".fc_black").hide();
+                    jQuery(".a_open").show();
+                    jQuery(".a_closed").hide();
+                });
+        jQuery(".rm_pank .pk_year a").each(function(index){
+            jQuery(this).mouseover(
+                    function(){
+                        jQuery(".rm_pank .pk_year a").removeClass("current");
+                        jQuery(this).addClass("current");
+                        jQuery(".rm_pank .rm_main .rm_con").hide();
+                        jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+                    })
+        });
+
+        var headHeight=$(".head_top").height();
+        var nav=$("#navf");
+        $(window).scroll(function(){
+            if($(this).scrollTop()>headHeight){
+                nav.addClass("navFix");
+            }
+            else{
+                nav.removeClass("navFix");
+            }
+        })
+
+        var headHeight2=$(".topimg").height();
+        var nav2=jQuery("#topnavf");
+        jQuery(window).scroll(function(){
+            if($(this).scrollTop()>headHeight2){
+                nav2.addClass("topnavFix");
+            }
+            else{
+                nav2.removeClass("topnavFix");
+            }
+        });
+
+        var week = new Date().getDay();
+        jQuery(".xf_news .pk_time a").removeClass("current");
+        jQuery(".xf_news .time_pic .time_con").hide();
+        if (week != 0) {
+            jQuery(".xf_news .pk_time a:eq(" + (week - 1) + ")").addClass("current");
+            jQuery(".xf_news .time_pic .time_con:eq(" + (week - 1) + ")").show();
+            new Swiper(".xfswiper"+(week - 1), {
+                nextButton: '.xfswiper-button-next'+(week - 1),
+                prevButton: '.xfswiper-button-prev'+(week - 1),
+                spaceBetween: 30
+            });
+        } else {
+            jQuery(".xf_news .pk_time a:last").addClass("current");
+            jQuery(".xf_news .time_pic .time_con:last").show();
+            new Swiper(".xfswiper7", {
+                nextButton: '.xfswiper-button-next7',
+                prevButton: '.xfswiper-button-prev7',
+                spaceBetween: 30
+            });
+        }
+
+        jQuery(".xf_news .pk_time a").each(function(index){
+            jQuery(this).click(function(){
+                jQuery(".xf_news .pk_time a").removeClass("current");
+                jQuery(this).addClass("current");
+                jQuery(".xf_news .time_pic .time_con").hide();
+                jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+                new Swiper(".xfswiper"+index, {
+                    nextButton: '.xfswiper-button-next'+index,
+                    prevButton: '.xfswiper-button-prev'+index,
+                    spaceBetween: 30
+                });
+            });
+        });
+
+    });
+</script>
+<script type="text/javascript" src="http://static.jfrft.com/templets/default/js/backtop.js"></script>
+</body>
+</html>

@@ -1,0 +1,1285 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="utf-8">
+    <title>未来日记-  在线&下载 - 嘀哩嘀哩</title>
+    <meta name="keywords" content="未来日记全集,未来日记下载" />
+    <meta name="description" content="天野雪辉是一个平日里喜欢在手机中记录日常琐事的孤僻少年，一日偶然间，他发现自己居然拥有了能够预知未来的“未来日记”，而此时，兴奋又好奇的他并不知道，自己已经被卷入了一场永无止尽的杀戮游戏中去…" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <script src="http://static.jfrft.com/js/uaredirect.js"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/mirai-nikki/");</script>
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/mirai-nikki/"/>
+    <link rel="canonical" href="http://www.dilidili.wang/anime/mirai-nikki/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/mirai-nikki/" >
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+    <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+    <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js" defer></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+    <script>
+        jQuery(function(){
+            new jbCollect('a._collect', '#content1');
+        });
+    </script>
+    <base target="_blank">
+    <style>
+    </style>
+</head>
+<body>
+<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201707/" target="_blank">七月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+
+<div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>未来日记</a></div>
+<div class="aside_cen2">
+    <div class="detail con24 clear">
+        <dl>
+            <dt><img src="http://static.jfrft.com/images/cover/11200.jpg" alt="未来日记"/></dt>
+            <dd>
+                <h1>未来日记</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="未来日记" data-url="http://www.dilidili.wang/anime/mirai-nikki/" data-icon="http://static.jfrft.com/images/cover/11200.jpg"><span>收藏</span></a></div><br/>
+                <span class="play_cs">播放次数:<script src="http://www.dilidili.wang/plus/countlist.php?view=yes&aid=1183&mid=" type='text/javascript' language="javascript"></script></span>
+                <p><div class="d_label"><b>地区：</b><a href="/riyu/" title="日本动漫">日本</a></div><div class="d_label"><b>年代：</b><a href="/anime/201110/" title="2011年10月新番">2011年10月</a></div></p>
+                <p><div class="d_label"><b>标签：</b>游戏|推理|奇幻|恐怖|恋爱</div><div class="d_label"><b>状态：</b>完结</div></p>
+                <p><div class="d_label2"><b>看点：</b>围绕着神之座的厮杀</div></p>
+                <p><div class="d_label2"><b>简介：</b>天野雪辉是一个平日里喜欢在手机中记录日常琐事的孤僻少年，一日偶然间，他发现自己居然拥有了能够预知未来的“未来日记”，而此时，兴奋又好奇的他并不知道，自己已经被卷入了一场永无止尽的杀戮游戏中去…</div></p>
+                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('未来日记','','','http://www.dilidili.wang/anime/mirai-nikki/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                <p>
+                <div class="button_bar">
+                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>
+                    
+                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                </div>
+                </p>
+            </dd>
+        </dl>
+    </div>
+    <div class="con24 m-10 xf_news">
+        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+        </div>
+        <div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+        <div class="time_pic list">
+            <div class="time_con">
+                <div class="swiper-container xfswiper1">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul class="clear">
+                                <li><a href="http://www.dilidili.wang/watch/11201/" target="_self"><em><span>第1话</span>未来日记 第1话「签约」</em></a></li><li><a href="http://www.dilidili.wang/watch/11202/" target="_self"><em><span>第2话</span>未来日记 第2话「契约条件」</em></a></li><li><a href="http://www.dilidili.wang/watch/11203/" target="_self"><em><span>第3话</span>未来日记 第3话「初期不良」</em></a></li><li><a href="http://www.dilidili.wang/watch/11204/" target="_self"><em><span>第4话</span>未来日记 第4话「手写输入」</em></a></li><li><a href="http://www.dilidili.wang/watch/11205/" target="_self"><em><span>第5话</span>未来日记 第5话「语音留言」</em></a></li><li><a href="http://www.dilidili.wang/watch/11206/" target="_self"><em><span>第6话</span>未来日记 第6话「静音模式」</em></a></li><li><a href="http://www.dilidili.wang/watch/11207/" target="_self"><em><span>第7话</span>未来日记 第7话「留言信箱」</em></a></li><li><a href="http://www.dilidili.wang/watch/11208/" target="_self"><em><span>第8话</span>未来日记 第8话「新机种」</em></a></li><li><a href="http://www.dilidili.wang/watch/11209/" target="_self"><em><span>第9话</span>未来日记 第9话「拒绝来电」</em></a></li><li><a href="http://www.dilidili.wang/watch/11210/" target="_self"><em><span>第10话</span>未来日记 第10话「家庭套餐」</em></a></li><li><a href="http://www.dilidili.wang/watch/11211/" target="_self"><em><span>第11话</span>未来日记 第11话「停止服务」</em></a></li><li><a href="http://www.dilidili.wang/watch/11212/" target="_self"><em><span>第12话</span>未来日记 第12话「无信号」</em></a></li><li><a href="http://www.dilidili.wang/watch/11213/" target="_self"><em><span>第13话</span>未来日记 第13话「无来电显示」</em></a></li><li><a href="http://www.dilidili.wang/watch/11214/" target="_self"><em><span>第14话</span>未来日记 第14话「清除记录」</em></a></li><li><a href="http://www.dilidili.wang/watch/11215/" target="_self"><em><span>第15话</span>未来日记 第15话「双机流」</em></a></li><li><a href="http://www.dilidili.wang/watch/11216/" target="_self"><em><span>第16话</span>未来日记 第16话「修理」</em></a></li><li><a href="http://www.dilidili.wang/watch/11217/" target="_self"><em><span>第17话</span>未来日记 第17话「家庭优惠」</em></a></li><li><a href="http://www.dilidili.wang/watch/11218/" target="_self"><em><span>第18话</span>未来日记 第18话「串线」</em></a></li><li><a href="http://www.dilidili.wang/watch/11219/" target="_self"><em><span>第19话</span>未来日记 第19话「全部删除」</em></a></li><li><a href="http://www.dilidili.wang/watch/11220/" target="_self"><em><span>第20话</span>未来日记 第20话「数据传输」</em></a></li><li><a href="http://www.dilidili.wang/watch/11221/" target="_self"><em><span>第21话</span>未来日记 第21话「密码」</em></a></li><li><a href="http://www.dilidili.wang/watch/11222/" target="_self"><em><span>第22话</span>未来日记 第22话「切断」</em></a></li><li><a href="http://www.dilidili.wang/watch/11223/" target="_self"><em><span>第23话</span>未来日记 第23话「不履行契约」</em></a></li><li><a href="http://www.dilidili.wang/watch/11224/" target="_self"><em><span>第24话</span>未来日记 第24话「检索中」</em></a></li><li><a href="http://www.dilidili.wang/watch/11225/" target="_self"><em><span>第25话</span>未来日记 第25话「重置」</em></a></li><li><a href="http://www.dilidili.wang/watch/11226/" target="_self"><em><span>第26话</span>未来日记 第26话「初始化」</em></a></li><li><a href="http://www.dilidili.wang/watch/11350/" target="_self"><em><span>第OAD话</span>未来日记 OAD「重拨」</em></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="playjs swiper-pagination"></div>
+            </div>
+            <div class="time_con">
+                <p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                <div class="swiper-container xfswiper3">
+                    <ul class="clear">
+                        <li class="list_xz">
+                            <a href="http://bbs.005.tv/thread-475083-1-1.html" target="_blank">合集（01-26）</a>
+<a href="http://pan.baidu.com/s/1dD55qDz" target="_blank">OAD</a>
+
+                        <li>
+                    </ul>
+                </div>
+            </div>
+            <div class="time_con">
+                <div class="swiper-container swiper4">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul>
+                                <li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11201/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_001.jpg"/>
+                                        <div class="fjjq"><span>第1话</span>未来日记 第1话「签约」<br/>喜欢用手机记录日常琐事的孤僻少年天野雪辉，被神Deus赋予了能够预知未来的“无差别日记”，兴奋又好奇的他并不知道Deus还选择了其他11名不同能力的日记持有者，在这个游戏中他们必须相</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11202/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_002.jpg"/>
+                                        <div class="fjjq"><span>第2话</span>未来日记 第2话「契约条件」<br/>雪辉身份暴露，9th雨流美弥弥追杀到学校，并在校园各处安装了炸弹，从日记得知雪辉有危险的由乃匆忙赶去，为了自保，雪辉决定利用由乃改变dead end。在9th的威胁下，惊恐的学生们抓出雪辉</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11203/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_003.jpg"/>
+                                        <div class="fjjq"><span>第3话</span>未来日记 第3话「初期不良」<br/>为抓住9th，警察4th和雪辉、由乃联手并让他们作为诱饵待在游乐场。在游乐场雪辉得知由乃一直追随他的原因，竟是因为自己曾说过的将来要娶由乃的一句玩笑话。另一方面，就在9th难以逃脱</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11204/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_004.jpg"/>
+                                        <div class="fjjq"><span>第4话</span>未来日记 第4话「手写输入」<br/>得知9th关在御目方教，雪辉、由乃和4th一同前往，他们见到了拥有千里眼日记的6th春日野椿。6th预知到自己的死期就在今晚，她以9th作为交换，要求得到两次死里逃生的雪辉的帮助。当晚，殿内</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11205/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_005.jpg"/>
+                                        <div class="fjjq"><span>第5话</span>未来日记 第5话「语音留言」<br/>眼看信徒们愈发疯狂，由乃拉起犹豫的雪辉向外逃，同时雪辉也向6th伸出援手，三人就要逃到正门之时，12th突然冒出挡住去路，由乃将12th杀死。一切结束之后，6th却命信徒们抓住雪辉，她企图</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11206/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_006.jpg"/>
+                                        <div class="fjjq"><span>第6话</span>未来日记 第6话「静音模式」<br/>雪辉从车站接妈妈回家之后，却发现由乃在他的房间打扫，虽然雪辉不想让妈妈看见由乃，但两人还是见面了。妈妈以为由乃是雪辉的女朋友，因此两个人聊得非常投机，由乃得到了雪辉妈妈的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11207/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_007.jpg"/>
+                                        <div class="fjjq"><span>第7话</span>未来日记 第7话「留言信箱」<br/>5th开始了为父母报仇的计划，但不管是在食物里下毒还是向由乃的浴缸里放电，5th的计划都失败了，而且他还暴露了自己是日记持有者的身份。在由乃追杀5th时，误伤了雪辉妈妈，就在二人为找</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11208/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_008.jpg"/>
+                                        <div class="fjjq"><span>第8话</span>未来日记 第8话「新机种」<br/>雪辉去了新学校，虽碰到以前总欺负他的高坂，但也认识了新朋友日向、野野坂。放学后，他们相约去最近发生凶案的现场，在寻找走失的日向途中他们结识了秋濑或，并被一群恶狗追赶。一行</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11209/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_009.jpg"/>
+                                        <div class="fjjq"><span>第9话</span>未来日记 第9话「拒绝来电」<br/>在瞭望台内，秋濑和日向以雪辉为赌注打赌，虽然秋濑不是日记持有者但凭借自己的智慧赢了日向。由乃刺伤了企图伤害雪辉的野野坂，雪辉等人抓住时机逃出了瞭望台，逃跑中的雪辉不想因此</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11210/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_010.jpg"/>
+                                        <div class="fjjq"><span>第10话</span>未来日记 第10话「家庭套餐」<br/>9th在避难的小木屋回忆起被3rd追杀时的事情，在逃亡的过程中她结识了4th的手下西岛。另一方面，雪辉被秋濑骗出来和由乃一起参加结婚仪式免费体验活动。在将由乃送回家时，雪辉发现秋濑在</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11211/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_011.jpg"/>
+                                        <div class="fjjq"><span>第11话</span>未来日记 第11话「停止服务」<br/>由乃和雪辉被逮到警察局，在4th找雪辉谈话的时候，由乃从日记得知4th想要伤害雪辉，便用枪将4th打伤，逃跑中雪辉失手伤人，二人便成了真正的逃犯。偶然间，他们看到4th的夫人，便一路跟踪</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11212/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_012.jpg"/>
+                                        <div class="fjjq"><span>第12话</span>未来日记 第12话「无信号」<br/>计划制定之后，雪辉三人开始和4th进行交涉，可交涉失败，雪辉被4th抓住，由乃为救雪辉引爆闪光弹，9th在病房装了炸弹后逃跑，却再次碰到西岛。这时，医院爆炸，4th趁机将昏迷的由乃作为人</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11213/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_013.jpg"/>
+                                        <div class="fjjq"><span>第13话</span>未来日记 第13话「无来电显示」<br/>西岛在4th留给他的遗书和笔记里得到了很多关于未来日记的信息，他找来秋濑商量雪辉的去向。秋濑推断出雪辉被由乃囚禁，为了不惊动由乃，秋濑找日向等人帮忙寻找雪辉。由乃有所察觉，她</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11214/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_014.jpg"/>
+                                        <div class="fjjq"><span>第14话</span>未来日记 第14话「清除记录」<br/>秋濑、高坂和野野坂被关在充满瓦斯气体的房间，秋濑通过监视器与由乃交涉，可由乃再次记忆篡改不予理会。这时，高坂的手机发出噪声，他被选为日记持有者实习生，按照高坂日记的指示，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11215/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_015.jpg"/>
+                                        <div class="fjjq"><span>第15话</span>未来日记 第15话「双机流」<br/>得知了8th的日记能力是通过博客日记的主服务器增加日记持有者，雪辉、秋濑等人把“战场”选在了离手机信号塔很近的高坂家，原以为只要切断信号，子日记持有者便不能使用未来日记。这时</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11216/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_016.jpg"/>
+                                        <div class="fjjq"><span>第16话</span>未来日记 第16话「修理」<br/>爸爸的出现让雪辉非常开心，但他并非单纯来看望自己的儿子，而是和11th达成协议要毁掉雪辉的手机为自己还债。7th从由乃的未来日记上看到有11th 的消息便威胁雪辉带着爸爸来到樱见塔。7t</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11217/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_017.jpg"/>
+                                        <div class="fjjq"><span>第17话</span>未来日记 第17话「家庭优惠」<br/>7th带着雪辉的爸爸逃到塔顶，准备用降落伞逃跑，由乃和雪辉紧随其后，按照由乃的计划，他们将爱打伤并挟持为人质。混乱中，雪辉的爸爸抢到降落伞逃跑，降落时被雪辉的妈妈看到并追上去</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11218/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_018.jpg"/>
+                                        <div class="fjjq"><span>第18话</span>未来日记 第18话「串线」<br/>一年前，由乃就已经暗中观察雪辉。为准备文化祭，老师让雪辉和他将要表白的对象若叶一起去采购，由乃扮成兔子人偶从中阻拦，看到若叶拒绝了雪辉，才放心回家，而等待由乃回家的则是被</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11219/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_019.jpg"/>
+                                        <div class="fjjq"><span>第19话</span>未来日记 第19话「全部删除」<br/>樱见市市长以涉嫌藏匿毁坏樱见塔主犯为由解除母亲之家，其实，他就是为了得到8th日记的11th。为保母亲之家，8th和雪辉联手袭击11th，可雪辉是按照由乃的剧本与8th结盟并故意掉进11th的陷阱，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11220/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_020.jpg"/>
+                                        <div class="fjjq"><span>第20话</span>未来日记 第20话「数据传输」<br/>虽然雪辉听到这个秘密很震惊，但他还是选择相信秋濑口中这个假冒的由乃，二人逃跑。11th企图利用8th的日记和 holonⅢ让樱见市市民全部变成子日记持有者，建立起由预知能力者组成的王国。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11221/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_021.jpg"/>
+                                        <div class="fjjq"><span>第21话</span>未来日记 第21话「密码」<br/>由乃救出日向等人后找到8th，但因秋濑的保护，她未能杀掉8th。而被雪辉和9th追杀的11th躲进我妻银行的双重门里，想要打开大门就需要由乃父母，由乃和11th视网膜认证才行。9th想以自爆的方式</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11222/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_022.jpg"/>
+                                        <div class="fjjq"><span>第22话</span>未来日记 第22话「切断」<br/>秋濑得知自己是Deus创造出的存在，而且自己所有的行动也都是神的意志，Deus毁灭前让秋濑回归到全宇宙记录，除非他能证明自己的存在。在8th的帮助下，秋濑凭借自己的意志成为子日记持有者</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11223/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_023.jpg"/>
+                                        <div class="fjjq"><span>第23话</span>未来日记 第23话「不履行契约」<br/>7月28日世界毁灭，在此之前雪辉决定好好爱由乃，并把happy end提前一天。放松警惕的雪辉把自己从秋濑手机上看到的，关于由乃曾经是神，并且这个时间是从未来倒回来的“二周目的时间”的事</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11224/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_024.jpg"/>
+                                        <div class="fjjq"><span>第24话</span>未来日记 第24话「检索中」<br/>原来一直在雪辉身边的由乃是从一周目世界穿越而来并已成为了神，为了和雪辉在一起，她杀死了和雪辉同处于二周目世界的由乃并将其取代。如今由乃必须杀掉知晓一切的雪辉，这时9th突然出</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11225/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_025.jpg"/>
+                                        <div class="fjjq"><span>第25话</span>未来日记 第25话「重置」<br/>雪辉带着三周目的由乃逃到学校，但仍没能摆脱由乃的追杀。一阵搏斗之后，发现自己还喜欢着雪辉的由乃不忍下手，便将雪辉置于一个没有自己的幻想空间，在这个空间里，雪辉可以实现他所</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11226/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_026.jpg"/>
+                                        <div class="fjjq"><span>第26话</span>未来日记 第26话「初始化」<br/>面对着那个对未来充满希望的自己，由乃有所动摇，同时，姆鲁姆鲁发现因果律开始混乱，所有日记持有者的未来都在发生改变 。但为了继续游戏能再和三周目的雪辉见面，由乃还是决定杀死</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11350/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/mirai-nikki/images/thumb_000.jpg"/>
+                                        <div class="fjjq"><span>第OAD话</span>未来日记 OAD「重拨」<br/>自从雪辉离开三周目当上二周目的神之后，三周目一切正常，唯一的不同就是由乃的记忆里总会出现雪辉模糊的身影但她又想不起是谁。因为Dues没有在三周目启动未来日记的游戏，他希望9th可</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next swiper-button-next4"></div>
+                <div class="swiper-button-prev swiper-button-prev4"></div>
+            </div>
+
+            <div class="time_con">
+                <div class="stafflist">
+                    <div class="staff">
+                        
+
+                    </div>
+                    <div class="cast">
+                        
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div><!--tab slider end-->
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+    <div class="con24">
+        <div class="stitle">
+            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/msdgs2/">梦色蛋糕师第二季</a><a href="/anime/kiminitodoke2">好想告诉你第二季</a><a href="/anime/grisaia">灰色的果实</a><a href="/anime/qijilieche">奇迹列车</a><a href="/anime/lianfeng">恋风</a>
+                            </span>
+        </div>
+        <div class="swiper-container swiper3">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <ul class="m_pic clear">
+                        <li><a href="/anime/xianglingweib"><img src="http://static.jfrft.com/uploads/allimg/160718/1_2253319211.jpg"/><p>相邻为伴</p><div class="fc_m"><strong>相邻为伴</strong></div></a></li><li><a href="/anime/scznrdgmtx"><img src="http://www.dilidili.wang/uploads/allimg/171206/290_1412532581.jpg"/><p>擅长捉弄人的高木同学</p><div class="fc_m"><strong>擅长捉弄人的高木同学</strong></div></a></li><li><a href="/anime/nozakikun"><img src="http://static.jfrft.com/images/cover/10019.jpg"/><p>月刊少女野崎君</p><div class="fc_m"><strong>月刊少女野崎君</strong></div></a></li><li><a href="/anime/yamajotv"><img src="http://static.jfrft.com/uploads/allimg/160511/1_0543355561.jpg"/><p>山田君与7位魔女TV版</p><div class="fc_m"><strong>山田君与7人魔女TV版</strong></div></a></li><li><a href="/anime/kamisama2"><img src="http://static.jfrft.com/images/cover/12006.jpg"/><p>元气少女缘结神◎</p><div class="fc_m"><strong>元气少女缘结神◎</strong></div></a></li><li><a href="/anime/goldentime"><img src="http://static.jfrft.com/uploads/allimg/161208/1_1550544911.jpg"/><p>青春纪行</p><div class="fc_m"><strong>青春纪行</strong></div></a></li><li><a href="/anime/sxzyystv"><img src="http://static.jfrft.com/uploads/201602/1-160225144S6446.jpg"/><p>双星之阴阳师</p><div class="fc_m"><strong>双星之阴阳师</strong></div></a></li><li><a href="/anime/xhjsxh/"><img src="http://static.jfrft.com/uploads/allimg/160519/1_2130469391.jpg"/><p>喜欢就是喜欢</p><div class="fc_m"><strong>喜欢就是喜欢</strong></div></a></li><li><a href="/anime/kazenatsu"><img src="http://static.jfrft.com/uploads/allimg/161121/1_1812523591.jpg"/><p>风夏</p><div class="fc_m"><strong>风夏</strong></div></a></li><li><a href="/anime/azygtqs"><img src="http://www.dilidili.wang/uploads/allimg/171204/290_1553112651.jpg"/><p>爱在雨过天晴时</p><div class="fc_m"><strong>爱在雨过天晴时</strong></div></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="swiper-button-next swiper-button-next3"></div>
+            <div class="swiper-button-prev swiper-button-prev3"></div>
+        </div>
+    </div>
+
+    <script src="/templets/default/js/swiper.min.js"></script>
+    <script>
+        jQuery(".playjs").hide();
+        function changeSwiper1(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+//		alert(arrlen);
+            var len = 0;
+            if (_is) {
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                if(arrlen % 20 >0){
+                    len = parseInt(arrlen / 20)+1;
+                }else{
+                    len = parseInt(arrlen / 20);
+                }
+            }
+            if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+        changeSwiper1('.xfswiper0');
+        changeSwiper1('.xfswiper1');
+        changeSwiper1('.xfswiper2');
+        changeSwiper1('.xfswiper3');
+        changeSwiper1('.xfswiper4');
+        changeSwiper1('.xfswiper5');
+        changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+        changeSwiper('.swiper7');
+        changeSwiper2('.swiper4');
+        jQuery(window).resize(function () {
+            changeSwiper1('.xfswiper0');
+            changeSwiper1('.xfswiper1');
+            changeSwiper1('.xfswiper2');
+            changeSwiper1('.xfswiper3');
+            changeSwiper1('.xfswiper4');
+            changeSwiper1('.xfswiper5');
+            changeSwiper1('.xfswiper6');
+            changeSwiper('.swiper3');
+            changeSwiper('.swiper5');
+            changeSwiper('.swiper6');
+            changeSwiper('.swiper7');
+            changeSwiper2('.swiper4');
+        });
+        var swiper1 = new Swiper('.xfswiper1', {
+            nextButton: '.xfswiper-button-next1',
+            prevButton: '.xfswiper-button-prev1',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper2', {
+            nextButton: '.xfswiper-button-next2',
+            prevButton: '.xfswiper-button-prev2',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper3', {
+            nextButton: '.xfswiper-button-next3',
+            prevButton: '.xfswiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper3 = new Swiper('.swiper3', {
+            nextButton: '.swiper-button-next3',
+            prevButton: '.swiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper4 = new Swiper('.swiper4', {
+            nextButton: '.swiper-button-next4',
+            prevButton: '.swiper-button-prev4',
+            spaceBetween: 30
+        });
+        var swiper5 = new Swiper('.swiper5', {
+            nextButton: '.swiper-button-next5',
+            prevButton: '.swiper-button-prev5',
+            spaceBetween: 30
+        });
+        var swiper6 = new Swiper('.swiper6', {
+            nextButton: '.swiper-button-next6',
+            prevButton: '.swiper-button-prev6',
+            spaceBetween: 30
+        });
+        var swiper7 = new Swiper('.swiper7', {
+            nextButton: '.swiper-button-next7',
+            prevButton: '.swiper-button-prev7',
+            spaceBetween: 30
+        });
+
+        var week = new Date();
+        jQuery(".xf_news .pk_time a").removeClass("current");
+        jQuery(".xf_news .time_pic .time_con").hide();
+        if (week != 0) {
+            jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+            jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+            new Swiper(".xfswiper"+(0), {
+                nextButton: '.xfswiper-button-next'+(0),
+
+                prevButton: '.xfswiper-button-prev'+(0),
+                spaceBetween: 30
+            });
+        }
+
+        jQuery(".xf_news .pk_time a").each(function(index){
+            jQuery(this).click(function(){
+                jQuery(".xf_news .pk_time a").removeClass("current");
+                jQuery(this).addClass("current");
+                jQuery(".xf_news .time_pic .time_con").hide();
+                jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+                new Swiper(".xfswiper"+index, {
+                    nextButton: '.xfswiper-button-next'+index,
+                    prevButton: '.xfswiper-button-prev'+index,
+                    spaceBetween: 30
+                });
+                jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+            });
+        });
+
+        var swiper = new Swiper('.xfswiper1', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+            paginationBulletRender: function (index, className) {
+                return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+            }
+        });
+
+        var mySwiper1 = new Swiper('.swiper1',{
+            pagination: '.pagination1',
+            paginationClickable: true,
+            moveStartThreshold: 100,
+            autoplay:4000
+        });
+        var mySwiper2 = new Swiper('.swiper2',{
+            pagination: '.pagination2',
+            paginationClickable: true,
+            moveStartThreshold: 100
+        });
+        var webWidth = 736;
+        function changeSwiper(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 5 >0){
+                    len = parseInt(arrlen / 5)+1;
+                }else{
+                    len = parseInt(arrlen / 5);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        function changeSwiper2(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 8 >0){
+                    len = parseInt(arrlen / 8)+1;
+                }else{
+                    len = parseInt(arrlen / 8);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        jQuery(function() {
+            jQuery(".closed").click(
+                    function(){
+                        jQuery(".topimg").slideUp();
+                    });
+
+            // 收缩展开效果
+            jQuery(".adminico").click(function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+            },function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+            });
+
+            jQuery(".a_open").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").slideDown(500);
+                        jQuery(".fc_black").show();
+                        jQuery(".a_closed").show();
+                    });
+            jQuery(".a_closed").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                    });
+            jQuery(".fc_black").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                        jQuery(".a_closed").hide();
+                    });
+            jQuery(".rm_pank .pk_year a").each(function(index){
+                jQuery(this).mouseover(
+                        function(){
+                            jQuery(".rm_pank .pk_year a").removeClass("current");
+                            jQuery(this).addClass("current");
+                            jQuery(".rm_pank .rm_main .rm_con").hide();
+                            jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+                        })
+            });
+
+            var headHeight=$(".head_top").height();
+            var nav=$("#navf");
+            $(window).scroll(function(){
+                if($(this).scrollTop()>headHeight){
+                    nav.addClass("navFix");
+                }
+                else{
+                    nav.removeClass("navFix");
+                }
+            })
+
+            var headHeight2=$(".topimg").height();
+            var nav2=jQuery("#topnavf");
+            jQuery(window).scroll(function(){
+                if($(this).scrollTop()>headHeight2){
+                    nav2.addClass("topnavFix");
+                }
+                else{
+                    nav2.removeClass("topnavFix");
+                }
+            });
+
+        });
+
+    </script>
+
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+    <div class="con24">
+        <!--<div class="stitle">
+            <h3>评论</h3>
+            <span class="s_f">
+                <a href="http://bbs.005.tv">D站论坛</a>
+                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+            </span>
+            <a href="http://usr.005.tv" style="float:right;">评论前请先登录或注册</a>
+        </div>	-->
+        <div style="margin:20px 0; text-align:center;">
+            <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='612214' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+            <!-- UY BEGIN -->
+            <!--<div id="uyan_frame"></div>
+            <div class="comment">
+            <i>未来日记评论</i>-->
+            <!-- 多说评论框 start -->
+            <!--<div class="ds-thread" data-thread-key="11200" data-title="未来日记" data-url=
+        "http://www.dilidili.wang/anime/mirai-nikki/"></div>-->
+            <!-- 多说评论框 end -->
+            <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+            <!--<script type="text/javascript">
+            var duoshuoQuery = {short_name:"dzhan"};
+                (function() {
+                    var ds = document.createElement('script');
+                    ds.type = 'text/javascript';ds.async = true;
+                    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                    ds.charset = 'UTF-8';
+                    (document.getElementsByTagName('head')[0]
+                     || document.getElementsByTagName('body')[0]).appendChild(ds);
+                })();
+                </script>-->
+            <!-- 多说公共JS代码 end -->
+        </div>
+        <!-- UY END -->
+    </div>
+</div>
+<div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+    <script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script>
+    <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+</div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>			
+</div>
+<div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/muban/js/w234.js"></script>
+</body>
+</html>

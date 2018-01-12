@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>精彩用户投稿</title>
+    <meta name="description" content="dilidili精彩用户投稿">
+    <meta name="keywords" content="dilidili精彩用户投稿">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script>
+        if (/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            location.href=location.href.replace('://www.','://m.')
+        }
+    </script>
+    <link rel="stylesheet" href="linkTo/css/page-core.css" type="text/css">
+    <link rel="stylesheet" href="/newcss/reset.css">
+    <link rel="stylesheet" href="/newcss/main.css">
+    <style>
+        div.b-page-body *{
+            -webkit-box-sizing: content-box;
+            -moz-box-sizing: content-box;
+            box-sizing: content-box;
+        }
+        ul.topic-preview{
+            -moz-transition: all .5s;
+            transition: all .5s;}
+        @media (min-width:1400px){
+            .main-inner{width: 1160px;}
+            .container-row.container-top.sub{width: 1160px;}
+            .container-row.area-20{width: 1160px;}
+            .b-l{width: 880px !important;}
+        }
+    </style>
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <!--            <li><a href="javascript:void(0)">资讯</a></li>
+                        <li><a href="javascript:void(0)">资源</a></li>-->
+            <li><a href="http://bbs.005.tv/" target="_blank" rel="nofollow">论坛</a></li>
+            <li><a href="http://h5.dilidili.wang" target="_blank">游戏中心</a></li>
+            <li><a href="http://weibo.com/u/6132370267" target="_blank" rel="nofollow">D站官博</a></li>
+            <div id="div0" style="display: block;">
+                <div>
+                    <a href="http://usr.005.tv/" target="_blank">
+                        个人中心
+                    </a>
+                    <div class="xlcd">
+                        <a href="http://usr.005.tv/User/register.html" target="_blank">
+                            注册
+                        </a>
+                        <a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">
+                            登录
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <a href="http://usr.005.tv/" target="_blank">
+                <div id="div1" style="overflow: hidden; white-space: nowrap; display: none;">
+                </div>
+            </a>
+            <li class="history" onmouseout="hideTop();" onmouseover="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                    <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </nav>
+    <script src="http://usr.005.tv/Common/header99.html"></script>
+    <script>
+        0,function(){
+            var str= nick_name.innerText;
+            if(str!="")
+            {
+                div0.style.display="none";
+                div1.style.display="block";
+            }
+            else{
+                div0.style.display="block";
+                div1.style.display="none";
+            }
+        }();
+        /*历史 history.js*/
+        function PlayHistoryClass() {
+            var cookieStr, nameArray, urlArray, allVideoArray;
+            this.getPlayArray = function () {
+                cookieStr = document.cookie;
+                var start = cookieStr.indexOf("qike123=") + "qike123=".length,
+                        end = cookieStr.indexOf("_$_|", start),
+                        allCookieStr = unescape(cookieStr.substring(start, end))
+                if (end == -1) {
+                    allCookieStr = "";
+                    return;
+                }
+                allVideoArray = allCookieStr.split("_$_");
+                nameArray = new Array(), urlArray = new Array();
+                for (var i = 0; i < allVideoArray.length; i++) {
+                    var singleVideoArray = allVideoArray[i].split("^");
+                    nameArray[i] = singleVideoArray[0];
+                    urlArray[i] = singleVideoArray[1];
+                }
+            }
+            this.viewPlayHistory = function (div) {
+                var tag = document.getElementById(div),
+                        n = 15
+                if (navigator.cookieEnabled) {
+                    var innerStr = "";
+                    for (var i = nameArray.length - 1; i >= 0; i--) {
+                        var textCount = nameArray[i].replace(/[^\x00-\xff]/g, "cc").length;
+                        if (textCount <= n * 2) {
+                            texts = nameArray[i];
+                        } else {
+                            texts = nameArray[i].substr(0, n) + "...";
+                        }
+                        innerStr += "<li><a target=_blank class=name href=\"" + urlArray[i] + "\"" + " title=\"" + nameArray[i] + "\">" + texts + "</a><a target=_blank class=now href=\"" + urlArray[i] + "\"" + " title=\"" + nameArray[i] + "\">立即观看</a></li>"
+                    }
+                    if (innerStr.length > 0) {
+                        tag.innerHTML = innerStr
+                    }
+                } else {
+                    set(tag, "您浏览器关闭了cookie功能，不能为您自动保存最近浏览过的网页。")
+                }
+            };
+            this.addPlayHistory = function (name, url) {
+                var count = 10; //播放历史列表调用条数
+                var code_name = escape(name) + "^",
+                        code_url = escape(url) + "_$_",
+                        expireTime = new Date(new Date().setDate(new Date().getDate() + 30)),
+                        timeAndPathStr = "|; expires=" + expireTime.toGMTString() + "; path=/";
+                if (cookieStr.indexOf("qike123=") != -1 || cookieStr.indexOf("_$_|") != -1) {
+                    var newCookieStr = "";
+                    if (allVideoArray.length < count) {
+                        for (i in allVideoArray) {
+                            if (nameArray[i] == name) continue;
+                            newCookieStr += escape(nameArray[i]) + "^" + escape(urlArray[i]) + "_$_";
+                        }
+                    } else {
+                        for (var i = 1; i < count; i++) {
+                            if (nameArray[i] == name) continue;
+                            newCookieStr += escape(nameArray[i]) + "^" + escape(urlArray[i]) + "_$_";
+                        }
+                    }
+                    document.cookie = "qike123=" + newCookieStr + code_name + code_url + timeAndPathStr;
+                } else {
+                    document.cookie = "qike123=" + code_name + code_url + timeAndPathStr;
+                }
+            }
+        }
+        //var cookiedomain="1.22";
+        function _GC() {
+            document.getElementById('playhistory').innerHTML = "<center>暂无播放历史列表...</center>";
+            var expdate = new Date(1970, 1, 1);
+            document.cookie = "qike123=";
+        }
+        var PlayHistoryObj = new PlayHistoryClass()
+        PlayHistoryObj.getPlayArray()
+
+        function killErrors() {
+            return true;
+        }
+
+        window.onerror = killErrors;
+
+        var topShow = false;
+
+        function showTop(n) {
+            if (topShow == true) {
+                switchTab('top', n, 2, "history");
+            } else {
+                //alert("s");
+                document.getElementById("Tab_top_" + n).className = "history";
+                //document.getElementById("List_top_"+n).className="dropbox_tigger dropbox_tigger_on";
+                document.getElementById("List_top_" + n).style.display = "";
+                topShow = false;
+            }
+        }
+
+        function hideTop() {
+            for (i = 0; i < 2; i++) {
+                var CurTabObj = document.getElementById("Tab_top_" + i);
+                var CurListObj = document.getElementById("List_top_" + i);
+                CurTabObj.className = "history";
+                CurListObj.style.display = "none";
+            }
+        }
+        /*历史 history.js结束*/
+    </script>
+    <div class="banner">
+        <div class="logo-container">
+            <div class="logo"></div>
+        </div>
+    </div>
+
+    <div class="head-title">
+        <ul>
+            <li>
+                <a href="http://www.dilidili.wang/" target="_blank">首页</a>
+            </li>
+            <li>
+                <a href="/anime/201707/" target="_blank">七月新番</a>
+                <div class="title-list">
+                    <a href="/anime/201704/" target="_blank">四月新番</a>
+                </div>
+            </li>
+            <li>
+                <a href="/rexue/" target="_blank">热血动漫</a>
+                <div class="title-list">
+                    <a href="/anime/onepiece/" target="_blank">海贼王</a>
+                    <a href="/anime/gintama/" target="_blank">银魂</a>
+                    <a href="/anime/naruto/" target="_blank">火影忍者</a>
+                    <a href="/anime/conan/" target="_blank">柯南</a>
+                    <a href="/anime/bleach/" target="_blank">境界</a>
+                    <a href="/anime/fairytail/" target="_blank">妖精的尾巴</a>
+                </div>
+            </li>
+            <li>
+                <a href="/anime/zhanzhang/" target="_blank">站长推荐</a>
+            </li>
+            <li>
+                <a href="/hougong/" target="_blank">动漫分类</a>
+            </li>
+            <li>
+                <a href="/rexue/" target="_blank">动漫专栏</a>
+                <div class="title-list">
+                    <a href="/anime/guoman/" target="_blank">腾讯国漫</a>
+                    <a href="/anime/youyaoqidm/" target="_blank">有妖气动漫</a>
+                    <a href="/anime/hjhzt/" target="_blank">若森画江湖</a>
+                    <a href="/anime/qhdm/" target="_blank">乾豪动漫</a>
+                </div>
+            </li>
+            <li>
+                <a href="http://www.huanmusic.com/" target="_blank" rel="nofollow">音乐专栏</a>
+            </li>
+            <li>
+                <a href="http://bbs.005.tv/" target="_blank">D站论坛</a>
+            </li>
+            <li>
+                <a href="http://www.dilidili.wang/anime/facgotaku/" target="_blank" rel="nofollow">展会视频</a>
+            </li>
+            <li>
+                <a href="http://h5.dilidili.wang/" target="_blank">
+                    <img src="http://www.dilidili.wang/newimages/h5game.png" class="h5game">
+                </a>
+            </li>
+            <a href="/zxgx.html" title="最新更新"><i class="box1"></i></a>
+            <form action="/search/index.html" target="_blank" class="search-box">
+                <input type="hidden" name="kwtype" value="0" class="s_inp">
+                <input name="q" type="text" placeholder="可以输入你要搜索的内容哦">
+                <i class="box2" onclick="$('.search-box').submit()"></i>
+                <input type="hidden" name="ie" value="utf8">
+                <input type="hidden" name="src" value="zz">
+                <input type="hidden" name="site" value="www.dilidili.wang">
+                <input type="hidden" name="rg" value="1">
+            </form>
+        </ul>
+    </div>
+    <hr>
+</header>
+<div class="b-page-body">
+    <div class="container-top-wrapper">
+        <div class="main-inner">
+            <div class="fcname">
+                <ul class="n_num">
+                    <li class="on"><a href="javascript:void (0)">全部</a></li>
+<!--                    <li><a href="/video/dance-1.html">宅舞</a></li>
+                    <li><a href="/video/three-dimension-dance-1.html">三次元舞蹈</a></li>
+                    <li><a href="/video/dance-demo-1.html">舞蹈教程</a></li>-->
+                </ul>
+            </div>
+
+            <div class="container-row container-top sub" area="">
+                <div class="container-top-sub">
+                    <div class="b-topic">
+                        <div class="topic-preview-wrapper">
+                            <div class="topic-preview-list-wrapper">
+                                <ul class="topic-preview">
+                                    <li>
+                                        <a target="_blank" href="http://www.dilidili.wang/huiyuan/59899/">
+                                            <img src="/uploads/allimg/170818/2_2024446341.jpg">
+                                            <p>怼怼女主播吃鸡互追十分钟</p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a target="_blank" href="http://www.dilidili.wang/huiyuan/59902/">
+                                            <img src="/uploads/allimg/170818/2_2025513561.jpg">
+                                            <p>吃鸡其实是个恐怖游戏</p>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            <div class="s-bottom">
+                                <ul id="topic_slider" class="slider-bar">
+                                    <li class="on"></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <script>
+                        var outDiv=document.querySelector('ul.topic-preview');
+                        var imgCount=outDiv.querySelectorAll('li').length;
+                        var imgWidth=outDiv.querySelector('li').clientWidth;
+                        //var sliderBarUl=outDiv.parentElement.nextElementSibling.children;
+                        for (var i=0;i<imgCount-1;i++) {
+                            topic_slider.innerHTML+='<li></li>';
+                        }
+                        var topicSlider=topic_slider.children;
+                        for(var j=0;j<imgCount;j++) {
+                            topicSlider[j].index=j;
+                            topicSlider[j].onclick=function () {
+                                toMoveLeft(this);
+                            }
+                        }
+                        var imgIndex=1;
+                        //var outDivMarginLeft=outDiv.style.marginLeft;
+                        function toMoveLeft(ele){
+                            if(arguments.length===0){
+                                outDiv.style.marginLeft='-'+imgIndex*imgWidth+'px';
+                                topic_slider.querySelector('li.on').className='';
+                                topic_slider.querySelectorAll('li')[imgIndex].className='on';
+                                imgIndex++;
+                                if (imgIndex===imgCount) {
+                                        imgIndex=0;
+                                }
+                            }
+                            else{
+                                outDiv.style.marginLeft='-'+imgWidth*ele.index+'px';
+                                topic_slider.querySelector('li.on').className='';
+                                ele.className='on';
+                                imgIndex=ele.index;
+                            }
+                        }
+                        var myTimer=setInterval(toMoveLeft, 4000);
+                        outDiv.onmouseover=function () {
+                            clearInterval(myTimer);
+                        }
+                        outDiv.onmouseout=function () {
+                            myTimer=setInterval(toMoveLeft, 4000);
+                        }
+
+                        document.addEventListener('visibilitychange',function () {
+                            document.hidden?clearInterval(myTimer):myTimer=setInterval(toMoveLeft, 4000);
+                        })
+                    </script>
+                    <ul class="top-list sub">
+                        <li>
+                            <div class="v-item">
+                                <a href="http://www.dilidili.wang/watch3/59985/" target="_blank" title="健康中国 共建共享">
+                                    <div class="preview">
+                                        <img src="/uploads/allimg/170818/7_1422284331.jpg" alt="健康中国 共建共享" style="opacity: 1;">
+                                    </div>
+                                    <div class="mask"></div>
+                                    <div class="play-icon"></div>
+                                    <div class="info">
+                                        <div class="t">健康中国 共建共享</div>
+                                        <p class="up">up主：小小可爱</p>
+                                        <p class="play">播放：59824</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="v-item">
+                                <a href="http://www.dilidili.wang/watch3/59981/" target="_blank" title="岛国都是萝莉控吗？秋叶原7月">
+                                    <div class="preview">
+                                        <img src="/uploads/allimg/170316/1_1345232781.jpg" alt="岛国都是萝莉控吗？秋叶原7月" style="opacity: 1;">
+                                    </div>
+                                    <div class="mask"></div>
+                                    <div class="play-icon"></div>
+                                    <div class="info">
+                                        <div class="t">岛国都是萝莉控吗？秋叶原7月</div>
+                                        <p class="up">up主：萌娘说</p>
+                                        <p class="play">播放：59824</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="v-item">
+                                <a href="http://www.dilidili.wang/watch3/59986/" target="_blank" title="野良和皇女和野猫之心">
+                                    <div class="preview">
+                                        <img src="/uploads/allimg/170817/6_1823377031.jpg" alt="野良和皇女和野猫之心" style="opacity: 1;">
+                                    </div>
+                                    <div class="mask"></div>
+                                    <div class="play-icon"></div>
+                                    <div class="info">
+                                        <div class="t">野良和皇女和野猫之心</div>
+                                        <p class="up">up主：羊羊羊</p>
+                                        <p class="play">播放：59824</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="v-item">
+                                <a href="http://www.dilidili.wang/watch3/55888/" target="_blank" title="瑞克和莫蒂">
+                                    <div class="preview">
+                                        <img src="/uploads/allimg/170406/1_1817475621.jpg" alt="瑞克和莫蒂" style="opacity: 1;">
+                                    </div>
+                                    <div class="mask"></div>
+                                    <div class="play-icon"></div>
+                                    <div class="info">
+                                        <div class="t">瑞克和莫蒂</div>
+                                        <p class="up">up主：世界第一</p>
+                                        <p class="play">播放：59824</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                       <li>
+                            <div class="v-item">
+                                <a href="http://www.dilidili.wang/watch3/59947/" target="_blank" title="彩虹小马第七季">
+                                    <div class="preview">
+                                        <img src="/uploads/allimg/170815/6_1357137421.jpg" alt="彩虹小马第七季" style="opacity: 1;">
+                                    </div>
+                                    <div class="mask"></div>
+                                    <div class="play-icon"></div>
+                                    <div class="info">
+                                        <div class="t">彩虹小马第七季</div>
+                                        <p class="up">up主：我最可爱</p>
+                                        <p class="play">播放：59824</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                       <li>
+                            <div class="v-item">
+                                <a href="http://www.dilidili.wang/watch3/58848/" target="_blank" title="Ben10终极异形">
+                                    <div class="preview">
+                                        <img src="/uploads/allimg/170618/1_1908121211.jpg" alt="Ben10终极异形" style="opacity: 1;">
+                                    </div>
+                                    <div class="mask"></div>
+                                    <div class="play-icon"></div>
+                                    <div class="info">
+                                        <div class="t">Ben10终极异形</div>
+                                        <p class="up">up主：Ben10终极异形</p>
+                                        <p class="play">播放：59824</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-row area-20">
+        <div class="b-l">
+            <div class="b-head">
+                <div class="b-head-l">
+                    <span class="b-head-t">
+                        <a href="zhaiwu/" target="_blank">
+                            <h2>游戏</h2>
+                        </a>
+                    </span>
+                </div>
+                <!-- <div class="b-link-more"><a href="" target="_blank">更多</a></div> -->
+            </div>
+            <div class="b-body">
+                <ul class="v-list sub">
+
+    <div id='tagbf2876bb9850379e51b8925c940b21d0'>
+    </div>
+
+
+                </ul>
+            </div>
+        </div>
+        <div class="b-r">
+            <div class="b-head">
+                <div class="left"><span class="b-head-t">热门</span>
+                    <ul class="b-slt-tab">
+                        <li type="hot"><span class="b-tab-text">全部</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="b-body">
+                <div class="r-list-body" style="overflow: hidden;">
+                    <div class="r-list-wrapper">
+                        <ul class="rlist" data-slider="true">
+                                                       <li class="on"><i class="number n1">1</i>
+                                <div class="preview">
+                                    <a href="http://www.dilidili.wang/huiyuan/59902/" title="绝地求生大逃杀 吃鸡其实是个恐怖游戏" target="_blank">
+                                        <img src="/uploads/allimg/170811/2_2020472631.jpg" loaded="loaded" alt="绝地求生大逃杀" style="opacity: 1;">
+                                    </a>
+                                </div>
+                                <a class="rl-info" href="http://www.dilidili.wang/huiyuan/59902/" title="绝地求生大逃杀 吃鸡其实是个恐怖游戏" target="_blank">
+                                    <div class="title t">绝地求生大逃杀 吃鸡其实是个恐怖游戏</div>
+                                    <div class="i">
+                                        <b class="pts" title="综合评分: 20221">综合评分：2万</b>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="on"><i class="number n1">2</i>
+                                <div class="preview">
+                                    <a href="http://www.dilidili.wang/huiyuan/59899/" title="绝地求生大逃杀 怼怼女主播吃鸡互追十分钟" target="_blank">
+                                        <img src="/uploads/allimg/170811/2_2016394171.jpg" loaded="loaded" alt="绝地求生大逃杀" style="opacity: 1;">
+                                    </a>
+                                </div>
+                                <a class="rl-info" href="http://www.dilidili.wang/huiyuan/59899/" title="绝地求生大逃杀 怼怼女主播吃鸡互追十分钟" target="_blank">
+                                    <div class="title t">绝地求生大逃杀 怼怼女主播吃鸡互追十分钟</div>
+                                    <div class="i">
+                                        <b class="pts" title="综合评分: 1286">综合评分：1万</b>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    
+</body>
+</html>

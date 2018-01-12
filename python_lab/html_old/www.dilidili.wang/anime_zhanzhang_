@@ -1,0 +1,246 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>好看的动漫-站长推荐，构建你自己最喜欢的漫单，享受国内外精彩动漫</title>
+    <meta name="description" content="新作经典轮番推荐好看的动漫，无论您喜欢那种类型，站长推荐构建将成为你最知心的动漫乐园，构建属于你的专属嘀哩嘀哩漫单" />
+    <meta name="keywords" content="动漫,经典动漫,好看的动漫" />
+    <meta name="apple-touch-fullscreen" content="YES">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href="http://www.dilidili.com/css/css2.css" rel="stylesheet" media="screen" type="text/css" />
+    <script type="text/javascript" src="http://www.dilidili.com/js/week.js"></script>
+    <link href="http://www.dilidili.com/css/mobile.css" rel="stylesheet" media="screen" type="text/css" />
+</head>
+<body>
+<script>
+    !function(){
+        var interval = 30;
+        interval *= 60000;
+        var timestamp = parseInt(new Date / interval) * interval;
+        document.writeln('<script src="/js/site-wide.js?'+ timestamp + '"><\/script>');
+    }();
+</script>
+<style>
+    .header .nav li{ }
+    .nav_nav{ position:absolute; top:38px; left:20px; height:30px; display:none; line-height:30px; background:#FFF; padding-left:20px;}
+    .header .nav li .nav_nav a{ margin-right:15px; text-align:center; padding-right:0; color:#666;}
+    .header .nav li .nav_nav a:hover{ border-bottom:3px solid #F69; color:#F00}
+</style>
+<script type="text/javascript" src="http://js.olcdn.com/js/jquery-1.7.2.min.js"></script>
+<div class="header">
+    <div class="header-inner"><a href="http://www.dilidili.com/" class="logo"></a></div>
+    <div class="nav">
+        <div class="nav-inner">
+            <ul>
+                <li><a class="on" href="http://www.dilidili.com/">首页</a></li>
+                <li><a href="http://www.dilidili.com/anime/201607/">新番动漫</a></li>
+                <li><a rel="external nofollow" href="http://www.dilidili.com/anime/guoman/" target="_blank">腾讯国漫</a></li>
+                <li><a href="http://www.dilidili.com/lianai/" target="_blank">分类动漫</a></li>
+                <li><a href="http://www.dilidili.com/anime/onepiece/">海贼王</a></li>
+                <li><a href="http://www.dilidili.com/anime/naruto/">火影忍者</a></li>
+                <li><a href="http://www.dilidili.com/anime/gintama/">银魂</a></li>
+                <li><a href="http://bbs.005.tv/forum.php" rel="nofollow" target="_blank">D站论坛</a></li>
+            </ul>
+            <script>
+                $(".nav-inner li>a").hover(
+                        function(){
+                            var l=$(this).parents("li").offset().left-$(".nav-inner").offset().left-20;
+                            $(".nav_nav").hide();
+                            $(this).siblings(".nav_nav").css("left",l).animate({opacity:"toggle"},200);
+                        },
+                        function(){
+
+                        }
+                )
+                $(".nav_nav").hover(function(){},function(){$(this).hide()});
+            </script>
+            <div class="search">
+                <select name="searchtype" class="search-option select" id="search-option">
+                    <option value="titlekeyword" selected='1'>智能模糊</option>
+                </select>
+                <form  name="formsearch" action="http://www.dilidili.com/plus/search.php">
+                    <input type="hidden" name="kwtype" value="0" class="s_inp"/>
+                    <input type="text" class="text fl s_inp search-keyword" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+                    <button name="button" type="search-submit" id="button" class="search-submit" value="搜索"></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    #cs_right_bottom{display:none;}
+    .ad:nth-of-type(3){display:none;}
+</style>
+<div class="main">
+    <div class="right">
+        <a href="http://www.dilidili.com/old/index_14.html" target="_blank"><img src="http://ww3.sinaimg.cn/mw690/73c96b99gw1f73gd20lu7j20c808wdhn.jpg"/></a>
+        <script type="text/javascript">weekdata( fixCurrentWeekDay());</script>
+        <div class="comments">
+            <h2>说点什么呢· · · · · ·</h2>
+            <!-- Duoshuo Comment BEGIN -->
+            <div class="ds-thread"  data-thread-key="25589" data-author-key="1"  data-url="http://www.dilidili.com/./anime/zhanzhang/" data-title="站长推荐"></div>
+            <script type="text/javascript">
+                var duoshuoQuery = {short_name: "dzhan"};
+                (function() {
+                    var ds = document.createElement('script');
+                    ds.type = 'text/javascript';ds.async = true;
+                    ds.src = 'http://static.duoshuo.com/embed.js';
+                    ds.charset = 'UTF-8';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+                })();
+            </script>
+            <!-- Duoshuo Comment END -->
+            <div id="ds-ssr" class="mt1">
+                <dl class="tbox">
+                    <dt> <strong>评论列表（网友评论仅供网友表达个人看法，并不表明本站同意其观点或证实其描述）</strong> </dt>
+                    <dd>
+                        <div class="dede_comment">
+                            <div class="decmt-box1">
+                                <ul>
+                                    <li id="commetcontentNew"></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+    <div class="left">
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/huanxkmj/" target="_blank">幻想嘉年华</a></div>
+                    <span>幻想嘉年华》为《神薙》原作者武梨绘里所作，是一部融合多名TYPE-MOON旗下游戏角色的同人作品集，其中包括《月姬》、《MELTY BLOOD》、《Fate/stay night》等经典之作，对于喜欢这些作品的爱好者而言是型月的欢乐盛典。</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/huanxkmj/" target="_blank"> <img src="http://static.jfrft.com/uploads/allimg/160704/1_2135089421.jpg" alt="幻想嘉年华"> </a> </div>
+        </div>
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/wjbanben/" target="_blank">我叫坂本我最屌</a> </div>
+                    <span>在下坂本，有何贵干</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/wjbanben/" target="_blank"> <img src="http://static.jfrft.com/uploads/201602/1-1602231101254U.jpg" alt="我叫坂本我最屌"> </a> </div>
+        </div>
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/chaokmacross/" target="_blank">超时空要塞△</a> </div>
+                    <span>天若有情天亦老，我为鮟鱇续一秒</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/chaokmacross/" target="_blank"> <img src="http://static.jfrft.com/uploads/201602/1-160225140414555.jpg" alt="超时空要塞△"> </a> </div>
+        </div>
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/Hellsing-Ultimate/" target="_blank">皇家国教骑士团</a> </div>
+                    <span>20世纪末，在英国不可思议的吸血鬼事件频频发生，皇家国教骑士团（通称Heslling的机关）出动解决问题······Hellsing总部被强袭受到了巨大受害，因特古拉从水火不容的法王厅及其直属机构的安立柯·马克斯威尔得知这是纳粹残党组织“千禧年”所为。恐怖的吸血鬼之王阿卡多，最后的大队“千禧年”又将在这伦敦进行怎样的交集</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/Hellsing-Ultimate/" target="_blank"> <img src="http://static.jfrft.com/uploads/allimg/201509/1-1509251643520-L.jpg" alt="皇家国教骑士团"> </a> </div>
+        </div>
+
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/fwyx1/" target="_blank">疯味英雄</a> </div>
+                    <span>当码奴有了自己的意识，诺德琳也迎来了新的剧变...</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/fwyx1/" target="_blank"> <img src="http://static.jfrft.com/uploads/allimg/160511/6_1126056181.jpg" alt="疯味英雄"> </a> </div>
+        </div>
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/pingpong/" target="_blank">乒乓</a> </div>
+                    <span>虽然画风魔性但是剧情可是紧张刺激还记得那句著名台词吗？“你反手无力，正手不精，脚步松散，反应迟钝，没一个动作像样。就你还想跟我同台较量啊？做你的美梦！</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/pingpong/" target="_blank"> <img src="http://static.jfrft.com/images/cover/9043.jpg" alt="乒乓"> </a> </div>
+        </div>
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/doubutsuno/" target="_blank">兽娘动物园</a></div>
+                    <span>子供向动画突然逆袭成了当季热番，薮猫真是太棒了</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/doubutsuno/" target="_blank"> <img src="http://static.jfrft.com/uploads/allimg/161108/1_1644498031.jpg" alt="兽娘动物园"> </a> </div>
+        </div>
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/saenai/" target="_blank">路人女主的养成方法</a></div>
+                    <span>安艺伦也的后宫生活（大雾）</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/saenai/" target="_blank"> <img src="http://static.jfrft.com/images/cover/12015.jpg" alt="路人女主的养成方法"> </a> </div>
+        </div>
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/whitealbum/" target="_blank">白色相簿</a> </div>
+                    <span>时间是1986年，被泡沫经济侵袭的日本，出生在那个年代的青年藤井冬弥在度过平凡大学生活的同时与明星森川由绮交往着。工作与学习之余，本以为已互相确定感情的两人，因由绮的人气上升，而使得距离越拉越远。这样一来，冬弥就和与由绮同属一间演艺公司的当红明星绪方理奈相遇了。这样的相遇会给他带来什么样的影响呢？没错这就是最初的白色胃药（逃）</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/whitealbum/" target="_blank"> <img src="http://static.jfrft.com/uploads/allimg/201510/1-1510221II60-L.jpg" alt="白色相簿"> </a> </div>
+        </div>
+
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/JigokuShoujo/" target="_blank">地狱少女</a> </div>
+                    <span>迷失于黑暗中的悲哀之影啊，藐视伤害他人，沉溺于罪恶的灵魂啊，你想死一次吗？</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/JigokuShoujo/" target="_blank"> <img src="http://static.jfrft.com/uploads/allimg/161128/1_1429524721.jpg" alt="地狱少女"> </a> </div>
+        </div>
+
+
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/usagi-drop/" target="_blank">白兔糖</a></div>
+                    <span>30岁的单身男大吉在外公的葬礼上遇到了从未谋面的6岁小女孩凛。而这个孩子竟然是外公的私生子，大吉毅然做出了收养的决定。充满正义感却又冒冒失失的大吉，与虽然是个孩子却隐藏着坚强内心的小女孩凛。二个人开始一起生活的幸福日常。</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/usagi-drop/" target="_blank"> <img src="http://static.jfrft.com/uploads/201602/1-16020104263U17.jpg" alt="白兔糖"> </a> </div>
+        </div>
+
+
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/sekikun/" target="_blank">邻座同学是怪咖</a> </div>
+                    <span>坐在横井同学隔壁的男生──关同学，是个总是在上课时以令人叹为观止的方式玩著各种游戏的人，因此横井每次都会不由自主的被他吸引住目光，无法认真上课，每天都困扰不已……</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/sekikun/" target="_blank"> <img src="http://static.jfrft.com/images/cover/7014.jpg" alt="邻座同学是怪咖"> </a> </div>
+        </div>
+        <div class="item">
+            <div class="bd">
+                <div class="content">
+                    <div class="title"> <a href="http://www.dilidili.com/anime/arslan2/" target="_blank">亚尔斯兰战记 第二季</a> </div>
+                    <span>回顾第一期的第25章完结篇＜汗血公路＞，亚尔斯兰（CV：小林裕介）率领著帕尔斯军，跟银假面卿的鲁西达尼亚军辛苦奋战之后总算夺胜，四散各地的伙伴们也一一回归。然而，复国之路仍然漫长，接下来他们能不能在八集之内成功挑战新的磨练呢？咱们等着瞧啊～</span> </div>
+            </div>
+            <div class="avatar"> <a href="http://www.dilidili.com/anime/arslan2/" target="_blank"> <img src="http://static.jfrft.com/uploads/allimg/160510/1_1737291731.jpg" alt="亚尔斯兰战记 第二季"> </a> </div>
+        </div>
+    </div>
+</div>
+
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&img=2&pos=right&uid=6699882" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+    var bds_config={"bdTop":180};
+    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<!-- 将此代码放在适当的位置，建议在body结束前 -->
+<script id="bdaddtocite_shell"></script>
+<script>
+    var bdShare_config_addtocite = {
+        "type":"slide"
+        ,"pos":"right"
+        ,"color":"red"
+        ,"top":"500"
+        ,"uid":"6699882"
+    };
+    document.getElementById("bdaddtocite_shell").src="http://bdimg.share.baidu.com/static/js/addtocite_shell.js?t=" + Math.ceil(new Date()/3600000);
+</script>
+</body>
+</html>

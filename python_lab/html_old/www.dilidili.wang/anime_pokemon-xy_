@@ -1,0 +1,1635 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="utf-8">
+    <title>宠物小精灵XY-  在线&下载 - 嘀哩嘀哩</title>
+    <meta name="keywords" content="宠物小精灵XY" />
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <script src="http://static.jfrft.com/js/uaredirect.js"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/pokemon-xy/");</script>
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/pokemon-xy/"/>
+    <link rel="canonical" href="http://www.dilidili.wang/anime/pokemon-xy/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/pokemon-xy/" >
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+    <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+    <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js" defer></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+    <script>
+        jQuery(function(){
+            new jbCollect('a._collect', '#content1');
+        });
+    </script>
+    <base target="_blank">
+    <style>
+    </style>
+</head>
+<body>
+<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201707/" target="_blank">七月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+
+<div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>宠物小精灵XY</a></div>
+<div class="aside_cen2">
+    <div class="detail con24 clear">
+        <dl>
+            <dt><img src="http://static.jfrft.com/images/cover/5042.jpg" alt="宠物小精灵XY"/></dt>
+            <dd>
+                <h1>宠物小精灵XY</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="宠物小精灵XY" data-url="http://www.dilidili.wang/anime/pokemon-xy/" data-icon="http://static.jfrft.com/images/cover/5042.jpg"><span>收藏</span></a></div><br/>
+                <span class="play_cs">播放次数:<script src="http://www.dilidili.wang/plus/countlist.php?view=yes&aid=870&mid=" type='text/javascript' language="javascript"></script></span>
+                <p><div class="d_label"><b>地区：</b><a href="/riyu/" title="日本动漫">日本</a></div><div class="d_label"><b>年代：</b><a href="/anime/201310/" title="2013年10月新番">2013年10月</a></div></p>
+                <p><div class="d_label"><b>标签：</b>游戏改|童年|冒险|奇幻</div><div class="d_label"><b>状态：</b>完结</div></p>
+                <p><div class="d_label2"><b>看点：</b>小智和皮卡丘是真爱！</div></p>
+                <p><div class="d_label2"><b>简介：</b></div></p>
+                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('宠物小精灵XY','','','http://www.dilidili.wang/anime/pokemon-xy/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                <p>
+                <div class="button_bar">
+                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>
+                    
+                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                </div>
+                </p>
+            </dd>
+        </dl>
+    </div>
+    <div class="con24 m-10 xf_news">
+        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								<h2><a href="/anime/pokemon-xy-z/" style="color:#333;">XY&Z</a></h2>
+                            </span>
+        </div>
+        <div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+        <div class="time_pic list">
+            <div class="time_con">
+                <div class="swiper-container xfswiper1">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul class="clear">
+                                <li><a href="http://www.dilidili.wang/watch/5294/" target="_self"><em><span>第1-2话</span>宠物小精灵XY 第1-2集「来到卡洛斯地区了！</em></a></li><li><a href="http://www.dilidili.wang/watch/5397/" target="_self"><em><span>第3话</span>宠物小精灵XY 第3集「泡沫蛙VS红头夜莺！空中机动对战！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/5595/" target="_self"><em><span>第4话</span>宠物小精灵XY 第4集「皮卡丘和电电鼠！蹭脸颊！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/5940/" target="_self"><em><span>第5话</span>宠物小精灵XY 第5集「白檀道馆战！炫翅蝶华丽的飞舞战斗！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/6048/" target="_self"><em><span>第6话</span>宠物小精灵XY 第6集「冰上决战！皮卡丘VS炫翅蝶！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/6096/" target="_self"><em><span>第7话</span>宠物小精灵XY 第7集「交给塞蕾娜！？疾走铁甲犀牛大赛！」</em></a></li><li><a href="http://www.dilidili.wang/watch/6182/" target="_self"><em><span>第8话</span>宠物小精灵XY 第8集「小精灵美容师和多利丽犬！」</em></a></li><li><a href="http://www.dilidili.wang/watch/6525/" target="_self"><em><span>第9话</span>宠物小精灵XY 第9集「攻略米亚拉道馆！史特隆的秘密！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/6596/" target="_self"><em><span>第10话</span>宠物小精灵XY 第10集「针栗鼠VSmegamega喵喵！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/6787/" target="_self"><em><span>第11话</span>宠物小精灵XY 第11集「竹林的追击！淘气熊猫和恶棍熊猫！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/7155/" target="_self"><em><span>第12话</span>宠物小精灵XY 第12集「捕捉宠物小精灵卖家！吹粉蛹伪装作战！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/7248/" target="_self"><em><span>第13话</span>宠物小精灵XY 第13集「仙精灵VS泡沫蛙！幼稚园大骚动！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/7481/" target="_self"><em><span>第14话</span>宠物小精灵XY 第14集「恐怖的躲雨！超能猫在注视着！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/7682/" target="_self"><em><span>第15话</span>宠物小精灵XY 第15集「针栗鼠VS魔焰狐！减肥的战斗！？」</em></a></li><li><a href="http://www.dilidili.wang/watch/7840/" target="_self"><em><span>第16话</span>宠物小精灵XY 第16集「电电鼠是皮丘 皮丘是电电鼠…！？」</em></a></li><li><a href="http://www.dilidili.wang/watch/7920/" target="_self"><em><span>第17话</span>宠物小精灵XY 第17集「泡沫蛙对头领蛙！忍者对战！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/7978/" target="_self"><em><span>第18话</span>宠物小精灵XY 第18集「叫醒卡比兽！在帕尔法姆宫殿战斗！」</em></a></li><li><a href="http://www.dilidili.wang/watch/8327/" target="_self"><em><span>第19话</span>宠物小精灵XY 第19集「X女士的阴谋！恐怖的恶乌贼！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/8387/" target="_self"><em><span>第20话</span>宠物小精灵XY 第20集「挑战战斗城堡！碧欧拉VS石榴！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/8762/" target="_self"><em><span>第21话</span>宠物小精灵XY 第21集「出道！塞蕾娜和焰耳狐一起拍小精灵录像！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/9150/" target="_self"><em><span>第22话</span>宠物小精灵XY 第22集「钓上黄金鲤鱼王吧！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/9237/" target="_self"><em><span>第23话</span>宠物小精灵XY 第23集「极光的羁绊！阿玛露丝与阿玛露露卡！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/9322/" target="_self"><em><span>第25话</span>宠物小精灵XY 第25集「松阳道馆战！皮卡丘VS小暴龙！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/9435/" target="_self"><em><span>第26话</span>宠物小精灵XY 第26集「棉花球与奶油球！！香甜的战斗并不简单！？」</em></a></li><li><a href="http://www.dilidili.wang/watch/9492/" target="_self"><em><span>第27话</span>宠物小精灵XY 第27集「花宝宝与妖精之花！」</em></a></li><li><a href="http://www.dilidili.wang/watch/9551/" target="_self"><em><span>第28话</span>宠物小精灵XY 第28集「冠军·卡鲁奈登场！雾中的mega沙奈朵！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/9630/" target="_self"><em><span>第29-30话</span>宠物小精灵XY 第29-30集「将将～！冒牌小智出现！！ / 科尔尼与路卡利欧！meg</em></a></li><li><a href="http://www.dilidili.wang/watch/9680/" target="_self"><em><span>第31话</span>宠物小精灵XY 第31集「路卡利欧VS火焰鸡！试炼洞穴!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/9764/" target="_self"><em><span>第32话</span>宠物小精灵XY 第32集「mega路卡利欧对mega路卡利欧！波导风暴!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/9843/" target="_self"><em><span>第33话</span>宠物小精灵XY 第33集「互相呼唤的心！波导的彼岸!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/10087/" target="_self"><em><span>第34话</span>宠物小精灵XY 第34集「mega路卡利欧对mega大嘴娃！mega进化的羁绊!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/10152/" target="_self"><em><span>第35话</span>宠物小精灵XY 第35集「森林冠军！摔跤鹰登场!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/10284/" target="_self"><em><span>第36话</span>宠物小精灵XY 第36集「天空战斗!?摔跤鹰对烈焰夜莺!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/10358/" target="_self"><em><span>第37话</span>宠物小精灵XY 第37集「转世洞穴！镜之国的小智与小智!?」</em></a></li><li><a href="http://www.dilidili.wang/watch/10444/" target="_self"><em><span>第38话</span>宠物小精灵XY 第38集「蠢动森林的巨灵树！」</em></a></li><li><a href="http://www.dilidili.wang/watch/10565/" target="_self"><em><span>第39话</span>宠物小精灵XY 第39集「小精灵夏令营！劲敌三人组登场!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/10650/" target="_self"><em><span>第40话</span>宠物小精灵XY 第40集「塞蕾娜VS莎娜！小精灵录像对决!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/10732/" target="_self"><em><span>第41话</span>宠物小精灵XY 第41集「小精灵越野竞赛！在雾中的X!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/10787/" target="_self"><em><span>第42话</span>宠物小精灵XY 第42集「团队战斗！进入殿堂决战!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11067/" target="_self"><em><span>第43话</span>宠物小精灵XY 第43集「大师塔！mega进化的历史!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11157/" target="_self"><em><span>第44话</span>宠物小精灵XY 第44集「夏拉道馆战！皮卡丘 VS mega路卡利欧!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11229/" target="_self"><em><span>第45话</span>宠物小精灵XY 第45集「史特隆VS尤莉嘉!?用灵媒猫进行兄弟战斗!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11283/" target="_self"><em><span>第46话</span>宠物小精灵XY 第46集「冒失鬼胖可丁VS暴走暴蝾螈!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11359/" target="_self"><em><span>第47话</span>宠物小精灵XY 第47集「塞蕾娜初次收服!?淘气熊猫VS焰耳狐!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11437/" target="_self"><em><span>第48话</span>宠物小精灵XY 第48集「史特隆 回忆的校园！电击的再会!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11495/" target="_self"><em><span>第49话</span>宠物小精灵XY 第49集「乘龙防卫队出动！尤莉嘉加油!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11744/" target="_self"><em><span>第50话</span>宠物小精灵XY 第50集「舞蹈的淘气熊猫 魅力四射的焰耳狐！迈向明天的脚步!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/11835/" target="_self"><em><span>第24话</span>宠物小精灵XY 第24集「海底之城！毒海藻与毒龙藻！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/11897/" target="_self"><em><span>第51话</span>宠物小精灵XY 第51集「摔跤鹰和黑暗摔跤鹰！」</em></a></li><li><a href="http://www.dilidili.wang/watch/12163/" target="_self"><em><span>第52话</span>宠物小精灵XY 第52集「忍法对决！头领蛙对龟手地刺!!」</em></a></li><li><a href="http://www.dilidili.wang/watch/12242/" target="_self"><em><span>第53话</span>宠物小精灵XY 第53集「莎莉娜的诚挚！激烈的咩咩羊竞跑！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/12362/" target="_self"><em><span>第54话</span>宠物小精灵XY 54</em></a></li><li><a href="http://www.dilidili.wang/watch/12445/" target="_self"><em><span>第55话</span>宠物小精灵XY 55</em></a></li><li><a href="http://www.dilidili.wang/watch/12542/" target="_self"><em><span>第56话</span>宠物小精灵XY 56</em></a></li><li><a href="http://www.dilidili.wang/watch/12617/" target="_self"><em><span>第57话</span>宠物小精灵XY 57</em></a></li><li><a href="http://www.dilidili.wang/watch/12675/" target="_self"><em><span>第58话</span>宠物小精灵XY 58 海翼道馆赛！呱头蛙VS坐骑山羊！</em></a></li><li><a href="http://www.dilidili.wang/watch/12744/" target="_self"><em><span>第59话</span>宠物小精灵XY 59 小智和莎莉娜初次约会?誓约之树与礼物!</em></a></li><li><a href="http://www.dilidili.wang/watch/12837/" target="_self"><em><span>第60话</span>宠物小精灵XY 60 目标为卡洛斯皇后！莎莉娜出道！</em></a></li><li><a href="http://www.dilidili.wang/watch/12895/" target="_self"><em><span>第61话</span>宠物小精灵XY 61 荒野的决斗！战斗吧黏黏宝！！</em></a></li><li><a href="http://www.dilidili.wang/watch/13078/" target="_self"><em><span>第62话</span>宠物小精灵XY 62 保护科学的未来！电气的迷宫！</em></a></li><li><a href="http://www.dilidili.wang/watch/13232/" target="_self"><em><span>第63话</span>宠物小精灵XY 63 迷惘之路是歧路!? 武藏与果然翁！！</em></a></li><li><a href="http://www.dilidili.wang/watch/13287/" target="_self"><em><span>第64话</span>宠物小精灵XY 64 火狐狸VS妖火红狐！华丽的表演对战！</em></a></li><li><a href="http://www.dilidili.wang/watch/13449/" target="_self"><em><span>第65话</span>宠物小精灵XY 65 卡咪龟、雷丘登场！黏美伊儿加油!!</em></a></li><li><a href="http://www.dilidili.wang/watch/13557/" target="_self"><em><span>第66话</span>宠物小精灵XY 66 密阿雷市调查希特洛伊特对黑希特洛伊特</em></a></li><li><a href="http://www.dilidili.wang/watch/13627/" target="_self"><em><span>第67话</span>宠物小精灵XY 67 密阿雷道馆对战！小智VS希特隆！</em></a></li><li><a href="http://www.dilidili.wang/watch/13686/" target="_self"><em><span>第68话</span>宠物小精灵XY 68 渴望的超进化！烈咬陆鲨的羁绊！</em></a></li><li><a href="http://www.dilidili.wang/watch/13760/" target="_self"><em><span>第69话</span>宠物小精灵XY 69 湿地带的战斗！黏美露龙对花洁夫人！</em></a></li><li><a href="http://www.dilidili.wang/watch/13843/" target="_self"><em><span>第70话</span>宠物小精灵XY 70 决战！黏美露龙前往彩虹另一头！</em></a></li><li><a href="http://www.dilidili.wang/watch/13905/" target="_self"><em><span>第71话</span>宠物小精灵XY 71 运势最差？柚丽嘉对喵喵！</em></a></li><li><a href="http://www.dilidili.wang/watch/13962/" target="_self"><em><span>第72话</span>宠物小精灵XY 72 恐怖房屋的招待！</em></a></li><li><a href="http://www.dilidili.wang/watch/14137/" target="_self"><em><span>第73话</span>宠物小精灵XY 73 在时装秀对战！宝贝龙VS粉香香！！</em></a></li><li><a href="http://www.dilidili.wang/watch/14195/" target="_self"><em><span>第74话</span>宠物小精灵XY 74 香薰道馆战！美丽的妖精陷阱！！</em></a></li><li><a href="http://www.dilidili.wang/watch/14278/" target="_self"><em><span>第75话</span>宠物小精灵XY 75 劲敌对战三局两胜!朝向明天！</em></a></li><li><a href="http://www.dilidili.wang/watch/14363/" target="_self"><em><span>第76话</span>宠物小精灵XY 76 风与蛋和嗡蝠！</em></a></li><li><a href="http://www.dilidili.wang/watch/14448/" target="_self"><em><span>第77话</span>宠物小精灵XY 77 挑战神奇宝贝天空接力赛！飞吧嗡蝠！</em></a></li><li><a href="http://www.dilidili.wang/watch/14573/" target="_self"><em><span>第78话</span>宠物小精灵XY 78 激斗宝贝球工厂！皮卡丘VS喵喵！</em></a></li><li><a href="http://www.dilidili.wang/watch/14689/" target="_self"><em><span>第79话</span>宠物小精灵XY 79 长尾火狐和顽皮熊猫!惊艳的火焰表演!</em></a></li><li><a href="http://www.dilidili.wang/watch/14968/" target="_self"><em><span>第80话</span>宠物小精灵XY 80 穿越时空的小智！洛托姆的愿望！</em></a></li><li><a href="http://www.dilidili.wang/watch/15268/" target="_self"><em><span>第81话</span>宠物小精灵XY 81 南瓜怪人庆典！ 再见了，南瓜精！？</em></a></li><li><a href="http://www.dilidili.wang/watch/15568/" target="_self"><em><span>第82话</span>宠物小精灵XY 82 超越雪山！象牙猪与暴雪王！！</em></a></li><li><a href="http://www.dilidili.wang/watch/15905/" target="_self"><em><span>第83话</span>宠物小精灵XY 83 针栗鼠！第一差事！！</em></a></li><li><a href="http://www.dilidili.wang/watch/16411/" target="_self"><em><span>第84话</span>宠物小精灵XY 84 折断的树枝破碎的心!长尾火狐的决心!</em></a></li><li><a href="http://www.dilidili.wang/watch/16819/" target="_self"><em><span>第85话</span>宠物小精灵XY 第85话抓拍火焰岛的镜头!拍摄传说!</em></a></li><li><a href="http://www.dilidili.wang/watch/18568/" target="_self"><em><span>第86话</span>宠物小精灵XY 第86话尤丽嘉来照顾！爱撒娇的小暴龙</em></a></li><li><a href="http://www.dilidili.wang/watch/18914/" target="_self"><em><span>第87话</span>宠物小精灵XY 第87话 追忆列车！史裂隆与挖掘兔</em></a></li><li><a href="http://www.dilidili.wang/watch/19303/" target="_self"><em><span>第88话</span>宠物小精灵XY 第88话认生的伊布?!在花圃中抓住他!!</em></a></li><li><a href="http://www.dilidili.wang/watch/19313/" target="_self"><em><span>第89话</span>宠物小精灵XY 第89话双人战斗是友情战斗!伊布初次参战!!</em></a></li><li><a href="http://www.dilidili.wang/watch/19748/" target="_self"><em><span>第90话</span>宠物小精灵XY 第90话 快乐舞蹈在猜谜之后？小精灵百刻大赛</em></a></li><li><a href="http://www.dilidili.wang/watch/19978/" target="_self"><em><span>第91话</span>宠物小精灵XY 第91话 卡洛斯的危机！巨大日久下的战斗</em></a></li><li><a href="http://www.dilidili.wang/watch/20816/" target="_self"><em><span>第92话</span>宠物小精灵XY 第92话 百刻道馆的双打比赛！午夜花的预知未来</em></a></li><li><a href="http://www.dilidili.wang/watch/20840/" target="_self"><em><span>第93话</span>宠物小精灵XY 第93话Z 爆延！卡洛斯的潜伏者</em></a></li><li><a href="http://www.dilidili.wang/watch/21463/" target="_self"><em><span>第SP01话</span>宠物小精灵XY 第SP01话 最强MEGA进化~ACT1</em></a></li><li><a href="http://www.dilidili.wang/watch/21464/" target="_self"><em><span>第SP02话</span>宠物小精灵XY 第SP02话 最强MEGA进化~ACT2</em></a></li><li><a href="http://www.dilidili.wang/watch/21465/" target="_self"><em><span>第SP话</span>宠物小精灵XY 第SP话 COSPLAY皮卡丘特别篇</em></a></li><li><a href="http://www.dilidili.wang/watch/21466/" target="_self"><em><span>第SP03话</span>宠物小精灵XY 第SP03话 最强MEGA进化~ACT3</em></a></li><li><a href="http://www.dilidili.wang/watch/25813/" target="_self"><em><span>第2话</span>宠物小精灵XY 第2集梦和冒险的开始！！」</em></a></li><li><a href="http://www.dilidili.wang/watch/25814/" target="_self"><em><span>第24话</span>宠物小精灵XY 第24集海底之城！毒海藻与毒龙藻</em></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="playjs swiper-pagination"></div>
+            </div>
+            <div class="time_con">
+                <p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                <div class="swiper-container xfswiper3">
+                    <ul class="clear">
+                        <li class="list_xz">
+                            <a href="https://pan.baidu.com/s/1miSnKZu" target="_blank">01-92+SP</a>
+
+                        <li>
+                    </ul>
+                </div>
+            </div>
+            <div class="time_con">
+                <div class="swiper-container swiper4">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul>
+                                <li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5294/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_001.jpg"/>
+                                        <div class="fjjq"><span>第1-2话</span>宠物小精灵XY 第1-2集「来到卡洛斯地区了！<br/>智和三色堇来到了卡洛斯地方的密阿雷市，急着想挑战三色堇妹妹道馆的小智因为无法联络而十分沮丧，在得知这里也有道馆十分兴奋，和三色堇分别后，便直接向密阿雷道馆前进~；小智抱着</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5397/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_003.jpg"/>
+                                        <div class="fjjq"><span>第3话</span>宠物小精灵XY 第3集「泡沫蛙VS红头夜莺！空中机动对战！！」<br/>小智在希特隆和柚丽嘉的带领下，在神奇宝贝中心登记参加卡洛斯地方联盟，并决定前往白檀市挑战道馆训练家紫罗兰，而希特隆和柚莉嘉也表示希望与小智一同旅行，三人便一同经由4号道路</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5595/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_004.jpg"/>
+                                        <div class="fjjq"><span>第4话</span>宠物小精灵XY 第4集「皮卡丘和电电鼠！蹭脸颊！！」<br/>莎莉娜在布拉塔诺博士处得到了卡洛斯地方图鉴，并选择了火狐狸作为自己的初学者神奇宝贝。在前往白檀道馆的途中，柚丽嘉在照顾小智的神奇宝贝时，之前的咚咚鼠再次出现。柚丽嘉十分想</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5940/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_005.jpg"/>
+                                        <div class="fjjq"><span>第5话</span>宠物小精灵XY 第5集「白檀道馆战！炫翅蝶华丽的飞舞战斗！！」<br/>小智一行人来到了白檀市，与此同时莎莉娜也来到了白檀市。在前往道馆的路上小智与道馆训练家紫罗兰碰面了，但却不知道她的道馆训练家身份。抵达道馆，小智在门口遇见了三色堇和她的伞</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6048/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_006.jpg"/>
+                                        <div class="fjjq"><span>第6话</span>宠物小精灵XY 第6集「冰上决战！皮卡丘VS炫翅蝶！！」<br/>经过莎莉娜的提点，小智恢复了活力，继续接受三色堇的特训，让皮卡丘、小箭雀适应了在大风中的战斗。吃过晚饭后，又接受了希特隆的科学特训。第二天小智跟神奇宝贝们精神满满地前去挑</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6096/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_007.jpg"/>
+                                        <div class="fjjq"><span>第7话</span>宠物小精灵XY 第7集「交给塞蕾娜！？疾走铁甲犀牛大赛！」<br/>得到第一枚徽章后，小智和伙伴们再次踏上旅途向遥香道馆进发 ，莎莉娜也应邀一同出发。在莎莉娜的提醒下，小智终于想起了自己与莎莉娜是旧识，就在大家为重逢而开心时，突然传来轰隆</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6182/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_008.jpg"/>
+                                        <div class="fjjq"><span>第8话</span>宠物小精灵XY 第8集「小精灵美容师和多利丽犬！」<br/>前往密阿雷市途中，小智等人结识了被神奇宝贝多丽米亚拒绝的实习美容师洁西卡，洁西卡热情的招待他们在这个小镇观光，期间大家的目光都被一所神奇宝贝美容院所吸引，莎莉娜还将火狐狸</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6525/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_009.jpg"/>
+                                        <div class="fjjq"><span>第9话</span>宠物小精灵XY 第9集「攻略米亚拉道馆！史特隆的秘密！！」<br/>小智一行人在到达遥香道馆前来到了密阿雷市，这里也是小智与希特隆、柚丽嘉相识的地方，没想到刚来这里就遇到了兄妹二人的爸爸并且小智还意外得知希特隆就是密阿雷市道馆的馆主，而他</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6596/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_010.jpg"/>
+                                        <div class="fjjq"><span>第10话</span>宠物小精灵XY 第10集「针栗鼠VSmegamega喵喵！！」<br/>在莎莉娜的提议下大家一起去拜访布拉塔诺博士，就在大伙开开心心吃马卡龙时，火箭队突然闯入并抓走了博士，在他们的威胁下博士交出了让神奇宝贝超进化的资料，于是超级喵喵诞生！而此</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6787/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_011.jpg"/>
+                                        <div class="fjjq"><span>第11话</span>宠物小精灵XY 第11集「竹林的追击！淘气熊猫和恶棍熊猫！！」<br/>小智、希特隆等人一起在竹林里享受午餐的时候，突然冒出了两只顽皮熊猫，它们吃光了所有人的食物，这时，火箭队出现并抓走了神奇宝贝们，可是却因为起内讧引起爆炸使皮卡丘它们得以逃</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7155/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_012.jpg"/>
+                                        <div class="fjjq"><span>第12话</span>宠物小精灵XY 第12集「捕捉宠物小精灵卖家！吹粉蛹伪装作战！！」<br/>旅行途中，小智等人捡到了被神奇宝贝卖家达兹掉落的粉蛹，当大家从君莎小姐那里得知达兹的丑恶行径后，决定救出其他被抓的粉蛹，于是，大伙儿制定了伪装大作战计划，他们将哈力栗装扮</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7248/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_013.jpg"/>
+                                        <div class="fjjq"><span>第13话</span>宠物小精灵XY 第13集「仙精灵VS泡沫蛙！幼稚园大骚动！！」<br/>前往遥香市的途中，小智遇到了训练家普尔美艾，因为在对战中败给了仙子精灵，他便与伙伴们按照约定随普尔美艾来到一所幼稚园，让自己的神奇宝贝陪孩子们玩耍，但其中有一个名为兰迪孩</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7481/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_014.jpg"/>
+                                        <div class="fjjq"><span>第14话</span>宠物小精灵XY 第14集「恐怖的躲雨！超能猫在注视着！！」<br/>旅行途中突降大雨，小智等人躲进了一栋无人居住的诡异宅邸，因为这里不是电灯自动点亮就是大门忽然紧闭，于是，大伙决定另寻出口，没想到遇见了一个奇怪的生物，期间，柚莉嘉也莫名失</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7682/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_015.jpg"/>
+                                        <div class="fjjq"><span>第15话</span>宠物小精灵XY 第15集「针栗鼠VS魔焰狐！减肥的战斗！？」<br/>天色渐暗，前往遥香市的小智等人决定露营，大家一起吃饭、嬉闹，其乐融融。其间，因贪吃而肥胖的哈力栗还与呱呱泡蛙和咚咚鼠进行了对战，哈力栗惨败两战。当晚，哈力栗受到香气的指引</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7840/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_016.jpg"/>
+                                        <div class="fjjq"><span>第16话</span>宠物小精灵XY 第16集「电电鼠是皮丘 皮丘是电电鼠…！？」<br/>在神奇宝贝中心时，由于莉姆的大意，把装着皮丘的背包和柚丽嘉装着咚咚鼠的背包弄混了，看见柚丽嘉的皮丘吓得使出绝招，莎莉娜保护了柚丽嘉，皮卡丘也用十万伏特稳定了皮丘，之后小智</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7920/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_017.jpg"/>
+                                        <div class="fjjq"><span>第17话</span>宠物小精灵XY 第17集「泡沫蛙对头领蛙！忍者对战！！」<br/>正在前往下一个道馆的所在地遥香市的小智一行人，遇到了神秘的少年忍者和呱头蛙。面对拥有呱头蛙小精灵的少年忍者三平，小智对三平提出了对战的请求，于是小智的呱呱泡蛙对战三平的呱</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7978/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_018.jpg"/>
+                                        <div class="fjjq"><span>第18话</span>宠物小精灵XY 第18集「叫醒卡比兽！在帕尔法姆宫殿战斗！」<br/>来到古木镇的小智一行人，一进入城门就听到了一阵奇怪的噪音。在一番了解之后，小智等人得知原来是因为今年卡比兽未被唤醒而一直沉睡。为了唤醒时不时发出噪音的卡比兽，希特隆拿出了</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8327/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_019.jpg"/>
+                                        <div class="fjjq"><span>第19话</span>宠物小精灵XY 第19集「X女士的阴谋！恐怖的恶乌贼！！」<br/>就在火箭队众人讨论如何捉住皮卡丘的时候，神秘的X女士出现在火箭队的面前，为了得到皮卡丘，X女士控制住了火箭队的武藏与小次郎。而躲过一劫的喵喵在遇到并提醒了小智一行人，然而后</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8387/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_020.jpg"/>
+                                        <div class="fjjq"><span>第20话</span>宠物小精灵XY 第20集「挑战战斗城堡！碧欧拉VS石榴！！」<br/>可以在战斗中获得爵位的战斗城堡引起了小智等人的注意，在说唱兄弟尼古拉和特斯拉的带领下小智等人来到了战斗古堡。不同于道馆战，战斗古堡的战斗充满了骑士精神，而小智也在战斗中获</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8762/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_021.jpg"/>
+                                        <div class="fjjq"><span>第21话</span>宠物小精灵XY 第21集「出道！塞蕾娜和焰耳狐一起拍小精灵录像！！」<br/>最近流行的神奇宝贝录像里第一名是偶像神奇宝贝组合出道的艾露和火狐狸，看到这些的莎莉娜也不甘示弱，她也准备拍摄神奇宝贝录像出道。一番努力之后莎莉娜的录像终于拍摄好了，但神奇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9150/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_022.jpg"/>
+                                        <div class="fjjq"><span>第22话</span>宠物小精灵XY 第22集「钓上黄金鲤鱼王吧！！」<br/>小智一行人途径朝气蓬勃的古香水族馆，在那里他们不光看见了来自各地的水系神奇宝贝，还看到了黄金的鲤鱼王雕像。在海边他们看到了正在垂钓的馆长和铁臂枪虾，听说了黄金鲤鱼王的传说</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9237/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_023.jpg"/>
+                                        <div class="fjjq"><span>第23话</span>宠物小精灵XY 第23集「极光的羁绊！阿玛露丝与阿玛露露卡！！」<br/>前往遥香道馆的小智等人遇到了三色堇小姐，而三色堇这次采访的目的地——古香镇化石研究所——引起了小智等人的兴趣。来到化石研究所大冰库的小智一行人遇到了喜欢亲近人的冰雪龙与冰</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9322/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_025.jpg"/>
+                                        <div class="fjjq"><span>第25话</span>宠物小精灵XY 第25集「松阳道馆战！皮卡丘VS小暴龙！！」<br/>为了得到第二枚徽章，小智一行人终于到达了遥香市，迫不及待向查克洛先生提出道馆战的小智将要展现自己的特训成果。登上绝壁的小智得到了查克洛的认可，特训后的呱呱泡蛙用“岩石封闭</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9435/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_026.jpg"/>
+                                        <div class="fjjq"><span>第26话</span>宠物小精灵XY 第26集「棉花球与奶油球！！香甜的战斗并不简单！？」<br/>因为小精灵泡芙的关系莎莉娜和米露菲产生了矛盾，为了一较高下，两人都参加了小精灵泡芙比赛。而当比赛接近末尾时，作为材料的树果全都不翼而飞了。为了寻找树果，小智一行人来到了森</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9492/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_027.jpg"/>
+                                        <div class="fjjq"><span>第27话</span>宠物小精灵XY 第27集「花宝宝与妖精之花！」<br/>小智和同伴们在前往第三个道馆所在的娑罗市的路上。然而，他们在途中遇到的花蓓蓓却一直黏在柚丽嘉的花型头饰上面不肯离开，它本应随身携带的妖精之花也不见了踪影。来到城市后小智他</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9551/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_028.jpg"/>
+                                        <div class="fjjq"><span>第28话</span>宠物小精灵XY 第28集「冠军·卡鲁奈登场！雾中的mega沙奈朵！！」<br/>在小精灵表演赛中小智目睹了卡洛斯地区冠军卡露乃的风采，她和小精灵沙奈朵有着很深的羁绊，而博士也为了调查超进化调查上了卡露乃。后因为热销的巧克力 蛋糕的缘故卡露乃接下了小智</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9630/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_029.jpg"/>
+                                        <div class="fjjq"><span>第29-30话</span>宠物小精灵XY 第29-30集「将将～！冒牌小智出现！！ / 科尔尼与路卡利欧！meg<br/>小智一行人突然俊先生被带走，自称小智莎莉娜柚丽嘉到处吃东西没付钱。完全没有做过的小智决定去寻找，小智能找到冒牌货？
+小智一行在旅行中，遇到了可尔妮和路卡利欧后贝邀请战斗。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9680/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_031.jpg"/>
+                                        <div class="fjjq"><span>第31话</span>宠物小精灵XY 第31集「路卡利欧VS火焰鸡！试炼洞穴!!」<br/>为了得到超级石，可尔妮和小智一行来的了石苔镇，深山的洞窟有超级石的消息，但抢先的火箭队被什么吹跑了！洞窟的深处火焰鸡在那里，超级石需要打败火焰鸡，可尔妮能得到！？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9764/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_032.jpg"/>
+                                        <div class="fjjq"><span>第32话</span>宠物小精灵XY 第32集「mega路卡利欧对mega路卡利欧！波导风暴!!」<br/>路卡利欧超级石到手，可尔妮完成了路卡利欧超进化。为了确认路卡利欧的实力，立刻和皮卡丘战斗。控制不住强力波导让路卡利欧逐渐暴走。皮卡丘遭暴走的路卡利欧的攻击可尔妮能阻止吗！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9843/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_033.jpg"/>
+                                        <div class="fjjq"><span>第33话</span>宠物小精灵XY 第33集「互相呼唤的心！波导的彼岸!!」<br/>强力的波导控制课题，老黄瓜的新考验，小智一行前往姆斯特山。为了走近路而被火箭队带入、但因为洞窟的神奇宝贝搞大混乱，想办法逃出的小智和同伴走散了，小智和同伴在相见吗！？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10087/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_034.jpg"/>
+                                        <div class="fjjq"><span>第34话</span>宠物小精灵XY 第34集「mega路卡利欧对mega大嘴娃！mega进化的羁绊!!」<br/>抵达姆斯特山的小智可尔妮一行人遇上了一位名为梅普尔的老婆婆，于是超级路卡利欧和超级大嘴娃展开了一场对战。但是再次暴走的超级路卡利欧却被超级大嘴娃所打倒。可尔妮一行人接受了</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10152/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_035.jpg"/>
+                                        <div class="fjjq"><span>第35话</span>宠物小精灵XY 第35集「森林冠军！摔跤鹰登场!!」<br/>在途中遇到欺负神奇宝贝的圈圈熊，小智一行决定去教训它。在这时摔跤神奇宝贝战斗飞鸟出现了，它的美学吸引力小智，小智决定帮他完成飞行重压就在成功时，邪恶的神奇宝贝出现.....</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10284/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_036.jpg"/>
+                                        <div class="fjjq"><span>第36话</span>宠物小精灵XY 第36集「天空战斗!?摔跤鹰对烈焰夜莺!!」<br/>在途中小智一行遇到在空中战斗的教练，小智决定去学。后来小智和飞行大师娜美比赛......</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10358/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_037.jpg"/>
+                                        <div class="fjjq"><span>第37话</span>宠物小精灵XY 第37集「转世洞穴！镜之国的小智与小智!?」<br/>旅行的途中路过的反映洞窟小智等人。镜子一样自己反映出这个洞穴，奇妙的事件发生了。众多倒映在镜子中的一个小智把皮卡丘夺去了！小智为了夺回皮卡丘进入镜子的世界･･･在另一个世</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10444/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_038.jpg"/>
+                                        <div class="fjjq"><span>第38话</span>宠物小精灵XY 第38集「蠢动森林的巨灵树！」<br/>为了打败可尔妮，小智和希特隆展开了双打比赛。但由于不默契战斗的途中争吵。结果小智决定训练呱呱泡蛙和战斗飞鸟，在训练中小智被朽木妖抓走了，战斗飞鸟和呱呱泡蛙去救小智结果..</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10565/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_039.jpg"/>
+                                        <div class="fjjq"><span>第39话</span>宠物小精灵XY 第39集「小精灵夏令营！劲敌三人组登场!!」<br/>小智一行参加了布拉塔诺博士举办的夏令营。队伍分数最高可以入殿堂。后小智一行和瑅耶鲁诺、莎娜、多罗巴的相遇。夏令营活动，现在拉开了帷幕！！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10650/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_040.jpg"/>
+                                        <div class="fjjq"><span>第40话</span>宠物小精灵XY 第40集「塞蕾娜VS莎娜！小精灵录像对决!!」<br/>夏令营第三日的节目是神奇宝贝表演，神奇宝贝为主角。为了选场景莎莉娜不小心滑落悬崖！瞬间试图伸出手帮助的小智也被卷入了。究竟2人的平安吗！？他们能赢？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10732/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_041.jpg"/>
+                                        <div class="fjjq"><span>第41话</span>宠物小精灵XY 第41集「小精灵越野竞赛！在雾中的X!!」<br/>小智与瑅耶鲁诺在进入白热化阶段的夏令营里争第一。下一个项目是收集各个检查点的印章，以终点为目标的小精灵定向越野竞赛。小智一行人齐心协力顺利地前进着，但是由于浓雾在中途与柚</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10787/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_042.jpg"/>
+                                        <div class="fjjq"><span>第42话</span>宠物小精灵XY 第42集「团队战斗！进入殿堂决战!!」<br/>夏令营的最后一天战斗！到这里小智和瑅耶鲁诺队共同竞争着首位，决赛前，瑅耶鲁诺队对去找乔伊治疗神奇宝贝，但是，出现扮演厨师潜入夏令营的火箭队欺骗！瑅耶鲁诺队的神奇宝贝被带走</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11067/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_043.jpg"/>
+                                        <div class="fjjq"><span>第43话</span>宠物小精灵XY 第43集「大师塔！mega进化的历史!!」<br/>娑罗市到达，可尔妮小智等人久违的再会。神奇宝贝夏令营瑅耶鲁诺教的“节奏战法”没有完成的状态进行道馆战。小智在莎莉娜的担心中，后往精通塔走去。在小智一行了解超进化的那天晚上</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11157/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_044.jpg"/>
+                                        <div class="fjjq"><span>第44话</span>宠物小精灵XY 第44集「夏拉道馆战！皮卡丘 VS mega路卡利欧!!」<br/>心情无法抑制的小智，瑅耶鲁诺节奏战法的练习也草草了事。终于娑罗道馆战开始！于擅长格斗类型的可尔妮对战，小智派战斗飞鸟、火箭雀、皮卡丘挑战。到现在对路卡利欧一次也没有取胜的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11229/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_045.jpg"/>
+                                        <div class="fjjq"><span>第45话</span>宠物小精灵XY 第45集「史特隆VS尤莉嘉!?用灵媒猫进行兄弟战斗!!」<br/>小智一行在旅行途中碰到了用超能妙喵作为搭档的龙一兄弟，他们两个分别进行了自己的旅行，现在正在久违的回家途中。但是虽说兄弟俩很长时间以来初次见面，两人中间却飘荡着一股不和谐</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11283/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_046.jpg"/>
+                                        <div class="fjjq"><span>第46话</span>宠物小精灵XY 第46集「冒失鬼胖可丁VS暴走暴蝾螈!!」<br/>小智一行在旅行途中经过了一家神奇宝贝中心，见到了一只总是失败的胖可丁。然后城里有一只暴蝾螈突然开始暴走，被打伤的神奇宝贝不停地被送到了这家神奇宝贝中心，这使得这只胖可丁大</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11359/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_047.jpg"/>
+                                        <div class="fjjq"><span>第47话</span>宠物小精灵XY 第47集「塞蕾娜初次收服!?淘气熊猫VS焰耳狐!!」<br/>小智一行受莎娜的邀请来看卡洛斯女王艾露的表演，期间顽皮熊猫随意出来表演，后莎莉娜发现顽皮熊猫喜欢表演决定收服，在收服的过程中火箭队出来捣乱，最终莎莉娜能收服顽皮熊猫吗？？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11437/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_048.jpg"/>
+                                        <div class="fjjq"><span>第48话</span>宠物小精灵XY 第48集「史特隆 回忆的校园！电击的再会!!」<br/>小智一行来到希特隆的母校，因为火箭队的捣乱，遇到了野生的勒克猫。这勒克猫还是小电狮曾经希特隆一起进行研究深厚情谊的精灵。但是，由于某些原因2人分离了。再会的2个，他们之间的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11495/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_049.jpg"/>
+                                        <div class="fjjq"><span>第49话</span>宠物小精灵XY 第49集「乘龙防卫队出动！尤莉嘉加油!!」<br/>柚丽嘉在森林中与自称“拉普拉斯防卫队，年纪相同的3人组相遇。3人照顾了受伤的乘龙。乘龙的哀鸣“拉普拉斯防卫队决定把乘龙送到海里。在终途遇到火箭队的妨碍！“拉普拉斯防卫可以保</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11744/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_050.jpg"/>
+                                        <div class="fjjq"><span>第50话</span>宠物小精灵XY 第50集「舞蹈的淘气熊猫 魅力四射的焰耳狐！迈向明天的脚步!!」<br/>顽皮熊猫和哈力栗因为食物的争吵，宁宁和小智等人相遇。宁宁和莎莉娜一样以卡洛斯女王为目标。火箭队出现把神奇宝贝夺去了！火狐狸的危机，争吵中的 顽皮熊猫和哈力栗能保护火狐狸吗</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11835/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_024.jpg"/>
+                                        <div class="fjjq"><span>第24话</span>宠物小精灵XY 第24集「海底之城！毒海藻与毒龙藻！！」<br/>海岸钓神奇宝贝的小智，毒拉蜜妮攻击使皮卡丘中毒，路过的夫妇帮助治疗。原来两人是水中考古学者，在这一带考察的沉没豪华客轮。发现海流从这片海域穿过。小智一行帮助调查。另一方面</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11897/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_051.jpg"/>
+                                        <div class="fjjq"><span>第51话</span>宠物小精灵XY 第51集「摔跤鹰和黑暗摔跤鹰！」<br/>小智一行看见闪光的战斗飞鸟袭击布卢。，其实它只是戏剧的练习。打扰了，练习使主角艾路雷朵受伤了，让小智的战斗飞鸟代替参加布鲁舞台。适逢正式开始火箭队进入发生了骚动…</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12163/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/pokemon-xy/images/thumb_052.jpg"/>
+                                        <div class="fjjq"><span>第52话</span>宠物小精灵XY 第52集「忍法对决！头领蛙对龟手地刺!!」<br/>在战斗训练的小智一行，和受伤的三平相遇了。三平的任务是把卷轴送到馆里在途中遇到了神秘的“假面忍者”的袭击。小智一行和三平，一起向这个馆护送卷轴为目标。然而假面忍者出现了进</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12242/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106140205Z0.jpg"/>
+                                        <div class="fjjq"><span>第53话</span>宠物小精灵XY 第53集「莎莉娜的诚挚！激烈的咩咩羊竞跑！！」<br/>路过牧场的小智一行人和莎莉娜的萨琪相遇了。尽管萨琪想要把莎莉娜培养成一流的铁甲犀牛骑手，莎莉娜却决意传达出的是想要成为“神奇宝贝表演家”的想法。可是面对不肯承认自己梦想的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12362/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106140359643.jpg"/>
+                                        <div class="fjjq"><span>第54话</span>宠物小精灵XY 54<br/>小智一行人在旅行中遇见了之前在发电站的君莎小姐，后来，火箭队和小智等人被乌贼王发现并被抓走。为了破坏乌贼王的最终计划，希特隆和小次郎得到了当地小精灵的帮助。但是，小次郎的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12445/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106140440634.jpg"/>
+                                        <div class="fjjq"><span>第55话</span>宠物小精灵XY 55<br/>在前往海翼市的途中，小智一行人与最弱的龙系小精灵黏黏宝相遇，虚弱的黏黏宝得到了小智们的帮助恢复了精神。但皮卡丘和黏黏宝却被火箭队抓走了，皮卡丘和黏黏宝应该如何逃走呢？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12542/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-1511061406014A.jpg"/>
+                                        <div class="fjjq"><span>第56话</span>宠物小精灵XY 56<br/>旅行的途中，小智一行人打算让小精灵们到水池玩耍，然后这水池却是火箭队所建造的圈套。分散了小智一行人，在打斗中，黏黏宝不见了。后来发现黏黏宝被火箭队逮捕了...</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12617/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106140Ic95.jpg"/>
+                                        <div class="fjjq"><span>第57话</span>宠物小精灵XY 57<br/>小智等人来到了海翼市，他们听说在比翼市的神奇宝贝中心有一只迷路的迷你冰。于是小智等人决定去看望迷你冰，然而迷你冰却被火箭队绑架了。迷你冰被绑架后比翼市突然下起了大雪？！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12675/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106140Z3b7.jpg"/>
+                                        <div class="fjjq"><span>第58话</span>宠物小精灵XY 58 海翼道馆赛！呱头蛙VS坐骑山羊！<br/>终于迎来了海翼道馆战，小智与擅长使用草系小精灵的道馆馆主福爷进行道馆战。与福爷的苦战中，小智最终选择了属性不利的呱头蛙进行对战，那么小智的作战到底是什么呢？小智最后能不能</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12744/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-1511061410091P.jpg"/>
+                                        <div class="fjjq"><span>第59话</span>宠物小精灵XY 59 小智和莎莉娜初次约会?誓约之树与礼物!<br/>今天是海翼市一年一度的祭典，在这天最主要的是要在誓言之树下训练师们要送礼物给自己的神奇宝贝，并加深彼此的羁绊。听到消息的小智和莎莉娜两人决定去给神奇宝贝们买礼物。这也是两</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12837/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-1511061411194D.jpg"/>
+                                        <div class="fjjq"><span>第60话</span>宠物小精灵XY 60 目标为卡洛斯皇后！莎莉娜出道！<br/>今天终于是莎莉娜在三冠卫星赛出道的日子，紧张无法掩饰莎莉娜此刻的心情，莎娜也准备好去参加该次比赛，在三冠卫星赛中，与莎莉娜比赛的有莎娜、武藏等竞争对手们，莎莉娜的初次比赛</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12895/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614115I64.jpg"/>
+                                        <div class="fjjq"><span>第61话</span>宠物小精灵XY 61 荒野的决斗！战斗吧黏黏宝！！<br/>小智一行人在旅行途中的荒野，遇见了寻求帮助的受伤的跳跳猪，跳跳猪们原本在荒野中的绿洲和平的生活着，但是噗噗猪的出现，使得跳跳猪们都被欺负，只有自己逃了出去，小智一行人决定</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13078/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110615064XM.jpg"/>
+                                        <div class="fjjq"><span>第62话</span>宠物小精灵XY 62 保护科学的未来！电气的迷宫！<br/>旅行的途中，路过卡洛斯发电站的附近的小智一行往发电站走去。然而接近发电站的皮卡丘们发生异常！其实火箭团占领发电所操纵电系神奇宝贝！小智的神奇宝贝们们帮助发电站的人员？说起</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13232/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106150430516.jpg"/>
+                                        <div class="fjjq"><span>第63话</span>宠物小精灵XY 63 迷惘之路是歧路!? 武藏与果然翁！！<br/>与小智一行的战斗，小次郎喵喵和走散了的武藏果然翁。掉到河里被医生的救了。于是武藏和医生一见钟情！…在爱与恶的中间苦恼的武藏，火箭队变成怎样！？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13287/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106150403358.jpg"/>
+                                        <div class="fjjq"><span>第64话</span>宠物小精灵XY 64 火狐狸VS妖火红狐！华丽的表演对战！<br/>以下各表演赛练习中的莎莉娜，练习中发生问题。莎莉娜觉定整理心情，自己一个人行动。于是自称艾露的神秘姐姐过来搭话一起练习的事…咦？这个姐姐的脸在哪里看过？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13449/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110615025a23.jpg"/>
+                                        <div class="fjjq"><span>第65话</span>宠物小精灵XY 65 卡咪龟、雷丘登场！黏美伊儿加油!!<br/>向着密阿雷市前进的小智一行人，在森林里吃饭。瑅耶鲁诺向小智发起特训战斗，火箭队的机械抓走了皮卡丘，，不过，战斗的余波是森林着火！那个时候，小智的黏美伊儿变了！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13557/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106150223U9.jpg"/>
+                                        <div class="fjjq"><span>第66话</span>宠物小精灵XY 66 密阿雷市调查希特洛伊特对黑希特洛伊特<br/>回到密阿雷市小智等人，小智向希特隆挑战。突然，君莎小姐闯入！什么要逮捕希特洛伊特！原来和希特洛伊特一模一样的机器人在密阿雷市搞破坏。被冤枉的希特洛伊特，小智一行如何可以证</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13627/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106150102G7.jpg"/>
+                                        <div class="fjjq"><span>第67话</span>宠物小精灵XY 67 密阿雷道馆对战！小智VS希特隆！<br/>终于到达密阿雷市，小智与希特隆的道馆战开始了，希特隆使用了会用电系技能的掘掘兔、技能丰富的电伞查特和强力的伦琴猫......小智能否赢得约定之战的胜利，获得道馆徽章呢？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13686/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614594C36.jpg"/>
+                                        <div class="fjjq"><span>第68话</span>宠物小精灵XY 68 渴望的超进化！烈咬陆鲨的羁绊！<br/>小智在向下一个道馆出发前，先去一趟博士的研究所。布拉塔诺博士将他的烈咬陆鲨石给小智一行人展示，可是这时火箭队却突然抢走了它，烈咬陆鲨该怎么办？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13760/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106145T25P.jpg"/>
+                                        <div class="fjjq"><span>第69话</span>宠物小精灵XY 69 湿地带的战斗！黏美露龙对花洁夫人！<br/>旅行途中，小智一行人经过了一片湿地，这是黏美露龙的家乡。?   曾经的同伴们再会，。到那里，到那里家乡被花洁夫人进攻！？为了保护伙伴，故乡的和平，黏美露龙如何面对进攻！！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13843/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614234M36.jpg"/>
+                                        <div class="fjjq"><span>第70话</span>宠物小精灵XY 70 决战！黏美露龙前往彩虹另一头！<br/>由于黏美露龙被火箭队袭击而身负重伤。夜晚，虫系神奇宝贝们带走了皮卡丘等神奇宝贝！！小智们背后蠢动的可疑的黑影的真实身份是…？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13905/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614243K05.jpg"/>
+                                        <div class="fjjq"><span>第71话</span>宠物小精灵XY 71 运势最差？柚丽嘉对喵喵！<br/>和火箭队的战斗使流氓熊猫攻击小智等人。混乱中柚丽嘉的大家走散了！柚丽嘉和喵喵被藤蔓捆在了一起，到底柚丽嘉和喵喵能否回到同伴身边！？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13962/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106142624191.jpg"/>
+                                        <div class="fjjq"><span>第72话</span>宠物小精灵XY 72 恐怖房屋的招待！<br/>在森林里迷路了小智一行。到达有妖怪传闻中的可怕的地方恐怖房屋。连续发生的奇怪现象，消失的伙伴们、另人害怕的真相是!?</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/14137/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-1511061505411H.jpg"/>
+                                        <div class="fjjq"><span>第73话</span>宠物小精灵XY 73 在时装秀对战！宝贝龙VS粉香香！！<br/>成功抵达香薰市的小智一行人，正准备开始道馆战，可是正好赶上道馆训练家的时装秀。失望的小智了他们遇到了新人训练家胜太，于是小智开始与其对战，这时，莎丽娜和柚丽嘉不在了!?</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/14195/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614292X15.jpg"/>
+                                        <div class="fjjq"><span>第74话</span>宠物小精灵XY 74 香薰道馆战！美丽的妖精陷阱！！<br/>道馆战开始，小智迫不及待的和玛绣开始了对战，这次的小智特别考虑作战。好像…真的没问题！？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/14278/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614301N93.jpg"/>
+                                        <div class="fjjq"><span>第75话</span>宠物小精灵XY 75 劲敌对战三局两胜!朝向明天！<br/>结束了道馆战后，抑制不住心情的胜太准备和小智来一场完整的对战，可是在吃完饭后，他的笔记本不见了，担心的小智等人也分头笔记。其实胜太的笔记被火箭队捡到！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/14363/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106145JE63.jpg"/>
+                                        <div class="fjjq"><span>第76话</span>宠物小精灵XY 76 风与蛋和嗡蝠！<br/>在旅途中森林里，小智的战斗飞鸟捡到一颗蛋，经过小智他们的努力孵化成嗡蝠。但是，无法嗡蝠飞行！大家帮忙嗡蝠飞行･･･</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/14448/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614321WC.jpg"/>
+                                        <div class="fjjq"><span>第77话</span>宠物小精灵XY 77 挑战神奇宝贝天空接力赛！飞吧嗡蝠！<br/>旅行的途中的村子，很多的神奇宝贝飞行训练师聚集着的。现在这个村里，在很多神奇宝贝在空接力进行。这是神奇宝贝空中接力赛！小智，参加了比赛但嗡蝠能得到第一？？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/14573/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614333N22.jpg"/>
+                                        <div class="fjjq"><span>第78话</span>宠物小精灵XY 78 激斗宝贝球工厂！皮卡丘VS喵喵！<br/>小智一行前去参观宝贝球工厂。但是这个参观活动其实是火箭队的陷阱，以“维护宝贝球”的名义把小智他们的的神奇宝贝全拐跑了，皮卡丘该如何？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/14689/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106145625600.jpg"/>
+                                        <div class="fjjq"><span>第79话</span>宠物小精灵XY 79 长尾火狐和顽皮熊猫!惊艳的火焰表演!<br/>　莎莉娜再次参加了以神奇宝贝的魅力来竞争的三冠卫星赛。第一轮比赛是她的得意项目因此轻松通过，但在准备进行自由表演的时候，在后台却发生了意想不到的意外･･･莎莉娜该怎么办呢</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/14968/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-1511061434522B.jpg"/>
+                                        <div class="fjjq"><span>第80话</span>宠物小精灵XY 80 穿越时空的小智！洛托姆的愿望！<br/>小智一行人来到一家旅馆，他们发现旅馆老板在对战获胜后夺取对方的神奇宝贝。小智不满而站出来对抗，却被老板逼他交出皮卡丘，这时洛托姆出现救走小智一行人，并告诉小智它的愿望･･</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/15268/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106143540209.jpg"/>
+                                        <div class="fjjq"><span>第81话</span>宠物小精灵XY 81 南瓜怪人庆典！ 再见了，南瓜精！？<br/>小智一行人来到城市，参加了让神奇宝贝化装的南瓜怪人祭典。但是，祭典却被迷之老人带领的南瓜怪人集团袭击了。而且那个集团，把乔装成皮卡丘的哈力栗也抢走了...</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/15568/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106143A0930.jpg"/>
+                                        <div class="fjjq"><span>第82话</span>宠物小精灵XY 82 超越雪山！象牙猪与暴雪王！！<br/>以百刻市为目标的小智一行人，为了走捷径租借象牙猪来越过雪山。后来小智一行人与山中生病的雪笠怪和保护它的暴雪王相遇了。为了帮助雪笠怪，小智他们分头寻找做药的材料。可就在这时</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/15905/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106143U9B7.jpg"/>
+                                        <div class="fjjq"><span>第83话</span>宠物小精灵XY 83 针栗鼠！第一差事！！<br/>小精灵中心电路遇水短路，小智一行人帮忙修复却缺少零件，便让针栗鼠去购买，针栗鼠在购买的路上遇到了一些情况……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/16411/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614401O37.jpg"/>
+                                        <div class="fjjq"><span>第84话</span>宠物小精灵XY 84 折断的树枝破碎的心!长尾火狐的决心!<br/>在训练中，长尾火狐不小心将树枝折断，于是找人修复时却被告知无法修复。在宠物小精灵对战中突遇火箭队，长尾火狐用折断的树枝放出了大字火……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/16819/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106144112230.jpg"/>
+                                        <div class="fjjq"><span>第85话</span>宠物小精灵XY 第85话抓拍火焰岛的镜头!拍摄传说!<br/>抓拍火焰岛的镜头!拍摄传说!我就喜欢传说的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/18568/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106144202C6.jpg"/>
+                                        <div class="fjjq"><span>第86话</span>宠物小精灵XY 第86话尤丽嘉来照顾！爱撒娇的小暴龙<br/>尤丽嘉来照顾！爱撒娇的小暴龙，强硬外表柔弱的心</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/18914/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-1511061442391V.jpg"/>
+                                        <div class="fjjq"><span>第87话</span>宠物小精灵XY 第87话 追忆列车！史裂隆与挖掘兔<br/>小智一行人走在隧道里，希特隆回想起了他和掘掘兔的故事，从让地下居住的神奇宝贝和睦相处，到收服了掘掘兔的一段经历。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/19303/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106144312R1.jpg"/>
+                                        <div class="fjjq"><span>第88话</span>宠物小精灵XY 第88话认生的伊布?!在花圃中抓住他!!<br/>塞蕾娜在野餐时偶遇跳舞的伊布，被她的舞姿吸引，可是这只伊布生性害羞，躲到了森林里，塞蕾娜能收复她吗？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/19313/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614435HR.jpg"/>
+                                        <div class="fjjq"><span>第89话</span>宠物小精灵XY 第89话双人战斗是友情战斗!伊布初次参战!!<br/>双打对战是友情对战！伊布初次参战！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/19748/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106144454493.jpg"/>
+                                        <div class="fjjq"><span>第90话</span>宠物小精灵XY 第90话 快乐舞蹈在猜谜之后？小精灵百刻大赛<br/>猜谜之后有欢乐的舞蹈?三冠卫星赛百刻大会！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/19978/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614454Q20.jpg"/>
+                                        <div class="fjjq"><span>第91话</span>宠物小精灵XY 第91话 卡洛斯的危机！巨大日久下的战斗<br/>卡洛斯的危机！巨大日晷的战斗！！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/20816/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106144634335.jpg"/>
+                                        <div class="fjjq"><span>第92话</span>宠物小精灵XY 第92话 百刻道馆的双打比赛！午夜花的预知未来<br/>百刻道馆的二对二对战葛吉花的未来预知</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/20840/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106144F5248.jpg"/>
+                                        <div class="fjjq"><span>第93话</span>宠物小精灵XY 第93话Z 爆延！卡洛斯的潜伏者<br/>Z爆诞！潜伏在卡洛斯之者！！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/21463/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106144931O1.jpg"/>
+                                        <div class="fjjq"><span>第SP01话</span>宠物小精灵XY 第SP01话 最强MEGA进化~ACT1<br/>最强MEGA进化~ACT2</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/21464/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-1511061452441a.JPG"/>
+                                        <div class="fjjq"><span>第SP02话</span>宠物小精灵XY 第SP02话 最强MEGA进化~ACT2<br/>最强MEGA进化~ACT3，剧烈的战争</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/21465/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-15110614501W20.jpg"/>
+                                        <div class="fjjq"><span>第SP话</span>宠物小精灵XY 第SP话 COSPLAY皮卡丘特别篇<br/>COSPLAY皮卡丘特别篇，好多皮卡丘！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/21466/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201511/1-151106145444J6.JPG"/>
+                                        <div class="fjjq"><span>第SP03话</span>宠物小精灵XY 第SP03话 最强MEGA进化~ACT3<br/>最强MEGA进化~ACT4，我是最帅的喷火龙</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/25813/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第2话</span>宠物小精灵XY 第2集梦和冒险的开始！！」<br/>暂无简介</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/25814/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第24话</span>宠物小精灵XY 第24集海底之城！毒海藻与毒龙藻<br/>暂无简介</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next swiper-button-next4"></div>
+                <div class="swiper-button-prev swiper-button-prev4"></div>
+            </div>
+
+            <div class="time_con">
+                <div class="stafflist">
+                    <div class="staff">
+                        
+
+                    </div>
+                    <div class="cast">
+                        
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div><!--tab slider end-->
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+    <div class="con24">
+        <div class="stitle">
+            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/pokemon-dp">宠物小精灵DP</a><a href="/anime/pokemontyyl">宠物小精灵 太阳/月亮</a><a href="/anime/pokemon-xy-z">宠物小精灵XY&Z</a><a href="/anime/pogemonseidai">宠物小精灵：世代</a><a href="/anime/pokemon-xy">宠物小精灵XY</a>
+                            </span>
+        </div>
+        <div class="swiper-container swiper3">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <ul class="m_pic clear">
+                        <li><a href="/anime/pokemon-xy-z"><img src="http://static.jfrft.com/uploads/201511/1-151106105451K6.jpg"/><p>宠物小精灵XY&Z</p><div class="fc_m"><strong>宠物小精灵XY&Z</strong></div></a></li><li><a href="/anime/pogemonseidai"><img src="http://www.dilidili.com/uploads/allimg/160927/1_1133468551.jpg"/><p>宠物小精灵：世代</p><div class="fc_m"><strong>宠物小精灵：世代</strong></div></a></li><li><a href="/anime/pokemon-dp"><img src="http://static.jfrft.com/uploads/allimg/160318/1_1743394741.jpg"/><p>宠物小精灵DP</p><div class="fc_m"><strong>宠物小精灵DP</strong></div></a></li><li><a href="/anime/pokemon-xy"><img src="http://static.jfrft.com/images/cover/5042.jpg"/><p>宠物小精灵XY</p><div class="fc_m"><strong>宠物小精灵XY</strong></div></a></li><li><a href="/anime/pokemontyyl"><img src="http://static.jfrft.com/uploads/allimg/161120/1_0219449741.jpg"/><p>宠物小精灵 太阳/月亮</p><div class="fc_m"><strong>宠物小精灵 太阳/月亮</strong></div></a></li><li><a href="/pokemon/bw"><img src="http://static.jfrft.com/images/cover/5042.jpg"/><p>宠物小精灵BW</p><div class="fc_m"><strong>宠物小精灵BW</strong></div></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="swiper-button-next swiper-button-next3"></div>
+            <div class="swiper-button-prev swiper-button-prev3"></div>
+        </div>
+    </div>
+
+    <script src="/templets/default/js/swiper.min.js"></script>
+    <script>
+        jQuery(".playjs").hide();
+        function changeSwiper1(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+//		alert(arrlen);
+            var len = 0;
+            if (_is) {
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                if(arrlen % 20 >0){
+                    len = parseInt(arrlen / 20)+1;
+                }else{
+                    len = parseInt(arrlen / 20);
+                }
+            }
+            if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+        changeSwiper1('.xfswiper0');
+        changeSwiper1('.xfswiper1');
+        changeSwiper1('.xfswiper2');
+        changeSwiper1('.xfswiper3');
+        changeSwiper1('.xfswiper4');
+        changeSwiper1('.xfswiper5');
+        changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+        changeSwiper('.swiper7');
+        changeSwiper2('.swiper4');
+        jQuery(window).resize(function () {
+            changeSwiper1('.xfswiper0');
+            changeSwiper1('.xfswiper1');
+            changeSwiper1('.xfswiper2');
+            changeSwiper1('.xfswiper3');
+            changeSwiper1('.xfswiper4');
+            changeSwiper1('.xfswiper5');
+            changeSwiper1('.xfswiper6');
+            changeSwiper('.swiper3');
+            changeSwiper('.swiper5');
+            changeSwiper('.swiper6');
+            changeSwiper('.swiper7');
+            changeSwiper2('.swiper4');
+        });
+        var swiper1 = new Swiper('.xfswiper1', {
+            nextButton: '.xfswiper-button-next1',
+            prevButton: '.xfswiper-button-prev1',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper2', {
+            nextButton: '.xfswiper-button-next2',
+            prevButton: '.xfswiper-button-prev2',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper3', {
+            nextButton: '.xfswiper-button-next3',
+            prevButton: '.xfswiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper3 = new Swiper('.swiper3', {
+            nextButton: '.swiper-button-next3',
+            prevButton: '.swiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper4 = new Swiper('.swiper4', {
+            nextButton: '.swiper-button-next4',
+            prevButton: '.swiper-button-prev4',
+            spaceBetween: 30
+        });
+        var swiper5 = new Swiper('.swiper5', {
+            nextButton: '.swiper-button-next5',
+            prevButton: '.swiper-button-prev5',
+            spaceBetween: 30
+        });
+        var swiper6 = new Swiper('.swiper6', {
+            nextButton: '.swiper-button-next6',
+            prevButton: '.swiper-button-prev6',
+            spaceBetween: 30
+        });
+        var swiper7 = new Swiper('.swiper7', {
+            nextButton: '.swiper-button-next7',
+            prevButton: '.swiper-button-prev7',
+            spaceBetween: 30
+        });
+
+        var week = new Date();
+        jQuery(".xf_news .pk_time a").removeClass("current");
+        jQuery(".xf_news .time_pic .time_con").hide();
+        if (week != 0) {
+            jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+            jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+            new Swiper(".xfswiper"+(0), {
+                nextButton: '.xfswiper-button-next'+(0),
+
+                prevButton: '.xfswiper-button-prev'+(0),
+                spaceBetween: 30
+            });
+        }
+
+        jQuery(".xf_news .pk_time a").each(function(index){
+            jQuery(this).click(function(){
+                jQuery(".xf_news .pk_time a").removeClass("current");
+                jQuery(this).addClass("current");
+                jQuery(".xf_news .time_pic .time_con").hide();
+                jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+                new Swiper(".xfswiper"+index, {
+                    nextButton: '.xfswiper-button-next'+index,
+                    prevButton: '.xfswiper-button-prev'+index,
+                    spaceBetween: 30
+                });
+                jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+            });
+        });
+
+        var swiper = new Swiper('.xfswiper1', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+            paginationBulletRender: function (index, className) {
+                return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+            }
+        });
+
+        var mySwiper1 = new Swiper('.swiper1',{
+            pagination: '.pagination1',
+            paginationClickable: true,
+            moveStartThreshold: 100,
+            autoplay:4000
+        });
+        var mySwiper2 = new Swiper('.swiper2',{
+            pagination: '.pagination2',
+            paginationClickable: true,
+            moveStartThreshold: 100
+        });
+        var webWidth = 736;
+        function changeSwiper(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 5 >0){
+                    len = parseInt(arrlen / 5)+1;
+                }else{
+                    len = parseInt(arrlen / 5);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        function changeSwiper2(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 8 >0){
+                    len = parseInt(arrlen / 8)+1;
+                }else{
+                    len = parseInt(arrlen / 8);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        jQuery(function() {
+            jQuery(".closed").click(
+                    function(){
+                        jQuery(".topimg").slideUp();
+                    });
+
+            // 收缩展开效果
+            jQuery(".adminico").click(function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+            },function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+            });
+
+            jQuery(".a_open").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").slideDown(500);
+                        jQuery(".fc_black").show();
+                        jQuery(".a_closed").show();
+                    });
+            jQuery(".a_closed").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                    });
+            jQuery(".fc_black").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                        jQuery(".a_closed").hide();
+                    });
+            jQuery(".rm_pank .pk_year a").each(function(index){
+                jQuery(this).mouseover(
+                        function(){
+                            jQuery(".rm_pank .pk_year a").removeClass("current");
+                            jQuery(this).addClass("current");
+                            jQuery(".rm_pank .rm_main .rm_con").hide();
+                            jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+                        })
+            });
+
+            var headHeight=$(".head_top").height();
+            var nav=$("#navf");
+            $(window).scroll(function(){
+                if($(this).scrollTop()>headHeight){
+                    nav.addClass("navFix");
+                }
+                else{
+                    nav.removeClass("navFix");
+                }
+            })
+
+            var headHeight2=$(".topimg").height();
+            var nav2=jQuery("#topnavf");
+            jQuery(window).scroll(function(){
+                if($(this).scrollTop()>headHeight2){
+                    nav2.addClass("topnavFix");
+                }
+                else{
+                    nav2.removeClass("topnavFix");
+                }
+            });
+
+        });
+
+    </script>
+
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+    <div class="con24">
+        <!--<div class="stitle">
+            <h3>评论</h3>
+            <span class="s_f">
+                <a href="http://bbs.005.tv">D站论坛</a>
+                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+            </span>
+            <a href="http://usr.005.tv" style="float:right;">评论前请先登录或注册</a>
+        </div>	-->
+        <div style="margin:20px 0; text-align:center;">
+            <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='611940' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+            <!-- UY BEGIN -->
+            <!--<div id="uyan_frame"></div>
+            <div class="comment">
+            <i>宠物小精灵XY评论</i>-->
+            <!-- 多说评论框 start -->
+            <!--<div class="ds-thread" data-thread-key="870" data-title="宠物小精灵XY" data-url=
+        "http://www.dilidili.wang/anime/pokemon-xy/"></div>-->
+            <!-- 多说评论框 end -->
+            <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+            <!--<script type="text/javascript">
+            var duoshuoQuery = {short_name:"dzhan"};
+                (function() {
+                    var ds = document.createElement('script');
+                    ds.type = 'text/javascript';ds.async = true;
+                    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                    ds.charset = 'UTF-8';
+                    (document.getElementsByTagName('head')[0]
+                     || document.getElementsByTagName('body')[0]).appendChild(ds);
+                })();
+                </script>-->
+            <!-- 多说公共JS代码 end -->
+        </div>
+        <!-- UY END -->
+    </div>
+</div>
+<div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+    <script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script>
+    <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+</div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>			
+</div>
+<div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/muban/js/w234.js"></script>
+</body>
+</html>

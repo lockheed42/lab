@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>动画-UGC</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="http://static.jfrft.com/js/uaredirect.js" type="text/javascript"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/cartoon/");</script>		
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/cartoon/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/cartoon/" >
+    <link rel="canonical" href="http://www.dilidili.wang/cartoon/"/>
+    <script src="/newjs/jquery-3-2-1.js"></script>
+    <!--<script src="/js/swiper-3.4.2.min.js"></script>-->
+    <link rel="stylesheet" href="http://static.jfrft.com/jac/css/main.css">
+    <link rel="stylesheet" href="/newcss/ugcStyle.css" type="text/css">
+    <!--<link rel="stylesheet" href="/css/swiper-3.4.2.min.css">-->
+</head>
+
+<body class="widescreen" data-cover-preview="true">
+    
+    <!--header s-->
+    <header>
+        <div class="head-title">
+            <ul>
+                <li>
+                    <img src="http://static.jfrft.com/jac/newimages/logo.png" width="100">
+                    <a href="/" target="_blank">首页</a>
+                </li>
+                <li><a href="/lxwm/uprule.html" target="_blank">投稿</a></li>
+                <li><a href="/anime/201710/" target="_blank">新番</a></li>
+
+                <a href="/zxgx.html" title="最新更新"><i class="box1"></i></a>
+                <script>
+                    searchToggle = function()
+                    {
+                        if($('.box3').parent().attr('title') == '切换至360搜索')
+                        {
+                            $('.box3').css('background','rgb(252, 171, 103) url("http://www.dilidili.wang/newimages/search_baidu.png") no-repeat scroll 50% 50% / auto padding-box border-box');
+                            $('.search-box').hide();
+                            $('#so360').show();
+                            $('.box3').parent().attr('title','切换至百度搜索');
+                        }
+                        else
+                        {
+                            $('.box3').css('background','rgb(252, 171, 103) url("http://www.dilidili.wang/newimages/search_360.png") no-repeat scroll 50% 50% / auto padding-box border-box');
+                            $('#so360').hide();
+                            $('.search-box').show();
+                            $('.box3').parent().attr('title','切换至360搜索');
+                        }
+                    }
+                </script>
+                <a onclick="searchToggle()" title="切换至360搜索"><i class="box3"></i></a>
+                <form action="/search/index.html" target="_blank" class="search-box" style="box-sizing: border-box">
+                <input type="hidden" name="kwtype" value="0" class="s_inp" />
+                <input name="q" type="text" placeholder="百度搜索">
+                <i class="box2" onclick="$('.search-box').submit()"></i>
+                <input type="hidden" name="ie" value="utf8">
+                <input type="hidden" name="src" value="zz">
+                <input type="hidden" name="site" value="www.dilidili.wang">
+                <input type="hidden" name="rg" value="1">
+                </form>
+                <div id="so360"  style="box-sizing: border-box">
+                    <form action="http://www.so.com/s" target="_blank" id="so360form">
+                        <input type="text" autocomplete="off" name="q" id="so360_keyword" placeholder="360搜索">
+                        <input type="submit" id="so360_submit" value="">
+                        <input type="hidden" name="ie" value="utf8">
+                        <input type="hidden" name="src" value="zz_www.dilidili.wang">
+                        <input type="hidden" name="site" value="www.dilidili.wang">
+                        <input type="hidden" name="rg" value="1">
+                    </form>
+                </div>
+            </ul>
+        </div>
+        <hr/>
+    </header>
+    <script>
+
+    </script>
+    <!--header e-->
+    
+    <div class="b-page-body">
+        <div class="main-inner">
+            <div class="container-body">
+                <div class="list-custom-wrp ">
+                <script>
+                    orderSwitch = function(order)
+                    {
+                    	//alert(order);
+                    	if(order == 'list_order_default')
+                        {
+                    		if(!$('#list_order_default').hasClass('on'))
+                    		{
+                    			$('#list_order_default').toggleClass('on');$('#list_order_hot').toggleClass('on');
+                    			$('#orderTime').show();$('#orderHot').hide();
+                            }
+                    	}
+                    	else
+                        {
+                            if(!$('#list_order_hot').hasClass('on'))
+                    		{
+                    			$('#list_order_hot').toggleClass('on');$('#list_order_default').toggleClass('on');
+                    			$('#orderHot').show();$('#orderTime').hide();
+                            }
+                        }
+                    }
+                </script>
+                    <div class="tag-list-wrp">
+                        <div class="b-head"><span class="b-head-i"></span><span class="b-head-t">选择分区</span><span class="b-head-s">点击即可查看本区的相关内容</span></div>
+                        <div class="tag-list-cnt" id="tag_list" style="height: auto;">
+                            <ul class="tag-list">
+                                <a href="/ugc"><li class="tag-item" id="all" ><span>全部</span></li></a>
+                                <a href="/game"><li class="tag-item" id="youxi" ><span>游戏</span></li></a>
+                                <a href="/music"><li class="tag-item" id="yinyue"><span>音乐</span></li></a>
+                                <a href="/cartoon"><li class="tag-item" id="donghua"><span>动画</span></li></a>
+                                <a href="/dance"><li class="tag-item" id="zhaiwu"><span>宅舞</span></li></a>
+                                <a href="/life"><li class="tag-item" id="shenghuo"><span>生活</span></li></a>
+                                <a href="/jilu"><li class="tag-item" id="jilu"><span>纪录</span></li></a>
+                            </ul>
+<script>
+//var typeName='动画';
+$("span:contains('动画')").parent().addClass('on')
+</script>
+                        </div>
+                        <!--<div class="b-toggle-block tag-more" style="display: none;"><div class="b-toggle-btn" id="btn_tag_more" b-stat="tag_toggle" b-stat-v="20"><span>展开</span><i class="b-icon b-icon-toggle-down"></i></div></div>-->
+                    </div>
+                    <!--左-->
+                    <div class="b-page-large b-f-left">
+                        <div class="vl-dyn-wrp">
+                            <div class="b-head" id="vl_dyn_hd"><span class="b-head-i"></span><span class="b-head-t">最新动态</span>
+                            </div>
+                            <div class="vl-dyn-cnt">
+                                <ul class="v-list" id="vl_dyn_list">
+<div id="allTag">
+<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+<tr>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61877/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/180102/290_1352211551.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61877/" target="_blank" title="盘点2017年 那些令人拍粪叫绝的屎作">
+                                                <div class="t">盘点2017年 那些令人拍粪叫绝的屎作</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>109</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2018-01-02</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61833/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171225/290_1103537981.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61833/" target="_blank" title="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次">
+                                                <div class="t">吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>4493</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-12-25</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61752/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171221/290_1525117051.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61752/" target="_blank" title="【糖chao例子】迷糊焦糖少女的番剧新解">
+                                                <div class="t">【糖chao例子】迷糊焦糖少女的番剧新解</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>1448</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-12-18</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61630/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171211/290_1047556651.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61630/" target="_blank" title="《蝙蝠侠：致命玩笑》一个糟糕的一天，最理性的人也能成为疯子">
+                                                <div class="t">《蝙蝠侠：致命玩笑》一个糟糕的一天，最理性的人也能成为疯子</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>1332</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-12-11</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61562/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171205/290_1737062431.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61562/" target="_blank" title="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作">
+                                                <div class="t">漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>1804</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-12-05</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    </tr>
+<tr>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61560/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171205/290_1617221151.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61560/" target="_blank" title="吐槽《烟花》剧情松散，一部不像新房昭之风格的新房电影">
+                                                <div class="t">吐槽《烟花》剧情松散，一部不像新房昭之风格的新房电影</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>960</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-12-05</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61548/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171204/290_1115393281.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61548/" target="_blank" title="【黑鼠鼠二次元黑屁系列】教你怎么做一个臭不要脸的动漫营销号">
+                                                <div class="t">【黑鼠鼠二次元黑屁系列】教你怎么做一个臭不要脸的动漫营销号</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>96</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-12-04</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61465/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171127/290_1117432461.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61465/" target="_blank" title="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作">
+                                                <div class="t">吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>2280</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-11-27</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61464/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171127/290_1123362061.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61464/" target="_blank" title="【萝卜日记#14】这部番的续作我等了10年，如今终于来了！">
+                                                <div class="t">【萝卜日记#14】这部番的续作我等了10年，如今终于来了！</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>446</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-11-27</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/61427/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/171124/290_1546386631.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/61427/" target="_blank" title="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定">
+                                                <div class="t">【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>1789</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-11-24</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    </tr>
+    </table>
+
+</div>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="video-list list-c">
+                            <div class="vl-hd clearfix">
+                                <div class="left">
+                                    <ul class="vl-tab" id="tab_list_order">
+                                        <li class="tab-i on" id="list_order_default" onclick="orderSwitch(this.id)">投稿时间排序</li>
+                                        <li class="tab-i" id="list_order_hot" onclick="orderSwitch(this.id)">视频热度排序</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="vd-list-cnt loaded">
+                                <ul class="vd-list l2">
+<div id="orderTime">
+<div id="allTag">
+<li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61877/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/180102/290_1352211551.jpg" loaded="loaded" alt="盘点2017年 那些令人拍粪叫绝的屎作" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61877/" target="_blank" class="title" title="盘点2017年 那些令人拍粪叫绝的屎作">盘点2017年 那些令人拍粪叫绝的屎作</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">盘点2017年 那些令人拍粪叫绝的屎作</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>109</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2018-01-02 13:39:01</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61833/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171225/290_1103537981.jpg" loaded="loaded" alt="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61833/" target="_blank" class="title" title="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次">吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>4493</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="2">2</a><span class="v-date" title="日期">2017-12-25 10:56:26</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61752/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171221/290_1525117051.jpg" loaded="loaded" alt="【糖chao例子】迷糊焦糖少女的番剧新解" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61752/" target="_blank" class="title" title="【糖chao例子】迷糊焦糖少女的番剧新解">【糖chao例子】迷糊焦糖少女的番剧新解</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【糖chao例子】迷糊焦糖少女的番剧新解
+每周糖糖都会给大家带来新的情报和剧评哦！
+微博@唐乐瑜糖糖</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1448</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-12-18 10:15:19</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61630/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171211/290_1047556651.jpg" loaded="loaded" alt="《蝙蝠侠：致命玩笑》一个糟糕的一天，最理性的人也能成为疯子" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61630/" target="_blank" class="title" title="《蝙蝠侠：致命玩笑》一个糟糕的一天，最理性的人也能成为疯子">《蝙蝠侠：致命玩笑》一个糟糕的一天，最理性的人也能成为疯子</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">《蝙蝠侠：致命玩笑》一个糟糕的一天，最理性的人也能成为疯子</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1332</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-12-11 10:43:54</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61562/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171205/290_1737062431.jpg" loaded="loaded" alt="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61562/" target="_blank" class="title" title="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作">漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1804</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-12-05 17:30:17</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61560/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171205/290_1617221151.jpg" loaded="loaded" alt="吐槽《烟花》剧情松散，一部不像新房昭之风格的新房电影" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61560/" target="_blank" class="title" title="吐槽《烟花》剧情松散，一部不像新房昭之风格的新房电影">吐槽《烟花》剧情松散，一部不像新房昭之风格的新房电影</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">吐槽《烟花》剧情松散，一部不像新房昭之风格的新房电影</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>960</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-12-05 16:14:11</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61548/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171204/290_1115393281.jpg" loaded="loaded" alt="【黑鼠鼠二次元黑屁系列】教你怎么做一个臭不要脸的动漫营销号" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61548/" target="_blank" class="title" title="【黑鼠鼠二次元黑屁系列】教你怎么做一个臭不要脸的动漫营销号">【黑鼠鼠二次元黑屁系列】教你怎么做一个臭不要脸的动漫营销号</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【黑鼠鼠二次元黑屁系列】教你怎么做一个臭不要脸的动漫营销号</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>96</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="2">2</a><span class="v-date" title="日期">2017-12-04 11:09:12</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61465/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171127/290_1117432461.jpg" loaded="loaded" alt="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61465/" target="_blank" class="title" title="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作">吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>2280</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-11-27 11:15:35</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61464/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171127/290_1123362061.jpg" loaded="loaded" alt="【萝卜日记#14】这部番的续作我等了10年，如今终于来了！" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61464/" target="_blank" class="title" title="【萝卜日记#14】这部番的续作我等了10年，如今终于来了！">【萝卜日记#14】这部番的续作我等了10年，如今终于来了！</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【萝卜日记#14】这部番的续作我等了10年，如今终于来了！</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>446</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-11-27 10:53:58</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61427/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171124/290_1546386631.jpg" loaded="loaded" alt="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61427/" target="_blank" class="title" title="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定">【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1789</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-11-24 15:28:17</span></div>
+                                            </div>
+                                        </div>
+                                    </li>
+</div>
+</div>
+
+<div id="orderHot" style="display: none;">
+<div id="allTag">
+<li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61198/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171106/6_1352567701.jpg" loaded="loaded" alt="吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61198/" target="_blank" class="title" title="吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]">吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>60411</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="黑鼠鼠">黑鼠鼠</a><span class="v-date" title="日期">2017-11-06 13:48:28</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61118/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171031/290_1504224861.jpg" loaded="loaded" alt="【国动杂谈】《狐妖小红娘》的故事该如何发展" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61118/" target="_blank" class="title" title="【国动杂谈】《狐妖小红娘》的故事该如何发展">【国动杂谈】《狐妖小红娘》的故事该如何发展</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">《狐妖小红娘》的故事该如何发展</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>59891</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="卡密动漫">卡密动漫</a><span class="v-date" title="日期">2017-10-31 15:01:29</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60775/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171010/2_1431436051.jpg" loaded="loaded" alt="异乡的植文字士" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60775/" target="_blank" class="title" title="异乡的植文字士">异乡的植文字士</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">http://v.youku.com/v_show/id_XMzA3NjE1NjkwNA==.html</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>11832</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="天花板工作室">天花板工作室</a><span class="v-date" title="日期">2017-10-10 14:21:07</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61224/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171108/290_1324498581.jpg" loaded="loaded" alt="【为美好的世界献上智障】就这样死了也太没出息了！  " style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61224/" target="_blank" class="title" title="【为美好的世界献上智障】就这样死了也太没出息了！  ">【为美好的世界献上智障】就这样死了也太没出息了！  </a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【为美好的世界献上智障】就这样死了也太没出息了！ </div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>9111</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-11-08 11:17:30</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61833/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171225/290_1103537981.jpg" loaded="loaded" alt="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61833/" target="_blank" class="title" title="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次">吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>4493</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="2">2</a><span class="v-date" title="日期">2017-12-25 10:56:26</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61465/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171127/290_1117432461.jpg" loaded="loaded" alt="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61465/" target="_blank" class="title" title="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作">吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>2280</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-11-27 11:15:35</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61562/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171205/290_1737062431.jpg" loaded="loaded" alt="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61562/" target="_blank" class="title" title="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作">漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1804</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-12-05 17:30:17</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61427/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171124/290_1546386631.jpg" loaded="loaded" alt="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61427/" target="_blank" class="title" title="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定">【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1789</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-11-24 15:28:17</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61290/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171114/6_1445485391.jpg" loaded="loaded" alt="《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61290/" target="_blank" class="title" title="《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二">《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1533</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-11-13 16:05:08</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/61752/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171221/290_1525117051.jpg" loaded="loaded" alt="【糖chao例子】迷糊焦糖少女的番剧新解" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/61752/" target="_blank" class="title" title="【糖chao例子】迷糊焦糖少女的番剧新解">【糖chao例子】迷糊焦糖少女的番剧新解</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【糖chao例子】迷糊焦糖少女的番剧新解
+每周糖糖都会给大家带来新的情报和剧评哦！
+微博@唐乐瑜糖糖</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1448</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="1">1</a><span class="v-date" title="日期">2017-12-18 10:15:19</span></div>
+                                            </div>
+                                        </div>
+                                    </li>
+</div>
+</div>
+
+<!--分页-->
+<ul class="pagelistbox">
+<li><a>首页</a></li>
+<li class="thisclass"><a>1</a></li>
+<li><a href='2.html'>2</a></li>
+<li><a href='3.html'>3</a></li>
+<li><a href='2.html'>下一页</a></li>
+<li><a href='4.html'>末页</a></li>
+<li><select name='sldd' style='width:36px' onchange='location.href=this.options[this.selectedIndex].value;'>
+<option value='1.html' selected>1</option>
+<option value='2.html'>2</option>
+<option value='3.html'>3</option>
+<option value='4.html'>4</option>
+</select></li>
+
+</ul>
+
+
+
+                                </ul>
+                                </div>
+                                <!--<div class="pagelistbox">
+                                    <a class="p active">1</a>
+                                    <a class="p" page="2">2</a>
+                                    <a class="p" page="3">3</a>
+                                    <a class="p" page="4">4</a>
+                                    <a class="p" page="5">5</a>
+                                    <a class="p" page="6">6</a>
+                                    <a class="p" page="7">7</a>
+                                    <strong>...</strong>
+                                    <a class="p endPage" page="4546">4546</a>
+                                    <a class="p nextPage" page="2">下一页</a>
+                                    <div class="custom-right"><span class="result custom-right-inner">共 4546 页/ 90920 个 ，跳至</span><input class="b-input custompage custom-right-inner" type="text"><span class="custom-right-inner">页</span></div>
+                                </div>-->
+
+                            </div>
+                        </div>
+                        <!--左-->
+
+                        <!--右-->
+                        <div class="b-page-small b-f-right">
+                            <div class="b-head">
+                                <span class="b-head-t">热门</span>
+                            </div>
+                            <div class="rlist-wrp">
+                                <ul class="rlist loaded">
+
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61198/" title="吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171106/6_1352567701.jpg" loaded="loaded" alt="吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61198/" title="吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]" target="_blank">
+                                            <div class="title t">吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]</div>
+                                            <div class="i"><b class="pts" title="吐槽龙珠超 剧情诡异 人设崩溃 完美玷污龙珠之名[黑鼠鼠]">点击数：<em>60411</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61118/" title="【国动杂谈】《狐妖小红娘》的故事该如何发展" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171031/290_1504224861.jpg" loaded="loaded" alt="【国动杂谈】《狐妖小红娘》的故事该如何发展" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61118/" title="【国动杂谈】《狐妖小红娘》的故事该如何发展" target="_blank">
+                                            <div class="title t">【国动杂谈】《狐妖小红娘》的故事该如何发展</div>
+                                            <div class="i"><b class="pts" title="【国动杂谈】《狐妖小红娘》的故事该如何发展">点击数：<em>59891</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60775/" title="异乡的植文字士" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171010/2_1431436051.jpg" loaded="loaded" alt="异乡的植文字士" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60775/" title="异乡的植文字士" target="_blank">
+                                            <div class="title t">异乡的植文字士</div>
+                                            <div class="i"><b class="pts" title="异乡的植文字士">点击数：<em>11832</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61224/" title="【为美好的世界献上智障】就这样死了也太没出息了！  " target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171108/290_1324498581.jpg" loaded="loaded" alt="【为美好的世界献上智障】就这样死了也太没出息了！  " style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61224/" title="【为美好的世界献上智障】就这样死了也太没出息了！  " target="_blank">
+                                            <div class="title t">【为美好的世界献上智障】就这样死了也太没出息了！  </div>
+                                            <div class="i"><b class="pts" title="【为美好的世界献上智障】就这样死了也太没出息了！  ">点击数：<em>9111</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61833/" title="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171225/290_1103537981.jpg" loaded="loaded" alt="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61833/" title="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次" target="_blank">
+                                            <div class="title t">吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次</div>
+                                            <div class="i"><b class="pts" title="吐槽《钢铁飞龙之再见奥特曼》 奥特曼在中国被黑的最惨一次">点击数：<em>4493</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61465/" title="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171127/290_1117432461.jpg" loaded="loaded" alt="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61465/" title="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作" target="_blank">
+                                            <div class="title t">吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作</div>
+                                            <div class="i"><b class="pts" title="吐槽《FateApocrypha》，fate系列之耻，如一路含屎被迫咽口之作">点击数：<em>2280</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61562/" title="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171205/290_1737062431.jpg" loaded="loaded" alt="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61562/" title="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作" target="_blank">
+                                            <div class="title t">漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作</div>
+                                            <div class="i"><b class="pts" title="漫评：它不是你的名字，他是《烟花》——部被无脑喷毁掉的佳作">点击数：<em>1804</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61427/" title="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171124/290_1546386631.jpg" loaded="loaded" alt="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61427/" title="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定" target="_blank">
+                                            <div class="title t">【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定</div>
+                                            <div class="i"><b class="pts" title="【黑鼠鼠】吐槽《国王游戏》设定黄暴、内容脑残，10月最屎新番预定">点击数：<em>1789</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61290/" title="《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171114/6_1445485391.jpg" loaded="loaded" alt="《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61290/" title="《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二" target="_blank">
+                                            <div class="title t">《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二</div>
+                                            <div class="i"><b class="pts" title="《名侦探柯南：唐红的恋歌》比上一部好，勇夺柯南剧场版倒数第二">点击数：<em>1533</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/61752/" title="【糖chao例子】迷糊焦糖少女的番剧新解" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/171221/290_1525117051.jpg" loaded="loaded" alt="【糖chao例子】迷糊焦糖少女的番剧新解" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/61752/" title="【糖chao例子】迷糊焦糖少女的番剧新解" target="_blank">
+                                            <div class="title t">【糖chao例子】迷糊焦糖少女的番剧新解</div>
+                                            <div class="i"><b class="pts" title="【糖chao例子】迷糊焦糖少女的番剧新解">点击数：<em>1448</em></b></div>
+                                        </a>
+                                    </li>
+
+<script>
+    $('.rlist li:lt(3)').addClass('on');$('.rlist li:lt(3) .number').addClass('n1');
+    for(var i = 0; i < $('.rlist li').length; i++)
+    {
+	var number = i+1;
+	$('.rlist li').eq(i).find('.number').text(number);
+    }
+</script>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--右-->
+                    </div>
+                </div>
+                <div class="contact">
+                    <p>有好作品的小伙伴可以请投递到邮箱1771312689@qq.com，名称为“投稿-*标题*”，并在邮件内附上自己的简介，还可以加入推广链接，类似于微博或者直播间房间号哦</p>
+                </div>
+            </div>
+
+            <script src="about:blank" type="text/javascript"></script>
+            <script type="text/javascript" src="about:blank"></script>
+        </div>
+
+        <div class="index-nav sub" id="index_nav" style="opacity: 0;">
+            <div class="border"></div>
+            <div class="nav-list">
+                <div class="pointer-block"></div>
+            </div>
+            <div class="n-i gotop sub">
+                <div class="s-line"></div>
+                <div class="btn_gotop" title="返回顶部"></div>
+            </div>
+        </div>
+
+    <div style="display:none;">
+        <script src="http://s95.cnzz.com/stat.php?id=1255455330&web_id=1255455330" language="JavaScript"></script>
+        <script src="http://s11.cnzz.com/stat.php?id=1254760299&web_id=1254760299" language="JavaScript"></script>
+        <script src="http://s11.cnzz.com/stat.php?id=1259276514&web_id=1259276514" language="JavaScript"></script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "//hm.baidu.com/hm.js?ac109a7147396152534f7b6b2bbc507e";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+    </div>
+</body>
+
+</html>

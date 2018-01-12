@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>国产动漫｜嘀哩嘀哩</title>
+<meta name="keywords" content="国漫专题" />
+<meta name="description" content="希望国产动漫做的越来越好" />
+<link href="http://static.jfrft.com/css/bangumi.css" rel="stylesheet" media="screen" type="text/css" />
+</head>
+<body>
+<script>
+!function(){
+var interval = 30;
+interval *= 60000;
+var timestamp = parseInt(new Date / interval) * interval;
+document.writeln('<script src="http://static.jfrft.com/js/site-wide.js?'+ timestamp + '"><\/script>');
+}();
+</script>
+<div class="header">
+<img src="http://www.dilidili.wang/css/123.jpg" alt="嘀哩嘀哩" />
+<div class="primary">
+<div class="search">
+<!--plus/search.php-->
+<form action="http://www.dilidili.wang/search/index.html" method="get">
+<fieldset>
+<legend>搜索：</legend>
+<label for="inp-query"></label>
+<div class="inp"><input id="inp-query" name="q" size="22" maxlength="60" value=""></div>
+<div class="inp-btn"><input type="submit" value="搜索"></div>
+</fieldset>
+</form>
+</div>
+<div class="logo"><a href="http://www.dilidili.wang/">嘀哩嘀哩</a></div>
+</div>
+</div>
+<div class="nav">
+<ul class="menu clearfix">
+<li>
+<a class="on" href="http://www.dilidili.wang/">首页</a>
+<a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a>
+<a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a>
+<a href="http://www.dilidili.wang/anime/bleach/">死神</a>
+<a href="http://www.dilidili.wang/anime/hunter/">全职猎人</a>
+<a href="http://www.dilidili.wang/anime/gintama/">银魂</a>
+<a href="http://www.dilidili.wang/anime/kurobas/">黑子的篮球</a>
+<a href="http://www.dilidili.wang/anime/fairytail2/">妖精的尾巴</a>
+<a href="http://bbs.005.tv/forum.php" target="_blank"><strong style="color:blue;">D站论坛</strong></a>
+</li>
+<li class="anime"><a href="http://www.dilidili.wang/anime/">新番动漫</a></li>
+</ul>
+</div>
+<style>
+  #cs_right_bottom{display:none;}
+  .ad:nth-of-type(3){display:none;}
+</style>
+
+<div class="main">
+<div class="left">
+
+
+<div class="item">
+<div class="content">
+<div class="title">
+<a href="http://www.dilidili.wang/manhua/hjhbledej/" target="_blank">互撸大漫画</a>
+
+</div>
+<p><b>地区：</b>大陆</p>
+<p><b>作者：</b>撸胖</p>
+<p><b>类型：</b>励志 | 搞笑</p>
+<p><b>简介：</b>《互撸大漫画》是由漫画家撸胖创作的漫画作品。生活压力大！看互撸大漫画！</p>
+</div>
+<div class="cover">
+<a href="http://www.dilidili.wang/manhua/hjhbledej/" target="_blank">
+<img src="http://www.dilidili.wang/uploads/allimg/170424/6_1500587511.jpg">
+</a>
+</div>
+</div>
+
+<div class="item">
+<div class="content">
+<div class="title">
+<a href="http://www.dilidili.wang/manhua/muoupanding/" target="_blank">木偶判定</a>
+
+</div>
+<p><b>作者：</b>反犬</p>
+<p><b>类型：</b>冒险/悬疑/校园</p>
+<p><b>简介：</b>一个能操控人的APP，删除意味着死亡，拍摄意味着新的冒险，看似掌管一切的主人公真的能活到最后吗。</p>
+</div>
+<div class="cover">
+<a href="http://www.dilidili.wang/manhua/muoupanding/" target="_blank">
+<img src="http://www.dilidili.wang/uploads/allimg/170424/6_1425066191.jpg">
+</a>
+</div>
+</div>
+
+<div class="item">
+<div class="content">
+<div class="title">
+<a href="http://www.dilidili.wang/manhua/chulinshaonian/" target="_blank">除灵少年林蛋大</a>
+
+</div>
+<p><b>作者：</b>林蛋大</p>
+<p><b>类型：</b> 冒险 | 校园 | 搞笑</p>
+<p><b>简介：</b>两名在除灵道路上越走越疯癫的励志少年</p>
+</div>
+<div class="cover">
+<a href="http://www.dilidili.wang/manhua/chulinshaonian/" target="_blank">
+<img src="http://www.dilidili.wang/uploads/allimg/170424/1_1344326591.jpg">
+</a>
+</div>
+</div>
+
+
+
+</div>
+<div class="right">
+<div class="ad"><script type="text/javascript" src="http://static.jfrft.com/js/w360.js"></script></div>
+<div class="mod">
+
+</div>
+<div class="comments">
+<h2>说点什么呢· · · · · ·</h2>
+<!-- Duoshuo Comment BEGIN -->
+	<div class="ds-thread"  data-thread-key="99998" data-author-key="1"  data-url="http://www.dilidili.wang/./anime/guoman/" data-title="漫画专题"></div>
+	<script type="text/javascript">
+	var duoshuoQuery = {short_name: "dzhan"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- Duoshuo Comment END --><div id="ds-ssr" class="mt1">
+	<dl class="tbox">
+		<dt> <strong>评论列表（网友评论仅供网友表达个人看法，并不表明本站同意其观点或证实其描述）</strong> </dt>
+		<dd>
+			<div class="dede_comment">
+				<div class="decmt-box1">
+					<ul>
+						<li id="commetcontentNew"></li>
+
+ 
+					</ul>
+				</div>
+			</div>
+		</dd>
+	</dl>
+</div>
+
+
+</div>
+</div>
+</div>
+<script src="http://static.jfrft.com/js/tongji.js" type='text/javascript' language="javascript"></script>
+<script>
+var __cs_rich_info__ = {};__cs_rich_info__.asdata = [
+
+{swfurl:'http://c.tb1u.com/b/1/159/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/159/0.html?uid=318366',eps:'NGEgICAgICAgICAgNDFTUVhTVlZMUlVXUFlMV1NWVExQTFNSV1hXTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/604/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/604/0.html?uid=318366',eps:'YzggICAgICAgICAgMGJTUVhTVlZMUlVXUFlMV1NWVExRTFNSV1lQTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/607/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/607/0.html?uid=318366',eps:'OWUgICAgICAgICAgOWVTUVhTVlZMUlVXUFlMV1NWVExSTFNSV1lTTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/610/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/610/0.html?uid=318366',eps:'MzkgICAgICAgICAgMWZTUVhTVlZMUlVXUFlMV1NWVExTTFNSV1lWTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/1040/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/1040/0.html?uid=318366',eps:'NzIgICAgICAgICAgODBTUVhTVlZMUlVXUFlMV1NWVExQTFNWUFZVTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/604/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/604/0.html?uid=318366',eps:'YzggICAgICAgICAgMGJTUVhTVlZMUlVXUFlMV1NWVExRTFNSV1lQTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/607/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/607/0.html?uid=318366',eps:'OWUgICAgICAgICAgOWVTUVhTVlZMUlVXUFlMV1NWVExSTFNSV1lTTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+,
+{swfurl:'http://c.tb1u.com/b/1/610/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/610/0.html?uid=318366',eps:'MzkgICAgICAgICAgMWZTUVhTVlZMUlVXUFlMV1NWVExTTFNSV1lWTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+];
+__cs_rich_info__.w=300;
+__cs_rich_info__.h=250;
+__cs_rich_info__.close_top=3;
+__cs_rich_info__.close_left=(300-36);
+__cs_rich_info__.close_width=25;
+__cs_rich_info__.close_height=13;
+__cs_rich_info__.keepClose=0;
+__cs_rich_info__.flash=0;
+__cs_rich_info__.richtype=0;
+__cs_rich_info__.duration=3600;
+__cs_rich_info__.delaytime=100;
+__cs_rich_info__.interval=50;
+__cs_rich_info__.domain='rwq.youle55.com';
+__cs_rich_info__.sitetype= 4;
+__cs_rich_info__.showlogo=0;
+__cs_rich_info__.rich_div_id='cs_right_bottom';
+__cs_rich_info__.div_close_id='cs_rich_close';
+__cs_rich_info__.cookiehead='cscpvrich';
+__cs_rich_info__.offset=0;
+__cs_rich_info__.offsetx=0;
+__cs_rich_info__.closetype=0;
+__cs_rich_info__.self_list=['cs_couplet_left','cs_couplet_right','cs_right_bottom','ft_couplet_left','ft_couplet_right','ft_right_bottom'];
+document.writeln("<sty"+"le>#cs_couplet_left,#cs_couplet_right,#cs_right_bottom,#ft_couplet_left,#ft_couplet_right,#ft_right_bottom{z-index:2147483647;}</s" + "tyle>");
+var __pS_cs = document.createElement('script');
+__pS_cs.type = "text/javascript";__pS_cs.src="http://img.twcczhu.com/js/rr/rich03.js?v0.1";
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(__pS_cs, x); 
+</script>
+<script src="http://www.dilidili.wang/plus/count.php?aid=17379&mid=1" type='text/javascript' language="javascript"></script>
+
+</body>
+</html>

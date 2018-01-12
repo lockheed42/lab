@@ -1,0 +1,718 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+	<head>
+		<meta charset="utf-8">
+		<title>葫芦兄弟动画-  在线&下载 - 嘀哩嘀哩</title>
+		<meta name="keywords" content="葫芦兄弟动画 国产动画葫芦兄弟" />
+		<meta name="description" content="传说葫芦山里关着蝎子精和蛇精。一只穿山甲不小心打穿了山洞，两个妖精逃了出来，从此百姓遭难。穿山甲急忙去告诉一个老汉，只有种出七色葫芦，才能消灭这两个妖精" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+        <meta name="applicable-device" content="pc,mobile">
+		<script src="http://static.jfrft.com/js/uaredirect.js"></script>
+        <script type="text/javascript">uaredirect("http://m.dilidili.com/anime/hlxd/");</script>
+        <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.com/anime/hlxd/"/>
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.com/anime/hlxd/" >		
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+        <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+        <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js"></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/list_ad.js"></script>
+<script>
+	jQuery(function(){
+	new jbCollect('a._collect', '#content1');
+});
+</script>
+        <base target="_blank">
+<style>
+</style>        
+    </head>
+	<body>
+	<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topimg">
+		<div class="w1410">
+			<span class="closed"></span>
+            <div class="weibo3">
+                <div style="float:left;">关注站长</div>
+                <a href="http://weibo.com/u/3390288124" target="_blank" style="float:left;"><img src="http://static.jfrft.com/images/weibo.png"/></a>
+            </div>
+		</div>
+	</div>
+    </a>
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.com/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.com/anime/201607/" target="_blank">七月新番</a>
+                    <div class="xlcd">
+                        <a href="http://www.dilidili.com/anime/201610/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+                <li><a href="http://www.dilidili.com/anime/guoman/" target="_blank">腾讯国漫</a></li>
+                <li><a href="http://www.dilidili.com/anime/youyaoqidm/" target="_blank">有妖气动漫</a></li>
+                <li>
+                    <a href="http://www.dilidili.com/rexue/" target="_blank">热血动漫</a>
+                    <div class="xlcd">
+                        <a href="http://www.dilidili.com/anime/onepiece/" target="_blank">海贼王</a>
+                        <a href="http://www.dilidili.com/anime/gintama/" target="_blank">银魂</a>
+                        <a href="http://www.dilidili.com/anime/naruto/" target="_blank">火影忍者</a>
+                        <a href="http://www.dilidili.com/anime/conan/" target="_blank">柯南</a>
+                        <a href="http://www.dilidili.com/anime/bleach/" target="_blank">境界</a>
+                    </div>
+                </li>
+                <li><a href="http://www.dilidili.com/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+				<li><a href="http://www.dilidili.com/hougong/"  target="_blank">动漫分类</a></li>
+                <li>
+                    <a>更多</a>
+                    <div class="xlcd">
+                        <a href="http://moe.005.tv/" rel="nofollow" target="_blank">换衣服</a>
+                        <a href="http://www.005.tv/" rel="nofollow" target="_blank">看福利</a>
+                        <a href="http://www.xcmh.cc/" rel="nofollow" target="_blank">和谐漫</a>
+                        <a href="http://www.93w.net/" rel="nofollow" target="_blank">喝鸡汤</a>
+                    </div>
+                </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.com/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.com">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<script language="javascript" src="http://usr.005.tv/Common/header3.html"></script>
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/templets/default/images/slogo.png">
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+					
+                <div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.com/'>嘀哩嘀哩</a> > <a href=''>葫芦兄弟</a></div>
+                <div class="aside_cen2">                    
+                    <div class="detail con24 clear">
+                        <dl>
+                            <dt><img src="http://static.jfrft.com/uploads/allimg/201601/1-1601211343560-L.jpg"/></dt>
+                            <dd>
+                                <h1>葫芦兄弟动画</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="葫芦兄弟动画" data-url="http://www.dilidili.com/anime/hlxd/" data-icon="http://static.jfrft.com/uploads/allimg/201601/1-1601211343560-L.jpg"><span>收藏</span></a></div><br/>
+								<span class="play_cs">播放次数:<script src="http://www.dilidili.com/plus/countlist.php?view=yes&aid=1072&mid=" type='text/javascript' language="javascript"></script></span>
+                                <p><div class="d_label"><b>地区：</b><a href="/guoyu/" title="日本动漫">中国</a></div><div class="d_label"><b>年代：</b><a href="/2000xq/" title="2000年之前番">2000年之前</a></div></p>
+                                <p><div class="d_label"><b>标签：</b>神魔 冒险 奇幻</div><div class="d_label"><b>状态：</b>完结</div></p>
+								<p><div class="d_label2"><b>看点：</b>中国最早期一部经典得不能再经典的动画连续剧。他是每个出生在70-80年代的人童年回忆里必有的一部分。</div></p>
+                                <p><div class="d_label2"><b>简介：</b>传说葫芦山里关着蝎子精和蛇精。一只穿山甲不小心打穿了山洞，两个妖精逃了出来，从此百姓遭难。穿山甲急忙去告诉一个老汉，只有种出七色葫芦，才能消灭这两个妖精</div></p>
+                                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://weibo.com/u/5337098143/" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('葫芦兄弟动画','','','http://www.dilidili.com/anime/hlxd/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                                <p>
+                                <div class="button_bar">
+                                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>							
+																							
+                                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                                </div>
+                                </p>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="con24 m-10 xf_news">
+                        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+                        </div>
+                        <div class="time_pic list">
+                            <div class="time_con">
+                                <div class="swiper-container xfswiper1">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                             <ul class="clear">
+											  <li><a href="http://www.dilidili.com/watch/27426/" target="_self"><em><span>第01话</span>葫芦兄弟第1集：神峰奇遇</em></a></li><li><a href="http://www.dilidili.com/watch/27427/" target="_self"><em><span>第02话</span>葫芦兄弟第2集：七色葫芦</em></a></li><li><a href="http://www.dilidili.com/watch/27428/" target="_self"><em><span>第03话</span>葫芦兄弟第3集：误入泥潭</em></a></li><li><a href="http://www.dilidili.com/watch/27429/" target="_self"><em><span>第04话</span>葫芦兄弟第4集：梦窟迷境</em></a></li><li><a href="http://www.dilidili.com/watch/27430/" target="_self"><em><span>第05话</span>葫芦兄弟第5集：绝路逢生</em></a></li><li><a href="http://www.dilidili.com/watch/27431/" target="_self"><em><span>第06话</span>葫芦兄弟第6集：钢筋铁骨</em></a></li><li><a href="http://www.dilidili.com/watch/27432/" target="_self"><em><span>第07话</span>葫芦兄弟第7集：水火奇功</em></a></li><li><a href="http://www.dilidili.com/watch/27433/" target="_self"><em><span>第08话</span>葫芦兄弟第8集：酒酣心冰</em></a></li><li><a href="http://www.dilidili.com/watch/27434/" target="_self"><em><span>第09话</span>葫芦兄弟第9集：幽谷彩莲</em></a></li><li><a href="http://www.dilidili.com/watch/27435/" target="_self"><em><span>第10话</span>葫芦兄弟第10集：捕风捉影</em></a></li><li><a href="http://www.dilidili.com/watch/27436/" target="_self"><em><span>第11话</span>葫芦兄弟第11集：巧夺如意</em></a></li><li><a href="http://www.dilidili.com/watch/27437/" target="_self"><em><span>第12话</span>葫芦兄弟第12集：妖迷心窍</em></a></li><li><a href="http://www.dilidili.com/watch/27438/" target="_self"><em><span>第13话</span>葫芦兄弟第13集：七子连心</em></a></li>	 
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            	<div class="playjs swiper-pagination"></div>
+                            </div>
+                            <div class="time_con">
+								<p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                                <div class="swiper-container xfswiper3">
+							<ul class="clear">
+                                    <li class="list_xz">
+                                        不支持下载
+									<li>
+                                 </ul>
+                                </div>
+                            </div>
+							<div class="time_con">
+                                <div class="swiper-container swiper4">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                            <ul>
+                                                <li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27426/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第01话</span>葫芦兄弟第1集：神峰奇遇<br/>神峰奇遇 一位老爷爷在山上采药，无意中进入了一个山洞，在洞中他救下一只穿山甲。穿山甲告诉老爷爷自己不小心穿破葫芦山，放走了蛇蝎二妖。穿山甲帮助老爷爷取出了能降妖服魔的宝葫</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27427/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第02话</span>葫芦兄弟第2集：七色葫芦<br/>老爷爷种下葫芦籽，有灵性的葫芦籽长得飞快，不久藤上便结出了七个色彩不同的葫芦。蛇蝎二妖得知后，决定除掉葫芦藤。夜晚，老爷爷没有听从葫芦们的劝告，出屋相救，不幸被妖怪擒走</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27428/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第03话</span>葫芦兄弟第3集：误入泥潭<br/>大力娃迫不及待地出来，去妖洞救老爷爷。大力娃力大如牛，而且能变大变小，闯入妖洞如入无人之境。蛇精眼看抵挡不过，就施下毒计，将大力娃骗入泥潭。大力娃有力无处使，被妖精擒住。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27429/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第04话</span>葫芦兄弟第4集：梦窟迷境<br/>第二个葫芦娃降生了，他用千里眼和顺风耳先探明了妖洞的情况，赶去救大哥和老爷爷。蛇精知道他耳聪目明、机敏过人，使毒计诱他进入迷镜宫。在迷镜宫，千里眼娃被幻象所迷惑，被妖怪残</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27430/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第05话</span>葫芦兄弟第5集：绝路逢生<br/>穿山甲带老爷爷和千里眼娃顺利逃出了妖洞，却在洞门外惊动了看门蝙蝠。穿山甲牺牲自己，去引开蝙蝠的注意。就在老爷爷将被蝙蝠抓住的紧急关头，还未出世的钢筋铁骨娃赶来相救。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27431/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第06话</span>葫芦兄弟第6集：钢筋铁骨<br/>钢筋铁骨娃与蝎子精一阵恶斗，蝎子精落荒而逃。坚固的石门挡不住葫芦娃的钢筋铁骨，妖洞里，他一闯到底，撞碎了蛇精的宝贝。蛇精拔出一把“刚柔阴阳剑”，以柔克刚，死死的缠住了葫芦</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27432/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第07话</span>葫芦兄弟第7集：水火奇功<br/>水娃和火娃双双出世，他俩的水火奇功对老爷爷的生活帮助很大。蛇蝎二妖为炼七星丹，从深潭底下取出了炼丹宝炉。不料，炉内的火种迅速点燃山头，将二妖困住。善良的水、火二娃不明就里</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27433/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第08话</span>葫芦兄弟第8集：酒酣心冰<br/>火二娃被骗入洞后，二妖用美酒佳肴款待、以歌舞表演助兴。见二娃喜欢喝酒，蛇精暗地里用如意宝贝调出毒酒。火娃喝下后连心都被冻住了，水娃更是醉得不省人事。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27434/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第09话</span>葫芦兄弟第9集：幽谷彩莲<br/>蛇蝎二妖又来攻击葫芦藤，他们将老爷爷扔下了山崖，又将千里眼娃和剩下的两个葫芦带回了妖洞。老爷爷被山鹰救下，被带到了葫芦山。葫芦山的山神将七色莲花交给了老爷爷，并告诉他只有</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27435/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第10话</span>葫芦兄弟第10集：捕风捉影<br/>隐身娃只身进入妖洞，眼见兄弟们一个个束手被擒，焦急万分，他灵机一动，叫橙娃用千里眼找到妖怪的如意宝贝，用妙计偷来，然后用隐身法进入蛇蝎的洞穴，把两个妖精戏弄得狼狈不堪。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27436/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第11话</span>葫芦兄弟第11集：巧夺如意<br/>隐身娃偷吃了蛇妖的“如意”宝贝，救出了五位兄长，又去救七弟，但七弟紫娃已被蛇蝎二妖所迷惑，不认六娃这个哥哥，六娃无法，只能含泪离去。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27437/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第12话</span>葫芦兄弟第12集：妖迷心窍<br/>紫娃被妖精的毒汁妖雾熏陶成听话的乖孩子，他出世后已经不认得爷爷和六个哥哥了，还用紫葫芦射出一道道闪光，把兄弟们的心击碎，让他们自相残杀，最后还被吸进了紫葫芦。老爷爷悲痛欲</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/27438/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.com/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第13话</span>葫芦兄弟第13集：七子连心<br/>七个葫芦娃全部被蛇妖关进炼丹炉，准备炼成“七星丹”，老爷爷拿出山神给予的“七色莲花”，使七个葫芦娃团结一心，将妖精全部消灭。</div>
+                                                    </a>
+                                                </li>
+                                            </ul>
+										</div>
+                                    </div>
+                                </div>
+                                <div class="swiper-button-next swiper-button-next4"></div>
+                                <div class="swiper-button-prev swiper-button-prev4"></div>
+                            </div>	
+
+                          <div class="time_con">
+                            	<div class="stafflist">
+                                    <div class="staff">
+									
+             
+                                    </div>
+                                    <div class="cast">
+									
+       
+                                    </div>
+                                </div>
+                        </div>	
+	
+                        </div>
+                    </div><!--tab slider end-->
+                    <div class="adv banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+                    <div class="con24">
+                        <div class="stitle">
+                            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/hlxd1">葫芦兄弟 第一部</a><a href="/anime/xmdy">小猫钓鱼</a><a href="/anime/xcmzxxgl">熊出没之熊心归来</a><a href="/anime/xhlfmj">小狐狸发明记</a><a href="/anime/hmjzzfczx">黑猫警长之翡翠之星</a>
+                            </span>
+                        </div>
+						 <div class="swiper-container swiper3">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <ul class="m_pic clear">
+										<li><a href="/anime/crjk"><img src="http://static.jfrft.com/uploads/allimg/160422/6_1014174011.jpg"/><p>超人杰克</p><div class="fc_m"><strong>超人杰克</strong></div></a></li><li><a href="/anime/hlxd1"><img src="http://static.jfrft.com/uploads/allimg/160418/6_1054041051.jpg"/><p>葫芦兄弟 第一部</p><div class="fc_m"><strong>葫芦兄弟 第一部</strong></div></a></li><li><a href="/anime/jiangyingchenfu/"><img src="http://static.jfrft.com/uploads/allimg/160509/1_2059115421.jpg"/><p>江影沉浮</p><div class="fc_m"><strong>江影沉浮</strong></div></a></li><li><a href="/anime/xcmznh"><img src="http://static.jfrft.com/uploads/allimg/160414/6_1533449781.jpg"/><p>熊出没之年货</p><div class="fc_m"><strong>熊出没之年货</strong></div></a></li><li><a href="/anime/bllxmx1"><img src="http://static.jfrft.com/uploads/allimg/160419/6_1128305581.jpg"/><p>巴啦啦小魔仙 第一季</p><div class="fc_m"><strong>巴啦啦小魔仙 第一季</strong></div></a></li><li><a href="/anime/xcmzxrllk"><img src="http://static.jfrft.com/uploads/allimg/160414/6_1059542621.jpg"/><p>熊出没之夏日连连看</p><div class="fc_m"><strong>熊出没之夏日连连看</strong></div></a></li><li><a href="/anime/alfdqmsj"><img src="http://static.jfrft.com/uploads/allimg/160421/6_1501362491.jpg"/><p>阿拉法的奇妙世界</p><div class="fc_m"><strong>阿拉法的奇妙世界</strong></div></a></li><li><a href="/anime/heibaiwushuang"><img src="http://static.jfrft.com/uploads/allimg/160427/1_2128307081.jpg"/><p>黑白无双</p><div class="fc_m"><strong>黑白无双</strong></div></a></li><li><a href="/anime/xkdzmm"><img src="http://static.jfrft.com/uploads/allimg/160418/6_1154082171.jpg"/><p>小蝌蚪找妈妈</p><div class="fc_m"><strong>小蝌蚪找妈妈</strong></div></a></li><li><a href="/anime/yzcr"><img src="http://static.jfrft.com/uploads/allimg/160420/6_1503036071.jpg"/><p>宇宙超人</p><div class="fc_m"><strong>宇宙超人</strong></div></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="swiper-button-next swiper-button-next3"></div>
+                            <div class="swiper-button-prev swiper-button-prev3"></div>
+                        </div>
+                    </div>
+                    
+<script src="http://static.jfrft.com/templets/default/js/swiper.min.js"></script>
+<script>	
+jQuery(".playjs").hide();
+	function changeSwiper1(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+//		alert(arrlen);
+        var len = 0;		
+        if (_is) {
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+				}else{
+					len = parseInt(arrlen / 2);
+					}
+				} else {
+					if(arrlen % 20 >0){
+						len = parseInt(arrlen / 20)+1;
+						}else{
+							len = parseInt(arrlen / 20);
+						}
+					}
+			if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+    changeSwiper1('.xfswiper0');
+	changeSwiper1('.xfswiper1');
+	changeSwiper1('.xfswiper2');
+	changeSwiper1('.xfswiper3');
+	changeSwiper1('.xfswiper4');
+	changeSwiper1('.xfswiper5');
+	changeSwiper1('.xfswiper6');
+    changeSwiper('.swiper3');
+    changeSwiper('.swiper5');
+    changeSwiper('.swiper6');
+	changeSwiper('.swiper7');
+	changeSwiper2('.swiper4');
+    jQuery(window).resize(function () {
+		changeSwiper1('.xfswiper0');
+		changeSwiper1('.xfswiper1');
+		changeSwiper1('.xfswiper2');
+		changeSwiper1('.xfswiper3');
+		changeSwiper1('.xfswiper4');
+		changeSwiper1('.xfswiper5');
+		changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+		changeSwiper('.swiper7');
+		changeSwiper2('.swiper4');
+    });
+var swiper1 = new Swiper('.xfswiper1', {
+	nextButton: '.xfswiper-button-next1',
+	prevButton: '.xfswiper-button-prev1',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper2', {
+	nextButton: '.xfswiper-button-next2',
+	prevButton: '.xfswiper-button-prev2',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper3', {
+	nextButton: '.xfswiper-button-next3',
+	prevButton: '.xfswiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper3 = new Swiper('.swiper3', {
+	nextButton: '.swiper-button-next3',
+	prevButton: '.swiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper4 = new Swiper('.swiper4', {
+	nextButton: '.swiper-button-next4',
+	prevButton: '.swiper-button-prev4',
+	spaceBetween: 30
+});
+var swiper5 = new Swiper('.swiper5', {
+	nextButton: '.swiper-button-next5',
+	prevButton: '.swiper-button-prev5',
+	spaceBetween: 30
+});
+var swiper6 = new Swiper('.swiper6', {
+	nextButton: '.swiper-button-next6',
+	prevButton: '.swiper-button-prev6',
+	spaceBetween: 30
+});
+var swiper7 = new Swiper('.swiper7', {
+	nextButton: '.swiper-button-next7',
+	prevButton: '.swiper-button-prev7',
+	spaceBetween: 30
+});
+
+    var week = new Date();
+    jQuery(".xf_news .pk_time a").removeClass("current");
+    jQuery(".xf_news .time_pic .time_con").hide();
+    if (week != 0) {
+        jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+        jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+        new Swiper(".xfswiper"+(0), {
+            nextButton: '.xfswiper-button-next'+(0),
+
+            prevButton: '.xfswiper-button-prev'+(0),
+            spaceBetween: 30
+        });
+    }
+
+    jQuery(".xf_news .pk_time a").each(function(index){
+        jQuery(this).click(function(){
+            jQuery(".xf_news .pk_time a").removeClass("current");
+            jQuery(this).addClass("current");
+            jQuery(".xf_news .time_pic .time_con").hide();
+            jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+            new Swiper(".xfswiper"+index, {
+                nextButton: '.xfswiper-button-next'+index,
+                prevButton: '.xfswiper-button-prev'+index,
+                spaceBetween: 30
+            });
+			jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+        });
+    });
+
+var swiper = new Swiper('.xfswiper1', {
+	pagination: '.swiper-pagination',
+	paginationClickable: true,
+	paginationBulletRender: function (index, className) {
+		return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+	}
+});
+
+var mySwiper1 = new Swiper('.swiper1',{
+	pagination: '.pagination1',
+	paginationClickable: true,
+	moveStartThreshold: 100,
+	autoplay:4000
+});
+var mySwiper2 = new Swiper('.swiper2',{
+	pagination: '.pagination2',
+	paginationClickable: true,
+	moveStartThreshold: 100
+});
+  var webWidth = 736;
+    function changeSwiper(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+		
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 5 >0){
+				len = parseInt(arrlen / 5)+1;
+			}else{
+				len = parseInt(arrlen / 5);
+			}
+        }		
+
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+	
+    function changeSwiper2(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+		
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 8 >0){
+				len = parseInt(arrlen / 8)+1;
+			}else{
+				len = parseInt(arrlen / 8);
+			}
+        }		
+
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+
+jQuery(function() {
+	jQuery(".closed").click(
+	  function(){
+		  jQuery(".topimg").slideUp();
+	});
+
+	// 收缩展开效果
+	   jQuery(".adminico").click(function(){
+		 jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+		   },function(){
+		jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   });
+
+	jQuery(".a_open").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").slideDown(500);
+		  jQuery(".fc_black").show();
+		  jQuery(".a_closed").show();
+	});
+	jQuery(".a_closed").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+	});
+	jQuery(".fc_black").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+		  jQuery(".a_closed").hide();
+	});
+	jQuery(".rm_pank .pk_year a").each(function(index){
+	   jQuery(this).mouseover(
+		  function(){
+			  jQuery(".rm_pank .pk_year a").removeClass("current");
+			  jQuery(this).addClass("current");
+			  jQuery(".rm_pank .rm_main .rm_con").hide();
+			  jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+	  })
+	});
+
+	var headHeight=$(".head_top").height();
+	var nav=$("#navf");
+	$(window).scroll(function(){
+		if($(this).scrollTop()>headHeight){
+			nav.addClass("navFix");
+		}
+		else{
+			nav.removeClass("navFix");
+		}
+	})
+
+	var headHeight2=$(".topimg").height();
+	var nav2=jQuery("#topnavf");
+    jQuery(window).scroll(function(){
+		if($(this).scrollTop()>headHeight2){
+			nav2.addClass("topnavFix");
+		}
+		else{
+			nav2.removeClass("topnavFix");
+		}
+	});
+
+});
+
+</script>
+                    
+                    <div class="adv banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+                    <div class="con24">
+                        <div class="stitle">
+                            <h3>评论</h3>
+                            <span class="s_f">
+                                <a href="http://bbs.005.tv">D站论坛</a>
+                                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+                            </span>
+							<a href="http://usr.005.tv" style="float:right;">评论前请先登录或注册</a>
+                        </div>		
+                        <div style="margin:20px 0; text-align:center;">
+                            <!-- UY BEGIN -->
+                            <div id="uyan_frame"></div>
+                            <div class="comment">
+                            <i>葫芦兄弟动画评论</i>
+                            <!-- 多说评论框 start -->
+                                <div class="ds-thread" data-thread-key="1072" data-title="葫芦兄弟动画" data-url=
+                            "http://www.dilidili.com/anime/hlxd/"></div>
+                            <!-- 多说评论框 end -->
+                            <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+                            <script type="text/javascript">
+                            var duoshuoQuery = {short_name:"dzhan"};
+                                (function() {
+                                    var ds = document.createElement('script');
+                                    ds.type = 'text/javascript';ds.async = true;
+                                    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                                    ds.charset = 'UTF-8';
+                                    (document.getElementsByTagName('head')[0] 
+                                     || document.getElementsByTagName('body')[0]).appendChild(ds);
+                                })();
+                                </script>
+                            <!-- 多说公共JS代码 end -->
+                            </div>
+							<!-- UY END -->
+                        </div>
+                    </div>
+                </div>
+                <div class="adv2 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+				<script type="text/javascript" src="http://static.jfrft.com/templets/default/zuixingengxin2.htm"></script>
+                <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+            </div>
+			<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.com/a/">A</a></li>
+            	<li><a href="http://www.dilidili.com/b/">B</a></li>
+            	<li><a href="http://www.dilidili.com/c/">C</a></li>
+            	<li><a href="http://www.dilidili.com/d/">D</a></li>
+            	<li><a href="http://www.dilidili.com/e/">E</a></li>
+            	<li><a href="http://www.dilidili.com/f/">F</a></li>
+            	<li><a href="http://www.dilidili.com/g/">G</a></li>
+            	<li><a href="http://www.dilidili.com/h/">H</a></li>
+            	<li><a href="http://www.dilidili.com/i/">I</a></li>
+            	<li><a href="http://www.dilidili.com/j/">J</a></li>
+            	<li><a href="http://www.dilidili.com/k/">K</a></li>
+            	<li><a href="http://www.dilidili.com/l/">L</a></li>
+            	<li><a href="http://www.dilidili.com/m/">M</a></li>
+            	<li><a href="http://www.dilidili.com/n/">N</a></li>
+            	<li><a href="http://www.dilidili.com/o/">O</a></li>
+            	<li><a href="http://www.dilidili.com/p/">P</a></li>
+            	<li><a href="http://www.dilidili.com/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.com/r/">R</a></li>
+            	<li><a href="http://www.dilidili.com/s/">S</a></li>
+            	<li><a href="http://www.dilidili.com/t/">T</a></li>
+            	<li><a href="http://www.dilidili.com/u/">U</a></li>
+            	<li><a href="http://www.dilidili.com/v/">V</a></li>
+            	<li><a href="http://www.dilidili.com/w/">W</a></li>
+            	<li><a href="http://www.dilidili.com/x/">X</a></li>
+            	<li><a href="http://www.dilidili.com/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.com/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.com/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2016 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://www.dilidili.com/js/tongji.js"></script>
+		
+</center>				
+		</div>
+        <div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/js/w234.js"></script>
+	</body>
+</html>

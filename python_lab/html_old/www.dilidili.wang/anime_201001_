@@ -1,0 +1,1222 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<script src="http://static.jfrft.com/js/uaredirect.js" type="text/javascript"></script>
+        <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/201001/");</script>		
+        <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/201001/"/>
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/201001/" >		
+	<link rel="canonical" href="http://www.dilidili.wang/anime/201001/"/>
+	<title>2010年1月新番动漫大全_嘀哩嘀哩</title>
+		<meta name="keywords" content="2010年1月新番动漫,2010年1月新番动漫排行榜,2010年1月新番动漫大全" />
+		<meta name="description" content="嘀哩嘀哩2010年1月新番大全为广大2010年1月新番动漫爱好者提供最新、最齐全的2010年1月新番动画，第一时间收集整理最完整的2010年1月新番动画播放列表，为您带来一场美妙的动漫盛宴。" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+        <meta name="applicable-device" content="pc,mobile">
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+		<link rel="stylesheet" href="http://static.jfrft.com/templets/default/css/swiper.min.css">
+        <script src="http://static.jfrft.com/templets/default/js/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+        <base target="_blank">
+    </head>
+	<body>
+	
+	<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201707/" target="_blank">七月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+	
+	
+                <div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>2010年1月</a> ></div>
+                
+                <div class="aside_cen2">
+                    <div class="con24 m-20 clear">
+                        <div class="stitle">
+                            <h1>2010年1月新番动漫大全</h1>
+                            <span class="s_f">
+                            </span>
+                        </div>
+                       					<div class="tagbox">
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><a href="/anime/2018/">2018新番:</a><a href="/anime/201801/">1月</a></div>
+            <div class="nianfan"><a href="/anime/2017/">2017新番:</a><a href="/anime/201701/">1月</a><a href="/anime/201704/">4月</a><a href="/anime/201707/">7月</a><a href="/anime/201710/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2016/">2016新番:</a><a href="/anime/201601/">1月</a><a href="/anime/201604/">4月</a><a href="/anime/201607/">7月</a><a href="/anime/201610/">10月</a></div>
+        </dd>
+    </dl>
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><a href="/anime/2015/">2015动漫:</a><a href="/anime/201501/">1月</a><a href="/anime/201504/">4月</a><a href="/anime/201507/">7月</a><a href="/anime/201510/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2014/">2014动漫:</a><a href="/anime/201401/">1月</a><a href="/anime/201404/">4月</a><a href="/anime/201407/">7月</a><a href="/anime/201410/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2013/">2013动漫:</a><a href="/anime/201301/">1月</a><a href="/anime/201304/">4月</a><a href="/anime/201307/">7月</a><a href="/anime/201310/">10月</a></div>
+        </dd>
+    </dl>
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><a href="/anime/2012/">2012动漫:</a><a href="/anime/201201/">1月</a><a href="/anime/201204/">4月</a><a href="/anime/201207/">7月</a><a href="/anime/201210/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2011/">2011动漫:</a><a href="/anime/201101/">1月</a><a href="/anime/201104/">4月</a><a href="/anime/201107/">7月</a><a href="/anime/201110/">10月</a></div>
+            <div class="nianfan"><a href="/anime/2010/">2010动漫:</a><a href="/anime/201001/">1月</a><a href="/anime/201004/">4月</a><a href="/anime/201007/">7月</a><a href="/anime/201010/">10月</a></div>
+        </dd>
+    </dl>
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><a href="/anime/2010xq/">00年代</a> <a href="/anime/2000xq/">更早</a></div>
+        </dd>
+    </dl>
+</div>
+<div class="tagbox">
+    <dl class="tag-list">
+        <dd>
+            <div class="nianfan"><span>地区：</span><a href="/riyu/">日本</a><a href="/guoyu/">中国</a><a href="/yingyu/">欧美</a><a href="/yueyu/">港台</a></div>
+            <div class="nianfan"><span>播放方式：</span><a href="/tvdh/">TV版</a><a href="/jcdh/">剧场版</a></div>
+        </dd>
+    </dl>
+</div>
+<div class="tagbox">
+    <dl class="tag-list">
+        <dd>
+            <span>类型：</span><a href="/gaoxiao/">搞笑</a><a href="/kehuan/">科幻</a><a href="/yundong/">运动</a><a href="/danmei/">耽美</a><a href="/zhiyuxi/">治愈系</a><a href="/luoli/">萝莉</a><a href="/zhenren/">真人</a><a href="/zhuangbi/">装逼</a><a href="/youxi/">游戏</a>
+            <!--<a href="/roufan/">肉番</a>--><a href="/tuili/">推理</a><a href="/qingchun/">青春</a><a href="/kongbu/">恐怖</a><a href="/jizhan/">机战</a><a href="/rexue/">热血</a><a href="/qingxiaoshuo/">轻小说</a><a href="/maoxian/">冒险</a><a href="/hougong/">后宫</a><a href="/qihuan/">奇幻</a><a href="/tongnian/">童年</a><a href="/lianai/">恋爱</a><a href="/meishaonv/">美少女</a><a href="/lizhi/">励志</a><a href="/baihe/">百合</a><a href="/paomianfan/">泡面番</a><a href="/yinv/">乙女</a>
+            <a href="/anime/riju/">
+                <font color='red'>日剧专区</font>
+            </a>
+        </dd>
+    </dl>
+</div>	
+                        <div class="anime_list">
+						<center><h2>日本动漫</h2></center>	
+						<dl>
+                                <dt><a hrel="/anime/durarara2/"><img src="http://static.jfrft.com/images/cover/6100.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/durarara2/">无头骑士异闻录×2</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>奇幻|冒险|轻小说</div><div class="d_label"><b>播放：</b>282676</div></p>
+                                    <p><b>看点：</b>东京池袋街头暴力事件</p>
+                                    <p><b>简介：</b>以东京池袋为舞台，讲述了向往非日常生活的高中生、被称为池袋最强的男人、经营情报屋，以玩弄人心为乐的青年、专接不寻常病患的密医以及骑着漆黑色机车的“无头骑士”等人错综复杂又息息相关的都市生活。</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/Omamori/"><img src="http://static.jfrft.com/uploads/201511/1-151111140S3249.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/Omamori/">守护猫娘绯鞠</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>后宫|恋爱|肉番</div><div class="d_label"><b>播放：</b>218435</div></p>
+                                    <p><b>看点：</b>我摔倒了要妹子亲亲才可以起来</p>
+                                    <p><b>简介：</b>天河优人是一个非常普通的高中生。七年前父母去世，而独自一人生活。而常常受到身为青梅竹马的凛子的照顾，除此之外是个非常平凡的少年。对猫异常过敏，所以凛子如果对叫不起床的优人会将她的爱猫当作终极武器来使用，逼迫优人起床。 正当优人迎接了16岁的生日的早上，神秘的美少女“绯鞠”突然出现了。原来优人是守护人</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/danceinvampire/"><img src="http://static.jfrft.com/uploads/allimg/201510/1-1510120954570-L.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/danceinvampire/">吸血鬼同盟无修</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>动作 | 少女 | 情感 | 奇幻</div><div class="d_label"><b>播放：</b>19877</div></p>
+                                    <p><b>看点：</b>吸血鬼女王米娜与她的仆人狼人少年晓之间的爱情与战争</p>
+                                    <p><b>简介：</b>一直过着普通高中生生活的镝木晃，年幼时曾经与人缔结了一个盟约，那就是要侍奉君临黑暗世界的吸血鬼女王。在晃17岁生日的那天，吸血鬼女王米娜・柴佩西出现在他面前。她说她来日本的目的是要在日本建立一个吸血鬼专用居住区——吸血鬼特区（Vampire Bund）。知道吸血鬼存在的事实后人类社会动荡不安。米娜与</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/Kakushi/"><img src="http://static.jfrft.com/uploads/allimg/201509/1-15091Q110590-L.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/Kakushi/">神隐之狼</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年01月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>游戏|冒险|推理|恋爱</div><div class="d_label"><b>播放：</b>234395</div></p>
+                                    <p><b>看点：</b>神秘杀人事件？</p>
+                                    <p><b>简介：</b>昭和58年的夏天。16岁的少年九澄博士因为父亲的关系，从市中心移居至建设于山中的新兴小镇嫦娥街就读高一。嫦娥街被一条河流分为“旧市街”和“新市街”2部分，这里残存着充满神秘色彩的各种奇怪传承以及风俗。在适应着新环境的同时准备快乐地享受全新生活的九澄博士却在意着班上唯一与他保持距离的班长栉名田眠。在少</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/scramble/"><img src="http://static.jfrft.com/uploads/201508/1-150RQGP5494.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/scramble/">壳中少女</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年11月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>小说改编|科幻|战斗</div><div class="d_label"><b>播放：</b>182237</div></p>
+                                    <p><b>看点：</b>原作获得第24届日本SF大奖</p>
+                                    <p><b>简介：</b>故事发生在科学技术高度发展的未来，由于先前爆发的战争而导致科技崩坏的世界。在有着“通往天国之街”之称的Mardock Scramble街上，住着故事的主人公赌场老板兼赌博师榭尔的情人巴洛特。过于残酷的生活经历让巴洛特心扉紧闭，后来在榭尔设下的陷阱中险些丧命，千钧一发之际幸得犯罪搜查官博士和乌夫库克营</p>
+                                    <p><b style="color:#F00">状态:</b>  </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/Shoukanjuu/"><img src="http://static.jfrft.com/uploads/allimg/160316/1_2034134621.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/Shoukanjuu/">笨蛋测验召唤兽</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>青春|搞笑|恋爱</div><div class="d_label"><b>播放：</b>289144</div></p>
+                                    <p><b>看点：</b>被系统测成笨蛋怎办？</p>
+                                    <p><b>简介：</b>文月学园采用根据科学、偶然性和神秘学所开发的“测验召唤系统”，让感叹学历低落的学生之间掀起了一股新的风潮。在这所依照分班考试成绩严格实行分班的学园里，男主角吉井明久自信满满地等待着测验结果，结果却被分到最差的班级F班！同时，考试坐在明久身边的姬路瑞希因患病中途退场，优异的成绩作废，同样被分到F班。明</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/fate-sn/"><img src="http://static.jfrft.com/uploads/allimg/161116/1_1817211321.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/fate-sn/">Fate/stay night [Unlimited Blade Works]</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>游戏|奇幻|动作|恋爱|热血</div><div class="d_label"><b>播放：</b>182677</div></p>
+                                    <p><b>看点：</b>某天，士郎捲入了一场叫做“圣杯战争”的魔术师们的战争中……</p>
+                                    <p><b>简介：</b>圣杯是传说中可实现持有者一切愿望的宝物，而为了得到圣杯的仪式就被称为圣杯战争。参与者有7人。卫宫切嗣的养子卫宫士郎，偶然地与servant中的剑士Saber订定契约，被卷入战争当中。</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/durarara/"><img src="http://static.jfrft.com/images/cover/6100.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/durarara/">无头骑士异闻录</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>奇幻|冒险|轻小说</div><div class="d_label"><b>播放：</b>161182</div></p>
+                                    <p><b>看点：</b>东京池袋街头暴力事件</p>
+                                    <p><b>简介：</b>以东京池袋为舞台，讲述了向往非日常生活的高中生、被称为池袋最强的男人、经营情报屋，以玩弄人心为乐的青年、专接不寻常病患的密医以及骑着漆黑色机车的“无头骑士”等人错综复杂又息息相关的都市生活</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/Hanamaru/"><img src="http://static.jfrft.com/uploads/allimg/201509/1-15092QH1330-L.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/Hanamaru/">花丸幼稚园</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年01月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>治愈系|搞笑|萝莉</div><div class="d_label"><b>播放：</b>164949</div></p>
+                                    <p><b>看点：</b>这里是一群超级卡哇伊的小盆友。</p>
+                                    <p><b>简介：</b>欢迎来到花丸幼稚园! 这里是一群活泼卡哇伊的孩子们每天生活的乐园。 陷入恋爱的女孩子・杏一直都喜欢着自己的班主任土田老师,为杏的恋爱加油...</p>
+                                    <p><b style="color:#F00">状态:</b>  </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/katanamonogatali/"><img src="http://static.jfrft.com/uploads/allimg/160524/1_1018358371.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/katanamonogatali/">刀语</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>日本</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>轻小说改|奇幻|冒险</div><div class="d_label"><b>播放：</b>238445</div></p>
+                                    <p><b>看点：</b>化物语原作——西尾维新作品</p>
+                                    <p><b>简介：</b>故事发生在中世纪的日本，鑢七花（细谷佳正配音）是一个外表强壮头脑简单的男子，生于武术世家的他背负着传承“虚刀流”的重任。从小到大，鑢七花便被当做一把刀来培养，这种变态的教育方式使得他最终走上了弑亲的悲剧道路。在奇策士咎儿（田村由加莉配音）的鼓动和怂恿下，鑢七花踏上了漫漫的修炼之路，他要找到锻制师四季</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl>				
+            
+                        </div>
+                       
+                    </div>
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------</p>					
+                    <div class="con24 m-20 clear">
+
+                        <div class="anime_list">
+					<center><h2>中国动漫</h2></center>	
+						<dl>
+                                <dt><a hrel="/anime/shougongjie/"><img src="http://static.jfrft.com/uploads/allimg/160414/6_1117224811.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/shougongjie/">手工街</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>幼稚/温暖/亲子</div><div class="d_label"><b>播放：</b>34728</div></p>
+                                    <p><b>看点：</b>幼儿亲子动漫</p>
+                                    <p><b>简介：</b>《手工街》虚拟出一个由手工纸模型建立的童话世界。在这个神奇的世界中,传统的中国古典视觉元素与现代化的生活方式融为一体。人,房屋,动物,花草,日月,交通工具,所能看到的一切都是由手工折纸创造而成,这里的居民们也是由一张张纸片折叠出来的</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/kjyszdhx/"><img src="http://static.jfrft.com/uploads/allimg/160419/6_1420246351.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/kjyszdhx/">铠甲勇士之帝皇侠</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>动作|机战|奇幻|热血</div><div class="d_label"><b>播放：</b>20518</div></p>
+                                    <p><b>看点：</b>最强的武器 就是存在于心中的意念</p>
+                                    <p><b>简介：</b>在铠甲勇士炎龙侠、风鹰侠、黒犀侠、地虎侠、雪獒侠合体为帝皇侠齐心协力封印了暗影黑魔兽后，城市恢复了宁静与幸福，ERP组织也逐渐缩小了规模，由以炘南、北淼为首的五人战斗小组缩编为一个拥有五个光影村后人血统召唤人。由于之前并没有对从铠甲勇士B队手里逃出的异能兽10号进行成功封印，于是美真（杨亚饰）寻找到</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/xiabxj/"><img src="http://static.jfrft.com/uploads/allimg/160421/6_1643409421.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/xiabxj/">瞎兵泄将</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>搞笑</div><div class="d_label"><b>播放：</b>20207</div></p>
+                                    <p><b>看点：</b></p>
+                                    <p><b>简介：</b>《瞎兵泄将》是一部以都市上班族工作生活为蓝本的系列动画片，多年的职场生涯，作者深切体会到个体的渺小。于是带着调侃和自嘲的态度，将上班族分为两种：瞎兵与泄将，瞎兵们喜欢在泄将背后偷懒，做小动作，而泄将们却爱监视着瞎兵们的一举一动，本片诙谐幽默地演绎着这对看似冤家的组合摩擦出的故事。</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/dddklrj/"><img src="http://static.jfrft.com/uploads/allimg/160426/6_1031297381.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/dddklrj/">豆丁的快乐日记</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>搞笑</div><div class="d_label"><b>播放：</b>36736</div></p>
+                                    <p><b>看点：</b></p>
+                                    <p><b>简介：</b>反映的是孩子们日常学习生活中的小故事，人物形象生动可爱，情节风趣幽默，不但受到小朋友们的欢迎，也往往会让家长们笑着回忆起自己的童年时代。</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/klxqd4b/"><img src="http://static.jfrft.com/uploads/allimg/160503/6_1633227061.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/klxqd4b/">快乐星球第四部</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>科幻|冒险</div><div class="d_label"><b>播放：</b>17333</div></p>
+                                    <p><b>看点：</b></p>
+                                    <p><b>简介：</b>步平凡是六一班的小学生，聪明、顽皮、讲义气，知识渊博，喜欢搞恶作剧。一天，由于一个很偶然的意外，步平凡陷入昏迷之中。步平凡的爸爸、妈妈万分着急，想了各种办法为步平凡治病，都没有效果。步平凡的爸爸在万般无奈的情况下，向快乐星球发出了求救信号。 摆脱了黑暗星球的骚扰，快乐星球的生活又恢复了平静。棒棒是快</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/fengsuzj/"><img src="http://static.jfrft.com/uploads/allimg/160504/6_1129509341.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/fengsuzj/">锋速战警</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>励志|奇幻|动作</div><div class="d_label"><b>播放：</b>14616</div></p>
+                                    <p><b>看点：</b></p>
+                                    <p><b>简介：</b>《锋速战警》讲的是未来地球环境污染严重，人类不但生活在有害的空间中，还遭受着来自外太空不明生物威胁。调皮捣蛋的安小龙屡次和企图统治地球的外星敌人交锋，无意中与好朋友兔牙一起入选了超能战队。原本为了保卫人们生命安全的他，却因为急于要表现自己而犯下了大错，虽然击败了敌人，但所造成的损失却直接导致了超能战</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl><dl>
+                                <dt><a hrel="/anime/kekeczrj/"><img src="http://static.jfrft.com/uploads/allimg/160504/6_1548104001.jpg"/></a></dt>
+                                <dd>
+                                    <h3><a href="/anime/kekeczrj/">科科成长日记</a></h3>
+                                
+                                    <p><div class="d_label"><b>地区：</b>中国</div><div class="d_label"><b>年代：</b>2010年1月</div></p>
+                                    <p><div class="d_label"><b>标签：</b>国漫</div><div class="d_label"><b>播放：</b>16748</div></p>
+                                    <p><b>看点：</b></p>
+                                    <p><b>简介：</b>科科是念二年级的小学生，和其他小朋友一样，他每天念着连大人都觉得头疼的小学教材，机灵的头脑总是有着问不完的问题，爱玩爱闯的他一路跌跌撞撞地长大着。他有个让自己骄傲的爸爸。因为科科的爸爸是个伟大科学研究者，最让科科神气的是爸爸会做很多各种各样奇怪的飞机。 科科在一个雷雨交加的傍晚收留了一个楚楚可怜的小</p>
+                                    <p><b style="color:#F00">状态:</b> 完结 </p>
+                                </dd>
+                            </dl>				
+            
+                        </div>
+                       
+                    </div>					
+					
+					
+                    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad4();</script></div>
+
+                </div>
+<script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script>	 
+
+  <div class="aside_rig movebox">
+  <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='612460' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+<!-- Duoshuo Comment BEGIN -->
+	<!--<div class="ds-thread"  data-thread-key="29039" data-author-key="1"  data-url="http://www.dilidili.wang/anime/youyaoqidm/" data-title=""></div>
+	<script type="text/javascript">
+	var duoshuoQuery = {short_name: "dzhan"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>-->
+<!-- Duoshuo Comment END -->
+
+  </div>
+<div class="aside_rig movebox"><script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+            </div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>				
+		</div>
+        <div class="fc_black"></div>
+        
+
+
+<script src="http://static.jfrft.com/templets/default/js/swiper.min.js"></script>
+<script>
+var mySwiper1 = new Swiper('.swiper1',{
+	pagination: '.pagination1',
+	paginationClickable: true,
+	moveStartThreshold: 100,
+	autoplay:4000
+});
+var mySwiper2 = new Swiper('.swiper2',{
+	pagination: '.pagination2',
+	paginationClickable: true,
+	moveStartThreshold: 100
+});
+  var webWidth = 736;
+    function changeSwiper(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+		
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 5 >0){
+				len = parseInt(arrlen / 5)+1;
+			}else{
+				len = parseInt(arrlen / 5);
+			}
+        }		
+
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+	
+	
+	function changeSwiper1(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+//		alert(arrlen);
+        var len = 0;		
+        if (_is) {
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+			if(arrlen % 8 >0){
+				len = parseInt(arrlen / 8)+1;
+			}else{
+				len = parseInt(arrlen / 8);
+			}
+        }	
+
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }	
+	
+	
+    changeSwiper1('.xfswiper0');
+	changeSwiper1('.xfswiper1');
+	changeSwiper1('.xfswiper2');
+	changeSwiper1('.xfswiper3');
+	changeSwiper1('.xfswiper4');
+	changeSwiper1('.xfswiper5');
+	changeSwiper1('.xfswiper6');
+    changeSwiper('.swiper3');
+    changeSwiper('.swiper4');
+    changeSwiper('.swiper5');
+    changeSwiper('.swiper6');
+	changeSwiper('.swiper7');
+    jQuery(window).resize(function () {
+		changeSwiper1('.xfswiper0');
+		changeSwiper1('.xfswiper1');
+		changeSwiper1('.xfswiper2');
+		changeSwiper1('.xfswiper3');
+		changeSwiper1('.xfswiper4');
+		changeSwiper1('.xfswiper5');
+		changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper4');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+		changeSwiper('.swiper7');
+    });
+var swiper3 = new Swiper('.swiper3', {
+	nextButton: '.swiper-button-next3',
+	prevButton: '.swiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper4 = new Swiper('.swiper4', {
+	nextButton: '.swiper-button-next4',
+	prevButton: '.swiper-button-prev4',
+	spaceBetween: 30
+});
+var swiper5 = new Swiper('.swiper5', {
+	nextButton: '.swiper-button-next5',
+	prevButton: '.swiper-button-prev5',
+	spaceBetween: 30
+});
+var swiper6 = new Swiper('.swiper6', {
+	nextButton: '.swiper-button-next6',
+	prevButton: '.swiper-button-prev6',
+	spaceBetween: 30
+});
+var swiper7 = new Swiper('.swiper7', {
+	nextButton: '.swiper-button-next7',
+	prevButton: '.swiper-button-prev7',
+	spaceBetween: 30
+});
+
+jQuery(function() {
+	jQuery(".closed").click(
+	  function(){
+		  jQuery(".topimg").slideUp();
+	});
+
+	// 收缩展开效果
+	   jQuery(".adminico").click(function(){
+		 jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+		   },function(){
+		jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   });
+
+
+	jQuery(".a_open").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").slideDown(500);
+		  jQuery(".fc_black").show();
+		  jQuery(".a_closed").show();
+	});
+	jQuery(".a_closed").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+	});
+	jQuery(".fc_black").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+		  jQuery(".a_closed").hide();
+	});
+	jQuery(".rm_pank .pk_year a").each(function(index){
+	   jQuery(this).mouseover(
+		  function(){
+			  jQuery(".rm_pank .pk_year a").removeClass("current");
+			  jQuery(this).addClass("current");
+			  jQuery(".rm_pank .rm_main .rm_con").hide();
+			  jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+	  })
+	});
+
+	var headHeight=$(".head_top").height();
+	var nav=$("#navf");
+	$(window).scroll(function(){
+		if($(this).scrollTop()>headHeight){
+			nav.addClass("navFix");
+		}
+		else{
+			nav.removeClass("navFix");
+		}
+	})
+
+	var headHeight2=$(".topimg").height();
+	var nav2=jQuery("#topnavf");
+    jQuery(window).scroll(function(){
+		if($(this).scrollTop()>headHeight2){
+			nav2.addClass("topnavFix");
+		}
+		else{
+			nav2.removeClass("topnavFix");
+		}
+	});
+
+    var week = new Date().getDay();
+    jQuery(".xf_news .pk_time a").removeClass("current");
+    jQuery(".xf_news .time_pic .time_con").hide();
+    if (week != 0) {
+        jQuery(".xf_news .pk_time a:eq(" + (week - 1) + ")").addClass("current");
+        jQuery(".xf_news .time_pic .time_con:eq(" + (week - 1) + ")").show();
+        new Swiper(".xfswiper"+(week - 1), {
+            nextButton: '.xfswiper-button-next'+(week - 1),
+            prevButton: '.xfswiper-button-prev'+(week - 1),
+            spaceBetween: 30
+        });
+    } else {
+        jQuery(".xf_news .pk_time a:last").addClass("current");
+        jQuery(".xf_news .time_pic .time_con:last").show();
+        new Swiper(".xfswiper7", {
+            nextButton: '.xfswiper-button-next7',
+            prevButton: '.xfswiper-button-prev7',
+            spaceBetween: 30
+        });
+    }
+
+    jQuery(".xf_news .pk_time a").each(function(index){
+        jQuery(this).click(function(){
+            jQuery(".xf_news .pk_time a").removeClass("current");
+            jQuery(this).addClass("current");
+            jQuery(".xf_news .time_pic .time_con").hide();
+            jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+            new Swiper(".xfswiper"+index, {
+                nextButton: '.xfswiper-button-next'+index,
+                prevButton: '.xfswiper-button-prev'+index,
+                spaceBetween: 30
+            });
+        });
+    });
+
+});
+</script>
+<script type="text/javascript" src="http://static.jfrft.com/templets/default/js/backtop.js"></script>
+	</body>
+</html>

@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>图腾领域-  在线&amp;下载 - 嘀哩嘀哩</title>
+    <meta name="keywords" content="图腾领域">
+    <meta name="description" content="传说曾有一个古老而神秘的图腾领域，图腾代表着人类崇高的文明与美好的信仰，图腾兽更是用神奇的力量帮助人类，那时人与图腾兽共生，天下太平。但一场战争的爆发却将美好的生活毁于一旦。">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="http://static.jfrft.com/anime/ttlyu/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="http://static.jfrft.com/anime/ttlyu/css/demo.css">
+    <script src="http://static.jfrft.com/anime/ttlyu/js/jquery-1.11.min.js"></script>
+    <script src="http://static.jfrft.com/anime/ttlyu/js/bootstrap.min.js"></script>
+    <script src="http://static.jfrft.com/js/tongji.js" type="text/javascript"></script>
+    <script>
+        var count=0
+        $(function(){
+           $(".close").click(function(){
+               $(".knowall").fadeOut(500)
+           })
+            $(".know").click(function(){
+                $(".knowall").fadeIn(500)
+            })
+
+            $(".btnl").click(function(){
+                count++
+                if(count>0){
+                    $('.roldiv').stop(true,false).animate({'left':0+'%'})
+                    count=-5
+                }
+                else{
+                    $('.roldiv').stop(true,false).animate({'left':count*49.5+'%'})
+                }
+            })
+            $(".btnr").click(function(){
+                count--
+                if(count<-4){
+                    count=0
+                    $('.roldiv').stop(true,false).animate({'left':count*49.5+'%'})
+                }else{
+                    $('.roldiv').stop(true,false).animate({'left':count*49.5+'%'})
+                }
+            })
+
+            $(".zhangkai").click(function(){
+                $(".zknum").stop(true,false).slideToggle(800)
+            })
+
+
+
+            var timer=setInterval(function(){
+                count--
+                if(count<-4){
+                    count=0
+                }
+                $('.roldiv').stop(true,false).animate({'left':count*49.5+'%'})
+
+            },3000);
+
+
+            $(".imgg1").click(function(){
+                $("#show1").fadeIn(500)
+            })
+
+            $(".imgg2").click(function(){
+                $("#show2").fadeIn(500)
+            })
+
+            $(".close1").click(function(){
+                $("#show1").fadeOut(500)
+                $("#show2").fadeOut(500)
+            })
+
+        })
+
+    </script>
+</head>
+<body>
+
+    <div id="bg">
+        <div class="video">
+        	<iframe id="player_iframe" src="https://newplayer.jfrft.com/?vid=XMTYyNzcwMzEyMA==&amp;v=youku&amp;sign=4dcb86e0388175a63891773332f557f4" border="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+        </div>
+        <div class="num">
+        <p class="juji">剧集</p>
+        <div class="zhangkai">展开</div>
+            <div class="ulli">
+				<a href="http://www.dilidili.wang/watch3/47945/" title="图腾领域 预告之 心剑合一的战斗">预告</a><a href="http://www.dilidili.wang/watch3/48102/" title="图腾领域 配音演员特辑 姜广涛领衔豪华配音天团">PV2</a><a href="http://www.dilidili.wang/watch3/48598/" title="动画片《图腾领域》曝终极预告片 9月3日卡酷少儿卫视燃战上映">pv</a><a href="http://www.dilidili.wang/watch3/49276/" title="图腾领域 第1话 开启吧 图腾传说">1</a><a href="http://www.dilidili.wang/watch3/49277/" title="图腾领域 第2话 森林里的秘密">2</a><a href="http://www.dilidili.wang/watch3/49361/" title="图腾领域 第3话 战神祖的初登场">3</a><a href="http://www.dilidili.wang/watch3/49362/" title="图腾领域 第4话 净化吧当康">4</a><a href="http://www.dilidili.wang/watch3/49394/" title="图腾领域 第5话 神秘少女的身份">5</a><a href="http://www.dilidili.wang/watch3/49395/" title="图腾领域 第6话 学校里有图腾兽吗">6</a><a href="http://www.dilidili.wang/watch3/49461/" title="图腾领域 第7话 小心 危险的对手">7</a><a href="http://www.dilidili.wang/watch3/49462/" title="图腾领域 第8话 进化吧 娅米">8</a><a href="http://www.dilidili.wang/watch3/49539/" title="图腾领域 第9话 小鱼丸的100%惊喜">9</a><a href="http://www.dilidili.wang/watch3/49540/" title="图腾领域 第10话 荣耀的战士 祖">10</a><a href="http://www.dilidili.wang/watch3/49609/" title="图腾领域 第11话 被魔化的同伴">11</a><a href="http://www.dilidili.wang/watch3/49610/" title="图腾领域 第12话 契约的真谛">12</a><a href="http://www.dilidili.wang/watch3/49622/" title="图腾领域 第13话 九大炼兽的秘密">13</a><a href="http://www.dilidili.wang/watch3/49623/" title="图腾领域 第14话 神秘力量的野心">14</a><a href="http://www.dilidili.wang/watch3/49637/" title="图腾领域 第15话 香蕉魔王的奇异子弹">15</a><a href="http://www.dilidili.wang/watch3/49638/" title="图腾领域 第16话 误闯大人国">16</a><a href="http://www.dilidili.wang/watch3/49679/" title="图腾领域 第17话 拜拜咯香蕉魔王">17</a><a href="http://www.dilidili.wang/watch3/49680/" title="图腾领域 第18话 前所未有的危机">18</a><a href="http://www.dilidili.wang/watch3/49719/" title="图腾领域 第19话 第一次独立战斗">19</a><a href="http://www.dilidili.wang/watch3/49720/" title="图腾领域 第20话 小星的觉悟">20</a><a href="http://www.dilidili.wang/watch3/49911/" title="图腾领域 第21话 棋逢敌手">21</a><a href="http://www.dilidili.wang/watch3/49912/" title="图腾领域 第22话 不可思议的力量 吼">22</a><a href="http://www.dilidili.wang/watch3/49973/" title="图腾领域 第23话 图腾之力爆发">23</a><a href="http://www.dilidili.wang/watch3/49974/" title="图腾领域 第24话 神秘人出手 是敌是友">24</a><a href="http://www.dilidili.wang/watch3/49993/" title="图腾领域 第25话 小团队的信任危机">25</a><a href="http://www.dilidili.wang/watch3/49994/" title="图腾领域 第26话 不该交锋的强大对手">26</a><a href="http://www.dilidili.wang/watch3/50004/" title="图腾领域 第27话 新世界之旅 登陆湖心岛">27</a><a href="http://www.dilidili.wang/watch3/50005/" title="图腾领域 第28话 神奇的桑落">28</a><a href="http://www.dilidili.wang/watch3/50022/" title="图腾领域 第29话 软绵绵的山谷">29</a><a href="http://www.dilidili.wang/watch3/50023/" title="图腾领域 第30话 击掌 再出发">30</a><a href="http://www.dilidili.wang/watch3/50047/" title="图腾领域 第31话 神秘宝塔的神秘守护者">31</a><a href="http://www.dilidili.wang/watch3/50048/" title="图腾领域 第32话 梦魇幻境的挑战">32</a><a href="http://www.dilidili.wang/watch3/50154/" title="图腾领域 第33话 回来吧 我的伙伴">33</a><a href="http://www.dilidili.wang/watch3/50155/" title="图腾领域 第34话 讨厌的山蜘蛛">34</a><a href="http://www.dilidili.wang/watch3/50180/" title="图腾领域 第35话 大危机降临">35</a><a href="http://www.dilidili.wang/watch3/50181/" title="图腾领域 第36话 不让任何人牺牲">36</a><a href="http://www.dilidili.wang/watch3/50234/" title="图腾领域 第37话 从未遗忘的伙伴">37</a><a href="http://www.dilidili.wang/watch3/50235/" title="图腾领域 第38话 孤星英雄 进化的桑落">38</a><a href="http://www.dilidili.wang/watch3/50247/" title="图腾领域 第39话 消失的伙伴">39</a><a href="http://www.dilidili.wang/watch3/50248/" title="图腾领域 第40话 初入 危险的虚无之地">40</a><a href="http://www.dilidili.wang/watch3/50258/" title="图腾领域 第41话 翻滚吧 钉尾兄弟">41</a><a href="http://www.dilidili.wang/watch3/50259/" title="图腾领域 第42话 强化 雷雨中的梼杌">42</a><a href="http://www.dilidili.wang/watch3/50274/" title="图腾领域 第43话 被魔化的第五个伙伴">43</a><a href="http://www.dilidili.wang/watch3/50275/" title="图腾领域 第44话 五大守护兽 危险的魔化军团">44</a><a href="http://www.dilidili.wang/watch3/50407/" title="图腾领域 第45话 合体 最强魔化兽来袭">45</a><a href="http://www.dilidili.wang/watch3/50408/" title="图腾领域 第46话 觉醒的意志">46</a><a href="http://www.dilidili.wang/watch3/50423/" title="图腾领域 第47话 守护使的秘密">47</a><a href="http://www.dilidili.wang/watch3/50424/" title="图腾领域 第48话 青龙之目 吼的告别">48</a><a href="http://www.dilidili.wang/watch3/50548/" title="图腾领域 第49话 无法对抗的终极敌人 别刹罗">49</a><a href="http://www.dilidili.wang/watch3/50549/" title="图腾领域 第50话 触发吧 专属于本本佼的信仰">50</a><a href="http://www.dilidili.wang/watch3/50560/" title="图腾领域 第51话 纯净的图腾之力">51</a><a href="http://www.dilidili.wang/watch3/50561/" title="图腾领域 第52话 前进吧 龙之州">52</a>	
+            </div>
+        </div>
+
+        <div class="zknum">
+            <p class="juji">剧集</p>
+            <div class="zhangkai">收起</div>
+            <div class="ulli2">
+				<a href="http://www.dilidili.wang/watch3/47945/" title="图腾领域 预告之 心剑合一的战斗">预告</a><a href="http://www.dilidili.wang/watch3/48102/" title="图腾领域 配音演员特辑 姜广涛领衔豪华配音天团">PV2</a><a href="http://www.dilidili.wang/watch3/48598/" title="动画片《图腾领域》曝终极预告片 9月3日卡酷少儿卫视燃战上映">pv</a><a href="http://www.dilidili.wang/watch3/49276/" title="图腾领域 第1话 开启吧 图腾传说">1</a><a href="http://www.dilidili.wang/watch3/49277/" title="图腾领域 第2话 森林里的秘密">2</a><a href="http://www.dilidili.wang/watch3/49361/" title="图腾领域 第3话 战神祖的初登场">3</a><a href="http://www.dilidili.wang/watch3/49362/" title="图腾领域 第4话 净化吧当康">4</a><a href="http://www.dilidili.wang/watch3/49394/" title="图腾领域 第5话 神秘少女的身份">5</a><a href="http://www.dilidili.wang/watch3/49395/" title="图腾领域 第6话 学校里有图腾兽吗">6</a><a href="http://www.dilidili.wang/watch3/49461/" title="图腾领域 第7话 小心 危险的对手">7</a><a href="http://www.dilidili.wang/watch3/49462/" title="图腾领域 第8话 进化吧 娅米">8</a><a href="http://www.dilidili.wang/watch3/49539/" title="图腾领域 第9话 小鱼丸的100%惊喜">9</a><a href="http://www.dilidili.wang/watch3/49540/" title="图腾领域 第10话 荣耀的战士 祖">10</a><a href="http://www.dilidili.wang/watch3/49609/" title="图腾领域 第11话 被魔化的同伴">11</a><a href="http://www.dilidili.wang/watch3/49610/" title="图腾领域 第12话 契约的真谛">12</a><a href="http://www.dilidili.wang/watch3/49622/" title="图腾领域 第13话 九大炼兽的秘密">13</a><a href="http://www.dilidili.wang/watch3/49623/" title="图腾领域 第14话 神秘力量的野心">14</a><a href="http://www.dilidili.wang/watch3/49637/" title="图腾领域 第15话 香蕉魔王的奇异子弹">15</a><a href="http://www.dilidili.wang/watch3/49638/" title="图腾领域 第16话 误闯大人国">16</a><a href="http://www.dilidili.wang/watch3/49679/" title="图腾领域 第17话 拜拜咯香蕉魔王">17</a><a href="http://www.dilidili.wang/watch3/49680/" title="图腾领域 第18话 前所未有的危机">18</a><a href="http://www.dilidili.wang/watch3/49719/" title="图腾领域 第19话 第一次独立战斗">19</a><a href="http://www.dilidili.wang/watch3/49720/" title="图腾领域 第20话 小星的觉悟">20</a><a href="http://www.dilidili.wang/watch3/49911/" title="图腾领域 第21话 棋逢敌手">21</a><a href="http://www.dilidili.wang/watch3/49912/" title="图腾领域 第22话 不可思议的力量 吼">22</a><a href="http://www.dilidili.wang/watch3/49973/" title="图腾领域 第23话 图腾之力爆发">23</a><a href="http://www.dilidili.wang/watch3/49974/" title="图腾领域 第24话 神秘人出手 是敌是友">24</a><a href="http://www.dilidili.wang/watch3/49993/" title="图腾领域 第25话 小团队的信任危机">25</a><a href="http://www.dilidili.wang/watch3/49994/" title="图腾领域 第26话 不该交锋的强大对手">26</a><a href="http://www.dilidili.wang/watch3/50004/" title="图腾领域 第27话 新世界之旅 登陆湖心岛">27</a><a href="http://www.dilidili.wang/watch3/50005/" title="图腾领域 第28话 神奇的桑落">28</a><a href="http://www.dilidili.wang/watch3/50022/" title="图腾领域 第29话 软绵绵的山谷">29</a><a href="http://www.dilidili.wang/watch3/50023/" title="图腾领域 第30话 击掌 再出发">30</a><a href="http://www.dilidili.wang/watch3/50047/" title="图腾领域 第31话 神秘宝塔的神秘守护者">31</a><a href="http://www.dilidili.wang/watch3/50048/" title="图腾领域 第32话 梦魇幻境的挑战">32</a><a href="http://www.dilidili.wang/watch3/50154/" title="图腾领域 第33话 回来吧 我的伙伴">33</a><a href="http://www.dilidili.wang/watch3/50155/" title="图腾领域 第34话 讨厌的山蜘蛛">34</a><a href="http://www.dilidili.wang/watch3/50180/" title="图腾领域 第35话 大危机降临">35</a><a href="http://www.dilidili.wang/watch3/50181/" title="图腾领域 第36话 不让任何人牺牲">36</a><a href="http://www.dilidili.wang/watch3/50234/" title="图腾领域 第37话 从未遗忘的伙伴">37</a><a href="http://www.dilidili.wang/watch3/50235/" title="图腾领域 第38话 孤星英雄 进化的桑落">38</a><a href="http://www.dilidili.wang/watch3/50247/" title="图腾领域 第39话 消失的伙伴">39</a><a href="http://www.dilidili.wang/watch3/50248/" title="图腾领域 第40话 初入 危险的虚无之地">40</a><a href="http://www.dilidili.wang/watch3/50258/" title="图腾领域 第41话 翻滚吧 钉尾兄弟">41</a><a href="http://www.dilidili.wang/watch3/50259/" title="图腾领域 第42话 强化 雷雨中的梼杌">42</a><a href="http://www.dilidili.wang/watch3/50274/" title="图腾领域 第43话 被魔化的第五个伙伴">43</a><a href="http://www.dilidili.wang/watch3/50275/" title="图腾领域 第44话 五大守护兽 危险的魔化军团">44</a><a href="http://www.dilidili.wang/watch3/50407/" title="图腾领域 第45话 合体 最强魔化兽来袭">45</a><a href="http://www.dilidili.wang/watch3/50408/" title="图腾领域 第46话 觉醒的意志">46</a><a href="http://www.dilidili.wang/watch3/50423/" title="图腾领域 第47话 守护使的秘密">47</a><a href="http://www.dilidili.wang/watch3/50424/" title="图腾领域 第48话 青龙之目 吼的告别">48</a><a href="http://www.dilidili.wang/watch3/50548/" title="图腾领域 第49话 无法对抗的终极敌人 别刹罗">49</a><a href="http://www.dilidili.wang/watch3/50549/" title="图腾领域 第50话 触发吧 专属于本本佼的信仰">50</a><a href="http://www.dilidili.wang/watch3/50560/" title="图腾领域 第51话 纯净的图腾之力">51</a><a href="http://www.dilidili.wang/watch3/50561/" title="图腾领域 第52话 前进吧 龙之州">52</a>	
+            </div>
+        </div>
+
+        <div class="block1">
+            <div class="img1"></div>
+            <div class="blank3">
+                <div class="introimg"></div>
+                <div class="introp">
+                    <h3><strong>作品简介：</strong></h3>
+                    <p>&nbsp&nbsp&nbsp&nbsp传说曾有一个古老而神秘的图腾领域，图腾代表着人类崇高的文明与美好的信仰，图腾兽更是使用神奇的力量帮助人类，那时人与图腾兽共生，天下太平。但一场战争的爆发却将美好一切毁于一旦。<br/>
+                        &nbsp&nbsp&nbsp&nbsp而现在，被欲望所掌控的邪恶图腾师卷土重来，古老的图腾秘密穿越三千年再次复活，图腾兽被赋予新时代的信仰，带领机甲战士拯救世界的重任落在了五个小学生身上，而不同的性格和不同的追求，也让五个小图腾师拥有了专属于自己的独一无二的图腾兽。</p>
+                </div>
+            </div>
+
+            <div class="img3"></div>
+            <div class="btnl"></div>
+            <div class="btnr"></div>
+            <div class="blank1">
+                <div class="roldiv">
+                    <div class="l1 ll"></div>
+                    <div class="l2 ll"></div>
+                    <div class="l3 ll"></div>
+                    <div class="l4 ll"></div>
+                    <div class="l5 ll"></div>
+                    <div class="l6 ll"></div>
+                </div>
+            </div>
+            </div>
+
+       <div class="block2">
+           <div class="img2"></div>
+           <div class="blank2">
+               <div class="aboutimg"></div>
+               <div class="aboutp">
+                   <p>
+                       &nbsp&nbsp&nbsp&nbsp光盒力量（北京）动漫科技有限公司秉承“以文化为内涵、创意为核心、科技为手段、娱乐教育为目的”的四大原则，专注于高品质原创动漫文化产品开发、发行以及运营， 致力于为用户提供最优质的动漫文化产品及服务。
+                       《图腾领域》由光盒力量(北京)动漫科技有限公司出品。是以中国古代图腾文化体系为架构，以炫酷机甲重新解构上古神兽，以图腾信仰、图腾化身、图腾圣物等观念为核心，讲诉了小主人公们与“图腾兽”团结一致，为信仰而战，对抗邪恶势力、守卫人类家园的励志成长故事。
+                   </p>
+               </div>
+           </div>
+
+
+
+           <div class="img5">
+           </div>
+
+           <div class="blank4">
+                 <div class="imgg1">
+                     <p>动画场景图集</p>
+                 </div>
+                 <div class="imgg2">
+                     <p>剧集动图图集</p>
+                 </div>
+            </div>
+       </div>
+
+        <div class="block3">
+            <div class="topic"></div>
+            <div class="coment" style="width:100%;background: url('http://static.jfrft.com/anime/ttlyu/images/diceng.png')">
+                <div class="coment1" id="SOHUCS" sid="spzt" style="width:53%;">
+				<div id="SOHUCS" sid="www.dilidili.wang_tuteng"></div> 
+                <script>
+                    document.write("<link rel=\"stylesheet\" href=\"http://static.jfrft.com/css/cy.css\"\/>");
+                </script>
+                <script type="text/javascript">
+                    (function(){
+                        var appid = 'cyrWI9WPo';
+                        var conf = 'eea24c2162fe79b36d73e420792de754';
+                        var width = window.innerWidth || document.documentElement.clientWidth;
+                        if (width < 960) {
+                            window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>'); } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("http://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
+                </div>
+            </div>
+        </div>
+
+        <div class="imgshow" id="show1">
+          <div class="close1">关闭</div>
+            <div id="gallery">
+                <ul>
+                    <li>
+                 <span><img  src="http://static.jfrft.com/anime/ttlyu/images/changjing/1.jpg"></span>
+                        <div style="display: block;">
+                            <img  src="http://static.jfrft.com/anime/ttlyu/images/changjing/1.jpg"/>
+                        </div>
+                    </li>
+
+                    <li>
+                        <span><img src="http://static.jfrft.com/anime/ttlyu/images/changjing/2.jpg"/></span>
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/2.jpg"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span><img src="http://static.jfrft.com/anime/ttlyu/images/changjing/3.jpg"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/3.jpg"/>
+                        </div>
+                    </li>
+
+                    <li>
+                        <span><img src="http://static.jfrft.com/anime/ttlyu/images/changjing/4.jpg"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/4.jpg"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/5.jpg"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/6.jpg"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/6.jpg"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/6.jpg"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span><img src="http://static.jfrft.com/anime/ttlyu/images/changjing/7.jpg"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/7.jpg"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/8.jpg"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/8.jpg"/>
+                        </div >
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/9.jpg"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/changjing/9.jpg"/>
+                        </div >
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="imgshow" id="show2">
+            <div class="close1">关闭</div>
+            <div id="gallery">
+                <ul>
+                    <li>
+                        <span><img  src="http://static.jfrft.com/anime/ttlyu/images/juji/1.gif"></span>
+                        <div style="display: block;">
+                            <img  src="http://static.jfrft.com/anime/ttlyu/images/juji/1.gif"/>
+                        </div>
+                    </li>
+
+                    <li>
+                        <span><img src="http://static.jfrft.com/anime/ttlyu/images/juji/2.gif"/></span>
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/2.gif"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span><img src="http://static.jfrft.com/anime/ttlyu/images/juji/3.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/3.gif"/>
+                        </div>
+                    </li>
+
+                    <li>
+                        <span><img src="http://static.jfrft.com/anime/ttlyu/images/juji/4.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/4.gif"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/juji/5.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/5.gif"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/juji/6.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/6.gif"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span><img src="http://static.jfrft.com/anime/ttlyu/images/juji/7.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/7.gif"/>
+                        </div>
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/juji/8.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/8.gif"/>
+                        </div >
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/juji/9.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/9.gif"/>
+                        </div >
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/juji/10.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/10.gif"/>
+                        </div >
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/juji/11.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/11.gif"/>
+                        </div >
+                    </li>
+                    <li>
+                        <span>  <img src="http://static.jfrft.com/anime/ttlyu/images/juji/12.gif"/></span>
+
+                        <div>
+                            <img src="http://static.jfrft.com/anime/ttlyu/images/juji/12.gif"/>
+                        </div >
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+   <div class="qiuguanzhu">
+   <div class="qgz"></div>
+    <div class="wk">
+        <div class="weixin"></div>
+        <p>微信</p>
+        <h3>扫描关注我们</h3>
+    </div>
+       <div class="wk" id="wb">
+           <div class="weibo"></div>
+           <p>微博</p>
+           <h3>扫描关注我们</h3>
+       </div>
+   </div>
+
+</body>
+</html>
+
+
+
+

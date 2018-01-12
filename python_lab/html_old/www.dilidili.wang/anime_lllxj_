@@ -1,0 +1,914 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+	<head>
+		<meta charset="utf-8">
+		<title>洛洛历险记-  在线&下载 - 嘀哩嘀哩</title>
+		<meta name="keywords" content="洛洛历险记" />
+		<meta name="description" content="主人公“洛洛”今年十一岁，是一个天才游戏高手，他最擅长玩一个名为“机战王”的3D电脑游戏。这是一款以机器人互相争霸大战作为背景的游戏，洛洛曾多次获得该项游戏的竞赛优秀奖。然而在一个雷电交加的夜晚，洛洛不再是这场战争的旁观者，一束诡异的闪电将强大的能量注入洛洛的电脑，并将他从现实世界牵引进“机战王”的" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+        <meta name="applicable-device" content="pc,mobile">
+		<script src="http://static.jfrft.com/js/uaredirect.js"></script>
+        <script type="text/javascript">uaredirect("http://m.dilidili.com/anime/lllxj/");</script>
+        <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.com/anime/lllxj/"/>
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.com/anime/lllxj/" >		
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+        <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+        <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js"></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/list_ad.js"></script>
+<script>
+	jQuery(function(){
+	new jbCollect('a._collect', '#content1');
+});
+</script>
+        <base target="_blank">
+<style>
+</style>        
+    </head>
+	<body>
+	<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topimg">
+		<div class="w1410">
+			<span class="closed"></span>
+            <div class="weibo3">
+                <div style="float:left;">关注站长</div>
+                <a href="http://weibo.com/u/3390288124" target="_blank" style="float:left;"><img src="http://static.jfrft.com/images/weibo.png"/></a>
+            </div>
+		</div>
+	</div>
+    </a>
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.com/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.com/anime/201607/" target="_blank">七月新番</a>
+                    <div class="xlcd">
+                        <a href="http://www.dilidili.com/anime/201610/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+                <li><a href="http://www.dilidili.com/anime/guoman/" target="_blank">腾讯国漫</a></li>
+                <li><a href="http://www.dilidili.com/anime/youyaoqidm/" target="_blank">有妖气动漫</a></li>
+                <li>
+                    <a href="http://www.dilidili.com/rexue/" target="_blank">热血动漫</a>
+                    <div class="xlcd">
+                        <a href="http://www.dilidili.com/anime/onepiece/" target="_blank">海贼王</a>
+                        <a href="http://www.dilidili.com/anime/gintama/" target="_blank">银魂</a>
+                        <a href="http://www.dilidili.com/anime/naruto/" target="_blank">火影忍者</a>
+                        <a href="http://www.dilidili.com/anime/conan/" target="_blank">柯南</a>
+                        <a href="http://www.dilidili.com/anime/bleach/" target="_blank">境界</a>
+                    </div>
+                </li>
+                <li><a href="http://www.dilidili.com/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+				<li><a href="http://www.dilidili.com/hougong/"  target="_blank">动漫分类</a></li>
+                <li>
+                    <a>更多</a>
+                    <div class="xlcd">
+                        <a href="http://moe.005.tv/" rel="nofollow" target="_blank">换衣服</a>
+                        <a href="http://www.005.tv/" rel="nofollow" target="_blank">看福利</a>
+                        <a href="http://www.xcmh.cc/" rel="nofollow" target="_blank">和谐漫</a>
+                        <a href="http://www.93w.net/" rel="nofollow" target="_blank">喝鸡汤</a>
+                    </div>
+                </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.com/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.com">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<script language="javascript" src="http://usr.005.tv/Common/header3.html"></script>
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/templets/default/images/slogo.png">
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+					
+                <div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.com/'>嘀哩嘀哩</a> > <a href=''>洛洛历险记</a></div>
+                <div class="aside_cen2">                    
+                    <div class="detail con24 clear">
+                        <dl>
+                            <dt><img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G111140-L.jpg"/></dt>
+                            <dd>
+                                <h1>洛洛历险记</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="洛洛历险记" data-url="http://www.dilidili.com/anime/lllxj/" data-icon="http://static.jfrft.com/uploads/allimg/201602/1-16021G111140-L.jpg"><span>收藏</span></a></div><br/>
+								<span class="play_cs">播放次数:<script src="http://www.dilidili.com/plus/countlist.php?view=yes&aid=673&mid=" type='text/javascript' language="javascript"></script></span>
+                                <p><div class="d_label"><b>地区：</b><a href="/guoyu/" title="日本动漫">中国</a></div><div class="d_label"><b>年代：</b><a href="/2010xq/" title="2010年之前番">2010年之前</a></div></p>
+                                <p><div class="d_label"><b>标签：</b>搞笑，冒险，游戏</div><div class="d_label"><b>状态：</b>完结</div></p>
+								<p><div class="d_label2"><b>看点：</b>《洛洛历险记》是我国第一部以变形机器人为主角的大型动画片.</div></p>
+                                <p><div class="d_label2"><b>简介：</b>主人公“洛洛”今年十一岁，是一个天才游戏高手，他最擅长玩一个名为“机战王”的3D电脑游戏。这是一款以机器人互相争霸大战作为背景的游戏，洛洛曾多次获得该项游戏的竞赛优秀奖。然而在一个雷电交加的夜晚，洛洛不再是这场战争的旁观者，一束诡异的闪电将强大的能量注入洛洛的电脑，并将他从现实世界牵引进“机战王”的</div></p>
+                                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://weibo.com/u/5337098143/" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('洛洛历险记','','','http://www.dilidili.com/anime/lllxj/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                                <p>
+                                <div class="button_bar">
+                                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>							
+																							
+                                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                                </div>
+                                </p>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="con24 m-10 xf_news">
+                        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+                        </div>
+                        <div class="time_pic list">
+                            <div class="time_con">
+                                <div class="swiper-container xfswiper1">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                             <ul class="clear">
+											  <li><a href="http://www.dilidili.com/watch/28994/" target="_self"><em><span>第01话</span>洛洛历险记第1集 游戏高手</em></a></li><li><a href="http://www.dilidili.com/watch/28996/" target="_self"><em><span>第02话</span>洛洛历险记第2集 时光之城</em></a></li><li><a href="http://www.dilidili.com/watch/28997/" target="_self"><em><span>第03话</span>洛洛历险记第3集 雷霆半月斩</em></a></li><li><a href="http://www.dilidili.com/watch/28998/" target="_self"><em><span>第04话</span>洛洛历险记第4集 力霸天战士</em></a></li><li><a href="http://www.dilidili.com/watch/28999/" target="_self"><em><span>第05话</span>洛洛历险记第5集 泰山陨石坠</em></a></li><li><a href="http://www.dilidili.com/watch/29000/" target="_self"><em><span>第06话</span>洛洛历险记第6集 天降奇兵</em></a></li><li><a href="http://www.dilidili.com/watch/29001/" target="_self"><em><span>第07话</span>洛洛历险记第7集 机战王</em></a></li><li><a href="http://www.dilidili.com/watch/29002/" target="_self"><em><span>第08话</span>洛洛历险记第8集 连环绝技</em></a></li><li><a href="http://www.dilidili.com/watch/29004/" target="_self"><em><span>第09话</span>洛洛历险记第9集 义不容辞</em></a></li><li><a href="http://www.dilidili.com/watch/29005/" target="_self"><em><span>第10话</span>洛洛历险记第10集 见义勇为</em></a></li><li><a href="http://www.dilidili.com/watch/29006/" target="_self"><em><span>第11话</span>洛洛历险记第11集 火龙山谷</em></a></li><li><a href="http://www.dilidili.com/watch/29009/" target="_self"><em><span>第12话</span>洛洛历险记第12集 不死神龙</em></a></li><li><a href="http://www.dilidili.com/watch/29017/" target="_self"><em><span>第13话</span>洛洛历险记第13集 深夜偷袭</em></a></li><li><a href="http://www.dilidili.com/watch/29018/" target="_self"><em><span>第14话</span>洛洛历险记第14集 拒绝结盟</em></a></li><li><a href="http://www.dilidili.com/watch/29019/" target="_self"><em><span>第15话</span>洛洛历险记第15集 幽冥音波功</em></a></li><li><a href="http://www.dilidili.com/watch/29020/" target="_self"><em><span>第16话</span>洛洛历险记第16集 反间计</em></a></li><li><a href="http://www.dilidili.com/watch/29021/" target="_self"><em><span>第17话</span>洛洛历险记第17集 暂停瞬间</em></a></li><li><a href="http://www.dilidili.com/watch/29022/" target="_self"><em><span>第18话</span>洛洛历险记第18集 骄兵之计</em></a></li><li><a href="http://www.dilidili.com/watch/29023/" target="_self"><em><span>第19话</span>洛洛历险记第19集 急先锋战士</em></a></li><li><a href="http://www.dilidili.com/watch/29024/" target="_self"><em><span>第20话</span>洛洛历险记第20集 家破人亡</em></a></li><li><a href="http://www.dilidili.com/watch/29025/" target="_self"><em><span>第21话</span>洛洛历险记第21集 惊天浪涛杀</em></a></li><li><a href="http://www.dilidili.com/watch/29026/" target="_self"><em><span>第22话</span>洛洛历险记第22集 损失惨重</em></a></li><li><a href="http://www.dilidili.com/watch/29027/" target="_self"><em><span>第23话</span>洛洛历险记第23集 柳暗花明</em></a></li><li><a href="http://www.dilidili.com/watch/29028/" target="_self"><em><span>第24话</span>洛洛历险记第24集 养虎为患</em></a></li><li><a href="http://www.dilidili.com/watch/29029/" target="_self"><em><span>第25话</span>洛洛历险记第25集 流影电光闪</em></a></li><li><a href="http://www.dilidili.com/watch/29030/" target="_self"><em><span>第26话</span>洛洛历险记第26集 冲击波战士</em></a></li><li><a href="http://www.dilidili.com/watch/29031/" target="_self"><em><span>第27话</span>洛洛历险记第27集 大战前夕</em></a></li><li><a href="http://www.dilidili.com/watch/29032/" target="_self"><em><span>第28话</span>洛洛历险记第28集 生死决斗</em></a></li><li><a href="http://www.dilidili.com/watch/29033/" target="_self"><em><span>第29话</span>洛洛历险记第29集 两败俱伤</em></a></li><li><a href="http://www.dilidili.com/watch/29034/" target="_self"><em><span>第30话</span>洛洛历险记第30集 极地沙尘暴</em></a></li><li><a href="http://www.dilidili.com/watch/29035/" target="_self"><em><span>第31话</span>洛洛历险记第31集 引蛇出洞</em></a></li><li><a href="http://www.dilidili.com/watch/29036/" target="_self"><em><span>第32话</span>洛洛历险记第32集 战王暴龙神</em></a></li><li><a href="http://www.dilidili.com/watch/29037/" target="_self"><em><span>第33话</span>洛洛历险记第33集 闪电之死</em></a></li><li><a href="http://www.dilidili.com/watch/29038/" target="_self"><em><span>第34话</span>洛洛历险记第34集 战王之王</em></a></li><li><a href="http://www.dilidili.com/watch/29040/" target="_self"><em><span>第35话</span>洛洛历险记第35集 龙虎斗</em></a></li><li><a href="http://www.dilidili.com/watch/29041/" target="_self"><em><span>第36话</span>洛洛历险记第36集 超音速战士</em></a></li><li><a href="http://www.dilidili.com/watch/29042/" target="_self"><em><span>第37话</span>洛洛历险记第37集 一决高下</em></a></li><li><a href="http://www.dilidili.com/watch/29043/" target="_self"><em><span>第38话</span>洛洛历险记第38集 连环计中计</em></a></li><li><a href="http://www.dilidili.com/watch/29044/" target="_self"><em><span>第39话</span>洛洛历险记第39集 天羽屠龙舞</em></a></li><li><a href="http://www.dilidili.com/watch/29045/" target="_self"><em><span>第40话</span>洛洛历险记第40集 峰回路转</em></a></li><li><a href="http://www.dilidili.com/watch/29046/" target="_self"><em><span>第41话</span>洛洛历险记第41集 整装待发</em></a></li><li><a href="http://www.dilidili.com/watch/29047/" target="_self"><em><span>第42话</span>洛洛历险记第42集 王者无敌</em></a></li><li><a href="http://www.dilidili.com/watch/29048/" target="_self"><em><span>第43话</span>洛洛历险记第43集 大战在即</em></a></li><li><a href="http://www.dilidili.com/watch/29049/" target="_self"><em><span>第44话</span>洛洛历险记第44集 通风报信</em></a></li><li><a href="http://www.dilidili.com/watch/29050/" target="_self"><em><span>第45话</span>洛洛历险记第45集 一败涂地</em></a></li><li><a href="http://www.dilidili.com/watch/29051/" target="_self"><em><span>第46话</span>洛洛历险记第46集 生死与共</em></a></li><li><a href="http://www.dilidili.com/watch/29052/" target="_self"><em><span>第47话</span>洛洛历险记第47集 兽族机战王</em></a></li><li><a href="http://www.dilidili.com/watch/29054/" target="_self"><em><span>第48话</span>洛洛历险记第48集 一子算错</em></a></li><li><a href="http://www.dilidili.com/watch/29055/" target="_self"><em><span>第49话</span>洛洛历险记第49集 大逆转</em></a></li><li><a href="http://www.dilidili.com/watch/29057/" target="_self"><em><span>第50话</span>洛洛历险记第50集 山雨欲来</em></a></li><li><a href="http://www.dilidili.com/watch/29058/" target="_self"><em><span>第51话</span>洛洛历险记第51集 鹬蚌相争</em></a></li><li><a href="http://www.dilidili.com/watch/29059/" target="_self"><em><span>第52话</span>洛洛历险记第52集 诺言</em></a></li>	 
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            	<div class="playjs swiper-pagination"></div>
+                            </div>
+                            <div class="time_con">
+								<p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                                <div class="swiper-container xfswiper3">
+							<ul class="clear">
+                                    <li class="list_xz">
+                                        
+									<li>
+                                 </ul>
+                                </div>
+                            </div>
+							<div class="time_con">
+                                <div class="swiper-container swiper4">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                            <ul>
+                                                <li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/28994/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G130570-L.jpg"/>
+                                                    	<div class="fjjq"><span>第01话</span>洛洛历险记第1集 游戏高手<br/>夜晚，洛洛在家里玩电脑游戏，突然落雷击中大厦，洛洛被传送到一个陌生的世界里。
+醒来之后，洛洛发现自己竟呆在一个以他最喜欢的机战游戏作为背景的虚拟世界。过不多久，茫然的洛洛</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/28996/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G143400-L.jpg"/>
+                                                    	<div class="fjjq"><span>第02话</span>洛洛历险记第2集 时光之城<br/>霹雳火将洛洛带回时光之城，并在那里认识了新的伙伴——风火轮。此时猛兽族战王狂野猩麾下大将金铁兽，带领着十万黑铁兽大军，向着时光之城进发了。黑铁兽军团的实力无比强大，守城无</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/28997/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G144450-L.jpg"/>
+                                                    	<div class="fjjq"><span>第03话</span>洛洛历险记第3集 雷霆半月斩<br/>看着时光城城主被残忍的敌人迫害，霹雳火在极度悲愤中激发了自身的潜力，与洛洛联手解决了残害城主的凶手——青铁兽。大将金铁兽丧失了得力先锋，怎会善罢甘休，第二天他亲自率领全军</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/28998/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G145360-L.jpg"/>
+                                                    	<div class="fjjq"><span>第04话</span>洛洛历险记第4集 力霸天战士<br/>洛洛、霹雳火与风火轮夜间偷偷出城，打算去其他机车城寻找支援。哪知道高一尺魔高一丈，金铁兽早已算好他们的必经之路，带齐人马埋伏陷阱等着洛洛他们上门送死。洛洛等人果然被包围住</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/28999/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G146430-L.jpg"/>
+                                                    	<div class="fjjq"><span>第05话</span>洛洛历险记第5集 泰山陨石坠<br/>洛洛等人邀请力霸天加入他们的阵营，力霸天却婉拒了。这时猛兽族追兵赶来，力霸天的弟弟遇害。洛洛控制力霸天与敌人进行战斗，使出绝招泰山陨石坠赶跑了他们。战事暂告一段落，然而力</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29000/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G14U20-L.jpg"/>
+                                                    	<div class="fjjq"><span>第06话</span>洛洛历险记第6集 天降奇兵<br/>金铁兽再次攻不下时光城这块硬骨头，而他的元帅狂野猩此刻已在能源城一带准备与猛虎王决战，留给他攻城的时间已不多，必须尽快赶去支援狂野猩。但三番四次都无法奈何洛洛与霹雳火，金</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29001/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G149440-L.jpg"/>
+                                                    	<div class="fjjq"><span>第07话</span>洛洛历险记第7集 机战王<br/>洛洛等人前往能源之城，却再次遭到金铁兽的伏击。洛洛与伙伴们顽强地反击，但毕竟实力上差异明显，体力拼尽之后，战败已离他们不远。在猛兽族眼里，机车族的时光之城仿佛已成为他们的</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29002/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G33K40-L.jpg"/>
+                                                    	<div class="fjjq"><span>第08话</span>洛洛历险记第8集 连环绝技<br/>金铁兽要给虚脱的霹雳火最后致命一击，霹雳火无力再作反抗，只能闭眼等死。就在这时，龙卷风及时出现，他以出色的战斗技巧逼退敌人。场面上的形势发生变化，金铁兽衡量利弊，无奈决定</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29004/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G33T60-L.jpg"/>
+                                                    	<div class="fjjq"><span>第09话</span>洛洛历险记第9集 义不容辞<br/>狂野猩与猛虎王激战，虽未分出胜负，但已能看到狂野猩占得上风。哪知猛虎王用计暗算狂野猩，将狂野猩重重包围起来。狂野猩的性命危在旦夕，幸好金铁兽的援军杀进重围，掩护狂野猩撤退</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29005/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G339260-L.jpg"/>
+                                                    	<div class="fjjq"><span>第10话</span>洛洛历险记第10集 见义勇为<br/>自己的全盘计划被打乱，恼怒的猛虎王对上龙卷风毫不留情，处处下杀手。一向自信满满的龙卷风初次感受到与顶级强者的差距。霹雳火等人绝不会眼看着龙卷风与金铁兽被害，他们不顾一切冲</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29006/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G340280-L.jpg"/>
+                                                    	<div class="fjjq"><span>第11话</span>洛洛历险记第11集 火龙山谷<br/>洛洛等人在山谷底下醒来，不但大难不死，反而发现火龙山谷中隐藏着惊人的秘密。狂野猩安全撤离后，发现金铁兽为了掩护自己而留下来血拼猛虎王，立刻毫不犹豫率领部队调头杀了猛虎王一</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29009/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G341350-L.jpg"/>
+                                                    	<div class="fjjq"><span>第12话</span>洛洛历险记第12集 不死神龙<br/>洛洛等人来到火龙山谷的晶矿洞口，却发现如果没有能源城与风雪城的令牌，根本打不开洞门。洛洛等人不甘心就此空手而归，于是决定用蛮力强行攻门，结果却引出一条守门火龙出来。火龙强</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29017/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G34F90-L.jpg"/>
+                                                    	<div class="fjjq"><span>第13话</span>洛洛历险记第13集 深夜偷袭<br/>好不容易逃脱火龙的追杀，心有余悸的洛洛等人准备先跟着龙卷风回能源之城再作打算。能源城这边，双方已经开始攻防拉锯战。能源城是机车族中防御力最强的城堡，其城主也是身经百战的名</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29018/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G352250-L.jpg"/>
+                                                    	<div class="fjjq"><span>第14话</span>洛洛历险记第14集 拒绝结盟<br/>洛洛和众人来到能源之城的大殿内，和城主讨论退敌方法。洛洛提醒城主，猛虎王狡猾无比，而且实力惊人，能源之城非常危险。可由于准备充分，城主并不介意。情急之下，洛洛不小心说出要</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29019/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G353530-L.jpg"/>
+                                                    	<div class="fjjq"><span>第15话</span>洛洛历险记第15集 幽冥音波功<br/>原来直升飞机家族和战斗机家族本来都居住在能源之城，并守护着这个最重要的城池。龙卷风的师父和超音速的师父也是最好的朋友。可是两人由于争强好胜，在争夺能源之城的城主职位中，二</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29020/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G354500-L.jpg"/>
+                                                    	<div class="fjjq"><span>第16话</span>洛洛历险记第16集 反间计<br/>猛虎王防御力惊人，一般的炮火根本无法伤他。于是城主要亲自出手肉搏，可是龙卷风怕师父遇险，挺身而出，霹雳火也出手相助。结果三人在阵前打成一团。霹雳火和龙卷风连番出击，和猛虎</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29021/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G355450-L.jpg"/>
+                                                    	<div class="fjjq"><span>第17话</span>洛洛历险记第17集 暂停瞬间<br/>洛洛把自己的担心和霹雳火说了，洛洛知道要想战胜猛虎王，就必须由霹雳火和急先锋联手使出“流影电光闪”。龙卷风不服气，说为什么霹雳火和他不能联手。洛洛解释说，这是游戏的设定，</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29022/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G356350-L.jpg"/>
+                                                    	<div class="fjjq"><span>第18话</span>洛洛历险记第18集 骄兵之计<br/>力霸天也跟了出来。三人重演昨天的三英战吕布。过了几招，猛虎王又败退。这一次城主斗得兴起，下令乘胜追击。洛洛在城后找到急先锋，发现他极度沮丧，完全失去了往日的冲劲，并且一再</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29023/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G35J10-L.jpg"/>
+                                                    	<div class="fjjq"><span>第19话</span>洛洛历险记第19集 急先锋战士<br/>蓝豹兽作为前锋部队，带领了几个黑豹兽。急先锋只有一人，可一样把它们打得丢盔弃甲。于是急先锋更加信心十足，决定返回月神殿等猛虎王过来。回城后，急先锋骗城主说霹雳火他们自身难</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29024/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G35U60-L.jpg"/>
+                                                    	<div class="fjjq"><span>第20话</span>洛洛历险记第20集 家破人亡<br/>急先锋带领着众人出去迎敌。留下城主在大殿内。急先锋一出手就把站在前面的黑豹兽杀死。猛虎王走了出来。急先锋出手攻击，可无论怎么加快速度，都无法接触到猛虎王。最后猛虎王轻易地</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29025/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G404050-L.jpg"/>
+                                                    	<div class="fjjq"><span>第21话</span>洛洛历险记第21集 惊天浪涛杀<br/>洛洛告诉急先锋，霹雳火也在城内，只要他们联手，就可以打败猛虎王。本以为急先锋会大喜，谁知急先锋却完全丧失了斗志。因为他这些日子，对当天发生的事情历历在目，他不断回想猛虎王</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29026/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G404540-L.jpg"/>
+                                                    	<div class="fjjq"><span>第22话</span>洛洛历险记第22集 损失惨重<br/>霹雳火和城主双斗猛虎王。猛虎王的部队反击，击落了不少直升机。由于直升机的弹药不多，被他们反击了回去，死伤也不少。绿豹兽和黑参谋更是打得不亦乐乎。霹雳火见大势已去，劝城主赶</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29027/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G405350-L.jpg"/>
+                                                    	<div class="fjjq"><span>第23话</span>洛洛历险记第23集 柳暗花明<br/>狂野猩得知猛虎王占领了能源之城，大为光火，要立刻进攻能源之城。可金铁兽却劝阻，因为能源之城易守难攻，加上猛虎王刚刚打胜仗，势头正旺，不可直撄其锋。狂野猩气得呱呱大叫。谁知</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29028/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G40H20-L.jpg"/>
+                                                    	<div class="fjjq"><span>第24话</span>洛洛历险记第24集 养虎为患<br/>龙卷风和力霸天一瘸一拐离开家园。龙卷风失去家园，师父也下落不明很可能已经阵亡，十分沮丧。力霸天虽然失去一只手臂，却依然对前途充满希望，他坚信霹雳火和洛洛他们没有死。他乐观</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29029/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G409140-L.jpg"/>
+                                                    	<div class="fjjq"><span>第25话</span>洛洛历险记第25集 流影电光闪<br/>猛虎王和狂野猩来到阵前，猛虎王假惺惺要邀请狂野猩入城。狂野猩不理会，非要和猛虎王决斗争夺能源之城！猛虎王假装无奈，约定第二天，和狂野猩单打独斗！银铁兽在旁边假装，说怕他会</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29030/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G410390-L.jpg"/>
+                                                    	<div class="fjjq"><span>第26话</span>洛洛历险记第26集 冲击波战士<br/>第二天，狂野猩准时来到矿盐山谷。银铁兽让所有的士兵留在谷外，对方也只有猛虎王进入。洛洛他们准备上去报仇。可是城主的伤没有全好，只能够一个人飞上悬崖。于是他决定自己先飞上去</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29031/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G411240-L.jpg"/>
+                                                    	<div class="fjjq"><span>第27话</span>洛洛历险记第27集 大战前夕<br/>狂野猩逐渐占上风，谁知银铁兽突然从背后出手，猛虎王也趁机进攻，狂野猩痛得一挥手，把银铁兽摔得撞了出去。可狂野猩也深受重伤。谷外的黑铁兽也听见狂野猩的惨叫，大家正在犹豫是否</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29032/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G412260-L.jpg"/>
+                                                    	<div class="fjjq"><span>第28话</span>洛洛历险记第28集 生死决斗<br/>金铁兽让黑铁兽护送狂野猩离开，自己塞住谷口，不让猛虎王他们追赶。猛虎王使出绝招，打得金铁兽遍体鳞伤。这个时候，霹雳火他们赶来了。可是金铁兽已经奄奄一息，在临死之前他说了一</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29033/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G413400-L.jpg"/>
+                                                    	<div class="fjjq"><span>第29话</span>洛洛历险记第29集 两败俱伤<br/>新仇旧恨，霹雳火和急先锋急于去找猛虎王报仇，可是洛洛却提醒说，就算他们两个加起来可以打败猛虎王，可是他有众多手下，依然不可小觑。城主也觉得必须从长计议。急先锋愤愤不平，不</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29034/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G414410-L.jpg"/>
+                                                    	<div class="fjjq"><span>第30话</span>洛洛历险记第30集 极地沙尘暴<br/>猛虎王得知狂野猩正在抓紧练习兵法，担心他会袭击自己的大本营雷霆殿。可是自己又无法分身回去。黑参谋主动请缨回去镇守大本营，为了确保大家听他的指挥，猛虎王把雷霆殿的令牌交给他</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29035/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G415400-L.jpg"/>
+                                                    	<div class="fjjq"><span>第31话</span>洛洛历险记第31集 引蛇出洞<br/>霹雳火兜兜转转，每次在猛虎王要抓到的时候，就转向。弄得猛虎王恼羞成怒，猛追过去。霹雳火似乎走错路，结果来到悬崖上，无路可退。猛虎王哈哈大笑，以为得手。谁知，他的背后突然出</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29036/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G416490-L.jpg"/>
+                                                    	<div class="fjjq"><span>第32话</span>洛洛历险记第32集 战王暴龙神<br/>城主在空中竟然接不住暴龙神的三招，在暴龙神的绝招之下。城主被击落地面，能源之城令牌被暴龙神一下子抢走。暴龙神正要杀了城主，龙卷风他们及时赶到，加上霹雳火他们也赶来。暴龙神</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29037/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G41I10-L.jpg"/>
+                                                    	<div class="fjjq"><span>第33话</span>洛洛历险记第33集 闪电之死<br/>猛虎王大怒要挑战暴龙神，两人终于打了起来。猛虎王还未完全恢复所以很快就被暴龙神打得要摔下溶浆。这个时候绿豹兽他们终于赶回来了，正要救猛虎王。谁知蓝毒兽也赶来用雷霆殿的令牌</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29038/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G41T10-L.jpg"/>
+                                                    	<div class="fjjq"><span>第34话</span>洛洛历险记第34集 战王之王<br/>暴龙神怀疑猛虎王没有死，和紫龙神来到那天的悬崖边，果然发现了类似猛虎王的脚印。暴龙神怀疑溶浆并非“溶浆”，投石问路，发现溶浆果然没有杀伤力。于是暴龙神只身飞入溶浆，发现了</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29040/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G431290-L.jpg"/>
+                                                    	<div class="fjjq"><span>第35话</span>洛洛历险记第35集 龙虎斗<br/>洛洛和龙卷风低三下四求超音速和他们回去。可是超音速态度极其冷淡。龙卷风求他一起回去战败暴龙神为他师父报仇。可是超音速竟然仰天大笑。龙卷风勃然大怒，两人就要动手。洛洛拼命劝</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29041/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G43A50-L.jpg"/>
+                                                    	<div class="fjjq"><span>第36话</span>洛洛历险记第36集 超音速战士<br/>暴龙神见到超音速，暴龙神还没有说话，超音速就出手了！超音速是机车族最厉害的战士，与暴龙神竟然打得难解难分。龙卷风想出手相助，可洛洛说，暴龙神不止那么简单。一定还有阴谋。于</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29042/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G43J80-L.jpg"/>
+                                                    	<div class="fjjq"><span>第37话</span>洛洛历险记第37集 一决高下<br/>超音速见到龙卷风拿着令牌，地下还死了两个守卫。随后而来的暴龙神灵机一动，说龙卷风想抢走令牌，他只是好心来告诉超音速。紫龙兽也插嘴说，他来到已经看到龙卷风杀死守卫抢走令牌，</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29043/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G440180-L.jpg"/>
+                                                    	<div class="fjjq"><span>第38话</span>洛洛历险记第38集 连环计中计<br/>猛虎王懊恼无比，孤身一人去找狂野猩。狂野猩此时已经变得宽宏大量，并没有立刻大怒。猛虎王向狂野猩搬救兵，说如果狂野猩答应，他愿意把雷霆殿让给狂野猩，并协助他战胜暴龙神。狂野</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29044/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G441370-L.jpg"/>
+                                                    	<div class="fjjq"><span>第39话</span>洛洛历险记第39集 天羽屠龙舞<br/>暴龙神进入石洞，发现里面到处是能源紫水晶，大为惊喜。他发现洞内有一个神坛，上面有一个人形水晶，十分好奇。可是人形水晶突然发出强光，暴龙神发出惨叫。洛洛训练龙卷风和超音速，</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29045/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G442350-L.jpg"/>
+                                                    	<div class="fjjq"><span>第40话</span>洛洛历险记第40集 峰回路转<br/>蓝毒兽对猛虎王的到来大吃一惊。他迅速派人去向暴龙神求救。猛虎王并没有像之前那样狂躁生气，而是对守城的士兵说，只要他们肯投降，他就既往不咎，并且要求和蓝毒兽单独决斗解决。守</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29046/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G44A10-L.jpg"/>
+                                                    	<div class="fjjq"><span>第41话</span>洛洛历险记第41集 整装待发<br/>蓝毒兽他们天天闭门不出，不和猛虎王交战。猛虎王一筹莫展。终于，洛洛和力霸天两人练成了非常厉害的合击技能。谁知暴龙神也派来紫龙兽，偷拍下他们的合击技能，然后飞走了。洛洛分析</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29047/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G452110-L.jpg"/>
+                                                    	<div class="fjjq"><span>第42话</span>洛洛历险记第42集 王者无敌<br/>暴龙神没有派兵去帮助蓝毒兽，只是让蓝毒兽派来的使者回去告诉蓝毒兽，让他一定要坚持住，过不了多久猛虎王就一定会自动退兵的。因为他自有妙计。暴龙神却亲自带兵去攻打狂野之城，因</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29048/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G453000-L.jpg"/>
+                                                    	<div class="fjjq"><span>第43话</span>洛洛历险记第43集 大战在即<br/>一场大战，双方死伤惨烈，猛虎王最终攻进雷霆殿，直奔主殿内去找蓝毒兽算账。可谁知进去才发现里面空空如也，原来蓝毒兽已经趁着夜色从后门溜走了。由于雷霆殿的令牌还在蓝毒兽的手上</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29049/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G453350-L.jpg"/>
+                                                    	<div class="fjjq"><span>第44话</span>洛洛历险记第44集 通风报信<br/>没想到蓝毒兽竟然直奔时光之城，并告诉风火轮，暴龙神不在幽冥之都，要让他们千万小心暴龙神这个大奸贼，他很可能有一个巨大的阴谋！风火轮大惊，连夜奔往幽冥之都。洛洛来到幽默之都</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29050/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G454520-L.jpg"/>
+                                                    	<div class="fjjq"><span>第45话</span>洛洛历险记第45集 一败涂地<br/>狂野猩也不知道暴龙神已经布下这样的电磁网，这种电磁网对飞机有极强的牵制作用。洛洛不是机器人不受电磁网的牵制，可是面对一步步逼近的狂野猩，显然无能为力。就在这个时候风火轮出</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29051/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G455320-L.jpg"/>
+                                                    	<div class="fjjq"><span>第46话</span>洛洛历险记第46集 生死与共<br/>洛洛和风火轮逃了出来，洛洛觉得这是一个圈套，而且是一个大圈套，可以让他们全军覆没的大圈套。洛洛觉得这不可能是暴龙神想出来的办法，一定另有其人。电光火石之间，洛洛突然想到什</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29052/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G45G50-L.jpg"/>
+                                                    	<div class="fjjq"><span>第47话</span>洛洛历险记第47集 兽族机战王<br/>暴龙神仰天大笑：哈哈，机车族的合击绝技也不过如此！于是要动手杀死霹雳火。就在这个时候，洛洛他们赶来了。洛洛一来到就大声喊出晶晶的大名。洛洛让暴龙神里面的机战王赶紧现身出来</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29054/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G45R00-L.jpg"/>
+                                                    	<div class="fjjq"><span>第48话</span>洛洛历险记第48集 一子算错<br/>狂野猩奇怪暴龙神为什么这么相信他，暴龙神笑道：都是自己人，怎么会不相信？于是暴龙神放下令牌就撤兵了，赶往雷霆殿去对付霹雳火他们。狂野猩觉得暴龙神说得很有道理，于是就去了幽</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29055/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G459220-L.jpg"/>
+                                                    	<div class="fjjq"><span>第49话</span>洛洛历险记第49集 大逆转<br/>洛洛借助月光发出了惊天动地的合击绝招“血色月风暴”，晶晶驾驶的暴龙神虽被险些打败，可是晶晶借助能源紫水晶很快就恢复了。正当洛洛绝望之际，晶晶控制暴龙神发出绝招准备干掉洛洛</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29057/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G500200-L.jpg"/>
+                                                    	<div class="fjjq"><span>第50话</span>洛洛历险记第50集 山雨欲来<br/>正当晶晶百思不得其解的时候，猛虎王解释，当初力霸天没有报复他断臂之仇，反而在最危险的时候出手救他，虽然没有救成，可他毕竟不是忘恩负义的人。所以这次放他们一马。现在双方局势</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29058/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G501030-L.jpg"/>
+                                                    	<div class="fjjq"><span>第51话</span>洛洛历险记第51集 鹬蚌相争<br/>但是猛兽族可不止三大战王这几个人，他们还有上千上万的黑铁兽、冰狼兽战士分布在雷霆殿下待命，只见晶晶一声令下，黑铁兽、黑豹兽还有冰狼兽军队全部一拥而上，转眼间胜利的天平再次</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch/29059/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/allimg/201602/1-16021G501490-L.jpg"/>
+                                                    	<div class="fjjq"><span>第52话</span>洛洛历险记第52集 诺言<br/>就在双方要决一死战之际，霹雳火发话了，他提出，其实他们完全不必要拼个你死我活，因为“战争没有胜利者，只有失败者”，既然洛洛和晶晶都是机战王，他们可以把令牌都拿出来，让他们</div>
+                                                    </a>
+                                                </li>
+                                            </ul>
+										</div>
+                                    </div>
+                                </div>
+                                <div class="swiper-button-next swiper-button-next4"></div>
+                                <div class="swiper-button-prev swiper-button-prev4"></div>
+                            </div>	
+
+                          <div class="time_con">
+                            	<div class="stafflist">
+                                    <div class="staff">
+									
+             
+                                    </div>
+                                    <div class="cast">
+									
+       
+                                    </div>
+                                </div>
+                        </div>	
+	
+                        </div>
+                    </div><!--tab slider end-->
+                    <div class="adv banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+                    <div class="con24">
+                        <div class="stitle">
+                            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/klxqd4b">快乐星球第四部</a><a href="/anime/lushidai2/">撸时代第二季</a><a href="/anime/menghuanxiyou">梦幻西游之天命之路</a><a href="/anime/qsmyzxcjh">秦时明月之笑闯江湖</a><a href="/anime/chaonengbd">超能泡蛋</a>
+                            </span>
+                        </div>
+						 <div class="swiper-container swiper3">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <ul class="m_pic clear">
+										<li><a href="/anime/wubuxiang"><img src="http://static.jfrft.com/uploads/allimg/160429/6_1505405791.jpg"/><p>无不想</p><div class="fc_m"><strong>无不想</strong></div></a></li><li><a href="/anime/kssg"><img src="http://static.jfrft.com/uploads/201601/1-1601261K925P5.jpg"/><p>口水三国</p><div class="fc_m"><strong>口水三国</strong></div></a></li><li><a href="/anime/zhuzhuxia4"><img src="http://static.jfrft.com/uploads/allimg/160419/6_1017171131.jpg"/><p>猪猪侠4:百变猪猪侠</p><div class="fc_m"><strong>猪猪侠4:百变猪猪侠</strong></div></a></li><li><a href="/anime/lushidai2/"><img src="http://static.jfrft.com/uploads/allimg/160411/1_2240283691.jpg"/><p>撸时代第二季</p><div class="fc_m"><strong>撸时代第二季</strong></div></a></li><li><a href="/anime/hyxhn"><img src="http://static.jfrft.com/images/cover/14556.jpg"/><p>狐妖小红娘</p><div class="fc_m"><strong>狐妖小红娘</strong></div></a></li><li><a href="/anime/zhuzhuxia1"><img src="http://static.jfrft.com/uploads/allimg/160419/6_1001547001.jpg"/><p>猪猪侠:魔幻猪猡纪</p><div class="fc_m"><strong>猪猪侠:魔幻猪猡纪</strong></div></a></li><li><a href="/anime/mksg"><img src="http://static.jfrft.com/uploads/allimg/160427/6_1847015931.jpg"/><p>麦块三国</p><div class="fc_m"><strong>麦块三国</strong></div></a></li><li><a href="/anime/qsmyksny"><img src="http://static.jfrft.com/uploads/allimg/160412/1_1716053891.jpg"/><p>秦时明月之空山鸟语</p><div class="fc_m"><strong>秦时明月之空山鸟语</strong></div></a></li><li><a href="/anime/theoutcasti"><img src="http://static.jfrft.com/uploads/allimg/160621/1_1551054251.jpg"/><p>一人之下 the outcast</p><div class="fc_m"><strong>一人之下 the outcast</strong></div></a></li><li><a href="/anime/gftycbg"><img src="http://static.jfrft.com/uploads/allimg/160413/1_2211247081.jpg"/><p>功夫兔与菜包狗</p><div class="fc_m"><strong>功夫兔与菜包狗</strong></div></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="swiper-button-next swiper-button-next3"></div>
+                            <div class="swiper-button-prev swiper-button-prev3"></div>
+                        </div>
+                    </div>
+                    
+<script src="http://static.jfrft.com/templets/default/js/swiper.min.js"></script>
+<script>	
+jQuery(".playjs").hide();
+	function changeSwiper1(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+//		alert(arrlen);
+        var len = 0;		
+        if (_is) {
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+				}else{
+					len = parseInt(arrlen / 2);
+					}
+				} else {
+					if(arrlen % 20 >0){
+						len = parseInt(arrlen / 20)+1;
+						}else{
+							len = parseInt(arrlen / 20);
+						}
+					}
+			if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+    changeSwiper1('.xfswiper0');
+	changeSwiper1('.xfswiper1');
+	changeSwiper1('.xfswiper2');
+	changeSwiper1('.xfswiper3');
+	changeSwiper1('.xfswiper4');
+	changeSwiper1('.xfswiper5');
+	changeSwiper1('.xfswiper6');
+    changeSwiper('.swiper3');
+    changeSwiper('.swiper5');
+    changeSwiper('.swiper6');
+	changeSwiper('.swiper7');
+	changeSwiper2('.swiper4');
+    jQuery(window).resize(function () {
+		changeSwiper1('.xfswiper0');
+		changeSwiper1('.xfswiper1');
+		changeSwiper1('.xfswiper2');
+		changeSwiper1('.xfswiper3');
+		changeSwiper1('.xfswiper4');
+		changeSwiper1('.xfswiper5');
+		changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+		changeSwiper('.swiper7');
+		changeSwiper2('.swiper4');
+    });
+var swiper1 = new Swiper('.xfswiper1', {
+	nextButton: '.xfswiper-button-next1',
+	prevButton: '.xfswiper-button-prev1',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper2', {
+	nextButton: '.xfswiper-button-next2',
+	prevButton: '.xfswiper-button-prev2',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper3', {
+	nextButton: '.xfswiper-button-next3',
+	prevButton: '.xfswiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper3 = new Swiper('.swiper3', {
+	nextButton: '.swiper-button-next3',
+	prevButton: '.swiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper4 = new Swiper('.swiper4', {
+	nextButton: '.swiper-button-next4',
+	prevButton: '.swiper-button-prev4',
+	spaceBetween: 30
+});
+var swiper5 = new Swiper('.swiper5', {
+	nextButton: '.swiper-button-next5',
+	prevButton: '.swiper-button-prev5',
+	spaceBetween: 30
+});
+var swiper6 = new Swiper('.swiper6', {
+	nextButton: '.swiper-button-next6',
+	prevButton: '.swiper-button-prev6',
+	spaceBetween: 30
+});
+var swiper7 = new Swiper('.swiper7', {
+	nextButton: '.swiper-button-next7',
+	prevButton: '.swiper-button-prev7',
+	spaceBetween: 30
+});
+
+    var week = new Date();
+    jQuery(".xf_news .pk_time a").removeClass("current");
+    jQuery(".xf_news .time_pic .time_con").hide();
+    if (week != 0) {
+        jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+        jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+        new Swiper(".xfswiper"+(0), {
+            nextButton: '.xfswiper-button-next'+(0),
+
+            prevButton: '.xfswiper-button-prev'+(0),
+            spaceBetween: 30
+        });
+    }
+
+    jQuery(".xf_news .pk_time a").each(function(index){
+        jQuery(this).click(function(){
+            jQuery(".xf_news .pk_time a").removeClass("current");
+            jQuery(this).addClass("current");
+            jQuery(".xf_news .time_pic .time_con").hide();
+            jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+            new Swiper(".xfswiper"+index, {
+                nextButton: '.xfswiper-button-next'+index,
+                prevButton: '.xfswiper-button-prev'+index,
+                spaceBetween: 30
+            });
+			jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+        });
+    });
+
+var swiper = new Swiper('.xfswiper1', {
+	pagination: '.swiper-pagination',
+	paginationClickable: true,
+	paginationBulletRender: function (index, className) {
+		return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+	}
+});
+
+var mySwiper1 = new Swiper('.swiper1',{
+	pagination: '.pagination1',
+	paginationClickable: true,
+	moveStartThreshold: 100,
+	autoplay:4000
+});
+var mySwiper2 = new Swiper('.swiper2',{
+	pagination: '.pagination2',
+	paginationClickable: true,
+	moveStartThreshold: 100
+});
+  var webWidth = 736;
+    function changeSwiper(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+		
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 5 >0){
+				len = parseInt(arrlen / 5)+1;
+			}else{
+				len = parseInt(arrlen / 5);
+			}
+        }		
+
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+	
+    function changeSwiper2(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+		
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 8 >0){
+				len = parseInt(arrlen / 8)+1;
+			}else{
+				len = parseInt(arrlen / 8);
+			}
+        }		
+
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+
+jQuery(function() {
+	jQuery(".closed").click(
+	  function(){
+		  jQuery(".topimg").slideUp();
+	});
+
+	// 收缩展开效果
+	   jQuery(".adminico").click(function(){
+		 jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+		   },function(){
+		jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   });
+
+	jQuery(".a_open").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").slideDown(500);
+		  jQuery(".fc_black").show();
+		  jQuery(".a_closed").show();
+	});
+	jQuery(".a_closed").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+	});
+	jQuery(".fc_black").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+		  jQuery(".a_closed").hide();
+	});
+	jQuery(".rm_pank .pk_year a").each(function(index){
+	   jQuery(this).mouseover(
+		  function(){
+			  jQuery(".rm_pank .pk_year a").removeClass("current");
+			  jQuery(this).addClass("current");
+			  jQuery(".rm_pank .rm_main .rm_con").hide();
+			  jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+	  })
+	});
+
+	var headHeight=$(".head_top").height();
+	var nav=$("#navf");
+	$(window).scroll(function(){
+		if($(this).scrollTop()>headHeight){
+			nav.addClass("navFix");
+		}
+		else{
+			nav.removeClass("navFix");
+		}
+	})
+
+	var headHeight2=$(".topimg").height();
+	var nav2=jQuery("#topnavf");
+    jQuery(window).scroll(function(){
+		if($(this).scrollTop()>headHeight2){
+			nav2.addClass("topnavFix");
+		}
+		else{
+			nav2.removeClass("topnavFix");
+		}
+	});
+
+});
+
+</script>
+                    
+                    <div class="adv banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+                    <div class="con24">
+                        <div class="stitle">
+                            <h3>评论</h3>
+                            <span class="s_f">
+                                <a href="http://bbs.005.tv">D站论坛</a>
+                                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+                            </span>
+							<a href="http://usr.005.tv" style="float:right;">评论前请先登录或注册</a>
+                        </div>		
+                        <div style="margin:20px 0; text-align:center;">
+                            <!-- UY BEGIN -->
+                            <div id="uyan_frame"></div>
+                            <div class="comment">
+                            <i>洛洛历险记评论</i>
+                            <!-- 多说评论框 start -->
+                                <div class="ds-thread" data-thread-key="673" data-title="洛洛历险记" data-url=
+                            "http://www.dilidili.com/anime/lllxj/"></div>
+                            <!-- 多说评论框 end -->
+                            <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+                            <script type="text/javascript">
+                            var duoshuoQuery = {short_name:"dzhan"};
+                                (function() {
+                                    var ds = document.createElement('script');
+                                    ds.type = 'text/javascript';ds.async = true;
+                                    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                                    ds.charset = 'UTF-8';
+                                    (document.getElementsByTagName('head')[0] 
+                                     || document.getElementsByTagName('body')[0]).appendChild(ds);
+                                })();
+                                </script>
+                            <!-- 多说公共JS代码 end -->
+                            </div>
+							<!-- UY END -->
+                        </div>
+                    </div>
+                </div>
+                <div class="adv2 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+				<script type="text/javascript" src="http://static.jfrft.com/templets/default/zuixingengxin2.htm"></script>
+                <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+            </div>
+			<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.com/a/">A</a></li>
+            	<li><a href="http://www.dilidili.com/b/">B</a></li>
+            	<li><a href="http://www.dilidili.com/c/">C</a></li>
+            	<li><a href="http://www.dilidili.com/d/">D</a></li>
+            	<li><a href="http://www.dilidili.com/e/">E</a></li>
+            	<li><a href="http://www.dilidili.com/f/">F</a></li>
+            	<li><a href="http://www.dilidili.com/g/">G</a></li>
+            	<li><a href="http://www.dilidili.com/h/">H</a></li>
+            	<li><a href="http://www.dilidili.com/i/">I</a></li>
+            	<li><a href="http://www.dilidili.com/j/">J</a></li>
+            	<li><a href="http://www.dilidili.com/k/">K</a></li>
+            	<li><a href="http://www.dilidili.com/l/">L</a></li>
+            	<li><a href="http://www.dilidili.com/m/">M</a></li>
+            	<li><a href="http://www.dilidili.com/n/">N</a></li>
+            	<li><a href="http://www.dilidili.com/o/">O</a></li>
+            	<li><a href="http://www.dilidili.com/p/">P</a></li>
+            	<li><a href="http://www.dilidili.com/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.com/r/">R</a></li>
+            	<li><a href="http://www.dilidili.com/s/">S</a></li>
+            	<li><a href="http://www.dilidili.com/t/">T</a></li>
+            	<li><a href="http://www.dilidili.com/u/">U</a></li>
+            	<li><a href="http://www.dilidili.com/v/">V</a></li>
+            	<li><a href="http://www.dilidili.com/w/">W</a></li>
+            	<li><a href="http://www.dilidili.com/x/">X</a></li>
+            	<li><a href="http://www.dilidili.com/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.com/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.com/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2016 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://www.dilidili.com/js/tongji.js"></script>
+		
+</center>				
+		</div>
+        <div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/js/w234.js"></script>
+	</body>
+</html>

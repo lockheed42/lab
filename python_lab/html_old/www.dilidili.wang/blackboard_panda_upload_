@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>熊猫巴斯形象征集创意大赛</title>
+    <style>
+        *{
+            margin:0;
+            padding: 0;
+            list-style: none;
+            text-decoration: none;
+        }
+        .container{
+            width: 1366px;
+            margin: 0 auto;
+        }
+
+        /*head*/
+        #head{
+            height: 68px;
+            background:url("http://www.dilidili.wang/uploads/allimg/170331/1_2120426571.jpg");
+        }
+
+        #head .nav-content{
+            margin-right: 120px;
+        }
+        #head .nav-content:after{
+            content: '';
+            display: block;
+            clear: both;
+        }
+        #head .nav-content span{
+            display: inline-block;
+            font-size: 1.3em;
+            float: right;
+            margin-left: 77px;
+            margin-top: 21px;
+            color: #fff;
+        }
+
+
+        /*banner*/
+        #banner{
+            height: 395px;
+            background: url("http://www.dilidili.wang/uploads/allimg/170331/1_2123198381.jpg");
+        }
+
+        /*body*/
+        #body{
+            width: 1000px;
+            margin: 20px auto 0 auto;
+        }
+        #body .body-top ul{
+            width: 36%;
+            float: left;
+        }
+        #body .body-top:after{
+            display: block;
+            content: '';
+            clear: both;
+        }
+        #body .body-top ul li{
+            display: inline-block;
+            margin-top: 7px;
+        }
+        #body .body-top ul li p{
+            display: inline-block;
+            border-bottom:1px dashed #e8ddb7;
+            vertical-align: -3px;
+            padding-bottom: 6px;
+        }
+        #body .body-top ul li i{
+            color: #fff;
+            display: inline-block;
+            width: 93px;
+            height: 28px;
+            font-style: normal;
+            padding: 4px 0 0 29px;
+        }
+        .icon1{
+            background: url("http://www.dilidili.wang/uploads/allimg/170331/1_2131234501.jpg");
+        }
+        .icon2{
+            background: url("http://www.dilidili.wang/uploads/allimg/170331/1_2131322361.jpg");
+        }
+        .icon3{
+            background: url("http://www.dilidili.wang/uploads/allimg/170331/1_2131391421.jpg");
+        }
+        #body .body-top img{
+            float: right;
+        }
+        .body-sed{
+            margin-top: 20px;
+            background: url("http://www.dilidili.wang/uploads/allimg/170331/1_2134288701.jpg") no-repeat;
+            background-position-y: -3px;
+            height: 64px;
+        }
+        .body-sed span{
+            display: inline-block;
+            padding: 9px 42px 7px 43px;
+            margin-top: 23px;
+        }
+        .body-sed .active{
+            background: #51b7bb;
+            color: #fff;
+        }
+        .body-content{
+            margin-top: 10px;
+        }
+        .body-content .content-list-item{
+            display: inline-block;
+            margin-left: 24px;
+            margin-top: 32px;
+        }
+        .body-content .content-list-item:after{
+            display: block;
+            content: '';
+            clear: both;
+        }
+        .body-content .content-list-item p{
+            color: #4b4b4b;
+        }
+        .body-content .content-list-item .item-left{
+            font-weight: bolder;
+            margin-top: 4px;
+            display: inline-block;
+        }
+        .body-content .content-list-item .item-left b{
+            color: #f00;
+        }
+        .body-content .content-list-item .item-right{
+            display: inline-block;
+            border-radius: 50px;
+            border:2px solid #fd7876 ;
+            color: #fd7876 ;
+            padding: 2px 11px 3px 9px;
+            float: right;
+        }
+        .body-content .content-list-item:nth-of-type(4n+1){
+            margin-left: 0;!important;
+        }
+        .body-content .content-list-item:nth-of-type(9){
+            margin-left: 0;!important;
+        }
+        .no-margin-left{
+            margin-left: 0;!important;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+    <!--head s-->
+    <div id="head">
+        <div class="nav-content">
+            <a href="http://www.dilidili.wang/blackboard/panda/upload/"><span>上传作品</span></a>
+                <a href="http://www.dilidili.wang/blackboard/panda/jieshao/"><span>活动说明</span></a>
+                <a href="http://www.dilidili.wang/blackboard/panda/"><span>参赛作品</span></a>
+        </div>
+    </div>
+    <!--head e-->
+
+    <!--banner s-->
+    <div id="banner"></div>
+    <!--banner e-->
+
+    <!--body s-->
+    <div id="body">
+        <ul>
+            <li>上传作品：</li>
+            <li style="margin-top: 50px">将参赛作品（包括PSD文件、相关联系方式）发送至投稿邮箱959514764@qq.com</li>
+        </ul>
+    </div>
+    <!--body e-->
+
+    <!--foot s-->
+    <div style="height: 300px"></div>
+    <!--foot e-->
+</div>
+</body>
+</html>

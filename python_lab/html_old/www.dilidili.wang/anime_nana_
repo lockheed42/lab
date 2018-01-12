@@ -1,0 +1,1399 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="utf-8">
+    <title>NANA-  在线&下载 - 嘀哩嘀哩</title>
+    <meta name="keywords" content="NANA" />
+    <meta name="description" content="这是两位同龄同名少女「NANA」的故事。一个是自小被母亲抛弃，从小就独立自主，为了在歌坛闯出一片天而到东京寻找出道机会的庞克乐团女主唱大崎娜娜；另一个是普通家庭出身，老是在恋爱路中跌跌撞撞…" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <script src="http://static.jfrft.com/js/uaredirect.js"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/nana/");</script>
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/nana/"/>
+    <link rel="canonical" href="http://www.dilidili.wang/anime/nana/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/nana/" >
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+    <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+    <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js" defer></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+    <script>
+        jQuery(function(){
+            new jbCollect('a._collect', '#content1');
+        });
+    </script>
+    <base target="_blank">
+    <style>
+    </style>
+</head>
+<body>
+<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201801/" target="_blank">一月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+
+<div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>NANA</a></div>
+<div class="aside_cen2">
+    <div class="detail con24 clear">
+        <dl>
+            <dt><img src="http://static.jfrft.com/uploads/201511/1-15111QH532194.jpg" alt="NANA"/></dt>
+            <dd>
+                <h1>NANA</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="NANA" data-url="http://www.dilidili.wang/anime/nana/" data-icon="http://static.jfrft.com/uploads/201511/1-15111QH532194.jpg"><span>收藏</span></a></div><br/>
+                <span class="play_cs">播放次数:<script src="http://www.dilidili.wang/plus/countlist.php?view=yes&aid=993&mid=" type='text/javascript' language="javascript"></script></span>
+                <p><div class="d_label"><b>地区：</b><a href="/riyu/" title="日本动漫">日本</a></div><div class="d_label"><b>年代：</b><a href="/2010xq/" title="2010年之前番">2010年之前</a></div></p>
+                <p><div class="d_label"><b>标签：</b>青春|励志|乙女</div><div class="d_label"><b>状态：</b>完结</div></p>
+                <p><div class="d_label2"><b>看点：</b>世界上有另一个＂我＂</div></p>
+                <p><div class="d_label2"><b>简介：</b>这是两位同龄同名少女「NANA」的故事。一个是自小被母亲抛弃，从小就独立自主，为了在歌坛闯出一片天而到东京寻找出道机会的庞克乐团女主唱大崎娜娜；另一个是普通家庭出身，老是在恋爱路中跌跌撞撞…</div></p>
+                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('NANA','','','http://www.dilidili.wang/anime/nana/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                <p>
+                <div class="button_bar">
+                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>
+                    
+                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                </div>
+                </p>
+            </dd>
+        </dl>
+    </div>
+    <div class="con24 m-10 xf_news">
+        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+        </div>
+        <div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+        <div class="time_pic list">
+            <div class="time_con">
+                <div class="swiper-container xfswiper1">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul class="clear">
+                                <li><a href="http://www.dilidili.wang/watch/7701/" target="_self"><em><span>第1话</span>NANA 第1话「序章・奈奈与娜娜」</em></a></li><li><a href="http://www.dilidili.wang/watch/7702/" target="_self"><em><span>第2话</span>NANA 第2话「爱情？友情？奈奈与章司」</em></a></li><li><a href="http://www.dilidili.wang/watch/7703/" target="_self"><em><span>第3话</span>NANA 第3话「奈奈与章司，恋情的走向」</em></a></li><li><a href="http://www.dilidili.wang/watch/7704/" target="_self"><em><span>第4话</span>NANA 第4话「奈奈的爱情・娜娜的梦想」</em></a></li><li><a href="http://www.dilidili.wang/watch/7705/" target="_self"><em><span>第5话</span>NANA 第5话「莲的梦想 娜娜的心意」</em></a></li><li><a href="http://www.dilidili.wang/watch/7706/" target="_self"><em><span>第6话</span>NANA 第6话「雪中的进京！奈奈和娜娜」</em></a></li><li><a href="http://www.dilidili.wang/watch/7707/" target="_self"><em><span>第7话</span>NANA 第7话「阿泰登场！707号房」</em></a></li><li><a href="http://www.dilidili.wang/watch/7708/" target="_self"><em><span>第8话</span>NANA 第8话「草莓玻璃杯和莲花」</em></a></li><li><a href="http://www.dilidili.wang/watch/7709/" target="_self"><em><span>第9话</span>NANA 第9话「阿伸上京！娜娜的歌声」</em></a></li><li><a href="http://www.dilidili.wang/watch/7710/" target="_self"><em><span>第10话</span>NANA 第10话「美少年阿真登场」</em></a></li><li><a href="http://www.dilidili.wang/watch/7711/" target="_self"><em><span>第11话</span>NANA 第11话「幸子：我是故意的」</em></a></li><li><a href="http://www.dilidili.wang/watch/7712/" target="_self"><em><span>第11.5话</span>NANA 第11.5话「总集篇・淳子的房间」</em></a></li><li><a href="http://www.dilidili.wang/watch/7713/" target="_self"><em><span>第12话</span>NANA 第12话「急速加温！章司和幸子」</em></a></li><li><a href="http://www.dilidili.wang/watch/7714/" target="_self"><em><span>第13话</span>NANA 第13话「幸子的眼泪，章司的决心」</em></a></li><li><a href="http://www.dilidili.wang/watch/7715/" target="_self"><em><span>第14话</span>NANA 第14话「大众餐厅的战场」</em></a></li><li><a href="http://www.dilidili.wang/watch/7716/" target="_self"><em><span>第15话</span>NANA 第15话「BLAST 首场演唱会」</em></a></li><li><a href="http://www.dilidili.wang/watch/7717/" target="_self"><em><span>第16话</span>NANA 第16话「娜娜的恋爱动向」</em></a></li><li><a href="http://www.dilidili.wang/watch/7718/" target="_self"><em><span>第17话</span>NANA 第17话「TRAPNEST现场演唱会」</em></a></li><li><a href="http://www.dilidili.wang/watch/7719/" target="_self"><em><span>第18话</span>NANA 第18话「小八的期望・娜娜的想念」</em></a></li><li><a href="http://www.dilidili.wang/watch/7720/" target="_self"><em><span>第19话</span>NANA 第19话「娜娜的奖赏」</em></a></li><li><a href="http://www.dilidili.wang/watch/7721/" target="_self"><em><span>第20话</span>NANA 第20话「新发展！小八的命运」</em></a></li><li><a href="http://www.dilidili.wang/watch/7722/" target="_self"><em><span>第21话</span>NANA 第21话「套房的美梦」</em></a></li><li><a href="http://www.dilidili.wang/watch/7723/" target="_self"><em><span>第21.5话</span>NANA 第21.5话「总集篇・淳子的房间（2）」</em></a></li><li><a href="http://www.dilidili.wang/watch/7724/" target="_self"><em><span>第22话</span>NANA 第22话「七夕的愿望、小八的恋爱」</em></a></li><li><a href="http://www.dilidili.wang/watch/7725/" target="_self"><em><span>第23话</span>NANA 第23话「不让给任何人」</em></a></li><li><a href="http://www.dilidili.wang/watch/7726/" target="_self"><em><span>第24话</span>NANA 第24话「混乱的八公的心」</em></a></li><li><a href="http://www.dilidili.wang/watch/7727/" target="_self"><em><span>第25话</span>NANA 第25话「我行我素的自私男人」</em></a></li><li><a href="http://www.dilidili.wang/watch/7728/" target="_self"><em><span>第26话</span>NANA 第26话「擦身而过的小八和娜娜」</em></a></li><li><a href="http://www.dilidili.wang/watch/7729/" target="_self"><em><span>第27话</span>NANA 第27话「小八想要的未来」</em></a></li><li><a href="http://www.dilidili.wang/watch/7730/" target="_self"><em><span>第28话</span>NANA 第28话「小八和伸夫，急速加温」</em></a></li><li><a href="http://www.dilidili.wang/watch/7731/" target="_self"><em><span>第29话</span>NANA 第29话「问题在表达爱情的方式」</em></a></li><li><a href="http://www.dilidili.wang/watch/7732/" target="_self"><em><span>第30话</span>NANA 第30话「将要决堤，娜娜的心」</em></a></li><li><a href="http://www.dilidili.wang/watch/7733/" target="_self"><em><span>第31话</span>NANA 第31话「八子，怀孕」</em></a></li><li><a href="http://www.dilidili.wang/watch/7734/" target="_self"><em><span>第32话</span>NANA 第32话「请不要放开紧握的手」</em></a></li><li><a href="http://www.dilidili.wang/watch/7735/" target="_self"><em><span>第33话</span>NANA 第33话「小八的选择」</em></a></li><li><a href="http://www.dilidili.wang/watch/7736/" target="_self"><em><span>第34话</span>NANA 第34话「破了的草莓玻璃杯」</em></a></li><li><a href="http://www.dilidili.wang/watch/7737/" target="_self"><em><span>第35话</span>NANA 第35话「蕾拉的孤独」</em></a></li><li><a href="http://www.dilidili.wang/watch/7738/" target="_self"><em><span>第36话</span>NANA 第36话「BLAST的新歌」</em></a></li><li><a href="http://www.dilidili.wang/watch/7739/" target="_self"><em><span>第36.5话</span>NANA 第36.5话「总集篇・淳子的房间（3）」</em></a></li><li><a href="http://www.dilidili.wang/watch/7740/" target="_self"><em><span>第37话</span>NANA 第37话「小八、白金贵妇」</em></a></li><li><a href="http://www.dilidili.wang/watch/7741/" target="_self"><em><span>第38话</span>NANA 第38话「命运的扳机」</em></a></li><li><a href="http://www.dilidili.wang/watch/7742/" target="_self"><em><span>第39话</span>NANA 第39话「八公、妳等着看吧！」</em></a></li><li><a href="http://www.dilidili.wang/watch/7743/" target="_self"><em><span>第40话</span>NANA 第40话「BLAST、出道！」</em></a></li><li><a href="http://www.dilidili.wang/watch/7744/" target="_self"><em><span>第41话</span>NANA 第41话「BLAST集训」</em></a></li><li><a href="http://www.dilidili.wang/watch/7745/" target="_self"><em><span>第42话</span>NANA 第42话「娜娜、突然发病」</em></a></li><li><a href="http://www.dilidili.wang/watch/7746/" target="_self"><em><span>第43话</span>NANA 第43话「BLAST、游击演唱会」</em></a></li><li><a href="http://www.dilidili.wang/watch/7747/" target="_self"><em><span>第44话</span>NANA 第44话「BLAST VS TRAPNEST」</em></a></li><li><a href="http://www.dilidili.wang/watch/7748/" target="_self"><em><span>第45话</span>NANA 第45话「BLAST初次现场节目」</em></a></li><li><a href="http://www.dilidili.wang/watch/7749/" target="_self"><em><span>第46话</span>NANA 第46话「再会！小八与章司」</em></a></li><li><a href="http://www.dilidili.wang/watch/7750/" target="_self"><em><span>第47话</span>NANA 第47话「烟火大会、小八与娜娜」</em></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="playjs swiper-pagination"></div>
+            </div>
+            <div class="time_con">
+                <p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                <div class="swiper-container xfswiper3">
+                    <ul class="clear">
+                        <li class="list_xz">
+                            <a href="https://pan.baidu.com/s/1pLeIOnp" target="_blank">合集</a>
+
+                        <li>
+                    </ul>
+                </div>
+            </div>
+            <div class="time_con">
+                <div class="swiper-container swiper4">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul>
+                                <li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7701/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_01.jpg"/>
+                                        <div class="fjjq"><span>第1话</span>NANA 第1话「序章・奈奈与娜娜」<br/>小松奈奈为了跟随在东京考上大学的男友，搭上新干线列车前往东京。在列车上小松奈奈和大崎娜娜相遇了。两人的个性虽然相反，但彼此却是意气相投。之后，奈奈在寻找住处时，意外的和娜</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7702/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_02.jpg"/>
+                                        <div class="fjjq"><span>第2话</span>NANA 第2话「爱情？友情？奈奈与章司」<br/>奈奈生长在一个极普通家庭，是三姊妹中的次女。淳子则是奈奈的高中同学，是非常要好的朋友。奈奈的高中生活可以说是以恋爱开始，也以恋爱结束。因失恋而伤心的奈奈，和淳子一起进了当</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7703/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_03.jpg"/>
+                                        <div class="fjjq"><span>第3话</span>NANA 第3话「奈奈与章司，恋情的走向」<br/>暑假来临，奈奈、章司、淳子和京助4人到海边旅行，到了晚上，奈奈将房间让给淳子和京助，自己和章司同睡一间，坚守淳子的建议－先从朋友做起，因而两人平安无事地渡过一夜。在旅途中</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7704/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_04.jpg"/>
+                                        <div class="fjjq"><span>第4话</span>NANA 第4话「奈奈的爱情・娜娜的梦想」<br/>章司回到街上找到奈奈，两人回旅馆沟通后，奈奈决定在家乡赚钱，等一年后章司考上大学便上东京生活，两人于是展开远距离恋爱。由高中中辍生娜娜和莲、泰、伸夫等人组成的乐团所开的演</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7705/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_05.jpg"/>
+                                        <div class="fjjq"><span>第5话</span>NANA 第5话「莲的梦想 娜娜的心意」<br/>当年莲和泰及伸夫为了乐团主唱伤脑筋时，因为娜娜的出现使得莲当下做出决定，而娜娜就在因缘际会下，成为BLAST的主唱，然而在组团一年半后，莲却要去东京加入准备出道的TRAPBEST乐团，而</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7706/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_06.jpg"/>
+                                        <div class="fjjq"><span>第6话</span>NANA 第6话「雪中的进京！奈奈和娜娜」<br/>奈奈收到章司考上大学的简讯后便辞职回家收拾行李上东京，但电车因下雪而行驶缓慢，奈奈便和隔壁的女孩聊天，进而发现两人不仅名字发音相同又同年龄，目的地同样是东京，一样是准备在</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7707/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_07.jpg"/>
+                                        <div class="fjjq"><span>第7话</span>NANA 第7话「阿泰登场！707号房」<br/>奈奈和娜娜都看上707号房，仲介知道两人相识便建议合租，两人也欣然同意，然而淳子和章司都认为奈奈易受骗而不赞同，但是奈奈为了成为独立女子而坚持要合租，章司等人只好跟着奈奈来见</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7708/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_08.jpg"/>
+                                        <div class="fjjq"><span>第8话</span>NANA 第8话「草莓玻璃杯和莲花」<br/>奈奈和娜娜两人相偕去采购，在百元商店里因为奈奈格外的顺从和需要照顾的个性，使娜娜替她取了“小八”的绰号，两人在中古家具店采购时，奈奈甚至因而得到工作；晚上和章司共进晚餐的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7709/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_09.jpg"/>
+                                        <div class="fjjq"><span>第9话</span>NANA 第9话「阿伸上京！娜娜的歌声」<br/>淳子跑来看奈奈工作的情形并且劝她要好好珍惜章司，奈奈于是陷入苦思不知如何珍惜，以为来到东京便能随时见到章司的她，却因彼此忙碌而不常见面，令她颇为失落；这天伸夫​​帮娜娜送</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7710/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_10.jpg"/>
+                                        <div class="fjjq"><span>第10话</span>NANA 第10话「美少年阿真登场」<br/>奈奈从伸夫口中得知娜娜来东京的目的，也了解他们在故乡是小有名气的乐团，为了想让更多人听到娜娜的歌声，她于是主动帮忙找乐团成员，并顺利地找到贝斯技巧高超的真一；一方面，奈奈</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7711/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_11.jpg"/>
+                                        <div class="fjjq"><span>第11话</span>NANA 第11话「幸子：我是故意的」<br/>上东京一个月，奈奈却因乱花钱而没有生活费，求助于淳子而得到一些米并认真思考在领薪日到来前要如何生活，但家具店却因经营不善而要关门，突然失业的她只好哭着求助章司，无奈他也因</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7712/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_11.5.jpg"/>
+                                        <div class="fjjq"><span>第11.5话</span>NANA 第11.5话「总集篇・淳子的房间」<br/>总集篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7713/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_12.jpg"/>
+                                        <div class="fjjq"><span>第12话</span>NANA 第12话「急速加温！章司和幸子」<br/>误以为奈奈私奔到东京结婚的母亲汇了30万给奈奈，令她松了一口气，她开始认真思考4年后章司毕业时的结婚计划，于是下定决心努力存钱，并准备去出版社面试；而淳子则是狠狠地骂了章司，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7714/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_13.jpg"/>
+                                        <div class="fjjq"><span>第13话</span>NANA 第13话「幸子的眼泪，章司的决心」<br/>奈奈和章司见面，只见她一直批评出版社而章司却没有专心在听，奈奈最后还说了不当的话，她自己都觉得在章司面前无法当可爱女孩，​​但又开不了口道歉，之后当她得知娜娜的乐团5月5日</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7715/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_14.jpg"/>
+                                        <div class="fjjq"><span>第14话</span>NANA 第14话「大众餐厅的战场」<br/>因为章司有话要和奈奈说，于是奈奈选择在餐厅外等他，准备给他意外惊喜来让他感动，不料却发现幸子和章司的关系，无法相信自己的奈奈只能呆站在原地，而陪同她的娜娜则是气愤地想打章</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7716/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_15.jpg"/>
+                                        <div class="fjjq"><span>第15话</span>NANA 第15话「BLAST 首场演唱会」<br/>在奈奈知道真相后的隔天，因为章司的通知而赶来关心的淳子却忍不住对奈奈说教，京助于是担心奈奈会想不开，京助和淳子在JACKSON遇到章司，对于章司的不干不脆狠狠教训了一番，隔天，他</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7717/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_16.jpg"/>
+                                        <div class="fjjq"><span>第16话</span>NANA 第16话「娜娜的恋爱动向」<br/>娜娜因为奈奈的那番话而带着美里离开，直到天亮才回家，担心又自责的奈奈向她道歉并表示要打电话给美里道歉，在电话中，奈奈从美里口中得知莲以前是BLAST的贝斯手，又想起娜娜手臂上的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7718/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_17.jpg"/>
+                                        <div class="fjjq"><span>第17话</span>NANA 第17话「TRAPNEST现场演唱会」<br/>奈奈顺利将娜娜带回故乡参加TRAPNEST的演唱会，娜娜感受到奈奈一家人的热闹温馨，令她既开心又向往，因为这个话题而使娜娜透露了她不堪的身世，奈奈对于她肯说出来感到开心，两人的友谊</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7719/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_18.jpg"/>
+                                        <div class="fjjq"><span>第18话</span>NANA 第18话「小八的期望・娜娜的想念」<br/>演唱会进行中时，莲发现娜娜，于是在安可曲之前，他慌张地在后台打电话给泰，泰则表示已将奈奈的手机号码传给他，想见面就打过去，不然他就要定娜娜，莲对这句话感到震惊，但却又提不</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7720/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_19.jpg"/>
+                                        <div class="fjjq"><span>第19话</span>NANA 第19话「娜娜的奖赏」<br/>娜娜去见莲的这两个多小时，奈奈在家中想着两人的种种，希望娜娜得到幸福的她心想没有回来就表示两人和好了，果然不如她所料地，娜娜和莲重修旧好，回忆着过去也计划着未来；隔天没有</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7721/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_20.jpg"/>
+                                        <div class="fjjq"><span>第20话</span>NANA 第20话「新发展！小八的命运」<br/>在707号房举行的麻将大赛热闹展开，在厨房和巧巧聊天的奈奈紧张到动弹不得，之后因为泰的出现而使众人知道他和巧巧是国中同学，以及泰和蕾拉的一段情，TRAPNEST和BLAST的因缘也因此明朗化</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7722/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_21.jpg"/>
+                                        <div class="fjjq"><span>第21话</span>NANA 第21话「套房的美梦」<br/>奈奈在巧的车上想起娜娜说过巧很花心，明知自己和巧上床后就会被甩，但她还是想创造一生一次的美好回忆，在饭店里她接到娜娜的电话却不敢说出实情，为的就是怕被娜娜看不起，半夜时分</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7723/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_21.5.jpg"/>
+                                        <div class="fjjq"><span>第21.5话</span>NANA 第21.5话「总集篇・淳子的房间（2）」<br/>总集篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7724/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_22.jpg"/>
+                                        <div class="fjjq"><span>第22话</span>NANA 第22话「七夕的愿望、小八的恋爱」<br/>被出版社开除近一个月，直到接近TRAPNEST巡演尾声时，奈奈才卖力做促销工读生，并在七夕之夜向娜娜等人说明工作内容，大伙并来到奈奈和娜娜的住处写下七夕的心愿，隔天也就是TRAPNEST的最</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7725/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_23.jpg"/>
+                                        <div class="fjjq"><span>第23话</span>NANA 第23话「不让给任何人」<br/>突然发觉巧和奈的关系，使得blast的成员大受冲击，真的爱上奈奈的伸夫觉得眼前的宝物被抢走，和觉得宠物被抢走的真一在一起消除失落感，伸夫受到真一的怂恿决定向奈奈告白；而发现巧来</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7726/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_24.jpg"/>
+                                        <div class="fjjq"><span>第24话</span>NANA 第24话「混乱的八公的心」<br/>BLAST成员从阿泰口中得知获得唱片公司青睐，将视下次演唱会成绩决定合作与否，因此个个斗志高昂，娜娜在和奈奈聊到此事时，奈奈说出她和巧的事，同时也经由娜娜的口中得知伸夫那晚是来</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7727/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_25.jpg"/>
+                                        <div class="fjjq"><span>第25话</span>NANA 第25话「我行我素的自私男人」<br/>娜娜离开707号室的两个礼拜，和成员们积极为演唱会练习，而到录音室陪伴的奈奈则天天由伸夫护送回家，在TRAPNEST休假期间，巧依旧完全没和奈奈联络，而知道巧花名在外的她则认为就这样不</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7728/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_26.jpg"/>
+                                        <div class="fjjq"><span>第26话</span>NANA 第26话「擦身而过的小八和娜娜」<br/>BLAST的演唱会大排长龙，甚至有粉丝特地搭飞机来看，他们的实力获得唱片公司的川野先生认同并约团员们吃饭继续谈，而满心以为会在707号室举行庆功宴的奈奈则是忙着准备饭菜，寄住在这里</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7729/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_27.jpg"/>
+                                        <div class="fjjq"><span>第27话</span>NANA 第27话「小八想要的未来」<br/>娜娜带着奈奈做的菜和蛋糕来找伸夫，看到这些菜令伸夫感到内疚不已，而奈奈则看着熟睡的濑巧，觉得自己是在利用他；当晚BLAST的成员除了娜娜都齐聚707号室讨论要不要签约，加入大公司之</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7730/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_28.jpg"/>
+                                        <div class="fjjq"><span>第28话</span>NANA 第28话「小八和伸夫，急速加温」<br/>奈奈和伸夫接吻后，牵手去买东西，伸夫因为了解奈奈的个性而没有再进一步动作，并因奈奈打开心房而决定在她和濑巧分手后，会尽力给她幸福，奈奈也因此下定决心和濑巧分手，于是她打电</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7731/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_29.jpg"/>
+                                        <div class="fjjq"><span>第29话</span>NANA 第29话「问题在表达爱情的方式」<br/>伸夫将娜娜和莲的往事告诉奈奈，甚至老实说出自己的软弱，奈奈听到后满心想待在他身边，替他实现所有心愿；而娜娜则对说不出正在和伸夫交往的奈奈寄予祝福，淳子在JACKSON告诉京助和佐</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7732/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_30.jpg"/>
+                                        <div class="fjjq"><span>第30话</span>NANA 第30话「将要决堤，娜娜的心」<br/>出道的事情完全没有进展，娜娜每天白天在搬家公司打工，晚上则是乐团的练习，一周有一半的时间待在莲的住处，但和他碰面的时间却很短；娜娜自己就像是陷入爱情的少年，开始意识到奈奈</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7733/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_31.jpg"/>
+                                        <div class="fjjq"><span>第31话</span>NANA 第31话「八子，怀孕」<br/>奈奈告诉美里身体不适是因为中暑，并要求她不要告诉乐团成员，之后她到妇产科检查，确定已怀孕第6周，这令她不知所措；而美里在返乡前拜托娜娜暂时回家住以便照顾奈奈，娜娜在惊讶之</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7734/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_32.jpg"/>
+                                        <div class="fjjq"><span>第32话</span>NANA 第32话「请不要放开紧握的手」<br/>娜娜看到伸夫讲电话的反应而察觉事态严重，当她抢过来听时发现是巧，从巧口中得知奈奈怀孕而惊讶不已，当下立刻向伸夫确认有无避孕，当了解到应该是巧的孩子时，娜娜因而害怕失去奈奈</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7735/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_33.jpg"/>
+                                        <div class="fjjq"><span>第33话</span>NANA 第33话「小八的选择」<br/>娜娜哭着跑去找阿泰，把奈奈怀孕的事情和自己的心态全部都向阿泰倾诉，而阿泰只是静静地听着；而奈奈则跑去找淳子和京助，淳子担心巧要认养小孩的说法仅是要付养育费的意思，然而一心</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7736/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_34.jpg"/>
+                                        <div class="fjjq"><span>第34话</span>NANA 第34话「破了的草莓玻璃杯」<br/>娜娜回到家，本以为只有奈奈一人，结果看到巧也在时马上变脸，而巧则是直接告诉她要和奈奈结婚的事，并准备让奈奈搬家，打击甚大的娜娜不小心将两人一起买的对杯打破；而巧则向公司同</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7737/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_35.jpg"/>
+                                        <div class="fjjq"><span>第35话</span>NANA 第35话「蕾拉的孤独」<br/>阿泰在家里听蕾拉说话时，TRAPNEST则是暂停录音，录音室骚动不已，巧甚至迁怒蕾拉的助理，其实他很清楚蕾拉是因为他要结婚而大受打击，看穿这点的莲则警告巧若不爱蕾拉，乐团将会解散，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7738/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_36.jpg"/>
+                                        <div class="fjjq"><span>第36话</span>NANA 第36话「BLAST的新歌」<br/>连续住在莲的家9天的娜娜，担心着奈奈过着什么样的生活，然而奈奈却没和她联络就搬到新家，并过着替宝宝织毛线，一天发好几封简讯给巧的生活；杂志社秘密搜查莲和娜娜的关系，而娜娜</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7739/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_36.5.jpg"/>
+                                        <div class="fjjq"><span>第36.5话</span>NANA 第36.5话「总集篇・淳子的房间（3）」<br/>总集篇</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7740/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_37.jpg"/>
+                                        <div class="fjjq"><span>第37话</span>NANA 第37话「小八、白金贵妇」<br/>巧回到房租70万的新家，受到奈奈笑脸相迎，开心神情溢于颜表，前来侦查的直树对奈奈的好手艺赞不绝口，直树回去后，巧告诉奈奈周日要去拜访她父母亲谈婚事；而真一则是想到此时的蕾拉</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7741/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_38.jpg"/>
+                                        <div class="fjjq"><span>第38话</span>NANA 第38话「命运的扳机」<br/>不记得把2只玻璃杯都打破和把手机浸泡在水里的娜娜在得知奈奈的反应后，决定依照莲的建议，前去白金的大厦见奈奈，但不凑巧地，奈奈外出，管理员又因巧的交待，把娜娜赶了出来；此时</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7742/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_39.jpg"/>
+                                        <div class="fjjq"><span>第39话</span>NANA 第39话「八公、妳等着看吧！」<br/>娜娜和莲的关系被电视台大肆报导，TRAPNEST和BLAST的四周突然乱成一团，巧和奈奈两人也因为报导而起了争执，奈奈不顾巧的劝阻，想跑去找娜娜，在车上经过京助的苦劝而来到了淳子家；川野</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7743/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_40.jpg"/>
+                                        <div class="fjjq"><span>第40话</span>NANA 第40话「BLAST、出道！」<br/>娜娜和莲的关系曝光后，GAIA接到许多询问电话，公司进而决定尽快让BLAST出道，而留在淳子家的奈奈则是鼓起勇气打电话和巧道歉，巧则表示隔天起要去英国，并承诺买订婚戒指给她；娜娜和阿</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7744/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_41.jpg"/>
+                                        <div class="fjjq"><span>第41话</span>NANA 第41话「BLAST集训」<br/>TRAPNEST的团员留在伦敦继续工作，巧独自回国前往位于奈奈家乡的旅馆，准备隔天去奈奈家拜访；此时在郊区的GAIA设施里接受集训的BLAST则是听到要开游击演唱会而兴奋不已；在伦敦​​的莲知</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7745/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_42.jpg"/>
+                                        <div class="fjjq"><span>第42话</span>NANA 第42话「娜娜、突然发病」<br/>巧来到奈奈家拜访，原本紧张的气氛随着巧送上礼物而化解，最后他也感染到奈奈家庭的开朗气氛而笑颜逐开；BLAST结束8天7夜的集训，被安排住进公司的宿舍里，娜娜和伸夫在谈及乐团和奈奈</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7746/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_43.jpg"/>
+                                        <div class="fjjq"><span>第43话</span>NANA 第43话「BLAST、游击演唱会」<br/>娜娜在经过紧急处置后被送到医院，经医生诊断，确定是过度换气症候群，病因来自于压力，受到打击的娜娜，感受到团员的关爱，相当的感动；BLAST开始为出道做准备，行程满档，病才刚好的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7747/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_44.jpg"/>
+                                        <div class="fjjq"><span>第44话</span>NANA 第44话「BLAST VS TRAPNEST」<br/>阿泰在摄影棚遇到TRAPNEST的成员时，看到莲的手抖得很厉害，知道莲又在抽大麻的他相当生气，他很了解娜娜不在身边，莲就会感到不安，因而告诉莲他没有要抢走娜娜的意思；回到休息室的娜</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7748/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_45.jpg"/>
+                                        <div class="fjjq"><span>第45话</span>NANA 第45话「BLAST初次现场节目」<br/>奈奈和淳子一起看BLAST第一次上电视，奈奈像疯狂歌迷般注视着娜娜，而娜娜也在摄影棚里悄悄地想着奈奈，希望自己能表现得从容不迫来让奈奈安心；而奈奈则是担心阿伸是否也像自己被章司</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7749/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_46.jpg"/>
+                                        <div class="fjjq"><span>第46话</span>NANA 第46话「再会！小八与章司」<br/>娜娜和阿真都希望阿伸和奈奈能重修旧好，而阿伸也表示如果奈奈看起来很寂寞就不会坐视不管；而奈奈在产检完后去JACKSON，碰巧遇到章司，在章司诚恳道歉后，两人面带笑容道别；而TRAPNES</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7750/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/anime/nana/images/thumb_1_47.jpg"/>
+                                        <div class="fjjq"><span>第47话</span>NANA 第47话「烟火大会、小八与娜娜」<br/>奈奈和章司道别后，难过地在路边哭了起来，久久无法自己，此时在707号室迟迟等不到人的娜娜打电话给她，奈奈说出她怕见到伸夫，于是娜娜就骗她说伸夫没来，伸夫知情后转身要走，但娜娜</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next swiper-button-next4"></div>
+                <div class="swiper-button-prev swiper-button-prev4"></div>
+            </div>
+
+            <div class="time_con">
+                <div class="stafflist">
+                    <div class="staff">
+                        
+
+                    </div>
+                    <div class="cast">
+                        
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div><!--tab slider end-->
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+    <div class="con24">
+        <div class="stitle">
+            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/huawen">花吻在上</a><a href="/anime/kononaka">三人行必有我妹</a><a href="/anime/hukikyikiinno">忧郁的物怪庵</a><a href="/anime/shimengzhe3">食梦者第三季</a><a href="/anime/nvwaczrjtv">女娲成长日记</a>
+                            </span>
+        </div>
+        <div class="swiper-container swiper3">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <ul class="m_pic clear">
+                        <li><a href="/anime/Rainycocoa3"><img src="http://static.jfrft.com/uploads/allimg/160817/1_2347589851.jpg"/><p>雨色可可 第3季</p><div class="fc_m"><strong>雨色可可 第3季</strong></div></a></li><li><a href="/anime/orangekishekimov"><img src="http://static.jfrft.com/uploads/allimg/160917/1_1632268521.jpg"/><p>orange橙色奇迹 真人</p><div class="fc_m"><strong>orange橙色奇迹 真人</strong></div></a></li><li><a href="/anime/songxiansheng3"><img src="http://www.dilidili.wang/uploads/allimg/170830/290_1456579041.jpg"/><p>阿松第三季</p><div class="fc_m"><strong>阿松第三季</strong></div></a></li><li><a href="/anime/te-kyu7"><img src="http://static.jfrft.com/uploads/201512/1-151211143450a7.jpg"/><p>网球并不可笑嘛第七季</p><div class="fc_m"><strong>网球并不可笑嘛第七季</strong></div></a></li><li><a href="/anime/yuyuxi"><img src="http://wx1.sinaimg.cn/mw690/0068J99agy1fd0zjj7lmzj305507i0sy.jpg"/><p>悠悠式OVA</p><div class="fc_m"><strong>悠悠式OVA</strong></div></a></li><li><a href="/anime/shimengzhe2"><img src="http://static.jfrft.com/uploads/allimg/160725/1_1536354171.jpg"/><p>食梦者第二季</p><div class="fc_m"><strong>食梦者第二季</strong></div></a></li><li><a href="/anime/kononaka"><img src="http://static.jfrft.com/uploads/allimg/161111/1_1712333591.jpg"/><p>三人行必有我妹</p><div class="fc_m"><strong>三人行必有我妹</strong></div></a></li><li><a href="/anime/opera2"><img src="http://www.dilidili.wang/uploads/allimg/170228/1_1707176621.jpg"/><p>高校星歌剧 第二季</p><div class="fc_m"><strong>高校星歌剧 第二季</strong></div></a></li><li><a href="/anime/wtshylgzmb"><img src="http://static.jfrft.com/uploads/allimg/160826/1_0526526081.jpg"/><p>我太受欢迎了该怎么办</p><div class="fc_m"><strong>我太受欢迎了该怎么办</strong></div></a></li><li><a href="/anime/houtiandfangx"><img src="http://static.jfrft.com/uploads/allimg/161012/1_2050121231.jpg"/><p>后天的方向</p><div class="fc_m"><strong>后天的方向</strong></div></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="swiper-button-next swiper-button-next3"></div>
+            <div class="swiper-button-prev swiper-button-prev3"></div>
+        </div>
+    </div>
+
+    <script src="/templets/default/js/swiper.min.js"></script>
+    <script>
+        jQuery(".playjs").hide();
+        function changeSwiper1(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+//		alert(arrlen);
+            var len = 0;
+            if (_is) {
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                if(arrlen % 20 >0){
+                    len = parseInt(arrlen / 20)+1;
+                }else{
+                    len = parseInt(arrlen / 20);
+                }
+            }
+            if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+        changeSwiper1('.xfswiper0');
+        changeSwiper1('.xfswiper1');
+        changeSwiper1('.xfswiper2');
+        changeSwiper1('.xfswiper3');
+        changeSwiper1('.xfswiper4');
+        changeSwiper1('.xfswiper5');
+        changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+        changeSwiper('.swiper7');
+        changeSwiper2('.swiper4');
+        jQuery(window).resize(function () {
+            changeSwiper1('.xfswiper0');
+            changeSwiper1('.xfswiper1');
+            changeSwiper1('.xfswiper2');
+            changeSwiper1('.xfswiper3');
+            changeSwiper1('.xfswiper4');
+            changeSwiper1('.xfswiper5');
+            changeSwiper1('.xfswiper6');
+            changeSwiper('.swiper3');
+            changeSwiper('.swiper5');
+            changeSwiper('.swiper6');
+            changeSwiper('.swiper7');
+            changeSwiper2('.swiper4');
+        });
+        var swiper1 = new Swiper('.xfswiper1', {
+            nextButton: '.xfswiper-button-next1',
+            prevButton: '.xfswiper-button-prev1',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper2', {
+            nextButton: '.xfswiper-button-next2',
+            prevButton: '.xfswiper-button-prev2',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper3', {
+            nextButton: '.xfswiper-button-next3',
+            prevButton: '.xfswiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper3 = new Swiper('.swiper3', {
+            nextButton: '.swiper-button-next3',
+            prevButton: '.swiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper4 = new Swiper('.swiper4', {
+            nextButton: '.swiper-button-next4',
+            prevButton: '.swiper-button-prev4',
+            spaceBetween: 30
+        });
+        var swiper5 = new Swiper('.swiper5', {
+            nextButton: '.swiper-button-next5',
+            prevButton: '.swiper-button-prev5',
+            spaceBetween: 30
+        });
+        var swiper6 = new Swiper('.swiper6', {
+            nextButton: '.swiper-button-next6',
+            prevButton: '.swiper-button-prev6',
+            spaceBetween: 30
+        });
+        var swiper7 = new Swiper('.swiper7', {
+            nextButton: '.swiper-button-next7',
+            prevButton: '.swiper-button-prev7',
+            spaceBetween: 30
+        });
+
+        var week = new Date();
+        jQuery(".xf_news .pk_time a").removeClass("current");
+        jQuery(".xf_news .time_pic .time_con").hide();
+        if (week != 0) {
+            jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+            jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+            new Swiper(".xfswiper"+(0), {
+                nextButton: '.xfswiper-button-next'+(0),
+
+                prevButton: '.xfswiper-button-prev'+(0),
+                spaceBetween: 30
+            });
+        }
+
+        jQuery(".xf_news .pk_time a").each(function(index){
+            jQuery(this).click(function(){
+                jQuery(".xf_news .pk_time a").removeClass("current");
+                jQuery(this).addClass("current");
+                jQuery(".xf_news .time_pic .time_con").hide();
+                jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+                new Swiper(".xfswiper"+index, {
+                    nextButton: '.xfswiper-button-next'+index,
+                    prevButton: '.xfswiper-button-prev'+index,
+                    spaceBetween: 30
+                });
+                jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+            });
+        });
+
+        var swiper = new Swiper('.xfswiper1', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+            paginationBulletRender: function (index, className) {
+                return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+            }
+        });
+
+        var mySwiper1 = new Swiper('.swiper1',{
+            pagination: '.pagination1',
+            paginationClickable: true,
+            moveStartThreshold: 100,
+            autoplay:4000
+        });
+        var mySwiper2 = new Swiper('.swiper2',{
+            pagination: '.pagination2',
+            paginationClickable: true,
+            moveStartThreshold: 100
+        });
+        var webWidth = 736;
+        function changeSwiper(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 5 >0){
+                    len = parseInt(arrlen / 5)+1;
+                }else{
+                    len = parseInt(arrlen / 5);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        function changeSwiper2(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 8 >0){
+                    len = parseInt(arrlen / 8)+1;
+                }else{
+                    len = parseInt(arrlen / 8);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        jQuery(function() {
+            jQuery(".closed").click(
+                    function(){
+                        jQuery(".topimg").slideUp();
+                    });
+
+            // 收缩展开效果
+            jQuery(".adminico").click(function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+            },function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+            });
+
+            jQuery(".a_open").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").slideDown(500);
+                        jQuery(".fc_black").show();
+                        jQuery(".a_closed").show();
+                    });
+            jQuery(".a_closed").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                    });
+            jQuery(".fc_black").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                        jQuery(".a_closed").hide();
+                    });
+            jQuery(".rm_pank .pk_year a").each(function(index){
+                jQuery(this).mouseover(
+                        function(){
+                            jQuery(".rm_pank .pk_year a").removeClass("current");
+                            jQuery(this).addClass("current");
+                            jQuery(".rm_pank .rm_main .rm_con").hide();
+                            jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+                        })
+            });
+
+            var headHeight=$(".head_top").height();
+            var nav=$("#navf");
+            $(window).scroll(function(){
+                if($(this).scrollTop()>headHeight){
+                    nav.addClass("navFix");
+                }
+                else{
+                    nav.removeClass("navFix");
+                }
+            })
+
+            var headHeight2=$(".topimg").height();
+            var nav2=jQuery("#topnavf");
+            jQuery(window).scroll(function(){
+                if($(this).scrollTop()>headHeight2){
+                    nav2.addClass("topnavFix");
+                }
+                else{
+                    nav2.removeClass("topnavFix");
+                }
+            });
+
+        });
+
+    </script>
+
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+    <div class="con24">
+        <!--<div class="stitle">
+            <h3>评论</h3>
+            <span class="s_f">
+                <a href="http://bbs.005.tv">D站论坛</a>
+                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+            </span>
+            <a href="http://usr.005.tv" style="float:right;">评论前请先登录或注册</a>
+        </div>	-->
+        <div style="margin:20px 0; text-align:center;">
+            <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='612051' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+            <!-- UY BEGIN -->
+            <!--<div id="uyan_frame"></div>
+            <div class="comment">
+            <i>NANA评论</i>-->
+            <!-- 多说评论框 start -->
+            <!--<div class="ds-thread" data-thread-key="993" data-title="NANA" data-url=
+        "http://www.dilidili.wang/anime/nana/"></div>-->
+            <!-- 多说评论框 end -->
+            <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+            <!--<script type="text/javascript">
+            var duoshuoQuery = {short_name:"dzhan"};
+                (function() {
+                    var ds = document.createElement('script');
+                    ds.type = 'text/javascript';ds.async = true;
+                    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                    ds.charset = 'UTF-8';
+                    (document.getElementsByTagName('head')[0]
+                     || document.getElementsByTagName('body')[0]).appendChild(ds);
+                })();
+                </script>-->
+            <!-- 多说公共JS代码 end -->
+        </div>
+        <!-- UY END -->
+    </div>
+</div>
+<div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+    <script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script>
+    <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+</div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>			
+</div>
+<div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/muban/js/w234.js"></script>
+</body>
+</html>

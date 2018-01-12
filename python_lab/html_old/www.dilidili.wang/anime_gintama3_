@@ -1,0 +1,1985 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="http://static.jfrft.com/js/uaredirect.js" type="text/javascript"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/gintama3/");</script>
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/gintama3/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/gintama3/" >
+    <link rel="canonical" href="http://www.dilidili.wang/anime/gintama3/"/>
+    <title>「银魂 第三季」在线&下载丨嘀哩嘀哩</title>
+    <meta name="keywords" content="银魂第三季,银魂动画全集" />
+    <meta name="description" content="故事讲述了在一个虚拟架空的宇宙人来袭、价值观突变的江户，在经营着万事屋的坂田银时、神乐、志村新八三人以及围绕在他们周围的人身上发生的故事……" />
+    <meta name="apple-touch-fullscreen" content="YES">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href="http://static.jfrft.com/css/anime.css" rel="stylesheet" type="text/css">
+    <link href="http://static.jfrft.com/css/mobile.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+    <link rel="shortcut icon" href="http://static.jfrft.com/anime/gintama3/favicon.ico" type="image/x-icon">
+    <style type="text/css">
+        .gg-left,.gg-right {display:none!important;display:none}</style>
+    <style type="text/css">.main > .l{visibility:hidden;} </style>
+</head>
+<body class="yinhun">
+<script>
+    !function(){
+        var interval = 30;
+        interval *= 60000;
+        var timestamp = parseInt(new Date / interval) * interval;
+        document.writeln('<script src="/js/site-wide.js?'+ timestamp + '"><\/script>');
+    }();
+</script>
+<style>
+    .header .nav li{ }
+    .nav_nav{ position:absolute; top:38px; left:20px; height:30px; display:none; line-height:30px; background:#FFF; padding-left:20px;}
+    .header .nav li .nav_nav a{ margin-right:15px; text-align:center; padding-right:0; color:#666;}
+    .header .nav li .nav_nav a:hover{ border-bottom:3px solid #F69; color:#F00}
+</style>
+<script type="text/javascript" src="http://static.jfrft.com/js/jquery-1.7.2.min.js"></script>
+<div class="header">
+    <div class="header-inner"><a href="http://www.dilidili.wang/" class="logo"></a></div>
+    <div class="nav">
+        <div class="nav-inner">
+            <ul>
+                <li><a class="on" href="http://www.dilidili.wang/">首页</a></li>
+
+                <li><a href="http://www.dilidili.wang/anime/">新番动漫</a></li>
+
+                <li><a href="http://www.005.tv/" target="_blank">动漫资讯</a><div class="nav_nav">
+
+                <li><a rel="external nofollow" href="http://www.dilidili.wang/anime/guoman/" target="_blank"><strong style="color:blue;">腾讯国漫</strong></a></li>
+
+                <li><a href="/c1/" target="_blank"><strong style="color:blue;">分类</strong></a><div class="nav_nav"><a href="http://www.dilidili.wang/c1/">奇幻</a> <a href="http://www.dilidili.wang/c2/">青春</a> <a href="http://www.dilidili.wang/c3/">后宫</a>  <a href="http://www.dilidili.wang/c4/">冒险</a> <a href="http://www.dilidili.wang/c5/">轻小说</a> <a href="http://www.dilidili.wang/c6/">热血</a> <a href="http://www.dilidili.wang/c7/">机战</a> <a href="http://www.dilidili.wang/anime/onepiece/">海贼</a> <a href="http://www.dilidili.wang/anime/naruto/">火影</a> <a href="http://static.jfrft.com/anime/gintama/">银魂</a> <a href="http://www.dilidili.wang/anime/bleach/">死神</a> </div></li>
+
+                <li><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a></li>
+
+                <li><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a></li>
+
+                <li><a href="http://static.jfrft.com/anime/gintama/">银魂</a></li>
+
+                <li><a href="http://bbs.005.tv/forum.php" target="_blank"><strong style="color:blue;">D站论坛</strong></a></li>
+            </ul>
+            <script>
+                $(".nav-inner li>a").hover(
+                        function(){
+                            var l=$(this).parents("li").offset().left-$(".nav-inner").offset().left-20;
+                            $(".nav_nav").hide();
+                            $(this).siblings(".nav_nav").css("left",l).animate({opacity:"toggle"},200);
+                        },
+                        function(){
+
+                        }
+                )
+                $(".nav_nav").hover(function(){},function(){$(this).hide()});
+            </script>
+            <div class="search">
+                <select name="searchtype" class="search-option select" id="search-option">
+                    <option value="titlekeyword" selected='1'>智能模糊</option>
+                </select>
+                <form  name="formsearch" action="http://www.dilidili.wang/search/index.html">
+                <input type="hidden" name="kwtype" value="0" class="s_inp"/>
+                <input type="text" class="text fl s_inp search-keyword" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+                <button name="button" type="search-submit" id="button" class="search-submit" value="搜索"></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!--<div class="yinhun_ewm"><p>银魂正版授权手游，扫码下载</p><img src="http://static.jfrft.com/images/yinhun_ewm.png" /></div> -->
+<style>
+    #cs_right_bottom{display:none;}
+    .ad:nth-of-type(3){display:none;}
+</style>
+<div class="main">
+    <div class="left">
+        <div class="infobox">
+            <div class="poster-sec"><img src="http://static.jfrft.com/images/cover/12937.jpg" alt="银魂第三季"></div>
+            <div class="info-sec">
+                <div class="title-wrapper">
+                    <h1>银魂°</h1>
+                    <span class="subtitle">跟银魂比吐槽你输定了</span>
+                    <span class="stat">（<script src="http://www.dilidili.wang/plus/count.php?view=yes&aid=12937&mid=1" type='text/javascript' language="javascript"></script>人看过）</span>
+                </div>
+                <div class="desc-wrapper">
+                    <p class="row"><span>地  区：</span>日本</p>
+                    <p class="row"><span>年  代：</span><a href="http://www.dilidili.wang/anime/201504/">2015年4月</a></p>
+                    <p class="row"><span>标  签：</span>漫画改编 / 搞笑 / 热血 / 吐槽 / 恶搞</p>
+                    <p class="intro"><span>简  介：</span>故事讲述了在一个虚拟架空的宇宙人来袭、价值观突变的江户，在经营着万事屋的坂田银时、神乐、志村新八三人以及围绕在他们周围的人身上发生的故事……</p>
+                    <script type="text/javascript" src="http://static.jfrft.com/js/share.js"></script>
+                </div>
+            </div>
+        </div>
+        <div class="tab">
+            <div id="tab-menu">
+                <h2><a href="http://www.dilidili.wang/anime/gintama/" style="color:#333;">第1期</a></h2>
+                <h2><a href="http://www.dilidili.wang/anime/gintama2/" style="color:#333;">第2期</a></h2>
+                <h2 onclick="setTab(0,2)" class="on">第3期</h2>
+                <h2><a href="http://www.dilidili.wang/anime/gintama4/" style="color:#333;">第4期</a></h2>
+                <h2 onclick="setTab(0,4)">下载</h2>
+                <h2 onclick="setTab(0,5)" id="story">分集剧情</h2>
+            </div>
+            <div id="tab-main">
+                <div></div>
+                <div></div>
+                <div class="series area">
+                    <table>
+                        <tr class="th">
+                            <td width="65">话数</td><td width="450">标题</td><td align="right" width="80">首播日期</td>
+                        </tr>
+                        <tr>
+                            <td>第266话</td>
+                            <td><span class="mark">时间暂停篇</span>　<a href="http://www.dilidili.wang/watch/13621/" target="_blank">暂停未必能换来转机</a></td>
+                            <td class="date">2015-04-08</td>
+                        </tr>
+                        <tr>
+                            <td>第267话</td>
+                            <td><span class="mark">时间暂停篇</span>　<a href="http://www.dilidili.wang/watch/13679/" target="_blank">有些垃圾用松居棒也清理不掉</a></td>
+                            <td class="date">2015-04-15</td>
+                        </tr>
+                        <tr>
+                            <td>第268话</td>
+                            <td><span class="mark">山崎相亲篇</span>　<a href="http://www.dilidili.wang/watch/13754/" target="_blank">监察的恋情始于观察</a></td>
+                            <td class="date">2015-04-22</td>
+                        </tr>
+                        <tr>
+                            <td>第269话</td>
+                            <td><a href="http://www.dilidili.wang/watch/13837/" target="_blank">与其背年表不如多记住几个人物 / 藏得了小黄书藏不住○○○</a></td>
+                            <td class="date">2015-04-29</td>
+                        </tr>
+                        <tr>
+                            <td>第270话</td>
+                            <td><a href="http://www.dilidili.wang/watch/13895/" target="_blank">无论美丑镜子都能够忠实呈现 / 谁都看自己的证件照不顺眼</a></td>
+                            <td class="date">2015-05-06</td>
+                        </tr>
+                        <tr>
+                            <td>第271话</td>
+                            <td><span class="mark">同学会篇</span>　<a href="http://www.dilidili.wang/watch/13953/" target="_blank">同学会一旦迟到就不好意思进去</a></td>
+                            <td class="date">2015-05-13</td>
+                        </tr>
+                        <tr>
+                            <td>第272话</td>
+                            <td><span class="mark">同学会篇</span>　<a href="http://www.dilidili.wang/watch/14131/" target="_blank">同学会上不愿想起的回忆也会一并苏醒</a></td>
+                            <td class="date">2015-05-20</td>
+                        </tr>
+                        <tr>
+                            <td>第273话</td>
+                            <td><span class="mark">彩票篇</span>　<a href="http://www.dilidili.wang/watch/14190/" target="_blank">人生五十年 化天弹指间 浮梦如彩票</a></td>
+                            <td class="date">2015-05-27</td>
+                        </tr>
+                        <tr>
+                            <td>第274话</td>
+                            <td><a href="http://www.dilidili.wang/watch/14273/" target="_blank">鼻孔大的家伙想象力无限大 / 最近新上映的战队特摄片开篇总让人…</a></td>
+                            <td class="date">2015-06-03</td>
+                        </tr>
+                        <tr>
+                            <td>第275话</td>
+                            <td class="title"><span class="mark">性转换篇</span>　<a href="http://www.dilidili.wang/watch/14358/" target="_blank">9+1=柳生十兵卫</a></td>
+                            <td class="date">2015-06-10</td>
+                        </tr>
+                        <tr>
+                            <td>第276话</td>
+                            <td class="title"><span class="mark">性转换篇</span>　<a href="http://www.dilidili.wang/watch/14443/" target="_blank">热量总在你淡忘它时不期而至</a></td>
+                            <td class="date">2015-06-17</td>
+                        </tr>
+                        <tr>
+                            <td>第277话</td>
+                            <td class="title"><span class="mark">性转换篇</span>　<a href="http://www.dilidili.wang/watch/14563/" target="_blank">10-1=</a></td>
+                            <td class="date">2015-06-24</td>
+                        </tr>
+                        <tr>
+                            <td>第278话</td>
+                            <td><a href="http://www.dilidili.wang/watch/14621/" target="_blank">老妈的便当总是塞得满满当当</a></td>
+                            <td class="date">2015-07-01</td>
+                        </tr>
+                        <tr>
+                            <td>第279话</td>
+                            <td class="title"><span class="mark">死神篇</span>　<a href="http://www.dilidili.wang/watch/14749/" target="_blank">朝与夜的死神</a></td>
+                            <td class="date">2015-07-08</td>
+                        </tr>
+                        <tr>
+                            <td>第280话</td>
+                            <td class="title"><span class="mark">死神篇</span>  <a href="http://www.dilidili.wang/watch/15035/" target="_blank">为人或为鬼</a></td>
+                            <td class="date">2015-07-15</td>
+                        </tr>
+                        <tr>
+                            <td>第281话</td>
+                            <td class="title"><span class="mark">死神篇</span>  <a href="http://www.dilidili.wang/watch/15180/" target="_blank">永别了 死神</a></td>
+                            <td class="date">2015-07-22</td>
+                        </tr>
+                        <tr>
+                            <td>第282话</td>
+                            <td><a href="http://www.dilidili.wang/watch/15242/" target="_blank">凤凰必将浴火永生</a></td>
+                            <td class="date">2015-07-29</td>
+                        </tr>
+                        <tr>
+                            <td>第283话</td>
+                            <td><a href="http://www.dilidili.wang/watch/15437/" target="_blank">阿门</a></td>
+                            <td class="date">2015-08-05</td>
+                        </tr>
+                        <td>第284话</td>
+                        <td><a href="http://www.dilidili.wang/watch/15612/" target="_blank">头儿不好当啊</a></td>
+                        <td class="date">2015-08-12</td>
+                        </tr>
+                        </tr>
+                        <td>第285话</td>
+                        <td><a href="http://www.dilidili.wang/watch/15808/" target="_blank">恋爱需要小强呸呸</a></td>
+                        <td class="date">2015-08-19</td>
+                        </tr>
+                        <td>第286话</td>
+                        <td><a href="http://www.dilidili.wang/watch/16311/" target="_blank">贝基拉玛般的夏天</a></td>
+                        <td class="date">2015-08-26</td>
+                        </tr>
+                        <td>第287话</td>
+                        <td><a href="http://www.dilidili.wang/watch/16783/" target="_blank">我是蛋黄酱狂魔 他小子是甜食</a></td>
+                        <td class="date">2015-09-02</td>
+                        </tr>
+                        <td>第288话</td>
+                        <td><a href="http://www.dilidili.wang/watch/17188/" target="_blank">我不配当头儿 你小子也不配</a></td>
+                        <td class="date">2015-09-09</td>
+                        </tr>
+                        <td>第289话</td>
+                        <td><a href="http://www.dilidili.wang/watch/18412/" target="_blank">我是万事屋 他是真选组</a></td>
+                        <td class="date">2015-09-16</td>
+                        </tr>
+                        <td>第290话</td>
+                        <td><a href="http://www.dilidili.wang/watch/18870/" target="_blank">要时刻给包里预留出能装下5千万的空间</a></td>
+                        <td class="date">2015-09-23</td>
+                        </tr>
+                        <td>第291话</td>
+                        <td><a href="http://www.dilidili.wang/watch/19299/" target="_blank">包包要一直打开着以防有石块</a></td>
+                        <td class="date">2015-09-30</td>
+                        </tr>
+                        <td>第292话</td>
+                        <td><a href="http://www.dilidili.wang/watch/19367/" target="_blank">时髦和必杀技</a></td>
+                        <td class="date">2015-10-07</td>
+                        </tr>
+                        <td>第293话</td>
+                        <td><a href="http://www.dilidili.wang/watch/19757/" target="_blank">两位猿公</a></td>
+                        <td class="date">2015-10-14</td>
+                        </tr>
+                        <td>第294话</td>
+                        <td><a href="http://www.dilidili.wang/watch/20319/" target="_blank">生与死的爆炸头</a></td>
+                        <td class="date">2015-10-21</td>
+                        </tr>
+                        <td>第295话</td>
+                        <td><a href="http://www.dilidili.wang/watch/20772/" target="_blank">阿腐郎和爆炸狼</a></td>
+                        <td class="date">2015-10-28</td>
+                        </tr>
+                        <td>第296话</td>
+                        <td><a href="http://www.dilidili.wang/watch/21151/" target="_blank">初期设定不容小窥</a></td>
+                        <td class="date">2015-11-04</td>
+                        </tr>
+                        <td>第297话</td>
+                        <td><a href="http://www.dilidili.wang/watch/21831/" target="_blank">告别的话语要简洁明快</a></td>
+                        <td class="date">2015-11-11</td>
+                        </tr>
+                        <td>第297.5话</td>
+                        <td><a href="http://www.dilidili.wang/watch/22570/" target="_blank">银魂动画史上最大的事件</a></td>
+                        <td class="date">2015-11-18</td>
+                        </tr>
+                        <td>第298话</td>
+                        <td><a href="http://www.dilidili.wang/watch/22571/" target="_blank">责编只要一个就够</a></td>
+                        <td class="date">2015-11-18</td>
+                        </tr>
+                        <td>第299话</td>
+                        <td><a href="http://www.dilidili.wang/watch/22943/" target="_blank">铁和魔王都要趁热打</a></td>
+                        <td class="date">2015-11-25</td>
+                        </tr>
+                        <td>第300话</td>
+                        <td class="title"><span class="mark">将军暗杀篇</span>  <a href="http://www.dilidili.wang/watch/23266/" target="_blank">光与影的将军</a></td>
+                        <td class="date">2015-12-02</td>
+                        </tr>
+                        <td>第301话</td>
+                        <td class="title"><span class="mark">将军暗杀篇</span>  <a href="http://www.dilidili.wang/watch/23554/" target="_blank">忍者之村</a></td>
+                        <td class="date">2015-12-09</td>
+                        </tr>
+                        <td>第302话</td>
+                        <td class="title"><span class="mark">将军暗杀篇</span>  <a href="http://www.dilidili.wang/watch/23876/" target="_blank">忍之魂</a></td>
+                        <td class="date">2015-12-16</td>
+                        </tr>
+                        <td>第303话</td>
+                        <td class="title"><span class="mark">将军暗杀篇</span>  <a href="http://www.dilidili.wang/watch/24258/" target="_blank">最后的5人</a></td>
+                        <td class="date">2015-12-23</td>
+                        </tr>
+                        <td>第304话</td>
+                        <td class="title"><span class="mark">将军暗杀篇</span>  <a href="http://www.dilidili.wang/watch/25976/" target="_blank">万事的守护者们</a></td>
+                        <td class="date">2016-01-06</td>
+                        </tr>
+                        <td>第305话</td>
+                        <td class="title"><span class="mark">将军暗杀篇</span>  <a href="http://www.dilidili.wang/watch/26548/" target="_blank">仇</a></td>
+                        <td class="date">2016-01-13</td>
+                        </tr>
+                        <td>第306话</td>
+                        <td class="title"><span class="mark">将军暗杀篇</span>  <a href="http://www.dilidili.wang/watch/27386/" target="_blank">大战过后 鸦鸟鸣泣</a></td>
+                        <td class="date">2016-01-20</td>
+                        </tr>
+                        <td>第307话</td>
+                        <td class="title"><span class="mark">将军暗杀篇</span>  <a href="http://www.dilidili.wang/watch/28006/" target="_blank">别了 死党</a></td>
+                        <td class="date">2016-01-27</td>
+                        </tr>
+                        <td>第308话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/28479/" target="_blank">鬼哭之日</a></td>
+                        <td class="date">2016-02-03</td>
+                        </tr>
+                        <td>第309话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/28782/" target="_blank">英雄总是姗姗来迟</a></td>
+                        <td class="date">2016-02-10</td>
+                        </tr>
+                        <td>第310话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/29081/" target="_blank">遗忘之物</a></td>
+                        <td class="date">2016-02-17</td>
+                        </tr>
+                        <td>第311话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/29419/" target="_blank">越狱</a></td>
+                        <td class="date">2016-02-24</td>
+                        </tr>
+                        </tr>
+                        <td>第312话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/29644/" target="_blank">流浪犬</a></td>
+                        <td class="date">2016-03-02</td>
+                        </tr>
+                        </tr>
+                        <td>第313话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/29773/" target="_blank">未送达的简讯</a></td>
+                        <td class="date">2016-03-09</td>
+                        </tr>
+                        </tr>
+                        <td>第314话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/29911/" target="_blank">业</a></td>
+                        <td class="date">2016-03-16</td>
+                        </tr>
+                        </tr>
+                        <td>第315话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/30164/" target="_blank">信女</a></td>
+                        <td class="date">2016-03-23</td>
+                        </tr>
+                        </tr>
+                        <td>第316话</td>
+                        <td class="title"><span class="mark">别了真选组篇</span>  <a href="http://www.dilidili.wang/watch/30500/" target="_blank">别了 真选组篇</a></td>
+                        <td class="date">2016-03-30</td>
+                        </tr>
+
+                    </table>
+                </div>
+                <div></div>
+                <div class="download area">
+                    <p class="baidu"><i>百度网盘</i>　<span>( 每周三18点20分左右更新网盘 |减少和谐几率而跳转望谅解 | <b style="color:#0F98D8;">720P</b> | MP4 )</span></p>
+                    <a href="http://bbs.005.tv/thread-470278-1-1.html" target="_blank">第1期（001-201）</a>
+                    <a href="http://bbs.005.tv/thread-470278-1-1.html" target="_blank">第2期（202-265）</a>
+                    <a href="http://bbs.005.tv/thread-470278-1-1.html" target="_blank">266-316</a>
+                    <a href="http://bbs.005.tv/thread-493022-1-1.html" target="_blank">银魂剧场版 新译红樱篇</a>
+                    <a href="http://bbs.005.tv/thread-493022-1-1.html" target="_blank">银魂剧场版 直到永远的万事屋</a>
+                    <p class="baidu"><i>百度网盘</i>　<span>( 每周三18点50左右更新网盘 |减少和谐几率而跳转望谅解| <b style="color:#0F98D8;">1080P</b> | MP4 )</span></p>
+                    <a href="http://bbs.005.tv/thread-470278-1-1.html" target="_blank">266-316</a>
+                </div>
+                <div class="gintama-story area">
+                    <ul>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3301/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_001.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3301/" target="_blank">第1话 「你们这群混蛋！！就这样还能」</a><span class="date">2006-04-04</span></h3>
+                                <p class="desc">在与天人共处的江户，有一个叫“万事屋”的地方，由拥有武士之魂的男人坂田银时所经营，外加员工志村新八、神乐、以及宠物定春，从做家务到寻人样样精通。有一天，穷困潦倒的加藤健找</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3302/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_002.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3302/" target="_blank">第2话 「你们这群混蛋！！就这样还能」</a><span class="date">2006-04-04</span></h3>
+                                <p class="desc">银时小酒馆吃喝完毕跑单，加藤被逮付全款，找银时要求AA平摊，银时无视账单，耍酷告诉加藤万事屋管万事，欲帮他夺回契约书，结果因为喝太多，俩人路边狂吐。第二天，众人齐闯大使馆，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3303/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_003.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3303/" target="_blank">第3话 「天然卷的家伙都不是坏人」</a><span class="date">2006-04-11</span></h3>
+                                <p class="desc">新八作为收银员不被老板看好，遭到天人刁难。银时为他打抱不平，彰显武士风范，如果剧情真是这样多好，结果银时将砍伤天人的刀放在了新八身上，略显无赖之风。为了偿还父亲欠下的债，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3304/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_004.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3304/" target="_blank">第4话 「JUMP有时候周六发售要注意啊」</a><span class="date">2006-04-25</span></h3>
+                                <p class="desc">神乐家一贫如洗，三餐调味拌饭，心中最大理想是吃上鸡蛋拌饭，其实跟没要求一样。班池组以一天三餐鲑鱼茶泡饭的条件将神乐笼络过来，目测吃货神乐也就这么点追求。后来神乐发现自己被</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3305/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_005.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3305/" target="_blank">第5话 「交朋友就要交那种即使变成老」</a><span class="date">2006-05-02</span></h3>
+                                <p class="desc">邮递员撞伤，将信件托付给银时，银时骑虎难下，去戌威星送信，结果竟然是炸弹，虽然不知道是怎么回事，先逃再说，在桂小太郎帮助下顺利逃脱。事后在桂小太郎所属攘夷派中，看到了邮递</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3306/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_006.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3306/" target="_blank">第6话 「一旦约定至死也要遵守」</a><span class="date">2006-05-09</span></h3>
+                                <p class="desc">老实人一旦发火就很难对付，所以新八向佛一样被警局放了出来，这让银时很不爽。新八先走一步，银时、神乐在警局门口碰巧遇见越狱大叔，大叔劫持神乐，威胁银时开车带他逃走，去他不得</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3307/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_007.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3307/" target="_blank">第7话 「宠物的主人要负起责任照顾到」</a><span class="date">2006-05-16</span></h3>
+                                <p class="desc">听见敲门声银时一跃而起，以为房东再次来收房租，于是隔着门一脚踹在了来者脸上，不料倒在门外的是幕府入境管理局长长谷川泰三。在长谷川威逼利诱之下，万事屋接下了寻找白痴王子宠物</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3308/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_008.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3308/" target="_blank">第8话 「坚韧不屈与死缠烂打只是一纸」</a><span class="date">2006-05-23</span></h3>
+                                <p class="desc">隐私部位毛发过长，近藤暗自悲伤，得阿妙安慰近藤倍加感动继而求婚，被拒后不死心死缠烂打，虽被阿妙虐千百遍，仍坚持阿妙为心中最爱，新八无奈找银时帮忙，银时假扮阿妙未婚夫，近藤</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3309/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_009.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3309/" target="_blank">第9话 「打架的时候就应该漂亮的出拳」</a><span class="date">2006-05-30</span></h3>
+                                <p class="desc">近藤决斗中输了让真选组成员大为震惊，全城展开地毯式搜索，寻找让近藤颜面扫地的武士。万事屋来了作死的委托人，委托的工作内容只需一个人，于是坐等三选一出结果，最后银时胜出，心</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3310/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_010.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3310/" target="_blank">第10话 「累的时候喝点酸的东西吧」</a><span class="date">2006-06-06</span></h3>
+                                <p class="desc">神乐在家门口发现一只送给万事屋的狗，满心欢喜带回家，起名定春欲收养，遭银时、新八强烈反对，趁神乐午睡期间打算为定春寻找新饲主，被神乐发现后遭惨揍。hata王子来江户寻找宠物，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3311/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_011.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3311/" target="_blank">第11话 「糟糟的丸子根本就不是丸子你」</a><span class="date">2006-06-13</span></h3>
+                                <p class="desc">新八骨折住院，偶遇无厘头色老头，万事屋三字戳中老头死穴，颤巍巍挪向银时，抽出利器，新八瞬间吓晕。原来老头想委托万事屋帮他寻找初恋，神乐让定春闻发簪上残留气味后，定春追寻气</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3312/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_012.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3312/" target="_blank">第12话 「第一印象好的家伙不一定就是」</a><span class="date">2006-06-13</span></h3>
+                                <p class="desc">登势小酒馆招募到一身世可怜的新人，比起吐槽不好又不会装傻的新八，一心追求食物的吃货神乐，凯瑟琳搞笑潜质不可忽视。警察来登势酒馆让其协助调查附近营业金被卷事件，被银时无厘头</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3313/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_013.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3313/" target="_blank">第13话 「COSPLAY的话就连心一起」</a><span class="date">2006-06-20</span></h3>
+                                <p class="desc">名门之女火腿子夜不归宿，万事屋接受委托前去调查。神乐在酒吧随便抓一火腿男冒充火腿子，这样工作真的没问题吗。银时厕所内发现被正惨遭宇宙人虐待的火腿子，英雄救美不成遭宇宙人毒</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3314/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_014.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3314/" target="_blank">第14话 「敢摸青蛙也是成为真正男人的」</a><span class="date">2006-07-04</span></h3>
+                                <p class="desc">宇宙海盗“春雨”的一艘船被击沉，传言中有幕府官员牵扯其中，为了防止打击报复，真选组奉命保护在幕府中担任官员的天人青蛙。为保护青蛙近藤受伤，还被青蛙冷嘲热讽，所以说，动物与</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3315/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_015.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3315/" target="_blank">第15话 「物似主人形」</a><span class="date">2006-07-11</span></h3>
+                                <p class="desc">桂带着宠物伊利莎白遛弯，遇到了同样带着定春散步的银时，伊利莎白带给桂的改变让银时震惊，其实也就说了句伊利莎白很可爱。为了解决房租危机，银时带定春上电视节目，与桂狭路相逢，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3316/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_016.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3316/" target="_blank">第16话 「仔细想想人生是变成大叔之后」</a><span class="date">2006-07-18</span></h3>
+                                <p class="desc">长谷川一时之气痛揍hata王子，结果被天皇召见要求切腹，感到害怕打算逃走，回家发现妻子比自己还溜得快，于是每天坐在公园抽烟消愁被取绰号“废柴大叔”。打起精神重新找工作，却因发</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3317/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_017.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3317/" target="_blank">第17话 「所谓父子就是连讨厌的东西也」</a><span class="date">2006-07-25</span></h3>
+                                <p class="desc">平贺冠名江户第一发明家，长期扰民，歌舞伎町町内会终于无法忍受，派银时解决，银时以暴制暴，麦克音响齐上阵，将平贺从仓库逼了出来。平贺受高杉教唆，制造杀人机器，打算趁祭典替儿</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3318/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_018.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3318/" target="_blank">第18话 「唉~还是我家最好啊」</a><span class="date">2006-08-01</span></h3>
+                                <p class="desc">新八回家，险遭怒火中烧的姐姐毒手，姐姐暴走的原因居然是遭遇到了内衣贼，新八跟姐姐找银时想对策，最终与神乐达成一致，联手作掉内衣贼。藏身于桌下近藤偷听了事情的全部，将真选组</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3319/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_019.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3319/" target="_blank">第19话 「为什么海水这么咸？还不是因」</a><span class="date">2006-08-08</span></h3>
+                                <p class="desc">同是天涯沦落人的MADAO跟银时相互寒暄，看到别人掉钱后俩人瞬间扑过去，然后买冰棒打牙祭。俩人听说海边有外星人，抓住还会有奖金，对于生活困苦的人来说简直是惊喜啊，于是万事屋，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3320/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_020.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3320/" target="_blank">第20话 「要小心传送带」</a><span class="date">2006-08-15</span></h3>
+                                <p class="desc">夏天正值怪谈盛行之际，真选组也流传着红色和服女的故事，结果18人先后被放倒。近藤找来法师除灵，不料竟是万事屋三人假扮。近藤上厕所不幸中奖，遇到了红色和服女，诸人也目睹了这一</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3321/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_021.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3321/" target="_blank">第21话 「是男人就要钓旗鱼！ / 开着风」</a><span class="date">2006-08-22</span></h3>
+                                <p class="desc">银时、新八、神乐三人去钓鱼，神乐一不注意钓上一只类似河童的天人，被银时一脚踹回河里。天人眼镜被踹碎，新八诚心道歉得到天人原谅，就在天人返回河中时被空降的高尔夫球棒敲碎了碟</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3322/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_022.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3322/" target="_blank">第22话 「所谓结婚就是把错误持续一生」</a><span class="date">2006-09-05</span></h3>
+                                <p class="desc">善后屋小猿刺杀鼠人根津，高度近视影响发挥，秉着打不过就跑的原则，失败后开溜，一不小心掉进了银时的屋内。新八叫起床时发现银时身上趴着一女人，瞬间石化，小猿为躲避追兵，与银时</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3323/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_023.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3323/" target="_blank">第23话 「困难的时候笑一个就好啦笑一」</a><span class="date">2006-09-12</span></h3>
+                                <p class="desc">神乐走狗屎运，抽奖抽到一等奖，获得三人去宇宙旅游的机会，三人在机场偶遇坂本，坂本稀里糊涂将定春带走。飞船遇到劫机事件，万事屋三人跟坂本搞乌龙，将飞船方向舵折断，于是飞船落</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3324/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_024.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3324/" target="_blank">第24话 「可爱的外表下必定隐藏着什么」</a><span class="date">2006-09-19</span></h3>
+                                <p class="desc">银时言语失策，得罪了歌舞伎町四天王之一的西乡，被逮到人妖俱乐部打工，遇到了同为人妖的桂，其实俩人男扮女装更合适吧。因为西乡的缘故，辉彦受人嘲笑鄙视，为了证明自己不是胆小鬼</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3325/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_025.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3325/" target="_blank">第25话 「火锅就是人生的缩影」</a><span class="date">2006-10-05</span></h3>
+                                <p class="desc">吃一顿火锅搞的气氛无比紧张，银时、新八联手欺骗神乐，神乐自述因为银时、新八导致自己的心越来越不纯洁，愤怒的力量将成为她在这个腐烂的世界继续存活下去的食粮。桂与伊莉莎白破窗</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3326/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_026.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3326/" target="_blank">第26话 「不必害羞，举手报告就是了」</a><span class="date">2006-10-12</span></h3>
+                                <p class="desc">万事屋三人受长谷川所托，照看便利店，身为收银员的神乐因为美味棒很好吃所以吃着美味棒收银，遭客人投诉。新八打扫店里卫生，看见有人偷东西，抓住后发现是昔日好友高仔，这时的高仔</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3327/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_027.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3327/" target="_blank">第27话 「世上也有刀斩不断的东西」</a><span class="date">2006-10-19</span></h3>
+                                <p class="desc">万事屋三人在观看阿通格斗比赛时遇见了总悟，并被他带去了地下格斗场，在这里进行的是生死斗技。因为有幕府参与，真选组不能贸然行动，于是拜托万事屋去调查鬼道丸，在调查过程中，发</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3328/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_028.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3328/" target="_blank">第28话 「好事不会连续发生可为什么坏」</a><span class="date">2006-10-26</span></h3>
+                                <p class="desc">万年巨黑处女座，在黑色星座占卜节目中被发卡，告知诸事不详。身为处女的近藤得到了土方的红色兜裆裤，十四的红色围巾。暗自感伤的近藤被松平痛揍，因为围剿竞技场之事和松平一起被传</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3329/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_029.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3329/" target="_blank">第29话 「不要慌！别忘了还有冷静期一」</a><span class="date">2006-11-02</span></h3>
+                                <p class="desc">神乐热衷于电视购物，买了一堆东西被银时退了回去，一气之下拿了银时的木刀去当铺，因为咖喱味太重被各种嫌弃。卖不了钱神乐发火用木刀将桥敲垮，结果被一个执着于收到的天人盯上，为</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3330/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_030.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3330/" target="_blank">第30话 「所谓的偶像其实跟你也没什么」</a><span class="date">2006-11-09</span></h3>
+                                <p class="desc">新八得知阿通与GOEMON交往一蹶不振，在家撕日历，不要妄想撕日历可以发生时空转移，这时有人来访，新八开门后发现站在门外的竟然是阿通。原来阿通收到了恐吓信，新八瞬间复活，决定充当</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3331/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_031.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3331/" target="_blank">第31话 「那些无所谓的小事反而难以忘」</a><span class="date">2006-11-16</span></h3>
+                                <p class="desc">银时骑着小绵羊买了Jump回家，途中不幸遭遇车祸。清醒后竟然失忆了！这样落俗的情节竟然发生在了银时身上！神乐和新八想法设法让银时恢复记忆，途中遭遇数次打击导致银时失去了信心。</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3332/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_032.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3332/" target="_blank">第32话 「人生就像传送带一样不停旋转」</a><span class="date">2006-11-23</span></h3>
+                                <p class="desc">真选组山崎来到工厂做卧底，秘密调查Just We有关事项，遇到了失忆的银时，在调查未果的情况下打算辞职，不想在工厂发现了同样失忆的近藤。三人在争论中近藤不小心将Just We丢出去发生了爆</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3333/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_033.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3333/" target="_blank">第33话 「弄错别人的姓名是很失礼的」</a><span class="date">2006-11-30</span></h3>
+                                <p class="desc">银时、新八、神乐三人为了修复被损毁的房子做起了木匠活，不料越修复房子越糟糕，这时坂本寄来了一个包裹，为了表示歉意，雇了快庆、运庆来修理万事屋。本应怀着感恩之心感谢快庆、运</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3334/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_034.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3334/" target="_blank">第34话 「恋爱是不需要指南的」</a><span class="date">2006-12-07</span></h3>
+                                <p class="desc">新八无意中搭救了在电车上被松平大叔骚扰的猫耳少女小色咪，从此心生情愫。小色咪为了报答新八之恩，写信约他出去，新八激动万分，奈何没有感情经历，于是在网上求助，引来了一场口水</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3335/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_035.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3335/" target="_blank">第35话 「不能以貌取人啊」</a><span class="date">2006-12-14</span></h3>
+                                <p class="desc">新八洗完澡出来，看到衣服上放的卡片，瞬间石化。松平大叔也调查室说出自己被误解的经过，原来小色咪是骗钱的惯犯。银时、神乐、阿妙三人追着逃走的小色咪，就在小色咪被陷入危险时新</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3336/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_036.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3336/" target="_blank">第36话 「心怀鬼胎的人往往能说会道」</a><span class="date">2006-12-21</span></h3>
+                                <p class="desc">阿妙下班回家，路上遇见欲寻短见的同事花子，于是出腿相救，阿妙果然是一个危险的存在。原来花子被“梦幻教”骗光了所有财产，于是万事屋三人、阿妙、花子潜入“梦幻教”调查真相。调</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3337/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_037.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3337/" target="_blank">第37话 「一直刻意强调没有圣诞老人的」</a><span class="date">2006-12-28</span></h3>
+                                <p class="desc">圣诞来临之际，驯鹿拉着雪橇驮着圣诞老人去送礼物，可是雪橇不结实是不可取的，这不就坏到半路了嘛。银时买完肉包往回走，巧遇吵架的圣诞老人与驯鹿。圣诞老人拜托银时解决雪橇问题，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3338/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_038.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3338/" target="_blank">第38话 「只有小孩才会因为下雪而兴奋」</a><span class="date">2007-01-11</span></h3>
+                                <p class="desc">大雪过后江户白茫茫一片，本着作为江户人不忘玩乐的信仰，登势召集歌舞伎町举行雪庆典，第一名还有神秘奖品。万事屋的作品是阿姆斯特朗回旋加速喷气式阿姆斯特朗炮，看了之后不禁浮想</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3339/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_039.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3339/" target="_blank">第39话 「菜单上种类很多的拉面店一般」</a><span class="date">2007-01-18</span></h3>
+                                <p class="desc">桂虽行踪低调，仍被总悟发现，遭追杀不幸受伤，逃亡途中发现手中多了一件Bra,主人则一脸黑线站在旁边，桂装作圣诞老人企图蒙混过关，赤裸裸被K的节奏。将错就错桂在北斗心轩开始打工，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3340/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_040.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3340/" target="_blank">第40话 「生小孩要有计划」</a><span class="date">2007-01-25</span></h3>
+                                <p class="desc">神乐被“在下在下”欺诈招式所骗，有脑子的都知道是让汇款，结果神乐听错话跑去银行撒米。银时、新八赶到银行，误以为神乐抢劫银行，作为家人，大义凛然的冲在前面，结果看到神乐被未</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3341/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_041.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3341/" target="_blank">第41话 「光看标题是无法理解电影内容」</a><span class="date">2007-02-01</span></h3>
+                                <p class="desc">新八得知银时辞退神乐，俩人发生争执，一向只以吐槽设定的新八动手痛揍了银时，神乐的心情只有新八能够理解啊。飞船里的神乐看到追她而来的新八，还未来得及感动，飞船就被宇宙妖怪袭</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3342/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_042.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3342/" target="_blank">第42话 「朝蚯蚓小便的话你重要的地方」</a><span class="date">2007-02-08</span></h3>
+                                <p class="desc">神乐被袭陷入危机，银时与老爹联手搭救，宇宙怪物不断来袭，救援工作无法顺利进行。怪物核心过度吸收能源，压垮船底，神乐也被融入核心之中，救援更加困难，松平驾驶幕府军舰前来支援</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3343/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_043.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3343/" target="_blank">第43话 「描绘角色就要做到让读者光凭」</a><span class="date">2007-02-15</span></h3>
+                                <p class="desc">诸人因为神乐的离开而感到些许落寞，岂不知神乐正在偷窥自己不再时众人的生活。登势拿出某人来万事屋应聘时留下的履历表，怎么看都履历表都像是在征婚好伐。于是一场女主角之争在凯瑟</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3344/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_044.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3344/" target="_blank">第44话 「老妈我也是很忙的不要对晚饭」</a><span class="date">2007-02-22</span></h3>
+                                <p class="desc">伊利莎白被抓，桂求助于万事屋，于是小猿开始对银时、神乐、新八、桂四人进行忍者培训，真是不堪入目的培训。入夜后五人潜入伊利莎白被关的宅邸，不料竟遇到小猿宿敌服部全藏，于是以</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3345/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_045.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3345/" target="_blank">第45话 「带爱犬散步要保持适当的速度」</a><span class="date">2007-03-01</span></h3>
+                                <p class="desc">定春一夜之间个头暴长，以至撑破房顶，成为焦点的定春引来了电视台，原饲主阿音与百音也看到了新闻。因为定春巨大化引起周围居民恐慌，虽然万事屋不放弃定春，但定春还是遭到民众扔石</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3346/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_046.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3346/" target="_blank">第46话 「想要玩XX游戏就等20岁以后吧！」</a><span class="date">2007-03-08</span></h3>
+                                <p class="desc">阿妙抢了阿音的客人，俩人大打出手，老板进行思想教育后，决定二选其一，让在结算日给店里带来利益多的那位留下。阿妙叫来银时、长谷川捧场，阿音不甘示弱叫来松平，松平的到来让阿妙</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3347/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_047.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3347/" target="_blank">第47话 「樱花啊 会长成樱花树么？」</a><span class="date">2007-03-15</span></h3>
+                                <p class="desc">万事屋内喷嚏不断，屋外整个江户花粉症横行，原因不明。神乐用完抽纸，让新八出去买，新八不去于是俩人开始火拼，新八明知打不过还不低调，被神乐甩出撞破窗户，就这样发现了横行江户</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3348/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_048.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3348/" target="_blank">第48话 「两个人相像就会吵架」</a><span class="date">2007-03-22</span></h3>
+                                <p class="desc">攘夷志士三兄弟决定暗杀土方，于是趁着土方放假尾随跟踪。土方在小吃店碰见了银时，围绕蛋黄酱盖饭与红豆盖饭激烈争吵，三郎无辜受牵连牺牲。土方心情不愉悦，去电影院看电影放松，次</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3349/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_049.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3349/" target="_blank">第49话 「没有赌博的人生就像没有放芥」</a><span class="date">2007-03-29</span></h3>
+                                <p class="desc">银时、长谷川勇闯赌场，结果俩人输的只剩内裤，所以说没赌运的就不要妄想啦。得传说中的“运读勘卫兵”相助，俩人的衣服被赎了回来，不做死就不会死的心态，俩人再次输到只剩条内裤，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3350/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_050.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3350/" target="_blank">第50话 「撑起收视率」</a><span class="date">2007-04-05</span></h3>
+                                <p class="desc">银魂终于进入第2年，因为第一年面临数次险遭腰斩的危机，所以出现了不得不做的事情。诸人商量换个主题，于是轮番上演各自改编的剧情，真是惨不忍睹。最终还是决定银魂的故事就是银魂</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3351/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_051.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3351/" target="_blank">第51话 「喂奶要用人体的温度」</a><span class="date">2007-04-12</span></h3>
+                                <p class="desc">“这是你的孩子，请你负责”，万事屋楼下放着一个跟银时长的一模一样的弃婴，于是银时喜当爹。银时受不了周围人的猜疑，抱着婴儿冲出去万事屋，这时婴儿的爷爷桥田来登势酒馆打听孙子</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3352/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_052.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3352/" target="_blank">第52话 「和人见面要先预约」</a><span class="date">2007-04-19</span></h3>
+                                <p class="desc">神乐、新八潜入桥田公司后，发现桥田抓回的女人竟是孙子堪七郎的母亲。原来阿房本是照顾体弱多病的财团少爷勘太郎的女佣，与勘太郎日久生情私奔，等桥田找到时勘太郎已病入膏肓，阿房</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3353/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_053.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3353/" target="_blank">第53话 「压力是导致秃顶的原因，所以」</a><span class="date">2007-04-26</span></h3>
+                                <p class="desc">银时被辰巳误认为是纵火犯，抓回了消防队，一番审问后辰巳发现自己的却抓错了人。辰巳是被消防队从火灾现场救出的女孩，火灾中失去双亲，于是消防队队长便收养了她，希望她能像普通女</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3354/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_054.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3354/" target="_blank">第54话 「天下的娘亲一样亲」</a><span class="date">2007-05-03</span></h3>
+                                <p class="desc">银时、神乐一大早被陌生大婶拉起来吃早饭，新八来后也被迫加入吃早饭行列，三人边吃边聊，发现并非任何一人母亲。原来这位大婶的儿子五年前来到江户打工，至今行踪不明，所以做母亲的</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3355/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_055.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3355/" target="_blank">第55话 「吃东西的时候不要发出咯咯吱」</a><span class="date">2007-05-10</span></h3>
+                                <p class="desc">沟鼠组胜男听到梅尔特产子消息后急忙赶回家，真是条受宠爱的狗，其中一只狗仔生命垂危，大婶及时出现，果然是神出鬼没的设定。狂死郎接到胜男电话，说大婶在他手上，于是狂死郎带着全</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3356/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_056.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3356/" target="_blank">第56话 「小心一日局长，罗登玛伊亚夫」</a><span class="date">2007-05-17</span></h3>
+                                <p class="desc">真选组信誉暴跌，为了挽回信誉，同时宣传市民加强对犯罪的警戒，真选组邀请阿通担任一日局长，并且阿通自带吉祥物“阿诚”，这个一点都不可爱的吉祥物竟是万事屋三人假扮，发现这点后</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3357/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_057.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3357/" target="_blank">第57话 「寻找丢失的物品时要沿着那天」</a><span class="date">2007-05-24</span></h3>
+                                <p class="desc">快援队与青木商会交易的物品“感应血”和货款全部被抢，快援队无一丝头绪，于是陆奥拜托万事屋进行调查，还大方的给了一把枪，其实是个定位器。银时找到坂本龙马，拖着去调查内幕，被</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3358/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_058.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3358/" target="_blank">第58话 「小卖部里最受欢迎的食物果然」</a><span class="date">2007-05-31</span></h3>
+                                <p class="desc">桂不幸遭遇到试刀杀人犯，生死不明。伊利莎白做客万事屋，银时受不了伊利莎白百年不变的眼神，趁接到委托电话后，名正言顺开溜。原来伊利莎白是来委托万事屋调查桂的行踪，于是新八、</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3359/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_059.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3359/" target="_blank">第59话 「注意别忘了把伞带走」</a><span class="date">2007-06-07</span></h3>
+                                <p class="desc">神乐独闯高杉船只被围攻，受伤被活捉。银时被妖刀砍伤，新八将他拖回万事屋，拜托阿妙帮忙照顾，自己则去铸造妖刀的刀铺调查真相。妹妹铁子来到万事屋，向银时说明了“红樱”的可怕之</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3360/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_060.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3360/" target="_blank">第60话 「太阳会再升起」</a><span class="date">2007-06-14</span></h3>
+                                <p class="desc">银时虽身负重伤，但是为了伙伴，为了正义，挺身而出。为救桂攘夷派驾驶船只对战鬼兵队船只，又子搞乌龙将神乐当做人质绑在船头，不料遭轰炸，神乐陷入险境新八及时出现，不过俩人依然</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3361/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_061.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3361/" target="_blank">第61话 「暗夜之虫，会集光中」</a><span class="date">2007-06-21</span></h3>
+                                <p class="desc">高杉带给了似藏光明，让他无法在继续沉溺于黑暗，似藏只盼自己化身为刀，守护在高杉身旁。银时的光芒让似藏厌恶，想尽一切办法消除却不能如愿，终于被“红樱”吞没失去理智。银时不敌</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3362/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_062.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3362/" target="_blank">第62话 「适得其反」</a><span class="date">2007-06-28</span></h3>
+                                <p class="desc">十四怀疑银时与攘夷派有牵扯，派山崎去调查，山崎经过多方打探，均不能清晰理解银时这个人，于是决定亲自去确认。去万事屋后发现屋内空无一人，从登势那得知银时在新八家养伤，便趁夜</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3363/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_063.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3363/" target="_blank">第63话 「JUMP的次回预告是不能相信」</a><span class="date">2007-07-05</span></h3>
+                                <p class="desc">天眼通阿国天赋异能，遭有心人窥觊。全藏得到命令去绑架阿国，为了弥补没完成的任务，专程去送了披萨跟新一期的JUMP，阿国也已经在家等候多时，俩人坐在房顶唠嗑，全藏感受到了阿国心</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3364/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_064.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3364/" target="_blank">第64话 「没想到美味棒吃下去还挺饱的」</a><span class="date">2007-07-12</span></h3>
+                                <p class="desc">THE EDO记者花野与重量级攘夷浪士取得联系，进行独家采访，所谓重量级人物，就是有着狂乱贵公子称号的桂小太郎。总而言之，桂的一天也就是吃吃荞麦面，与攘夷志士闲聊，去万事屋找茬然</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3365/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_065.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3365/" target="_blank">第65话 「少年将通过独角仙得知生命的」</a><span class="date">2007-07-19</span></h3>
+                                <p class="desc">江户掀起独角仙相扑大赛之风，神乐观看比赛过于激动一掌捏死了定春28号，定春28号就是一只屎壳郎冒充的独角仙而已。银时看电视发现独角仙可以卖钱，于是万事屋三人去森林捉独角仙，意</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3366/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_066.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3366/" target="_blank">第66话 「实质重于外表」</a><span class="date">2007-07-26</span></h3>
+                                <p class="desc">新开的甜点店“馅泥牝堕”生意兴隆，与魂平糖丸子店的冷清形成鲜明对比。“馅泥牝堕”老板酔唾野心勃勃要成为甜点之王，想收购魂平糖，传承了四百年的店面怎么可能出售，于是酔唾提议</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3367/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_067.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3367/" target="_blank">第67话 「不断奔跑才是人生」</a><span class="date">2007-08-02</span></h3>
+                                <p class="desc">银时修车不给修理费，平贺秉着钱断义绝的作风，卸下了行驶中小绵羊的轮胎，导致银时与快递员魔破法子相撞。快速星出身的法子，有着不随时被风围绕就无法维持生命的特性，平贺将小绵羊</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3368/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_068.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3368/" target="_blank">第68话 「行走世间全都是妖怪」</a><span class="date">2007-08-09</span></h3>
+                                <p class="desc">歌舞伎町一年一度的祭典又开始了，规定每年在试胆大会中大家都要轮流扮演鬼的角色，今年轮到万事屋三人。三人不按规定的扮相遭到阿落反对，当然会是反对无效嘛，真是高估了自己。一轮</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3369/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_069.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3369/" target="_blank">第69话 「请协助做好垃圾的分类回收」</a><span class="date">2007-08-16</span></h3>
+                                <p class="desc">电视广告用可怕的鬼故事要求大家遵守垃圾分类规则，银时看到后满脸黑线，因为他干了亏心事。为了让心平静，银时拉着神乐去取回JUMP，却在垃圾堆看到机器人头，吓晕了过去。神乐将机器</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3370/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_070.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3370/" target="_blank">第70话 「可爱的东西太多了也会反胃」</a><span class="date">2007-08-23</span></h3>
+                                <p class="desc">银时拖延时间，让新八抱着芙蓉零号机器人头去找源外，新八突破重重围堵，就要到达源外家不幸被抓，不过在被抓前，拔出芙蓉号的中枢扔在了源外家门前。银时、神乐摆脱女仆阵，来到源外</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3371/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_071.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3371/" target="_blank">第71话 「有些数据是删除不掉的」</a><span class="date">2007-08-30</span></h3>
+                                <p class="desc">银时等人前往终端途中被小宇渡拦截，源外为保银时、神乐、小玉顺利去往终端，跌落终端底部，随后神乐与定春也自我牺牲，银时、小玉顺利到达目的地后，银时与林博士发生了激战。小玉假</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3372/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_072.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3372/" target="_blank">第72话 「狗的肉球有令人愉悦的香味」</a><span class="date">2007-09-06</span></h3>
+                                <p class="desc">定春饭量从七袋狗粮下降为五袋，引发神乐担忧，在各种猜测下，定春被换了个坑爹的造型，还是未找到饭量下降原因，最后从定春看杂志时，三人灵光一闪，知道原因出在何处，于是带着定春</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3373/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_073.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3373/" target="_blank">第73话 「松茸真的那么美味么，再想想」</a><span class="date">2007-09-13</span></h3>
+                                <p class="desc">凯瑟琳前来万事屋催房租，与登势一同围堵三人，万事屋逃跑术无人能敌，顺利逃走。银时听说松茸很值钱，于是带领神乐、新八去山上采松茸，途中遇到了摩里之介，他提醒三人最好下山。神</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3374/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_074.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3374/" target="_blank">第74话 「漫画家就要学会存原稿才能独」</a><span class="date">2007-09-20</span></h3>
+                                <p class="desc">凯瑟琳不修边幅两条眉毛快长到一起了，银时提醒后她去修眉，不料出来后两条眉毛变得又黑又粗还连在了一起，但是在坐各位并没发现，凯瑟琳朝登势扑过去，银时还以为凯瑟琳是在发泄不满</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3375/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_075.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3375/" target="_blank">第75话 「工作上的牢骚不要在家里发 要」</a><span class="date">2007-09-27</span></h3>
+                                <p class="desc">银魂动画总结篇。前半段回忆了以前的动画，后半段hata王子做为配音，恶搞以前出现过的精彩画面，后来银时等人觉得有趣，也参与了进来。</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3376/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_076.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3376/" target="_blank">第76话 「这个时候就默默的煮红豆饭吧」</a><span class="date">2007-10-04</span></h3>
+                                <p class="desc">十四突然出现在阿妙上班的地方，指名阿妙接待，近藤最近倒是消失在阿妙视线中，来的是十四这让人不可思议。原来十四是有求于阿妙，近藤被阿妙多次拒绝后已经到了只要是个女的就行的地</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3377/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_077.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3377/" target="_blank">第77话 「今天的敌人到了明天还是敌人」</a><span class="date">2007-10-11</span></h3>
+                                <p class="desc">新八已经有了觉悟，只要姐姐能够幸福，即便哭着也会送她离开，可是看着阿秒道别时哀伤的脸，新八无法让她离开，于是跟近藤来到柳生家，要夺回姐姐，随后，神乐、银时、十四、总悟四人</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3378/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_078.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3378/" target="_blank">第78话 「对食物的喜好强烈的人对人的」</a><span class="date">2007-10-18</span></h3>
+                                <p class="desc">近藤跟新八找到了昏迷不醒的总悟，发誓要为他报仇，这时新八发现对手的手机，里面有张神乐踩着倒地不起的俩人的自拍照，然后新八踩坏手机毁灭证据，不愧是万事屋好战友！新八、近藤在</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3379/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_079.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3379/" target="_blank">第79话 「六个臭皮匠 顶两个诸葛亮」</a><span class="date">2007-10-25</span></h3>
+                                <p class="desc">得知总悟被做掉，十四紧张的将烟花当做香烟来抽，引来了九兵卫跟四天王首领东城步，十四跟新八决定逃为上策，不过怎么也摆脱不了九兵卫的追踪，于是十四留下来对战九兵卫，让新八去找</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3380/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_080.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3380/" target="_blank">第80话 「平时带着眼镜的人一旦摘下眼」</a><span class="date">2007-11-08</span></h3>
+                                <p class="desc">新八找到阿妙后，阿妙却不很跟新八回去，说自己已经下定决心成为九兵卫的左眼，原来九兵卫的左眼是小时候为保护阿妙而瞎的，阿妙心里内疚不已，所以一定要遵守诺言，这时九兵卫拖着战</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3381/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_081.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3381/" target="_blank">第81话 「女人的笑容就是最好的化妆」</a><span class="date">2007-11-15</span></h3>
+                                <p class="desc">银时不但识破了九兵卫的计谋，还夺下她的木刀，扔给新八，自己作为诱饵，引敏木齐上钩，新八黄雀在后，击碎了敏木齐的盘子，取得最终的胜利，阿妙与九兵卫的心结终得以解开。在松平的</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3382/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_082.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3382/" target="_blank">第82话 「不是为了拉面而排队 而是为了」</a><span class="date">2007-11-22</span></h3>
+                                <p class="desc">万事屋穷到只能吃面包配米饭度日，大家满腹怨言时看到电视播送山田村向世界招募勇者，驱逐村里的神秘怪兽，谢礼是一根金萝卜。不用说万事屋三人肯定去山田村了嘛，到后发现村长阻止外</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3383/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_083.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3383/" target="_blank">第83话 「运气跟身份没关系」</a><span class="date">2007-11-29</span></h3>
+                                <p class="desc">俱乐部小姐接二连三感冒请假回家休养，只有阿妙生龙活虎，很糟糕的是还接到了松平要带幕府高官前来光顾的通知，老板找来万事屋帮忙，东拼西凑终于凑够人数，谁料凯瑟琳跟东城还未接客</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3384/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_084.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3384/" target="_blank">第84话 「男人的内心有颗坚硬的水煮蛋」</a><span class="date">2007-12-06</span></h3>
+                                <p class="desc">小钱形平次追捕狐火长五郎长达十年之久，都未能抓捕归案，大家都认为狐火现在堕落成无恶不作的坏人。平次喝醉酒被万事屋三人送回，结果被上司狠狠训斥一顿，于是四人来到小酒馆，平次</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3385/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_085.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3385/" target="_blank">第85话 「硬鸡蛋打不碎」</a><span class="date">2007-12-13</span></h3>
+                                <p class="desc">万事屋三人跟小钱形追到了狐狸，但是发现有九只，原来他们是盗贼团九尾，真正的狐火——酒屋老板背叛了组织，就是当年救小钱形的人。经过一番激斗九尾团伙中八个掉入火海中，真正的狐</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3386/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_086.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3386/" target="_blank">第86话 「数羊数得起劲结果没睡成也是」</a><span class="date">2007-12-20</span></h3>
+                                <p class="desc">总悟的姐姐三叶要结婚了，来到真选组打招呼，总悟从小失去双亲，对他来说，姐姐就像是母亲般的存在。近藤批准总悟休息一天，带三叶去各处浏览，还拉来银时假装是好朋友。土方在调查中</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3387/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_087.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3387/" target="_blank">第87话 「说出我和工作哪个更重要的女」</a><span class="date">2007-12-27</span></h3>
+                                <p class="desc">三叶病危，未婚夫却还在贩卖军火的生意现场，十四单枪匹马闯进现场寻找蔵场当马，山崎感觉事态严重，急忙跑去向近藤报告，近藤率领真选组赶往现场。总悟向银时坦言，自己明白十四是为</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3388/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_088.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3388/" target="_blank">第88话 「联谊在开始前是最有趣的」</a><span class="date">2008-01-10</span></h3>
+                                <p class="desc">东城在少主九兵卫房中发现变性手术的宣传广告，为了让少主保持少女之心生活下去，东城去拜托万事屋帮忙，银时使出杀手锏，举行可以解决万事的联谊活动。于是诸人为了寻找参加联谊的人</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3389/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_089.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3389/" target="_blank">第89话 「事情有过两次就还有三次」</a><span class="date">2008-01-17</span></h3>
+                                <p class="desc">万事屋三人一觉起来发现四周漆黑一片，但是又可以彼此看见对方，一般在这种情况下应该会感到惊奇吧，但是三人淡定如常，倒头继续睡，这时把他们弄到异次元的洞爷湖忍不住跳出来吐槽，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3390/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_090.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3390/" target="_blank">第90话 「越美味的东西吃坏肚子时越恐」</a><span class="date">2008-01-24</span></h3>
+                                <p class="desc">废柴大叔长谷川和伊利莎白捡马路中间火腿肠，被车撞伤送进医院。登势让万事屋三人帮忙将坏掉的螃蟹搬去丢掉，并一再警告坏掉的螃蟹吃了会中毒，三人一脸坚决不会干这种事的表情走了，</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3391/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_091.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3391/" target="_blank">第91话 「想减肥就给我动起来 不许吃东」</a><span class="date">2008-01-31</span></h3>
+                                <p class="desc">女人吃胖真不是一件好事，神乐跑去问阿妙该如何减肥，却看到阿妙也变成了肉球，小猿吃的太胖，天花板经不住她的分量垮塌了，于是三人一起去往断食道场。在断食道场遇到了登势、凯瑟琳</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3392/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_092.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3392/" target="_blank">第92话 「与其看着别人的短处 不如做个」</a><span class="date">2008-02-07</span></h3>
+                                <p class="desc">江户第一狙击手龟接受委托，要杀掉松平大叔，在房间窗口架好狙击枪，静待松平到来。通过瞄准器，看到数百米之外坐在公园长凳上的银时，而银时似乎也在看向这边，而且表情严肃，让杀手</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3393/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_093.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3393/" target="_blank">第93话 「英雄也有烦恼时」</a><span class="date">2008-02-14</span></h3>
+                                <p class="desc">一年一度的情人节来了！银时跟新八穿新衣换新发型，期盼惊喜的到来，神乐淡定的请求神赐予这些可悲的男人巧克力，结果巧克力真的从天而降，砸穿了万事屋的房顶。原来巧克力是宇宙女超</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3394/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_094.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3394/" target="_blank">第94话 「搭电车时务必用双手抓住吊环」</a><span class="date">2008-02-21</span></h3>
+                                <p class="desc">长谷川终于找到了新工作，但是点背不能怪社会，下电车时不慎被绊顺势上演了一场江户筋肉强打事件，也因此不幸被捕。银时探监带来阿初的调查报告，正在与阿初交往的是本案的检察官破牙</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3395/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_095.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3395/" target="_blank">第95话 「男儿便做MADAO」</a><span class="date">2008-02-28</span></h3>
+                                <p class="desc">银时作为长谷川的辩护人出场，与破牙展开了白热化的辩论。前半场银时意气风发，占据上风，破牙提及三周前银时因为在公园偷窥女性更衣而被调查后，情况急转直下，银时、长谷川瞬间处于</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3396/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_096.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3396/" target="_blank">第96话 「阿特拉斯的传说」</a><span class="date">2008-03-06</span></h3>
+                                <p class="desc">某星球在阿特拉斯运作下创造了适合人类生活的环境，阿特拉斯是保护环境的净化系统，排除对星球有害的东西。但是三年前突然长出巨大球体，把人类当做有害物进行攻击。虽然居民们奋力抵</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3397/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_097.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3397/" target="_blank">第97话 「以前的英雄事迹要夸张三分大」</a><span class="date">2008-03-13</span></h3>
+                                <p class="desc">库利坎的出现，打乱了凯瑟琳平静的生活。库利坎是凯瑟琳以前的合作伙伴，他现在来邀请凯瑟琳继续加入组织，否则就要对登势的店铺下手，并约定好见面的时间、地点，刚好被新八、神乐听</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3398/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_098.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3398/" target="_blank">第98话 「游戏一天只能一小时」</a><span class="date">2008-03-20</span></h3>
+                                <p class="desc">游戏机Owee跳票N次后终于发行，万事屋接到委托前来排队。万事屋三人用食物引诱人群发生混乱，趁机站到了队伍前面，正当三人高谈阔论时，发现了桂、伊利莎白、总悟、近藤、十四等人。开</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3399/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_099.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3399/" target="_blank">第99话 「人生和游戏都充满BUG」</a><span class="date">2008-03-27</span></h3>
+                                <p class="desc">对决正在进行中，第一局恋爱游戏，桂恋母情结严重，与女主角母亲暧昧，女主母亲让桂引诱女主，将其杀掉然后就没有可以阻碍俩人在一起的障碍物了，这一招让近藤大跌眼镜，但是游戏充满</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3400/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_100.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3400/" target="_blank">第100话 「越不招人喜欢越可爱」</a><span class="date">2008-04-03</span></h3>
+                                <p class="desc">GINTAMAN编辑小西连续两次遇到银时吐槽GINTAMAN不好看，加上刚在公司被老板狠K一顿，终于无法忍受爆发了，银时淡然听完他肺腑之言，轻描淡写提出要帮他。小西带银时来到漫画家空知家中，空</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3401/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_101.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3401/" target="_blank">第101话 「规定就是为了被打破而存在的」</a><span class="date">2008-04-10</span></h3>
+                                <p class="desc">十四的刀送去锻冶屋修理，顺便从那拿了把刀暂用，虽然锻冶屋老板说那是一把受到诅咒的刀，但十四不听劝还是拿走了，途中遇到一群浪人围攻，谁料十四竟然跪地求饶！自从十四拿了那把妖</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3402/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_102.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3402/" target="_blank">第102话 「OTAKU就是话多」</a><span class="date">2008-04-17</span></h3>
+                                <p class="desc">新八在电视访谈节目中遇到了十四，把他带回万事屋后得知十四已经被驱逐出真选组，而且十四的表现让三人感到奇怪，经过铁子鉴定，十四他身上的刀的确是把妖刀，而十四已被附身，或许再</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3403/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_103.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3403/" target="_blank">第103话 「长处和短处只有一纸之隔」</a><span class="date">2008-04-24</span></h3>
+                                <p class="desc">总悟引爆炸弹，趁乱救下近藤，为了保护近藤逃走，总悟将近藤所在车厢与伊东派所在车厢分离，自己留下来面对敌人。银时通过无线电，以真选组副组长土方十四郎的身份通知真选组诸人前去</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3404/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_104.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3404/" target="_blank">第104话 「重要的东西总是难以发现」</a><span class="date">2008-05-01</span></h3>
+                                <p class="desc">以近藤为首的真选组对上伊东派，战况激烈。银时得知，伊东只是被万齐用来消灭真选组的工具。伊东回忆起小时候，其实自己只是不想孤单一人，但始终得不到别人理解。近藤出手救下即将跌</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3405/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_105.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3405/" target="_blank">第105话 「任何事都要看拍子和时机」</a><span class="date">2008-05-08</span></h3>
+                                <p class="desc">银时用琴弦将直升机跟万齐绑在一起，硬生生将飞机拽了下来，万齐这绝对属于作茧自缚。战斗结束后，近藤等人不希望伊东背着叛徒的污名死去，于是跟在十四的决斗中十四亲手了断了他，这</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3406/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_106.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3406/" target="_blank">第106话 「恋爱大体上都是突然死亡的方」</a><span class="date">2008-05-15</span></h3>
+                                <p class="desc">万事屋三人去球员休息室推销啤酒，球员不买账，非要喝宝矿力，神乐就用啤酒调制成宝矿力，喝的一群人倒地不起，而今天正好球星甘罗尾的引退赛。甘罗尾来休息室看到这种场景，哭天抢地</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3407/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_107.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3407/" target="_blank">第107话 「可怜天下父母心」</a><span class="date">2008-05-22</span></h3>
+                                <p class="desc">万事屋三人接到魔死吕威组组长愚藏委托来到府上，他儿子郁藏在废旧小屋内闭门不出已经五年，拜托万事屋想办法让郁藏出来，一番折腾后愚藏吐血送往医院抢救。夜晚银时来到废旧屋前，恰</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3408/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_108.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3408/" target="_blank">第108话 「有些事还是不说为妙」</a><span class="date">2008-05-29</span></h3>
+                                <p class="desc">愚藏去世，中村接替了愚藏位置，但是组内同盟干部心藏暗鬼，摆下鸿门宴约中村前来。中村以前是个孤儿，后来被愚藏收养，让他保护自己胆小的儿子郁藏，中村也已经把愚藏当做父亲一样敬</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3409/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_109.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3409/" target="_blank">第109话 「人生就是考试」</a><span class="date">2008-06-05</span></h3>
+                                <p class="desc">为了一网打尽攘夷志士，真选组山崎决定加入攘夷志士团队，进行秘密潜入调查。山崎找到组内浪人提出自己要加入的想法，于是俩人带山崎去找桂，桂一脸孤傲的说想要加入首先得面试，山崎</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3410/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_110.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3410/" target="_blank">第110话 「每个人都是冲破名为「自我」」</a><span class="date">2008-06-12</span></h3>
+                                <p class="desc">某座监狱中，一位名叫末吉的男人历时15年，终于挖通了逃出去的道路，现在只需静待时机便可逃走。末吉一觉醒来，发现对面牢房有人了！他能成功挖通通道与对面牢房空无一人有很大关系！</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3411/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_111.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3411/" target="_blank">第111话 「伪娘物千万别让女朋友发现了」</a><span class="date">2008-06-19</span></h3>
+                                <p class="desc">伪娘俱乐部人手不足，银时、新八被拽去帮忙，营业结束后东美找到万事屋，请他们帮个忙。原来一次偶然的相遇下，东美爱上了牛郎俱乐部的十郎太，从此一发不可收拾，所以向万事屋求助。</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3412/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_112.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3412/" target="_blank">第112话 「20岁的生日并没有什么深意」</a><span class="date">2008-06-26</span></h3>
+                                <p class="desc">小玉卖力工作让登势心疼，给她放一天假休息，小玉却不知道怎么休息，银时出门看到小玉呆坐在楼梯上，于是带她去放松。什么夜总会，逛街、SPA等等轮番体验，不过最后小玉却蹲在打折售卖</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3413/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_113.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3413/" target="_blank">第113话 「清洗厕所就是在洗涤心灵」</a><span class="date">2008-07-03</span></h3>
+                                <p class="desc">真选组进行大扫除，一番被分去打扫厕所，大家抱着随便弄弄就好的态度，谁料就有个例外出现，清藏有洁癖，认为打扫卫生也是清洁心灵的过程，还伙同总悟去找十四，提出要把厕所设备换成</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3414/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_114.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3414/" target="_blank">第114话 「虽说在布丁上浇上酱油就会有」</a><span class="date">2008-07-10</span></h3>
+                                <p class="desc">松平之女栗子被三个同事纠缠不休，松平爱女心切，怂恿近藤、十四、总悟三人翘班来帮忙想办法，近藤跟总悟俩二货打算扛枪上阵，为了避免事态发展到无法控制的局面，十四只好硬着头皮上</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3415/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_115.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3415/" target="_blank">第115话 「暑假开始前那段时间才是最愉」</a><span class="date">2008-07-17</span></h3>
+                                <p class="desc">万事屋三人在海滩遇到一只海归，于是让海龟带他们去龙宫度假，途中遇到九兵卫、阿妙、长谷川、桂等人，他们也是因为各种原因由海龟带着去往龙宫，随后海龟之间发生混战，诸人无一幸免</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3416/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_116.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3416/" target="_blank">第116话 「姜还是老的辣」</a><span class="date">2008-07-24</span></h3>
+                                <p class="desc">大家寻找栖身之所时龟梨出现，新八一把揪着龟梨头发质问这哪是龙宫，然后看到洞口挂着龙宫的标识牌，而且龟梨说现在他们已经没有可以回去的地方了，江户现被烟雾笼罩地方的人类，已经</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3417/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_117.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3417/" target="_blank">第117话 「美丽犹如夏天的果实」</a><span class="date">2008-07-31</span></h3>
+                                <p class="desc">为了避免全军覆没，众人分为三组前往乙姬所在之处。龟梨、长谷川本着将敌人领向地狱率先上阵，光荣牺牲，不作死就不会死的道理俩人看来是真不明白。乙姬下令将阿妙丢进水里喂鲨鱼，危</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3418/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_118.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3418/" target="_blank">第118话 「即时折了腰，也要笔直前行」</a><span class="date">2008-08-07</span></h3>
+                                <p class="desc">乙姬命令发射载有老化烟雾的天元寿老炮，决心要将整个江户变成老人城，而这时冷冻装置里的浦岛也通过电脑，将对抗老化烟雾的疫苗给了新八。经过与乙姬的你争我夺，疫苗不小心摔破，恰</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3419/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_119.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3419/" target="_blank">第119话 「一包烟里总会掺进一两支马粪」</a><span class="date">2008-08-14</span></h3>
+                                <p class="desc">真选组率先实行禁烟令，随后整个江户也实行起来，嗜烟如命的土方从此踏上了寻找抽烟的艰辛旅程。好不容易来到哈美克星吧，却发现这里被普利萨烧成了荒野，剩下的唯一一支香烟，还存有</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3420/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_120.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3420/" target="_blank">第120话 「海外的日本料理店的味道大概」</a><span class="date">2008-08-21</span></h3>
+                                <p class="desc">江户街头出现一家天人专用料理店，因为歧视地球人成为过激派的眼中钉，为避免造成过多牺牲，桂假扮成天人混进料理店打工，还遇到了被家人遗弃的Hata王子，其实人家王子是爱上了这家店</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3421/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_121.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3421/" target="_blank">第121话 「新手只要一字和十字的螺丝刀」</a><span class="date">2008-08-28</span></h3>
+                                <p class="desc">新八、银时看新闻报道发生“神隐”事件，俩人吐槽时电视机坏了，然后新八伸出变成螺丝起子的食指让银时使用，难道新八也经历了“神隐”事件么。根据新八回忆，自己的确被绑架过，是天</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3422/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_122.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3422/" target="_blank">第122话 「想象力应从初二培养」</a><span class="date">2008-09-04</span></h3>
+                                <p class="desc">万事屋三人为寻找玩家星人，也开始玩猴子猎人的游戏，游戏中遇到一个强大玩家，新八想要跟他组团，没想到这句话竟先由这个玩家说出来，这可真乐坏了新八，更没想到，这个玩家竟然是桂</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3423/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_123.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3423/" target="_blank">第123话 「一直存在于心中的一把螺丝刀」</a><span class="date">2008-09-11</span></h3>
+                                <p class="desc">虚拟玩家在现实中进行网聚是很正常的事情，但是都是熟人的话就不太正常了嘛。大家对玩家星人没有任何情报跟线索，已经感觉到不可能抓住了，但是都不愿意面对现实。桂的一番话让大家深</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3424/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_124.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3424/" target="_blank">第124话 「过分要求就是威胁」</a><span class="date">2008-09-18</span></h3>
+                                <p class="desc">人气偶像阿通证实自己要出新单曲了，但是某一天得到通知，作曲家万齐弄伤手指，单曲要延迟发售，这可急坏了阿通，于是阿通决定亲自上阵，并独自旅行寻找灵感，加上工作繁忙，或许也是</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3425/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_125.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3425/" target="_blank">第125话 「最终章 突入」</a><span class="date">2008-09-25</span></h3>
+                                <p class="desc">总集篇又来！真是总集篇，由万事屋三人对之前的剧情进行口头叙述加画面回顾。</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3426/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_126.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3426/" target="_blank">第126话 「也有文字传达不了的事情」</a><span class="date">2008-10-02</span></h3>
+                                <p class="desc">阿通应援队在海边进行排练时，新八捡到一个可爱女孩想交朋友的漂流瓶，于是新八每天忙于写信，开始了笔友间的交流。新八反常的表现让阿妙担心，便让银时去打探原因，知道新八想要交笔</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3427/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_127.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3427/" target="_blank">第127话 「也有不见面就无法了解的东西」</a><span class="date">2008-10-09</span></h3>
+                                <p class="desc">小丽姐姐坦白，自己没有自信，所以寄出去的是小丽的照片，但是新八寄的照片也很容易让人误解，虽然新八有在照片中出现，但是怎么看都会认为冲田是新八好嘛。经过书信往来一段时间，女</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3428/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_128.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3428/" target="_blank">第128话 「见了面也会有不明白的事」</a><span class="date">2008-10-16</span></h3>
+                                <p class="desc">新八诚恳无比向姐姐磕头认错，承认自己才是新八，对小丽绝对没有下流的想法，照片事件是银时干的好事，姐姐对新八的悔悟感同身受，主动提出帮新八跟小丽成为朋友。另一边小丽受总悟调</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3429/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_129.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3429/" target="_blank">第129话 「注意不要随便捡东西吃」</a><span class="date">2008-10-23</span></h3>
+                                <p class="desc">定春食欲下降，万事屋三人带它去看医生，拍片后发现定春胃里有阴影，目测是一只手，这个需要住院治疗，于是神乐陪定春留院观察，意外遇到了桂跟伊利莎白。兽医跟狗狗主人一段谈话引起</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3430/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_130.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3430/" target="_blank">第130话 「猫派和狗派水火不容」</a><span class="date">2008-10-30</span></h3>
+                                <p class="desc">金太狼跟定春、神乐逃避追杀，来到了以前经常跟跟老爷子散步的公园，而金太郎寿命栏也就剩了五格，不过用来跟老爷子见面是绰绰有余了。金太郎回忆起跟老爷子以前的生活，突然看到病危</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3431/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_131.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3431/" target="_blank">第131话 「旅行往往得干架」</a><span class="date">2008-11-06</span></h3>
+                                <p class="desc">在登势婆婆好心介绍下，银时、新八、神乐、阿妙四人去仙望乡泡温泉。到达目的地后发现就是一破落旅馆，银时、新八也看到了奇怪的东西，俩人吓的撒腿就逃，但是回去的路被石头堵了，只</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3432/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_132.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3432/" target="_blank">第132话 「紧身内裤无可避免地会沾上大」</a><span class="date">2008-11-13</span></h3>
+                                <p class="desc">这是一家专门为幽灵服务的旅馆，老板娘跟登势是好朋友，冬天是泡温泉的旺季，旅馆人手不足登势才介绍银时等人过来，果然登势的好意充满算计啊。四人中只有银时通过考验，于是银时开始</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3433/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_133.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3433/" target="_blank">第133话 「银时与饭桶阁下」</a><span class="date">2008-11-20</span></h3>
+                                <p class="desc">阿岩打电话给登势，说自己要定银时这个男人，登势好心给阿岩忠告，银时并不是能够轻易收服的。小二来报，银时打破惩戒房逃走了，阿岩下令全面搜查，找到银时后发现，并未死去的三个伙</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3434/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_134.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3434/" target="_blank">第134话 「使用幽灵作为题材时要慎重」</a><span class="date">2008-11-27</span></h3>
+                                <p class="desc">银时同时被多人附身，轮番上阵对战老板娘，战斗进行的如火如荼时沙勿略淡然出现一枪解决混战局面，老板娘战败，谁料老板娘丈夫突然黑化，开始吸收所有生物的灵魂。阿岩回忆起往事，开</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3435/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_135.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3435/" target="_blank">第135话 「在考虑地球之前要考虑更加凶」</a><span class="date">2008-12-04</span></h3>
+                                <p class="desc">大藤接手银塔曼后的问卷调查糟糕透顶，引起BOSS不满被狠K一顿，并放话要是下一期还是这么糟糕就让大藤跟他负责的银塔曼一起从JUMP消失！大藤在列车上遇见了碎碎念的银时，并请他来帮助自</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3436/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_136.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3436/" target="_blank">第136话 「自己的屋子自己造」</a><span class="date">2008-12-11</span></h3>
+                                <p class="desc">借钱不还，拖欠房租，长谷川被光荣的写入歌舞伎町的黑名单内，从此过着流浪的生活。长谷川给阿初打电话，说自己过得很好，房间也收拾的很干净，阿初知道他是在说谎，说自己会过来帮他</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3437/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_137.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3437/" target="_blank">第137话 「99%的男生对告白不自信」</a><span class="date">2008-12-18</span></h3>
+                                <p class="desc">抖M小猿又遭银时虐，伤心之时遇见近藤，俩人都觉得自个是幸福的那个人，然后打赌看谁能先将对方的恋爱导向成功。作战开始，小猿跟近藤分别找到阿妙、银时，将对方爱上别人的消息传达</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3438/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_138.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3438/" target="_blank">第138话 「偶尔说说过去的故事吧」</a><span class="date">2008-12-25</span></h3>
+                                <p class="desc">神乐、新八打扫除时，在牌匾背后发现一叠照片，有张银时跟肉感美女的合照，给人很大的想象空间，新八、神乐感觉像是做贼心虚，在银时回来时紧张的将照片撒了一地，银时捡起照片后发感</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3439/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_139.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3439/" target="_blank">第139话 「不要把钱包放在屁股口袋」</a><span class="date">2009-01-08</span></h3>
+                                <p class="desc">银时被偷了！小偷晴太数钱时发现自己的钱包也不见了，这时银时从他身边经过还在数钱，银时手里拿着的正式晴太的钱包。原来孤儿晴太是被爷爷抚养长大，爷爷去世前告诉晴太他并非是被遗</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3440/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_140.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3440/" target="_blank">第140话 「要小心晴天打伞的人」</a><span class="date">2009-01-15</span></h3>
+                                <p class="desc">进入吉原的神乐、新八、晴太三人被百华发现，首领月咏发起攻击，危急时刻银时赶到，挡下所有攻击，结果晴太因为银时添乱的挡法而中招，然后月咏趁万事屋三人不防备将三人放倒。月咏命</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3441/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_141.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3441/" target="_blank">第141话 「干涉打架是很危险的」</a><span class="date">2009-01-22</span></h3>
+                                <p class="desc">凤仙大人不仅是春雨的干部，还是被称为夜兔之王的男人。神威带晴太去见凤仙，用晴太作为交换，让日轮陪他一晚，惹怒了凤仙，加之神威看不惯沉溺在酒与女人的凤仙，俩人动起手来。凤仙</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3442/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_142.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3442/" target="_blank">第142话 「人生就是接连不断的选择题」</a><span class="date">2009-01-29</span></h3>
+                                <p class="desc">为了给银时三人争取时间，月咏留下来迎战百华，面对月咏的背叛，百华发动攻击，但在最后关头收了手，原来百华中的女子，都是月咏曾经假装杀掉，然后安排进百华给予她们新的生活。银时</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3443/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_143.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3443/" target="_blank">第143话 「四条腿走路的是禽兽 两条腿走」</a><span class="date">2009-02-05</span></h3>
+                                <p class="desc">神威开出一条血路，带着晴太来见日轮，但是日轮却让晴太回去，说自己并不是她的母亲。夜王突然出现，说晴太是普通艺妓所生，跟日轮并没有血缘关系，但晴太说即便没有血缘关系，日轮也</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3444/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_144.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3444/" target="_blank">第144话 「不能相信枕边话」</a><span class="date">2009-02-12</span></h3>
+                                <p class="desc">晴太听从银时所说，想要带着日轮逃走，可发现她的双脚已经被夜王废了。厌恶阳光的夜王，在日轮身上看到了太阳般的光辉，想要将那圣洁的灵魂拽入黑暗中，便一直将她束缚在自己身边。晴</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3445/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_145.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3445/" target="_blank">第145话 「羁绊的颜色是十人十色的」</a><span class="date">2009-02-19</span></h3>
+                                <p class="desc">银时、月咏一群人经过混战压制住了夜王，就在大家松了一口气时夜王复活，银时为保护月咏受伤，月咏等人陷入恐惧中。晴太在神乐、新八掩护下来到控制室，扳动机关，吉原天空的上方，有</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3446/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_146.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3446/" target="_blank">第146话 「白日喝酒别有一番风味」</a><span class="date">2009-02-26</span></h3>
+                                <p class="desc">日轮陪夜王走完了他生命最后一刻，大家将他埋在了阳光充足的地方。神威对银时很感兴趣，为了让不让别人对自己的猎物下手，但自己有不善于交际，神威便让阿伏兔去应付春雨组织的头，神</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3447/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_147.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3447/" target="_blank">第147话 「所有的大人都是小孩子的老师」</a><span class="date">2009-03-05</span></h3>
+                                <p class="desc">经过吉原一战，新八跟神乐为了变得更强而进行强化训练。俩人去拜托银时对他们进行特训，而银时不但没有指导作用，还不断打击俩人。阿妙、近藤、桂依次出场，以修行指导的名义进行恶搞</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3448/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_148.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3448/" target="_blank">第148话 「拉链要慢慢往上拉」</a><span class="date">2009-03-12</span></h3>
+                                <p class="desc">土方、总悟夜间巡逻时被袭击绑架，醒来后俩人发现被困在废弃的黑屋中，毫无头绪时电视突然亮起，里面出现一个自称为地愚藏的男人，对真选组伙伴之间的羁绊展开挑战。地愚藏说自己在真</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3449/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_149.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3449/" target="_blank">第149话 「把棒棒冰一分为二的时候，从」</a><span class="date">2009-03-19</span></h3>
+                                <p class="desc">地愚藏派自个爱犬喜九藏来小屋散步，不过这只狗有个不好的习惯，散步的时候老爱捡闪闪发光的东西，钥匙危险了。土方为了防止钥匙被叼走混乱中将钥匙扔出了窗外，这样的结果跟被狗叼走</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="pic"><a href="http://www.dilidili.wang/watch/3450/" target="_blank"><img src="http://static.jfrft.com/anime/gintama/images/thumb_150.jpg"/></a></div>
+                            <div class="txt">
+                                <h3><a href="http://www.dilidili.wang/watch/3450/" target="_blank">第150话 「只要结局好一切都完美」</a><span class="date">2009-03-26</span></h3>
+                                <p class="desc">万事屋三人身着正装登场，宣布银魂动画制作公司Sunrise受到金融危机的影响，决定这集就是最终话了。于是万事屋开始各种结局设想，在进行了很多次不靠谱的结局后，最终还是以无果结束。</p>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--<div class="comment">
+            <i>评论列表</i>
+            <!– Duoshuo Comment BEGIN –>
+            <div class="ds-thread"  data-thread-key="12937" data-author-key="1"  data-url="http://www.dilidili.wang/./anime/gintama3/"  data-image="http://static.jfrft.com/images/cover/12937.jpg" data-title="银魂°"></div>
+            <script type="text/javascript">
+                var duoshuoQuery = {short_name: "dzhan"};
+                (function() {
+                    var ds = document.createElement('script');
+                    ds.type = 'text/javascript';ds.async = true;
+                    ds.src = 'http://static.duoshuo.com/embed.js';
+                    ds.charset = 'UTF-8';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+                })();
+            </script>
+            <!– Duoshuo Comment END –><div id="ds-ssr" class="mt1">
+            <dl class="tbox">
+                <dt> <strong>评论列表（网友评论仅供网友表达个人看法，并不表明本站同意其观点或证实其描述）</strong> </dt>
+                <dd>
+                    <div class="dede_comment">
+                        <div class="decmt-box1">
+                            <ul>
+                                <li id="commetcontentNew"></li>
+
+
+                            </ul>
+                        </div>
+                    </div>
+                </dd>
+            </dl>
+        </div>
+
+
+        </div>-->
+        <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='612487' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+    </div>
+    <div class="right">
+        <div class="ad"><script type="text/javascript" src="http://static.jfrft.com/js/ad_right.js"></script></div>
+        <div class="ad"><script type="text/javascript" src="http://static.jfrft.com/js/right1.js"></script></div>
+        <div class="ad"><script type="text/javascript" src="http://static.jfrft.com/js/right2.js"></script></div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/js/tongji.js" type='text/javascript' language="javascript"></script>
+<script>
+    var __cs_rich_info__ = {};__cs_rich_info__.asdata = [
+
+        {swfurl:'http://c.tb1u.com/b/1/159/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/159/0.html?uid=318366',eps:'NGEgICAgICAgICAgNDFTUVhTVlZMUlVXUFlMV1NWVExQTFNSV1hXTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+        ,
+        {swfurl:'http://c.tb1u.com/b/1/604/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/604/0.html?uid=318366',eps:'YzggICAgICAgICAgMGJTUVhTVlZMUlVXUFlMV1NWVExRTFNSV1lQTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+        ,
+        {swfurl:'http://c.tb1u.com/b/1/607/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/607/0.html?uid=318366',eps:'OWUgICAgICAgICAgOWVTUVhTVlZMUlVXUFlMV1NWVExSTFNSV1lTTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+        ,
+        {swfurl:'http://c.tb1u.com/b/1/610/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/610/0.html?uid=318366',eps:'MzkgICAgICAgICAgMWZTUVhTVlZMUlVXUFlMV1NWVExTTFNSV1lWTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+        ,
+        {swfurl:'http://c.tb1u.com/b/1/1040/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/1040/0.html?uid=318366',eps:'NzIgICAgICAgICAgODBTUVhTVlZMUlVXUFlMV1NWVExQTFNWUFZVTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+        ,
+        {swfurl:'http://c.tb1u.com/b/1/604/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/604/0.html?uid=318366',eps:'YzggICAgICAgICAgMGJTUVhTVlZMUlVXUFlMV1NWVExRTFNSV1lQTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+        ,
+        {swfurl:'http://c.tb1u.com/b/1/607/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/607/0.html?uid=318366',eps:'OWUgICAgICAgICAgOWVTUVhTVlZMUlVXUFlMV1NWVExSTFNSV1lTTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+        ,
+        {swfurl:'http://c.tb1u.com/b/1/610/gdd9fid.swf?uid=318366',dsturl:'http://c.tb1u.com/s/1/610/0.html?uid=318366',eps:'MzkgICAgICAgICAgMWZTUVhTVlZMUlVXUFlMV1NWVExTTFNSV1lWTFFSUE5TVk5YVE5SVUxSUFFVUFhQVFFSUlZUWA%3D%3D'}
+    ];
+    __cs_rich_info__.w=300;
+    __cs_rich_info__.h=250;
+    __cs_rich_info__.close_top=3;
+    __cs_rich_info__.close_left=(300-36);
+    __cs_rich_info__.close_width=25;
+    __cs_rich_info__.close_height=13;
+    __cs_rich_info__.keepClose=0;
+    __cs_rich_info__.flash=0;
+    __cs_rich_info__.richtype=0;
+    __cs_rich_info__.duration=3600;
+    __cs_rich_info__.delaytime=100;
+    __cs_rich_info__.interval=50;
+    __cs_rich_info__.domain='rwq.youle55.com';
+    __cs_rich_info__.sitetype= 4;
+    __cs_rich_info__.showlogo=0;
+    __cs_rich_info__.rich_div_id='cs_right_bottom';
+    __cs_rich_info__.div_close_id='cs_rich_close';
+    __cs_rich_info__.cookiehead='cscpvrich';
+    __cs_rich_info__.offset=0;
+    __cs_rich_info__.offsetx=0;
+    __cs_rich_info__.closetype=0;
+    __cs_rich_info__.self_list=['cs_couplet_left','cs_couplet_right','cs_right_bottom','ft_couplet_left','ft_couplet_right','ft_right_bottom'];
+    document.writeln("<sty"+"le>#cs_couplet_left,#cs_couplet_right,#cs_right_bottom,#ft_couplet_left,#ft_couplet_right,#ft_right_bottom{z-index:2147483647;}</s" + "tyle>");
+    var __pS_cs = document.createElement('script');
+    __pS_cs.type = "text/javascript";__pS_cs.src="http://img.twcczhu.com/js/rr/rich03.js?v0.1";
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(__pS_cs, x);
+</script>
+</body>
+</html>

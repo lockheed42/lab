@@ -1,0 +1,2040 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="utf-8">
+    <title>网球王子国语版-  在线&下载 - 嘀哩嘀哩</title>
+    <meta name="keywords" content="网球王子国语版下载,网球王子国语版全集" />
+    <meta name="description" content="新学期开始，青春学园男子网球部的迎来了一个初一新生——越前龙马。虽然是为了帮助网球部其他新生出头，不被高年级欺负，但他的态度真是拽的可以，于是很快就和前辈用比赛决胜负。出人意料的是他的实力也确实在高的惊人，美国少年网球比赛四连冠的成绩，引起了网球部指导兼社长手冢的注意，并破例将他选入正式队员队伍，开" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <script src="http://static.jfrft.com/js/uaredirect.js"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/tenipuri/");</script>
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/tenipuri/"/>
+    <link rel="canonical" href="http://www.dilidili.wang/anime/tenipuri/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/tenipuri/" >
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+    <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+    <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js" defer></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+    <script>
+        jQuery(function(){
+            new jbCollect('a._collect', '#content1');
+        });
+    </script>
+    <base target="_blank">
+    <style>
+    </style>
+</head>
+<body>
+<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201801/" target="_blank">一月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+
+<div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>网球王子国语版</a></div>
+<div class="aside_cen2">
+    <div class="detail con24 clear">
+        <dl>
+            <dt><img src="http://static.jfrft.com/uploads/201512/1-1512231F452293.jpg" alt="网球王子国语版"/></dt>
+            <dd>
+                <h1>网球王子国语版</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="网球王子国语版" data-url="http://www.dilidili.wang/anime/tenipuri/" data-icon="http://static.jfrft.com/uploads/201512/1-1512231F452293.jpg"><span>收藏</span></a></div><br/>
+                <span class="play_cs">播放次数:<script src="http://www.dilidili.wang/plus/countlist.php?view=yes&aid=18&mid=" type='text/javascript' language="javascript"></script></span>
+                <p><div class="d_label"><b>地区：</b><a href="/riyu/" title="日本动漫">日本</a></div><div class="d_label"><b>年代：</b><a href="/2010xq/" title="2010年之前番">2010年之前</a></div></p>
+                <p><div class="d_label"><b>标签：</b>励志|运动|搞笑|热血</div><div class="d_label"><b>状态：</b>完结</div></p>
+                <p><div class="d_label2"><b>看点：</b>杀人网球</div></p>
+                <p><div class="d_label2"><b>简介：</b>新学期开始，青春学园男子网球部的迎来了一个初一新生——越前龙马。虽然是为了帮助网球部其他新生出头，不被高年级欺负，但他的态度真是拽的可以，于是很快就和前辈用比赛决胜负。出人意料的是他的实力也确实在高的惊人，美国少年网球比赛四连冠的成绩，引起了网球部指导兼社长手冢的注意，并破例将他选入正式队员队伍，开</div></p>
+                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('网球王子国语版','','','http://www.dilidili.wang/anime/tenipuri/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                <p>
+                <div class="button_bar">
+                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>
+                    
+                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                </div>
+                </p>
+            </dd>
+        </dl>
+    </div>
+    <div class="con24 m-10 xf_news">
+        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+        </div>
+        <div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+        <div class="time_pic list">
+            <div class="time_con">
+                <div class="swiper-container xfswiper1">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul class="clear">
+                                <li><a href="http://www.dilidili.wang/watch/4601/1/" target="_self"><em><span>第1话</span>网球王子 第1集「王子出现」</em></a></li><li><a href="http://www.dilidili.wang/watch/4602/2/" target="_self"><em><span>第2话</span>网球王子 第2集「少年武士」</em></a></li><li><a href="http://www.dilidili.wang/watch/4603/3/" target="_self"><em><span>第3话</span>网球王子 第3集「青春学园正选球员登场」</em></a></li><li><a href="http://www.dilidili.wang/watch/4604/4/" target="_self"><em><span>第4话</span>网球王子 第4集「被称为蛇的男人」</em></a></li><li><a href="http://www.dilidili.wang/watch/4605/5/" target="_self"><em><span>第5话</span>网球王子 第5集「蝮蛇球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4606/6/" target="_self"><em><span>第6话</span>网球王子 第6集「那个叫越前南次郎的男人」</em></a></li><li><a href="http://www.dilidili.wang/watch/4607/7/" target="_self"><em><span>第7话</span>网球王子 第7集「两个龙马君」</em></a></li><li><a href="http://www.dilidili.wang/watch/4608/8/" target="_self"><em><span>第8话</span>网球王子 第8集「小碎步」</em></a></li><li><a href="http://www.dilidili.wang/watch/4609/9/" target="_self"><em><span>第9话</span>网球王子 第9集「难熬的一天」</em></a></li><li><a href="http://www.dilidili.wang/watch/4610/10/" target="_self"><em><span>第10话</span>网球王子 第10集「再次反击佐佐木！」</em></a></li><li><a href="http://www.dilidili.wang/watch/4611/11/" target="_self"><em><span>第11话</span>网球王子 第11集「龙马 VS 桃城」</em></a></li><li><a href="http://www.dilidili.wang/watch/4612/12/" target="_self"><em><span>第12话</span>网球王子 第12集「开合战术-双打少年」</em></a></li><li><a href="http://www.dilidili.wang/watch/4613/13/" target="_self"><em><span>第13话</span>网球王子 第13集「男人的双打！」</em></a></li><li><a href="http://www.dilidili.wang/watch/4614/14/" target="_self"><em><span>第14话</span>网球王子 第14集「燕子转身」</em></a></li><li><a href="http://www.dilidili.wang/watch/4615/15/" target="_self"><em><span>第15话</span>网球王子 第15集「各自奋战」</em></a></li><li><a href="http://www.dilidili.wang/watch/4616/16/" target="_self"><em><span>第16话</span>网球王子 第16集「回旋蛇镖」</em></a></li><li><a href="http://www.dilidili.wang/watch/4617/17/" target="_self"><em><span>第17话</span>网球王子 第17集「小小的胜利姿势」</em></a></li><li><a href="http://www.dilidili.wang/watch/4618/18/" target="_self"><em><span>第18话</span>网球王子 第18集「情书」</em></a></li><li><a href="http://www.dilidili.wang/watch/4619/19/" target="_self"><em><span>第19话</span>网球王子 第19集「龙马受伤了」</em></a></li><li><a href="http://www.dilidili.wang/watch/4620/20/" target="_self"><em><span>第20话</span>网球王子 第20集「时间限制」</em></a></li><li><a href="http://www.dilidili.wang/watch/4621/21/" target="_self"><em><span>第21话</span>网球王子 第21集「激战！沸腾的球场？？」</em></a></li><li><a href="http://www.dilidili.wang/watch/4622/22/" target="_self"><em><span>第22话</span>网球王子 第22集「薰倒霉的一天」</em></a></li><li><a href="http://www.dilidili.wang/watch/4623/23/" target="_self"><em><span>第23话</span>网球王子 第23集「出现！乾式特制饮料」</em></a></li><li><a href="http://www.dilidili.wang/watch/4624/24/" target="_self"><em><span>第24话</span>网球王子 第24集「龙马的假日」</em></a></li><li><a href="http://www.dilidili.wang/watch/4625/25/" target="_self"><em><span>第25话</span>网球王子 第25集「青学的最强者 前篇」</em></a></li><li><a href="http://www.dilidili.wang/watch/4626/26/" target="_self"><em><span>第26话</span>网球王子 第26集「青学的最强者 后篇」</em></a></li><li><a href="http://www.dilidili.wang/watch/4627/27/" target="_self"><em><span>第27话</span>网球王子 第27集「加鲁比历险记」</em></a></li><li><a href="http://www.dilidili.wang/watch/4628/28/" target="_self"><em><span>第28话</span>网球王子 第28集「出现一个新正选球员」</em></a></li><li><a href="http://www.dilidili.wang/watch/4629/29/" target="_self"><em><span>第29话</span>网球王子 第29集「阿桃和海堂蛇」</em></a></li><li><a href="http://www.dilidili.wang/watch/4630/30/" target="_self"><em><span>第30话</span>网球王子 第30集「观月的剧本」</em></a></li><li><a href="http://www.dilidili.wang/watch/4631/31/" target="_self"><em><span>第31话</span>网球王子 第31集「攀月截击」</em></a></li><li><a href="http://www.dilidili.wang/watch/4632/32/" target="_self"><em><span>第32话</span>网球王子 第32集「必杀！英二的假死攻击！？」</em></a></li><li><a href="http://www.dilidili.wang/watch/4633/33/" target="_self"><em><span>第33话</span>网球王子 第33集「抢7局」</em></a></li><li><a href="http://www.dilidili.wang/watch/4634/34/" target="_self"><em><span>第34话</span>网球王子 第34集「晴空抽杀」</em></a></li><li><a href="http://www.dilidili.wang/watch/4635/35/" target="_self"><em><span>第35话</span>网球王子 第35集「抽击球B」</em></a></li><li><a href="http://www.dilidili.wang/watch/4636/36/" target="_self"><em><span>第36话</span>网球王子 第36集「兄长，不二周助」</em></a></li><li><a href="http://www.dilidili.wang/watch/4637/37/" target="_self"><em><span>第37话</span>网球王子 第37集「画有龙马头像的网球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4638/38/" target="_self"><em><span>第38话</span>网球王子 第38集「惩罚之茶」</em></a></li><li><a href="http://www.dilidili.wang/watch/4639/39/" target="_self"><em><span>第39话</span>网球王子 第39集「巨熊回击」</em></a></li><li><a href="http://www.dilidili.wang/watch/4640/40/" target="_self"><em><span>第40话</span>网球王子 第40集「雨中的决斗」</em></a></li><li><a href="http://www.dilidili.wang/watch/4641/41/" target="_self"><em><span>第41话</span>网球王子 第41集「风波」</em></a></li><li><a href="http://www.dilidili.wang/watch/4642/42/" target="_self"><em><span>第42话</span>网球王子 第42集「被阻击的大石」</em></a></li><li><a href="http://www.dilidili.wang/watch/4643/43/" target="_self"><em><span>第43话</span>网球王子 第43集「幸运千石」</em></a></li><li><a href="http://www.dilidili.wang/watch/4644/44/" target="_self"><em><span>第44话</span>网球王子 第44集「Jack Knife」</em></a></li><li><a href="http://www.dilidili.wang/watch/4645/45/" target="_self"><em><span>第45话</span>网球王子 第45集「球场上的恶魔」</em></a></li><li><a href="http://www.dilidili.wang/watch/4646/46/" target="_self"><em><span>第46话</span>网球王子 第46集「武士魂」</em></a></li><li><a href="http://www.dilidili.wang/watch/4647/47/" target="_self"><em><span>第47话</span>网球王子 第47集「决不认输」</em></a></li><li><a href="http://www.dilidili.wang/watch/4648/48/" target="_self"><em><span>第48话</span>网球王子 第48集「决定的瞬间」</em></a></li><li><a href="http://www.dilidili.wang/watch/4649/49/" target="_self"><em><span>第49话</span>网球王子 第49集「另类较量」</em></a></li><li><a href="http://www.dilidili.wang/watch/4650/50/" target="_self"><em><span>第50话</span>网球王子 第50集「以青学的名义」</em></a></li><li><a href="http://www.dilidili.wang/watch/4651/51/" target="_self"><em><span>第51话</span>网球王子 第51集「乾的挑战」</em></a></li><li><a href="http://www.dilidili.wang/watch/4652/52/" target="_self"><em><span>第52话</span>网球王子 第52集「青学最大的危机」</em></a></li><li><a href="http://www.dilidili.wang/watch/4653/53/" target="_self"><em><span>第53话</span>网球王子 第53集「桃城归来」</em></a></li><li><a href="http://www.dilidili.wang/watch/4654/54/" target="_self"><em><span>第54话</span>网球王子 第54集「薰的特训」</em></a></li><li><a href="http://www.dilidili.wang/watch/4655/55/" target="_self"><em><span>第55话</span>网球王子 第55集「紧逼的冰帝」</em></a></li><li><a href="http://www.dilidili.wang/watch/4656/56/" target="_self"><em><span>第56话</span>网球王子 第56集「3人的双打」</em></a></li><li><a href="http://www.dilidili.wang/watch/4657/57/" target="_self"><em><span>第57话</span>网球王子 第57集「瞬间式发球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4658/58/" target="_self"><em><span>第58话</span>网球王子 第58集「最差的配合！？」</em></a></li><li><a href="http://www.dilidili.wang/watch/4659/59/" target="_self"><em><span>第59话</span>网球王子 第59集「厌腻的执着」</em></a></li><li><a href="http://www.dilidili.wang/watch/4660/60/" target="_self"><em><span>第60话</span>网球王子 第60集「Power V.S Power」</em></a></li><li><a href="http://www.dilidili.wang/watch/4661/61/" target="_self"><em><span>第61话</span>网球王子 第61集「波动球之战」</em></a></li><li><a href="http://www.dilidili.wang/watch/4662/62/" target="_self"><em><span>第62话</span>网球王子 第62集「消失的发球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4663/63/" target="_self"><em><span>第63话</span>网球王子 第63集「最后的三重反击」</em></a></li><li><a href="http://www.dilidili.wang/watch/4664/64/" target="_self"><em><span>第64话</span>网球王子 第64集「网球9人组（Q版）」</em></a></li><li><a href="http://www.dilidili.wang/watch/4665/65/" target="_self"><em><span>第65话</span>网球王子 第65集「成为青学的支柱」</em></a></li><li><a href="http://www.dilidili.wang/watch/4666/66/" target="_self"><em><span>第66话</span>网球王子 第66集「迈向破灭的轮舞曲」</em></a></li><li><a href="http://www.dilidili.wang/watch/4667/67/" target="_self"><em><span>第67话</span>网球王子 第67集「最后的一球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4668/68/" target="_self"><em><span>第68话</span>网球王子 第68集「终结的决胜局」</em></a></li><li><a href="http://www.dilidili.wang/watch/4669/69/" target="_self"><em><span>第69话</span>网球王子 第69集「正选落入谁手？」</em></a></li><li><a href="http://www.dilidili.wang/watch/4670/70/" target="_self"><em><span>第70话</span>网球王子 第70集「网球 VS 乒乓」</em></a></li><li><a href="http://www.dilidili.wang/watch/4671/71/" target="_self"><em><span>第71话</span>网球王子 第71集「约会啦！」</em></a></li><li><a href="http://www.dilidili.wang/watch/4672/72/" target="_self"><em><span>第72话</span>网球王子 第72集「薰，成为龙马吧」</em></a></li><li><a href="http://www.dilidili.wang/watch/4673/73/" target="_self"><em><span>第73话</span>网球王子 第73集「手冢的决意」</em></a></li><li><a href="http://www.dilidili.wang/watch/4674/74/" target="_self"><em><span>第74话</span>网球王子 第74集「传向越前的Message」</em></a></li><li><a href="http://www.dilidili.wang/watch/4675/75/" target="_self"><em><span>第75话</span>网球王子 第75集「再见了，手冢国光」</em></a></li><li><a href="http://www.dilidili.wang/watch/4676/76/" target="_self"><em><span>第76话</span>网球王子 第76集「青学 对 城成湘南」</em></a></li><li><a href="http://www.dilidili.wang/watch/4677/77/" target="_self"><em><span>第77话</span>网球王子 第77集「冷静与热情的战斗」</em></a></li><li><a href="http://www.dilidili.wang/watch/4678/78/" target="_self"><em><span>第78话</span>网球王子 第78集「晴天霹雳」</em></a></li><li><a href="http://www.dilidili.wang/watch/4679/79/" target="_self"><em><span>第79话</span>网球王子 第79集「“I”阵形」</em></a></li><li><a href="http://www.dilidili.wang/watch/4680/80/" target="_self"><em><span>第80话</span>网球王子 第80集「模仿战术」</em></a></li><li><a href="http://www.dilidili.wang/watch/4681/81/" target="_self"><em><span>第81话</span>网球王子 第81集「蝮蛇VS冒牌蝮蛇」</em></a></li><li><a href="http://www.dilidili.wang/watch/4682/82/" target="_self"><em><span>第82话</span>网球王子 第82集「华村的诱惑」</em></a></li><li><a href="http://www.dilidili.wang/watch/4683/83/" target="_self"><em><span>第83话</span>网球王子 第83集「最高的作品」</em></a></li><li><a href="http://www.dilidili.wang/watch/4684/84/" target="_self"><em><span>第84话</span>网球王子 第84集「撕裂强力击」</em></a></li><li><a href="http://www.dilidili.wang/watch/4685/85/" target="_self"><em><span>第85话</span>网球王子 第85集「决斗的结果」</em></a></li><li><a href="http://www.dilidili.wang/watch/4686/86/" target="_self"><em><span>第86话</span>网球王子 第86集「加快节奏」</em></a></li><li><a href="http://www.dilidili.wang/watch/4687/87/" target="_self"><em><span>第87话</span>网球王子 第87集「网球的传说（Q版） / 保龄球的王子」</em></a></li><li><a href="http://www.dilidili.wang/watch/4688/88/" target="_self"><em><span>第88话</span>网球王子 第88集「保龄球的王子 / 乾之眼镜丢失案件（Q版）」</em></a></li><li><a href="http://www.dilidili.wang/watch/4689/89/" target="_self"><em><span>第89话</span>网球王子 第89集「青学、充满干劲的坛」</em></a></li><li><a href="http://www.dilidili.wang/watch/4690/90/" target="_self"><em><span>第90话</span>网球王子 第90集「房总半岛的沙滩排球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4691/91/" target="_self"><em><span>第91话</span>网球王子 第91集「六角中学的一年级部长」</em></a></li><li><a href="http://www.dilidili.wang/watch/4692/92/" target="_self"><em><span>第92话</span>网球王子 第92集「长球拍的男人」</em></a></li><li><a href="http://www.dilidili.wang/watch/4693/93/" target="_self"><em><span>第93话</span>网球王子 第93集「爆裂波动球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4694/94/" target="_self"><em><span>第94话</span>网球王子 第94集「封印菊丸的密策」</em></a></li><li><a href="http://www.dilidili.wang/watch/4695/95/" target="_self"><em><span>第95话</span>网球王子 第95集「打破燕回闪」</em></a></li><li><a href="http://www.dilidili.wang/watch/4696/96/" target="_self"><em><span>第96话</span>网球王子 第96集「燃烧吧 龙马！」</em></a></li><li><a href="http://www.dilidili.wang/watch/4697/97/" target="_self"><em><span>第97话</span>网球王子 第97集「最后的扣杀」</em></a></li><li><a href="http://www.dilidili.wang/watch/4698/98/" target="_self"><em><span>第98话</span>网球王子 第98集「台球王子」</em></a></li><li><a href="http://www.dilidili.wang/watch/4699/99/" target="_self"><em><span>第99话</span>网球王子 第99集「被诅咒的球拍」</em></a></li><li><a href="http://www.dilidili.wang/watch/4700/100/" target="_self"><em><span>第100话</span>网球王子 第100集「大石部长」</em></a></li><li><a href="http://www.dilidili.wang/watch/4701/101/" target="_self"><em><span>第101话</span>网球王子 第101集「吞噬立海大」</em></a></li><li><a href="http://www.dilidili.wang/watch/4702/102/" target="_self"><em><span>第102话</span>网球王子 第102集「观月的私语」</em></a></li><li><a href="http://www.dilidili.wang/watch/4703/103/" target="_self"><em><span>第103话</span>网球王子 第103集「难以入睡的夜晚」</em></a></li><li><a href="http://www.dilidili.wang/watch/4704/104/" target="_self"><em><span>第104话</span>网球王子 第104集「龙马VS真田」</em></a></li><li><a href="http://www.dilidili.wang/watch/4705/105/" target="_self"><em><span>第105话</span>网球王子 第105集「龙马惨败」</em></a></li><li><a href="http://www.dilidili.wang/watch/4706/106/" target="_self"><em><span>第106话</span>网球王子 第106集「一起去合宿」</em></a></li><li><a href="http://www.dilidili.wang/watch/4707/107/" target="_self"><em><span>第107话</span>网球王子 第107集「部长出现！？」</em></a></li><li><a href="http://www.dilidili.wang/watch/4708/108/" target="_self"><em><span>第108话</span>网球王子 第108集「惊愕的合宿」</em></a></li><li><a href="http://www.dilidili.wang/watch/4709/109/" target="_self"><em><span>第109话</span>网球王子 第109集「网球・射击赛」</em></a></li><li><a href="http://www.dilidili.wang/watch/4710/110/" target="_self"><em><span>第110话</span>网球王子 第110集「飞翔吧 桦地」</em></a></li><li><a href="http://www.dilidili.wang/watch/4711/111/" target="_self"><em><span>第111话</span>网球王子 第111集「天才 不二周助」</em></a></li><li><a href="http://www.dilidili.wang/watch/4712/112/" target="_self"><em><span>第112话</span>网球王子 第112集「波动球VS瞬间发球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4713/113/" target="_self"><em><span>第113话</span>网球王子 第113集「华丽的迹部」</em></a></li><li><a href="http://www.dilidili.wang/watch/4714/114/" target="_self"><em><span>第114话</span>网球王子 第114集「龙马上！」</em></a></li><li><a href="http://www.dilidili.wang/watch/4715/115/" target="_self"><em><span>第115话</span>网球王子 第115集「只有男人的棒球大会 / 荒野王子（Q版）」</em></a></li><li><a href="http://www.dilidili.wang/watch/4716/116/" target="_self"><em><span>第116话</span>网球王子 第116集「青学VS王者立海大」</em></a></li><li><a href="http://www.dilidili.wang/watch/4717/117/" target="_self"><em><span>第117话</span>网球王子 第117集「海堂与桃城的Lucky友情」</em></a></li><li><a href="http://www.dilidili.wang/watch/4718/118/" target="_self"><em><span>第118话</span>网球王子 第118集「开战的仪式」</em></a></li><li><a href="http://www.dilidili.wang/watch/4719/119/" target="_self"><em><span>第119话</span>网球王子 第119集「走钢丝的双打」</em></a></li><li><a href="http://www.dilidili.wang/watch/4720/120/" target="_self"><em><span>第120话</span>网球王子 第120集「被仁王看穿的菊丸」</em></a></li><li><a href="http://www.dilidili.wang/watch/4721/121/" target="_self"><em><span>第121话</span>网球王子 第121集「柳生的决断」</em></a></li><li><a href="http://www.dilidili.wang/watch/4722/122/" target="_self"><em><span>第122话</span>网球王子 第122集「乾 吼叫吧」</em></a></li><li><a href="http://www.dilidili.wang/watch/4723/123/" target="_self"><em><span>第123话</span>网球王子 第123集「充满回忆的决斗」</em></a></li><li><a href="http://www.dilidili.wang/watch/4724/124/" target="_self"><em><span>第124话</span>网球王子 第124集「切原的红色陷阱」</em></a></li><li><a href="http://www.dilidili.wang/watch/4725/125/" target="_self"><em><span>第125话</span>网球王子 第125集「愤怒的不二」</em></a></li><li><a href="http://www.dilidili.wang/watch/4726/126/" target="_self"><em><span>第126话</span>网球王子 第126集「突激！龙马对真田」</em></a></li><li><a href="http://www.dilidili.wang/watch/4727/127/" target="_self"><em><span>第127话</span>网球王子 第127集「奥义！看不见的发球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4728/128/" target="_self"><em><span>第128话</span>网球王子 第128集「决战！胜利的一方是？」</em></a></li><li><a href="http://www.dilidili.wang/watch/4729/129/" target="_self"><em><span>第129话</span>网球王子 第129集「武士之歌」</em></a></li><li><a href="http://www.dilidili.wang/watch/4730/130/" target="_self"><em><span>第130话</span>网球王子 第130集「想见手冢」</em></a></li><li><a href="http://www.dilidili.wang/watch/4731/131/" target="_self"><em><span>第131话</span>网球王子 第131集「绝不投降」</em></a></li><li><a href="http://www.dilidili.wang/watch/4732/132/" target="_self"><em><span>第132话</span>网球王子 第132「愉快的网球王子一家（Q版）」</em></a></li><li><a href="http://www.dilidili.wang/watch/4733/133/" target="_self"><em><span>第133话</span>网球王子 第133集「日本第一的寿司店」</em></a></li><li><a href="http://www.dilidili.wang/watch/4734/134/" target="_self"><em><span>第134话</span>网球王子 第134集「我的王子殿下」</em></a></li><li><a href="http://www.dilidili.wang/watch/4735/135/" target="_self"><em><span>第135话</span>网球王子 第135集「菊丸的暑假」</em></a></li><li><a href="http://www.dilidili.wang/watch/4736/136/" target="_self"><em><span>第136话</span>网球王子 第136集「青年选拔 集合」</em></a></li><li><a href="http://www.dilidili.wang/watch/4737/137/" target="_self"><em><span>第137话</span>网球王子 第137集「被怀疑的同伴」</em></a></li><li><a href="http://www.dilidili.wang/watch/4738/138/" target="_self"><em><span>第138话</span>网球王子 第138集「龙马对切原！超越激战」</em></a></li><li><a href="http://www.dilidili.wang/watch/4739/139/" target="_self"><em><span>第139话</span>网球王子 第139集「新生・千石清纯」</em></a></li><li><a href="http://www.dilidili.wang/watch/4740/140/" target="_self"><em><span>第140话</span>网球王子 第140集「欢迎回来 手冢国光」</em></a></li><li><a href="http://www.dilidili.wang/watch/4741/141/" target="_self"><em><span>第141话</span>网球王子 第141集「迹部X真田 顶峰对决」</em></a></li><li><a href="http://www.dilidili.wang/watch/4742/142/" target="_self"><em><span>第142话</span>网球王子 第142集「来自美国的少年」</em></a></li><li><a href="http://www.dilidili.wang/watch/4743/143/" target="_self"><em><span>第143话</span>网球王子 第143集「手冢的选择」</em></a></li><li><a href="http://www.dilidili.wang/watch/4744/144/" target="_self"><em><span>第144话</span>网球王子 第144集「梦之队组成」</em></a></li><li><a href="http://www.dilidili.wang/watch/4745/145/" target="_self"><em><span>第145话</span>网球王子 第145集「龙马和凯宾」</em></a></li><li><a href="http://www.dilidili.wang/watch/4746/146/" target="_self"><em><span>第146话</span>网球王子 第146集「美国队的野心」</em></a></li><li><a href="http://www.dilidili.wang/watch/4747/147/" target="_self"><em><span>第147话</span>网球王子 第147集「最强 迹部和真田」</em></a></li><li><a href="http://www.dilidili.wang/watch/4748/148/" target="_self"><em><span>第148话</span>网球王子 第148集「贝克的剧本」</em></a></li><li><a href="http://www.dilidili.wang/watch/4749/149/" target="_self"><em><span>第149话</span>网球王子 第149集「破灭的探戈」</em></a></li><li><a href="http://www.dilidili.wang/watch/4750/150/" target="_self"><em><span>第150话</span>网球王子 第150集「帅哥双打」</em></a></li><li><a href="http://www.dilidili.wang/watch/4751/151/" target="_self"><em><span>第151话</span>网球王子 第151集「悲哀的木偶」</em></a></li><li><a href="http://www.dilidili.wang/watch/4752/152/" target="_self"><em><span>第152话</span>网球王子 第152集「野兽 鲍比·马克斯」</em></a></li><li><a href="http://www.dilidili.wang/watch/4753/153/" target="_self"><em><span>第153话</span>网球王子 第153集「挑战极限」</em></a></li><li><a href="http://www.dilidili.wang/watch/4754/154/" target="_self"><em><span>第154话</span>网球王子 第154集「天才VS网球机器」</em></a></li><li><a href="http://www.dilidili.wang/watch/4755/155/" target="_self"><em><span>第155话</span>网球王子 第155集「一毫米攻防战」</em></a></li><li><a href="http://www.dilidili.wang/watch/4756/156/" target="_self"><em><span>第156话</span>网球王子 第156集「出场的是谁」</em></a></li><li><a href="http://www.dilidili.wang/watch/4757/157/" target="_self"><em><span>第157话</span>网球王子 第157集「梦幻般的幻影回球」</em></a></li><li><a href="http://www.dilidili.wang/watch/4758/158/" target="_self"><em><span>第158话</span>网球王子 第158集「宿命对决 龙马对凯宾」</em></a></li><li><a href="http://www.dilidili.wang/watch/4759/159/" target="_self"><em><span>第159话</span>网球王子 第159集「幻觉」</em></a></li><li><a href="http://www.dilidili.wang/watch/4760/160/" target="_self"><em><span>第160话</span>网球王子 第160集「比赛结束」</em></a></li><li><a href="http://www.dilidili.wang/watch/4761/161/" target="_self"><em><span>第161话</span>网球王子 第161集「冲吧 桃城」</em></a></li><li><a href="http://www.dilidili.wang/watch/4762/162/" target="_self"><em><span>第162话</span>网球王子 第162集「黄金搭档的回忆」</em></a></li><li><a href="http://www.dilidili.wang/watch/4763/163/" target="_self"><em><span>第163话</span>网球王子 第163集「海堂陌生的世界」</em></a></li><li><a href="http://www.dilidili.wang/watch/4764/164/" target="_self"><em><span>第164话</span>网球王子 第164集「震惊青学的秘密作战」</em></a></li><li><a href="http://www.dilidili.wang/watch/4765/165/" target="_self"><em><span>第165话</span>网球王子 第165集「网球王子的一家 到夏威夷去 / 网球王子的一家 圣诞节（Q版</em></a></li><li><a href="http://www.dilidili.wang/watch/4766/166/" target="_self"><em><span>第166话</span>网球王子 第166集「青学名产再现」</em></a></li><li><a href="http://www.dilidili.wang/watch/4767/167/" target="_self"><em><span>第167话</span>网球王子 第167集「永远的对手 桃城VS海堂」</em></a></li><li><a href="http://www.dilidili.wang/watch/4768/168/" target="_self"><em><span>第168话</span>网球王子 第168集「龙马的决定」</em></a></li><li><a href="http://www.dilidili.wang/watch/4769/169/" target="_self"><em><span>第169话</span>网球王子 第169集「动摇不定的心情」</em></a></li><li><a href="http://www.dilidili.wang/watch/4770/170/" target="_self"><em><span>第170话</span>网球王子 第170集「燃烧吧 越前」</em></a></li><li><a href="http://www.dilidili.wang/watch/4771/171/" target="_self"><em><span>第171话</span>网球王子 第171集「给亲爱的朋友」</em></a></li><li><a href="http://www.dilidili.wang/watch/4772/172/" target="_self"><em><span>第172话</span>网球王子 第172集「再见青学」</em></a></li><li><a href="http://www.dilidili.wang/watch/4773/173/" target="_self"><em><span>第173话</span>网球王子 第173集「武士纽约」</em></a></li><li><a href="http://www.dilidili.wang/watch/4774/174/" target="_self"><em><span>第174话</span>网球王子 第174集「手冢国光VS不二周助」</em></a></li><li><a href="http://www.dilidili.wang/watch/4775/175/" target="_self"><em><span>第175话</span>网球王子 第175集「三年来的认真」</em></a></li><li><a href="http://www.dilidili.wang/watch/4776/176/" target="_self"><em><span>第176话</span>网球王子 第176集「Climax」</em></a></li><li><a href="http://www.dilidili.wang/watch/4777/177/" target="_self"><em><span>第177话</span>网球王子 第177集「无法忘记的约定」</em></a></li><li><a href="http://www.dilidili.wang/watch/4778/178/" target="_self"><em><span>第178话</span>网球王子 第178集「王子再见」</em></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="playjs swiper-pagination"></div>
+            </div>
+            <div class="time_con">
+                <p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                <div class="swiper-container xfswiper3">
+                    <ul class="clear">
+                        <li class="list_xz">
+                            <a href="http://bbs.005.tv/thread-489900-1-1.html" target="_blank">网球王子资源大合集</a>
+
+                        <li>
+                    </ul>
+                </div>
+            </div>
+            <div class="time_con">
+                <div class="swiper-container swiper4">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul>
+                                <li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4601/1/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/uploads/201512/1-1512231F452293.jpg"/>
+                                        <div class="fjjq"><span>第1话</span>网球王子 第1集「王子出现」<br/>龙崎樱乃在电车中差点被挥着网球拍的佐佐部打到。就在这时候，出现了一个少年指正佐佐部，被指出错误的佐佐部，无言以对。到了车站以后，那位少年向樱乃询问网球大会的比赛会场，但是</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4602/2/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第2话</span>网球王子 第2集「少年武士」<br/>网球名校青春学园的开学典礼开始了，网球月刊的记者井上，来拜访龙崎堇教练。他手中拿的杂志有当年的名选手－越前南次郎的消息，井上非常崇拜越前南次郎！进入青学就读的龙马，背着大</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4603/3/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第3话</span>网球王子 第3集「青春学园正选球员登场」<br/>早晨的球场上，一年级正在谈论龙马和桃城的比赛。堀尾非常热中的谈起「校内排名赛」这件事情，因为他过于兴奋的样子，让二年级将他误以为是龙马。网球部的教练龙崎堇和队长手冢、副队</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4604/4/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第4话</span>网球王子 第4集「被称为蛇的男人」<br/>校内的排名赛开始了。在这场排名赛中，由二、三年级全体队员进行比赛，决定正式队员。比赛则分成四组比赛，其中各组的前两名，共计八名，就可以成为正式队员。龙马则被分到D组，成为</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4605/5/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第5话</span>网球王子 第5集「蝮蛇球」<br/>在大家的关注之下，龙马和海堂的比赛持续进行着，海堂用他最拿手的蝮蛇球攻击，而龙马则以他杰出的外旋发球加以还击。堀尾等人不由得佩服起​​龙马，但是海堂的蝮蛇球最主要的目的，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4606/6/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第6话</span>网球王子 第6集「那个叫越前南次郎的男人」<br/>青学的校内排名赛正在进行中。这时候网球月刊的记者，井上和芝，拜访了龙马的父亲，越前南次郎。这位传说中的选手，初次见面就表现得十分……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4607/7/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第7话</span>网球王子 第7集「两个龙马君」<br/>校内排名赛中，龙马和三年级的正式队员乾对打。善于利用资料的乾脑中，已经将龙马目前为止的比赛资料全都记住了。龙马的球会打到什么地方，乾完全了若指掌！即使知道乾的打法，也无意</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4608/8/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第8话</span>网球王子 第8集「小碎步」<br/>龙马预先告诉乾球的方向，乾也熟知龙马的球路做好准备。不过龙马的反应要更胜一筹。龙马用自己的风格，运用这种被称为「基本碎步」的……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4609/9/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第9话</span>网球王子 第9集「难熬的一天」<br/>校内排名赛的结果，手冢、大石、不二、河村、菊丸、桃城、海堂、龙马八个人成为正式球员。龙马也订制了象征正式球员的制服。正式的练习开始了，青学的网球部越来越热烈。龙崎教练特别</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4610/10/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第10话</span>网球王子 第10集「再次反击佐佐木！」<br/>分区预赛就快要开始了，队员们的练习也越来越认真。这一天，大家到胜郎的父亲担任教练的球场去练习。佐佐木的父亲正好是这里的常客。他无理的轻蔑胜郎的父亲，最后还取笑青学的网球部</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4611/11/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第11话</span>网球王子 第11集「龙马 VS 桃城」<br/>龙马和桃城在汉堡店中，有个女孩上前来说话。「青学的单打一号是队长手冢、二号是不二」。因为她的话，桃城和龙马开始想要争夺单打三号的位置。龙马和桃城原本想在街边的网球场一决胜</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4612/12/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第12话</span>网球王子 第12集「开合战术-双打少年」<br/>都大会的分区预赛开始了，第一场的对手是玉林中学。龙马和桃城自愿组成双打。大家都十分担心。而且，对方还是龙马和桃城第一次双打打输的对手，布川及泉。面对胜算极高的玉林队，龙马</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4613/13/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第13话</span>网球王子 第13集「男人的双打！」<br/>都大会的分区预赛中，不熟悉的双打打法，让龙马和桃城面对玉林队时节节败退，情势越来险恶。就在大家都认为胜利无望的时候，这两个人有了令人意外的行动。他们将球场从中间划分一半，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4614/14/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第14话</span>网球王子 第14集「燕子转身」<br/>柿木中学输给了去年退出都大会的不动峰中学。井上认为，不动峰坚强的实力和队长橘桔平引发的暴力事件有关，而开始进行采访。另一方面，青学和不动峰的比赛也开始了。第一场由不二、河</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4615/15/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第15话</span>网球王子 第15集「各自奋战」<br/>青学的不二、河村对不动峰樱井、石田的比赛中，不二用拿手的三​​重还击中的「燕回闪」，让青学扳回了优势。为了取回优势，石田使出了被禁止使用的绝招「波动球」。球朝着不二打来，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4616/16/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第16话</span>网球王子 第16集「回旋蛇镖」<br/>菊丸和大石打赢了森和内村。接下来青学海堂和不动峰神尾的比赛，因为下雨而暂停，各自进行暖身。雨停之后，海堂和神尾的比赛继续进行。海堂的蝮蛇球被神尾轻易的追上，一再得分。神尾</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4617/17/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第17话</span>网球王子 第17集「小小的胜利姿势」<br/>大家正为海堂「回旋蛇镖」而惊讶不已的时候，不动峰的神尾冷静地加快了步调。海堂几次想要打出回旋蛇镖，却一直无法成功。看到心急的海堂，龙崎教练提醒他要回到自己原来的样子。重新</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4618/18/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第18话</span>网球王子 第18集「情书」<br/>龙马对不动峰伊武的比赛开始了。比赛一开始，龙马就以外旋发球取得先机。但是伊武却以类似的侧旋发球反击。另一方面，龙马的表姐奈奈子在家中发现了旧的相本。他问起南次郎当年的回忆</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4619/19/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第19话</span>网球王子 第19集「龙马受伤了」<br/>龙马对不动峰伊武的比赛逐渐紧张。龙马比平常还要积极的进攻。但是，观赛的几个人发现了龙马身体的异状。轮流回击好几次上下旋转的球，会造成肌肉萎缩，陷入短暂的麻痹状态。这就是伊</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4620/20/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第20话</span>网球王子 第20集「时间限制」<br/>回到球场上的龙马，他的发球比之前还要快。伊武仍然想用麻痹的方法对付龙马。但是龙马却显得十分轻松。伊武在不知不觉中，只能切球，而发不出上旋球。龙马在有限的时间里打赢了伊武。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4621/21/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第21话</span>网球王子 第21集「激战！沸腾的球场？？」<br/>青学的网球部获得了分区预赛的优胜。许多其他学校学生闻讯纷纷前来探查。其中健三和俊辅这两个人，为了在轻视自己的网球队员面前扬眉吐气，开始收集在分区预赛中出赛的一年级生，越前</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4622/22/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第22话</span>网球王子 第22集「薰倒霉的一天」<br/>桃城和一年级生们在放学途中目击抢劫现场，桃城强行借用路边的脚踏车，追赶抢犯。而脚踏车的主人，正是不动峰的神尾。桃城和神尾忘记了原本的目的，扩大了追逐的范围，不知不觉中,来</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4623/23/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第23话</span>网球王子 第23集「出现！乾式特制饮料」<br/>都大会即将到来，正式队员的练习中，加入了特别内容。根据球风不同，分为攻守两边，以五球分出胜负，输的一边必须喝下乾式特制蔬果汁。可怕的果汁让大家无不严阵以待，认真比赛。第一</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4624/24/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第24话</span>网球王子 第24集「龙马的假日」<br/>龙崎樱乃紧张极了！原本要带她去换球拍网子的奶奶临时有事，改由龙马带她去。樱乃因为挑选衣服花掉太多时间而迟到了。好奇的南次郎和桃城及一年级的队员，决定偷偷跟在两人后面。樱乃</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4625/25/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第25话</span>网球王子 第25集「青学的最强者 前篇」<br/>正当大家为了都大会集中练习时，手冢向龙马提出了比赛的要求。龙崎教练询问手冢比赛的理由，手冢说，因为龙马的网球，只是他父亲越前南次郎的翻版，要改变这种情形，需要给他一些刺激</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4626/26/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第26话</span>网球王子 第26集「青学的最强者 后篇」<br/>和手冢比赛的第二天起，龙马有了微妙的变化。因为和手冢的那一场比赛，让他的心情产生动摇。南次郎和平常一样和龙马比赛时，也发现了龙马的变化。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4627/27/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第27话</span>网球王子 第27集「加鲁比历险记」<br/>龙马不小心把家里的猫加鲁比的逗猫棒带到学校。加鲁比跟着龙马，追到学校来。它一边看着每间教室即网球部球员的样子，一边找着自己的​​逗猫棒。发现加鲁比跟到学校来的龙马，开始找</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4628/28/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第28话</span>网球王子 第28集「出现一个新正选球员」<br/>东京都大会当天，龙马睡晚迟到了。大家只好让堀尾穿上制服，先登记报到。青学第一战的对手是镰田中学。一年级的队员第一次看到正式比赛里的手冢。下一场比赛的对手秋山三中，见到顺利</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4629/29/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第29话</span>网球王子 第29集「阿桃和海堂蛇」<br/>不动峰、冰帝、圣鲁道夫，都纷纷顺利地进入决赛。桃城和海堂又为了一点小事起了争执，不过，教练却在这时候，宣布他们俩人是双打二号的组合。大家都非常担心一向处得不好的他们，但是</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4630/30/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第30话</span>网球王子 第30集「观月的剧本」<br/>青学的桃城和海堂两人被圣鲁道夫的柳泽、木更津封杀了使出蝮蛇球​​的机会，比赛延续着漫长的对打，没有任何进展，桃城和海堂也因为酷热的天气，渐渐消耗了体力。桃城和海堂夸下豪语</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4631/31/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第31话</span>网球王子 第31集「攀月截击」<br/>圣鲁道夫的柳泽在桃城入樽式扣杀球攻击之下失去了意识。结果只好弃权，由青学获胜。接下来的双打一号比赛，由青学的菊丸、大石对圣鲁道夫的赤泽、金田。青学的黄金搭档遇到了意料之外</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4632/32/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第32话</span>网球王子 第32集「必杀！英二的假死攻击！？」<br/>大石的攀月截击精准的打到底线上，比赛渐渐朝着对青学有利的方向。圣鲁道夫开始着急了。青学乘胜追击，开始采用前卫和后卫在中央站成一直线的「澳大利亚阵型」。面对无法预测的对手，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4633/33/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第33话</span>网球王子 第33集「抢7局」<br/>菊丸惊人地回复了体力。他灵活的打法和体力，让圣鲁道夫队惊讶不已。原本占优势的青学，最后因为菊丸的体力终于不支，却以7-6败给了圣鲁道夫。圣鲁道夫的队员们纷纷对观月准确的预测佩</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4634/34/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第34话</span>网球王子 第34集「晴空抽杀」<br/>龙马和不二周助的弟弟裕太，即将开始比赛。面对故意挑衅的龙马，裕二一开始就进行了凌厉的攻势，领先了龙马。因为大家都只知道裕二是周助的弟弟，不甘心的他为了超越哥哥，进行了一连</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4635/35/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第35话</span>网球王子 第35集「抽击球B」<br/>圣鲁道夫的不二裕太的拿手球技，让大家大吃一惊。不过，越前一点也没有动摇。利用机会，以新的技术对抗裕二，并且发现了裕二球技中的秘密。另一方面，见识到对手实力的裕太，决定和龙</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4636/36/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第36话</span>网球王子 第36集「兄长，不二周助」<br/>不二在和圣鲁道夫的观月比赛时，看起来和平常不太一样。但是比赛似乎是由观月占了上风。他调查了不二的所有资料，一一针对他的弱点攻击，不二究竟有没有反击的机会呢？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4637/37/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第37话</span>网球王子 第37集「画有龙马头像的网球」<br/>难得的假日，龙马却被父亲南次郎叫醒外出。原来龙崎教练拜托南次郎教樱乃和朋香打球，他却把这件事推给了龙马。突然被迫当教练的龙马，却因为一件小事，惹上都大会准决赛中的对手银华</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4638/38/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第38话</span>网球王子 第38集「惩罚之茶」<br/>青学的网球部，突然出现了一个外校生。这个名叫亚久津的山吹中学生不寻常的举动，让青学的球员心生惧意。这个人到底想要做什么呢？然而青学的队员在这时候，为了迎接都大会最后的比赛</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4639/39/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第39话</span>网球王子 第39集「巨熊回击」<br/>在练习的过程中，乾再次拿出特制饮料惩罚之茶，大家因此都非常用心的练习。正式队员的练习赛中，龙马和不二交手。龙马虽然一一使出拿手的招数，但是不二却更胜一筹。不二使出了三种还</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4640/40/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第40话</span>网球王子 第40集「雨中的决斗」<br/>龙马和不二的比赛继续进行着。双方都仿佛变了一个人似的。同时，桃城和手冢，河村和海堂，大石和菊丸的比赛也陆续开始。河村用力道压制了海堂的蝮蛇球，菊丸的持久力受到了考验，桃城</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4641/41/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第41话</span>网球王子 第41集「风波」<br/>都大会后半段的比赛终于开始了。不动峰队的神尾，伊武等人迟到，以及比赛不顺利的原因，被亚久津揭穿，于是决定弃权。另一方面，青学正准备和银华比赛，银华中学却出现了奇怪的举动，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4642/42/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第42话</span>网球王子 第42集「被阻击的大石」<br/>青学和山吹中学的最后决赛开始了。第一场是大石与菊丸对山吹的南和东方。大石去年就是败在山吹中学这一队的手下，他们想要用和去年同样的方法取胜。大石虽然受到集中的攻击，而显得有</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4643/43/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第43话</span>网球王子 第43集「幸运千石」<br/>青学的桃城和山吹的千石的比赛开始了。桃城使出拿手的入樽式扣杀，千石也以他的实力来应对。比赛渐渐成为千石的优势。虽然处于不利的局面，但是桃城还是以意志力坚持下去。不过，太过</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4644/44/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第44话</span>网球王子 第44集「Jack Knife」<br/>和山吹千石的比赛中，桃城的的左脚抽筋，但还是继续进行比赛。而龙马和亚久津的比赛，也即将要开始。因为前几天的暴行令人余悸犹存，大家都很担心亚久津是否会动粗。不过，先下挑战书</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4645/45/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第45话</span>网球王子 第45集「球场上的恶魔」<br/>比赛一开始，龙马就不断的挑衅，让亚久津也认真了起来。连大家都公认很有实力的学长，也打不过自己，亚久津因此不把网球当一回事，不过他终于认真起来比赛了。大家都因为他肌肉的柔软</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4646/46/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第46话</span>网球王子 第46集「武士魂」<br/>面对开始认真比赛的亚久津，龙马使出了拿手的招数，不过，却见识到了亚久津深不可测的实力。虽然大家都十分的担心，他和亚久津激烈的比赛，仍然继续进行着…。面对实力深厚的对手，龙</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4647/47/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第47话</span>网球王子 第47集「决不认输」<br/>一边提升自己的球技，和山吹亚久津的比赛，也进行到势均力敌的状态。山吹中的伴田教练，在这时候告诉亚久津获胜的方法。亚久津在这一战中，似乎有着不得不赢的理由。亚久津这时候做出</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4648/48/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第48话</span>网球王子 第48集「决定的瞬间」<br/>和山吹亚久津的比赛中，龙马遇到前所未有的对手。不过，面对亚久津的攻击，龙马的实力也借此得以发挥，双方互不相让，展现出惊人的球技。大家屏气凝神的观看这一场比赛，终于，最后的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4649/49/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第49话</span>网球王子 第49集「另类较量」<br/>东京都大会的比赛结束，青学又恢复了平静，但是又发生了一起骚动。龙马故意挑衅篮球队队员，而一名蓄意挑衅手冢的谜样男子也出现在校园中。这个少年究竟是谁？龙马又会陷入什么局面呢</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4650/50/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第50话</span>网球王子 第50集「以青学的名义」<br/>青学知名的校内排名赛又开始了，一年级的队员对于分组的成员如同往常一般惊讶。在这其中，校队成员虽然紧张，却也纷纷顺利地获胜晋级了。但是，在这激烈的战事中，有一个人默默地击退</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4651/51/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第51话</span>网球王子 第51集「乾的挑战」<br/>校内排名赛终于开始了。出现在青学最强的手冢面前的，是乾。和手冢对打过无数次，却一直无法取胜的乾，比一般人更努力地进行资料收集及体能训练，以打倒手冢为目标，将自己磨练得更上</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4652/52/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第52话</span>网球王子 第52集「青学最大的危机」<br/>被称为青学最强的手冢，和他对打过无数次，却一直无法取胜的乾。青学的大家抱持着紧张的心情在一旁观战。两个人的比赛终于落幕。比赛获胜者就能获得校队的宝座，而落败的人就必须脱下</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4653/53/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第53话</span>网球王子 第53集「桃城归来」<br/>无故缺席社团的桃城，因为心情不好，所以在街头网球场随意打着球。这样的桃城，在和杏的交谈中，发现了自己所缺少的东西。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4654/54/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第54话</span>网球王子 第54集「薰的特训」<br/>决定关东大赛对战队伍的抽签会要开始了。在来自各地的高手中，青学的对战选手决定了。和青学进行初次比赛的，究竟会是哪一间学校呢？青学的校队们，都以全新的心境进行特训。在这其中</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4655/55/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第55话</span>网球王子 第55集「紧逼的冰帝」<br/>关东大赛的第一天，接到大石的联络，桃城立即奔往医院。但是大石却告诉前来的桃城，要将校队的位子让给他。因为这场意外而回到校队的桃城和菊丸组成双打。但是，在这急就章的双打组合</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4656/56/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第56话</span>网球王子 第56集「3人的双打」<br/>青学菊丸和冰帝向日的特技击球对决开始了。向日轻易地就将菊丸的动作封死，而桃城的入樽式扣杀和Jack Knife，也被忍足给打回来了。青学会就这样输了吗…？菊丸和桃城想尽办法要挽回劣势</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4657/57/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第57话</span>网球王子 第57集「瞬间式发球」<br/>在大石的守护下，菊丸、桃城与向日、忍足这一对开始进行了激烈的对打。向日的体力渐渐不支，相对之下，菊丸的情况却越来越好。针对使出拿手绝活的忍足，桃城也不甘示弱。在双方互不退</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4658/58/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第58话</span>网球王子 第58集「最差的配合！？」<br/>面对冰帝的凤以拿手的发球一再得分，海堂依然没有退让的意思，以回旋蛇镖攻入对方球场。冰帝一度惊讶不已，陷入困境。原来海堂在接受了乾的建议，为了完成回旋蛇镖，日夜不断的苦练。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4659/59/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第59话</span>网球王子 第59集「厌腻的执着」<br/>比数到了0—5，乾和海堂这一对已经没有退路了。冰帝方面确信自已一定会胜利，而兴奋不已，而这时候，乾开始使出他拿手的数据网球了。乾利用海堂的协助，放弃分数进行情报的收集。而海</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4660/60/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第60话</span>网球王子 第60集「Power V.S Power」<br/>宍户和凤这一队，在比赛结束之后仍未曾松懈。另一方面，乾和海堂这一对，两个人都藉由这次比赛。彻底贯彻自己的球风，从比赛中得到了教训。双打结束之后，比数为一比一，接下来单打比</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4661/61/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第61话</span>网球王子 第61集「波动球之战」<br/>河村终于得分了，但是桦地不顾周围的讶异声，依然保持无表情的脸孔。这时候，圣鲁道夫的木更津和柳泽说出了在预赛时败给桦地的理由，以及桦地真正的才能。河村虽然拼了命的应战，但是</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4662/62/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第62话</span>网球王子 第62集「消失的发球」<br/>在河村激烈的比赛之后。不二沉默地继续河村未完成的心愿。对手是曾经打败弟弟裕太的芥川慈郎。无法捉摸的慈郎，正是不二求之不得的对手。龙马心想「说不定可以看到天才的真正实力」，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4663/63/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第63话</span>网球王子 第63集「最后的三重反击」<br/>冰帝的芥川慈郎在不二的招数下一一折服，一边兴奋不已，一边轻轻地在网边回击。不二将燕回闪和巨熊回击后，三重反击的最后一招，展现在龙马面前。在大家的惊讶声中，慈郎的反应是…？</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4664/64/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第64话</span>网球王子 第64集「网球9人组（Q版）」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4665/65/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第65话</span>网球王子 第65集「成为青学的支柱」<br/>在冰帝激烈的欢呼声中，开始进行手冢VS迹部两者的终极决战。虽然被手冢牵制在左右不断奔跑，迹部却还是面不改色。迹部具有看穿对方弱点的眼力，他一语道破手冢的手伤。大石终于告诉大</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4666/66/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第66话</span>网球王子 第66集「迈向破灭的轮舞曲」<br/>青学手冢和冰帝迹部的比赛中。迹部故意不使出绝招，要和手冢打持久战，想毁了手冢的肩膀。忍着肩痛，却表现得若无其事的手冢，大家发现他身为青学部长所做的觉悟，都惊讶不已。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4667/67/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第67话</span>网球王子 第67集「最后的一球」<br/>手冢和迹部的比赛还在进行。虽迹部占了绝对优势，但是负伤的手冢表现出沉稳的球技，迹部终于焦急了起来。不断使出拿手绝活的迹部，却被锁定在手冢区中。就在最后决胜的一球时，手冢的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4668/68/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第68话</span>网球王子 第68集「终结的决胜局」<br/>手冢和迹部互不相让，进行着绵长的抢七局。但是漫长的球局终于到了结束的时候。而青学对冰帝的胜负，最后取决于龙马和日吉的比赛。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4669/69/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第69话</span>网球王子 第69集「正选落入谁手？」<br/>青学的网球部里，虽然手冢负​​伤缺席，但是在大石的领导下，各自为了下一次比赛进行着训练。荒井等二年级生，认为校队多人负伤是他们的好机会，胜郎听到之后十分生气，决定和他们理</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4670/70/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第70话</span>网球王子 第70集「网球 VS 乒乓」<br/>今天是青春学员惯例的球季大赛。大石和菊丸是排球，河村和乾是棒球，桃城是篮球，海堂是羽毛球，校队成员们纷纷在各球场上展现精采的球技。而在乒乓球比赛中出赛的龙马，遇到了意想不</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4671/71/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第71话</span>网球王子 第71集「约会啦！」<br/>不动峰中学的橘杏约桃城见面，于是桃城硬抓着百般不情愿的龙马一同前往，但三人相见的模样却偶然地被好事的乾目击，而且乾还立刻召集其他青学的成员，想要一探究竟。到底橘杏为什么要</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4672/72/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第72话</span>网球王子 第72集「薰，成为龙马吧」<br/>海堂和龙马在自主训练时巧遇，好胜心强的两人于是都加重训练量，互相比较起来。这时，突然出现一个崇拜龙马的少年，搞不清楚状况地把海堂误认为龙马，到最后，海堂竟然将错就错地在少</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4673/73/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第73话</span>网球王子 第73集「手冢的决意」<br/>为了关东大赛的第二战，青学网球队的成员都十分努力地练习，许久没露面的手冢部长也热心地到场指导。但其实手冢的脑海里​​，似乎一直在思考着某个重要的事情。于是，对手冢心思若有</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4674/74/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第74话</span>网球王子 第74集「传向越前的Message」<br/>手冢出发前往德国的日子逐渐逼近，网球队的成员们为了让手冢不要有牵挂，更加地团结一心，认真练习。另一方面，手冢也决定把他一直想对龙马传达的事说出来，于是两人便来到了球场上…</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4675/75/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第75话</span>网球王子 第75集「再见了，手冢国光」<br/>手冢和龙马在球场上的交手正式展开，虽然龙马仍维持他一贯的猛烈攻击，负着伤的手冢却仍能轻松的回击，令在场的其他队员都感到十分惊讶。面对手冢选择以比赛来传递讯息的举动，龙马在</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4676/76/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第76话</span>网球王子 第76集「青学 对 城成湘南」<br/>网球杂志的记者到城成湘南中学去采访，看到他们在高级健身中心里使用最新的机器进行特训，对自己队伍的实力也充满自信，让记者对这群青学的对手们留下深刻印象。到了关东大赛的第二战</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4677/77/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第77话</span>网球王子 第77集「冷静与热情的战斗」<br/>青学和城成湘南的第一场比赛由桃城和乾打双打，对抗城成湘南的双胞胎双打组合田中兄弟。田中兄弟一上场就发挥双胞胎惊人的好默契，并故意一边打球一边聊天，让情绪容易激动的桃城气得</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4678/78/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第78话</span>网球王子 第78集「晴天霹雳」<br/>青学和城成湘南的第二组比赛，​​由双打的大石和菊丸出战桐山和太田。桐山195公分的身高，配上太田不到150公分的组合，令众人大感惊讶！尤其是桐山发挥他身高和体型的优势，使用必杀绝</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4679/79/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第79话</span>网球王子 第79集「“I”阵形」<br/>和城成湘南陷入苦战的青学黄金组合，虽然逐渐摸清对手球路，但大石受伤的手腕也开始出现令人担心的状况。就在众人犹豫是否要弃权比较好之时，大石和菊丸竟临机应变，发展出比澳大利亚</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4680/80/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第80话</span>网球王子 第80集「模仿战术」<br/>青学和城成湘南的比赛开始进入单打，海堂的对手是啦啦队超多的自恋狂若人弘。奇怪的是，若人每一次出招的姿势都似曾相识，原来若人是让自己变身为各个世界知名选手，有模有样地使用他</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4681/81/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第81话</span>网球王子 第81集「蝮蛇VS冒牌蝮蛇」<br/>和海堂对打的城成湘南中学的若人，比赛中不断模仿名选手的招式，海堂在摸清对方战术后，也跟着调整回应方式，因而逐渐追上比数。但若人却仍不放弃模仿战术，最后竟开始模仿起海堂最熟</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4682/82/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第82话</span>网球王子 第82集「华村的诱惑」<br/>若人最后模仿的正是海堂本人，于是两人就陷入了激烈的对战，湘南的教练华村看到若人逐渐陷入危机，便指示若人更换战术，但固执的若人不接受建议，还是执着地以蝮蛇战术对付蝮蛇海堂！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4683/83/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第83话</span>网球王子 第83集「最高的作品」<br/>号称城成湘南秘密武器的神城出场了，看似平凡无奇的出招，令众人有些意外，龙马也因此连下两局，但之后龙马竟然失分连连！原来，神城在华村教练的指导下，采用「幻影式打法」，让龙马</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4684/84/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第84话</span>网球王子 第84集「撕裂强力击」<br/>神城的「幻影式打法」被龙马破解之后，非常不甘心，于是神城使出最后绝招「撕裂强力击」，一种以伤害对方为目的打法，在集中力下打出的球，含有惊人的力量，会使对手产生擦伤，心生恐</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4685/85/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第85话</span>网球王子 第85集「决斗的结果」<br/>神城认为完美的作品只有一个，所以不顾一切地攻击龙马，而受到神城毁灭性的攻击的龙马，虽然全身是伤，仍努力反击，并以破坏神城的计算为乐！于是神城逐渐招架不住，身上也开始有了伤</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4686/86/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第86话</span>网球王子 第86集「加快节奏」<br/>关东大赛里，山吹中学对不动峰中学这场引人注目的比赛正在进行中。不动峰的神尾还是一样喜欢跟着节奏打球，与他对战的山吹中学的千石，则是发挥他过人的眼力，仅仅（紧紧）盯好每一记</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4687/87/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第87话</span>网球王子 第87集「网球的传说（Q版） / 保龄球的王子」<br/>顺利打入关东大赛的前四强的青学校队们，在星期天的一大早要举行庆功宴。结果大石为大家准备的竟是一场保龄球大赛。输的人还要喝下由乾特别调配的「青醋」，为了不要喝下可怕的饮料，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4688/88/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第88话</span>网球王子 第88集「保龄球的王子 / 乾之眼镜丢失案件（Q版）」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4689/89/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第89话</span>网球王子 第89集「青学、充满干劲的坛」<br/>因为崇拜龙马而决心成为网球选手的山吹中学的坛，在青学进行一天的网球队入队体验，结果大石部长宣布要采用新的比赛形式，也就是每个人都可以自由的向校队挑战。于是坛就大胆地向龙马</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4690/90/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第90话</span>网球王子 第90集「房总半岛的沙滩排球」<br/>青学校队来到千叶线房总半岛的海边进行集训，但是一年级生竟然把重要的饭店预约券给弄丢了。还好餐厅的店长同意让大家在餐厅工作，来相抵饭店住宿费，于是大家就想尽办法帮餐厅吸引客</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4691/91/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第91话</span>网球王子 第91集「六角中学的一年级部长」<br/>青学校队到千叶海边集训时，因为偶然地帮助了一名老人家，而与关东大赛准决赛的对手六角中学的校队相遇。此时，六角中学的部长葵剑太郎因为自己也是一年级，所以就对同是一年级就进入</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4692/92/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第92话</span>网球王子 第92集「长球拍的男人」<br/>关东大赛准决赛终于到来，虽然六角中学的校队带着大批儿童啦啦队前来，但青学校队们收到了手冢寄来的鼓励信后，个个觉得斗志高昂。第一战是由桃城和河村的双打出战六角中学，令人惊讶</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4693/93/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第93话</span>网球王子 第93集「爆裂波动球」<br/>陷入苦战的桃城和河村使用新招数--爆裂波动球，终于逐渐打开僵局，但是对手天根和黑羽也不是省油的灯，他们利用长球拍的优势加强攻击火力，两方势均力敌。于是桃城决定采用新的作战方</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4694/94/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第94话</span>网球王子 第94集「封印菊丸的密策」<br/>菊丸与不二组成新的双打拍档，虽然两人节奏不同，却能够各展所长配合无间，连连获胜。但对战的六角中学的佐伯与树也开始反击，尤其是佐伯针对菊丸的动向所做的预测，百分百的命中率，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4695/95/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第95话</span>网球王子 第95集「打破燕回闪」<br/>佐伯针对菊丸的作战奏效，不但让菊丸的体力大量消耗，也使得不二的角色更加吃重。接着六角中的树开始针对不二作战，而且透过击球角度的变化，竟然轻易地破解了不二的绝技燕回闪，让众</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4696/96/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第96话</span>网球王子 第96集「燃烧吧 龙马！」<br/>单打三的龙马与葵之战正式展开，两位一年级生都显得斗志高昂，葵甚至拿出了特制的六角形球拍应战。没想到旗鼓相当的两人打了三小时打到天黑还是没办法分出胜负，只好宣布隔天早上继续</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4697/97/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第97话</span>网球王子 第97集「最后的扣杀」<br/>因为分不出胜负而被迫先中断比赛的龙马和葵，都热切地想赢球，不想被打败，所以仿佛心中仍在继续比赛一样，没有休息。结果第二天清早，众人竟然在球场边看到昏睡的两人，不知到底发生</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4698/98/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第98话</span>网球王子 第98集「台球王子」<br/>为了庆祝青学打进关东大赛决赛，不二提议来场台球比赛，优胜者可得到河村提供的河村寿司店吃到饱招待券，但弃权和犯规三次的人却得喝下乾特制的红醋。众人勉强答应比赛，经过分组较量</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4699/99/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第99话</span>网球王子 第99集「被诅咒的球拍」<br/>龙马早上出门时，在门口捡到一把球拍，没想到竟因此引起一连串风波。放学后众人提及此事，乾竟表示这是一把被诅咒的球拍，背后隐藏着一个可怕的故事，凡是捡到球拍的人都会厄运缠身，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4700/100/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第100话</span>网球王子 第100集「大石部长」<br/>决赛即将开始，大石身为代理部长，自认应该代替手冢做些什么，苦思之后他决定找每位队员私下密谈，排解大家的烦恼。没想到大家不但没烦恼，阿乾还设计了奇怪的训练课程，看大家打球打</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4701/101/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第101话</span>网球王子 第101集「吞噬立海大」<br/>龙马上次在台球比赛赢得冠军，获颁河村寿司店的吃到饱招待券，眼看使用期限将至，河村催龙马快去吃，没想到全队的人都厚着脸皮跟去了。众人正打算大快朵颐，不动峰国中网球部部长橘的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4702/102/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第102话</span>网球王子 第102集「观月的私语」<br/>桃城和海堂动不动就要斗嘴吵架，这天放学后，桃城正在抱怨海堂，城成湘南的华村教练竟然出现，请桃城转学加入他们，这时圣鲁道夫的观月也出现，邀请海堂加入他们，令大家一阵错愕。这</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4703/103/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第103话</span>网球王子 第103集「难以入睡的夜晚」<br/>关东大赛的决赛即将来临，比赛前夕龙崎教练吩咐大家回家休息，好好养精蓄绪锐。在各界都看好立海大附中的情况下，龙马等人虽然看似若无其事，面对劲敌立海大附中，却洋溢着紧张气氛。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4704/104/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第104话</span>网球王子 第104集「龙马VS真田」<br/>青学和立海大决赛的日子来临，没想到一场大雨却造成比赛中止，延期到一周之后，令斗志高昂的众人都感到很沮丧，从会场返回学校的途中，不二和龙马突然失踪，原来不二是去探望住院的橘</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4705/105/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第105话</span>网球王子 第105集「龙马惨败」<br/>青学和立海大的决赛因雨延期，龙马却私下去找真田挑战，没想到龙马一下子就惨败在真田拍下，隔天龙马参加练习时魂不守舍，众人正感到奇怪，龙马却要求河村连续发出波动球，事后河村从</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4706/106/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第106话</span>网球王子 第106集「一起去合宿」<br/>面临劲敌立海大的挑战，大石提议去轻井泽的别墅集训，令大家万分期待，没想到去了一看，原来是栋破房子，而且一开始就展开严格的训练。集训才第一天，就令大家苦不堪言，另一方面，立</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4707/107/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第107话</span>网球王子 第107集「部长出现！？」<br/>龙马和桃城，海堂去牧场买牛奶，意外邂逅一名奇怪男子，没想到回到宿舍后，龙崎教练找来的特别教练，竟然就是这名男子，也就是三年级学长们都极为尊敬的前任网球社长大和。大和不展开</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4708/108/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第108话</span>网球王子 第108集「惊愕的合宿」<br/>龙马一行人来到轻井泽集训，短短几天已有显著的成效，令龙崎教练很满意，没想到这时，仓库突然出现大熊，还挟持了樱乃，水野、加藤和堀尾眼看情势危急，龙马等人决定用网球绝招对付大</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4709/109/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第109话</span>网球王子 第109集「网球・射击赛」<br/>眼看集训即将结束，龙崎教练宣布还有特别训练，那就是网球·射击赛，比赛一共分成三关，分别考验大家的速度、控球力和力道，看谁最先通过关卡抵达终点就可以拿冠军。众人随即展开比赛</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4710/110/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第110话</span>网球王子 第110集「飞翔吧 桦地」<br/>青学来到轻井泽集训，龙崎教练特地安排他们和冰帝展开一场练习赛，首先由菊丸对抗桦地、乾对抗日吉。没想到体格高大的桦地，竟然模仿菊丸的动作，也能高高跳起，气得菊丸一度陷入危机</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4711/111/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第111话</span>网球王子 第111集「天才 不二周助」<br/>青学和冰帝的练习赛，接下来的二组对打分别是不二出战忍足，大石出战宍户。不二和忍足分别号称是青学与冰帝的天才，尤其是忍足有备而来，竟然让不二陷入了苦战，幸好不二发挥集训的成</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4712/112/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第112话</span>网球王子 第112集「波动球VS瞬间发球」<br/>青学和冰帝举行练习赛，接下来由桃城出战向日、河村出战凤，阿凤拿手的瞬间发球，竟然让青学威力最猛，擅打波动球的河村也陷入困境。另一方面，桃城也和向日陷入苦战，由于双方经过训</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4713/113/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第113话</span>网球王子 第113集「华丽的迹部」<br/>冰帝和青学的练习赛进行到最后，由海堂出战芥川，龙马出战迹部，芥川看似睡眼惺忪，却很快掌握了海堂的弱点，令海堂陷入苦战，幸好桃城跑去找海堂​​斗嘴，才让海堂放松心情恢复水准</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4714/114/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第114话</span>网球王子 第114集「龙马上！」<br/>龙马和越前的这场练习赛，迹部使出拿手绝招“迈向破灭的圆舞曲”，使得龙马一路落后，迹部本想早点结束比赛以免龙马手腕受伤，但龙马却坚持继续比赛，最后二人打成平手，事后大家才知</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4715/115/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第115话</span>网球王子 第115集「只有男人的棒球大会 / 荒野王子（Q版）」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4716/116/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第116话</span>网球王子 第116集「青学VS王者立海大」<br/>桃城和龙马跟着不二到医院探望橘，橘借故把妹妹小杏和桃城龙马支开，私下告诉不二，立海大的队长幸村也住在同一家医院疗伤，这时立海大的队员来探望幸村，切原趁机挑衅，差点和桃城发</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4717/117/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第117话</span>网球王子 第117集「海堂与桃城的Lucky友情」<br/>决赛的日子终于到了，海堂一早和桃城约在公园先做练习，却意外发现一只小狗在河中受困，眼看集合时间快到了，海堂决定让桃城先赶去会场，自己留下来救小狗，这时众人眼看比赛即将开始</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4718/118/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第118话</span>网球王子 第118集「开战的仪式」<br/>关东大赛的决赛终于开始，首先由桃城和海堂出战桑原与丸井，赛前丸井忙着吃蛋糕，桑原则在剃头，令众人看得一头雾水，经过井上记者的解说，众人才知道这不仅是一种战斗仪式，同时也象</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4719/119/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第119话</span>网球王子 第119集「走钢丝的双打」<br/>关东大赛决赛开始，首先由桃城和海堂出战丸井与桑原，双方你来我往，形成了拉锯战，丸井和桑原在桃城与海堂的攻势下，开始卯足全力迎战，擅长截击的丸井与防御坚强的桑原，甚至还会用</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4720/120/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第120话</span>网球王子 第120集「被仁王看穿的菊丸」<br/>关东大赛决赛开始，青学输了双打第一场后，接着由大石和菊丸这对黄金组合，出战立海大的仁王和柳生，没想到一局之后，立海大就完全看穿青学的战术，根据菊丸的习惯动作掌握了他的动向</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4721/121/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第121话</span>网球王子 第121集「柳生的决断」<br/>关东大赛决赛第二场双打，由大石和菊丸出战柳生和仁王，没想到仁王很快就看出了菊丸的习惯动作，彻底掌握菊丸的动向，菊丸因此陷入混乱，甚至和大石吵了起来，青学因此节节落败，眼看</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4722/122/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第122话</span>网球王子 第122集「乾 吼叫吧」<br/>青学在连败两场双打后，轮到阿乾出战立海大的柳莲二，二人小学时曾是称霸全国的双打搭档，对彼此的技术和个性都了如指掌，所以阿乾是势在必得，没想到他拿手的数据网球竟被柳莲二完全</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4723/123/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第123话</span>网球王子 第123集「充满回忆的决斗」<br/>小学时曾是最佳双打搭档的乾贞治和柳莲二，终于展开一场对决，阿乾眼看他拿手的数据网球对柳莲二无效，当下宣称放弃数据，和柳莲二热烈厮杀，原来当年二人的对打尚未分出胜负，阿乾一</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4724/124/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第124话</span>网球王子 第124集「切原的红色陷阱」<br/>单打二号的比赛，由不二出战切原，切原就是之前和不动峰对战时，故意打伤橘桔平害他住院的罪魁祸首，面对不二天才般的球技，切原在恼羞成怒下重施故技，打伤了不二的右膝，橘接获消息</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4725/125/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第125话</span>网球王子 第125集「愤怒的不二」<br/>切原和不二的单打比赛中，切原再次施展诡计，故意让不二右膝受伤，企图像整垮橘桔平一样整垮不二，他的举动终于惹火向来脾气温和的不二，也激发不二发挥出潜能，竟然在右膝负伤的情况</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4726/126/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第126话</span>网球王子 第126集「突激！龙马对真田」<br/>关东大赛决赛，青学和立海大比数二比二，将由最后一场龙马和真田的比赛决定胜负，真田挂念着正在开刀的幸村，誓言一定要拿下冠军奖牌送给幸村，但龙马也不甘示弱，双方展开一场激战，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4727/127/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第127话</span>网球王子 第127集「奥义！看不见的发球」<br/>龙马和真田的比赛，将要决定谁能夺得关东大赛冠军，为了幸村，真田势在必得，一开赛马上就以快得看不见的发球取得领先，但龙马却以新绝招旋风扣杀扳回劣势，可是真田的球速令龙马的眼</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4728/128/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第128话</span>网球王子 第128集「决战！胜利的一方是？」<br/>龙马和真田的比赛打得难分难解，眼看龙马的眼睛和体力都已逐渐疲劳，扣杀的威力也已减弱，似乎落居下风，没想到龙马又发挥不认输的精神，使出各校王牌的各种绝招，让真田疲于应付，最</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4729/129/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第129话</span>网球王子 第129集「武士之歌」<br/>龙马在家翻出南次郎以前的旧照片，勾起南次郎以前的回忆，当年为了成为职业选手他只身前往美国，邂逅了后来成为他妻子的伦子，为了替伦子讨回公道，他和职业网球高手斯密司对决，光荣</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4730/130/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第130话</span>网球王子 第130集「想见手冢」<br/>关东大赛结束后，青学网球部利用假期来到德国，探望在此养伤的手冢，手冢本想让他们见一个人，不巧那人不在，遂先带他们去逛街，没想到龙马，桃城和阿乾海堂却走散了，龙马三人在无意</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4731/131/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第131话</span>网球王子 第131集「绝不投降」<br/>龙马一行人来到德国探望手冢，却在无意中邂逅酒醉女子汉娜，并且和汉娜比赛打网球，汉娜精湛的球技令众人惊讶，这时，从手冢的口中才得知，汉娜就是他想要介绍给大家的人，她不仅是手</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4732/132/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第132话</span>网球王子 第132「愉快的网球王子一家（Q版）」<br/>暂无介绍</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4733/133/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第133话</span>网球王子 第133集「日本第一的寿司店」<br/>河村的父亲手腕骨折，只好紧急征求代班的寿司师傅，河村也因此暂停练习，留在店里帮忙做生意，这时，从北海道来了一个阿源应征寿司师傅，手艺极佳赢得客人们的赞美，却也激发河村身为</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4734/134/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第134话</span>网球王子 第134集「我的王子殿下」<br/>龙马等人偶然认识一名小学女生久美，久美对不二一见钟情，要求跟不二约会，桃城和菊丸当下替不二答应，隔天不二去赴约，桃城等人却遇到久美的双胞胎姐姐成美，从成美口中才知道久美对</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4735/135/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第135话</span>网球王子 第135集「菊丸的暑假」<br/>菊丸幸运中奖，超级偶像团体巧克力少女将到他家拜访，于是菊丸装病独自留在家中，还亲手做了蛋糕，没想到大石等人却纷纷来访，菊丸正在苦恼该如何把他们打发走时，偏偏大石又会错意，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4736/136/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第136话</span>网球王子 第136集「青年选拔 集合」<br/>日美亲善少年网球赛临时决定提​​早举行，日本方面决定由关东各校派出代表参加集训，再从中选拔出八名代表出战，于是各校好手再次齐聚一堂，报到后各校选手打散分成三组，分别由龙崎</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4737/137/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第137话</span>网球王子 第137集「被怀疑的同伴」<br/>切原摔下楼受伤，他坚称是自己滑倒，堀尾却声称看到神尾匆匆逃走，引起大家的争论和怀疑，神尾发现大家的怀疑后，决定亲自察明真相，隔天练习正式开始，华村组一开始就举行双打比赛，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4738/138/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第138话</span>网球王子 第138集「龙马对切原！超越激战」<br/>切原被人推下楼受伤的疑云，经过龙马的调查，终于找出了真正的凶手，另一方面，切原也受到良心的谴责，​​对自己过去伤害别人的做法深感不安，这时，龙马主动提议要跟他比赛，龙马与</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4739/139/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第139话</span>网球王子 第139集「新生・千石清纯」<br/>龙崎教练突然病倒住院，龙崎组顿时群龙无首，只好自主练习，这时大家决定进行练习比赛，千石率先提议要跟桃城对打，桃城自然答应，千石一脱下外套，大家才赫然发现他锻炼出一身肌肉，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4740/140/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第140话</span>网球王子 第140集「欢迎回来 手冢国光」<br/>龙崎教练住院，龙崎组在无人指导的情况下，组员各行其是，令大石伤透脑筋，这时，在德国复健的手冢突然出现，并且宣称要当代理教练，组员当下纷纷表示不服，于是手冢决定让大家用练习</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4741/141/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第141话</span>网球王子 第141集「迹部X真田 顶峰对决」<br/>手冢的归来，刺激了迹部和真田的斗志，二人遂私下约定比赛，虽然华村教练以二人不同组为理由加以阻止，榊教练却同意二人比赛，这场比赛引起大家的瞩目，双方你来我往不分轩轾，这时榊</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4742/142/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第142话</span>网球王子 第142集「来自美国的少年」<br/>青年选拔集训到了终盘时刻，候选选手共有五名。然后，手冢决定以大石·宍户VS菊丸·凤的组合让他们进行双打比赛，不同以往的双打组合让凤拿不出实力。不过，那份不满被菊丸渐渐地打散化</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4743/143/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第143话</span>网球王子 第143集「手冢的选择」<br/>正当教练团在进行商讨代表队成员组成时，龙马及各班的成员都尽全力地练习着。就在此刻，美国中学生到各大强校踢馆进行比赛，而且还连续获胜的情报传入。那位美国的中学生，似乎放话说</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4744/144/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第144话</span>网球王子 第144集「梦之队组成」<br/>终于集训的最后一天来临，无视于为了最后阶段而奋力练习的选手们，身为教练的榊、华村、手冢三人，开始决定最后的选手名单。意见吻合顺利地选出了六名选手，但在选择最后一名选手时却</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4745/145/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第145话</span>网球王子 第145集「龙马和凯宾」<br/>在公园的网球场恰巧遇到的龙马和凯宾。两人扬言要比赛一决高下牵制着对方。手冢不能接受在亲善比赛之前选手私下比赛，而制止了龙马。无法压抑内心情绪而到处寻找凯宾的龙马，听说了迹</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4746/146/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第146话</span>网球王子 第146集「美国队的野心」<br/>青学的校队成员们，帮被选进代表队的成员进行特训。练习方式大改变以外，连练习内容都是精心设计而成。另一方面，来到日本的美国青年代表队，举办了一个像是要挑衅一般的盛大记者会。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4747/147/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第147话</span>网球王子 第147集「最强 迹部和真田」<br/>终于，日美亲善青年选拔大会开幕了。第一战日本队就起用了可以代表日本中​​学网球界的迹部和真田两人。另一方面，美国队则是派出相信力量是一切的比利与拥有柔软度以及速度的迈克利</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4748/148/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第148话</span>网球王子 第148集「贝克的剧本」<br/>美国队的选手们，知道这次的比赛是由贝克所一手导演的剧码。而比利和迈克利则是将保存的实力慢慢地展现出来。迹部和真田两人很拼命地应战着，但是局势还是渐渐被逆转。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4749/149/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第149话</span>网球王子 第149集「破灭的探戈」<br/>迹部使出了原本是打算拿来对付手冢的绝招－唐怀瑟发球。不过，这个发球法非常消耗发球者的体力。由于无法掌握双打的配合方式，局势依旧恶劣。无法掌握主导权的迹部和真田，因为某个契</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4750/150/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第150话</span>网球王子 第150集「帅哥双打」<br/>双打一是由菊丸‧忍足对战葛利斐兄弟。犹如好莱坞明星的两人，会场里球迷的欢呼呐喊声不断。而贝克为了讨好赞助商的欢心使用了策略。贝克命令两兄弟要打出媚惑全场的球风。但是，菊丸</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4751/151/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第151话</span>网球王子 第151集「悲哀的木偶」<br/>由于菊丸和忍足两人绝佳的默契，托姆和特利的优胜局面被逆转。贝克看到情绪因为一分的变化而一喜一忧的球迷，对托姆和特利下了一个出人意料的指令。因为贝克对两人有恩，所以两兄弟试</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4752/152/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第152话</span>网球王子 第152集「野兽 鲍比·马克斯」<br/>单打三是由千石和犹如野兽一般拥有强壮身躯的鲍比对打。千石的虎炮在鲍比异于常人的力量之下无法发挥作用。于是千石彻底利用球场左右交攻着，但有效利用广大守备距离的鲍比压制住了千</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4753/153/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第153话</span>网球王子 第153集「挑战极限」<br/>面对鲍比的力量网球，千石采用在拳击场学会的缓急攻势网球应战。因此千石开始掌握了比赛步调。另一方面，鲍比无法掩饰住自己对于千石的打法而有的焦躁感。对于这样的鲍比，贝克提出助</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4754/154/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第154话</span>网球王子 第154集「天才VS网球机器」<br/>单打二是不二和拥有精密球技的安鲁德。在比赛前，贝克和不二述说了安鲁德的成长经历。不想再回到杂乱生活的安鲁德将自己改造为网球机器。那有如精密机器的洞悉力和控球力，安鲁德看穿</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4755/155/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第155话</span>网球王子 第155集「一毫米攻防战」<br/>分析出燕回闪是利用球的回转而有的招式，安鲁德破解了燕回闪。但是，不二像是要击溃安鲁德的精密球技一般，在网上进行着只差毫米的攻防战。正面迎战的安鲁德，却开始发生了些微的误差</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4756/156/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第156话</span>网球王子 第156集「出场的是谁」<br/>美国代表队让胜利溜走之后，失​​去投资兴趣的赞助商接连离开座位，而贝克则是说前几场只是单打一的暖场罢了。一位叫做高山的某赞助商的代表，开出条件说只要凯宾达到某个条件就愿意</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4757/157/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第157话</span>网球王子 第157集「梦幻般的幻影回球」<br/>受伤的切原为了掩饰自己的伤，一度地封印了幻影回球。当大家在怀疑切原是在保留实力的同时，凯宾渐渐地主导了比赛局面。不顾大家的疑问仍不使用幻影回球的切原使出了某种手段…</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4758/158/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第158话</span>网球王子 第158集「宿命对决 龙马对凯宾」<br/>情况急转直下，单打一换由龙马代替切原出赛，凯宾和龙马展开命运的对决。比赛刚开始没多久，将龙马的招式研究透彻的凯宾，不断地发出龙马的拿手招式。明显地是在和龙马挑衅。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4759/159/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第159话</span>网球王子 第159集「幻觉」<br/>不断击出必杀招式的龙马，压制住了凯宾。凯宾尽全力和比利秘密特训的结果，创出了原创招式幻觉，凯宾不断发出此招式对抗龙马。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4760/160/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第160话</span>网球王子 第160集「比赛结束」<br/>比赛进入抢七局面，龙马毫不留情地进攻凯宾。被逼入绝境的凯宾，使出了某人的球技招式来应战。如同关东大赛时的龙马一般超越极限的凯宾，真田评论说他已到达了“无我的境界”，但是…</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4761/161/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第161话</span>网球王子 第161集「冲吧 桃城」<br/>一同去逛街的龙马和桃城，桃城说要请龙马吃午餐，于是两人开始寻找吃饭地点，结果不是店没开就是大排长龙。走到最后，两人在巷子里发现的拉面店有着特别菜单，两人于是卯起来点餐，结</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4762/162/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第162话</span>网球王子 第162集「黄金搭档的回忆」<br/>大石和菊丸的两年前的回顾。某天，有位在球技测验中不断刷新青学的过往纪录的一年级生加入了网球社。自称是菊丸的少年，在球场上运用着他拿手的特技击球，非常引人注意。不过，菊丸却</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4763/163/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第163话</span>网球王子 第163集「海堂陌生的世界」<br/>如同往常一般进行练习的青学网球部成员。练习中，桃城的球重击了海堂的额头。失去意识的海堂在清醒之后，边看着网球拍边说出了奇怪的话。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4764/164/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第164话</span>网球王子 第164集「震惊青学的秘密作战」<br/>青学一行人得知在医院疗养的龙崎教练将在明天出院，于是计划要为龙崎教练办出院庆祝会。当龙崎从医院要回家的时候，发现樱乃的态度和平常不一样，感到异样的龙崎突然说要赶去青学一趟</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4765/165/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第165话</span>网球王子 第165集「网球王子的一家 到夏威夷去 / 网球王子的一家 圣诞节（Q版<br/>A：边看着夏威夷旅游介绍的资料，秀子试着和贞治提出想去夏威夷的愿望，但是却如对牛弹琴一样无效。就在那时，秀子在商店街的抽奖会场抽中了特奖夏威夷之旅。<br>
+B：为了小孩们的礼物</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4766/166/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第166话</span>网球王子 第166集「青学名产再现」<br/>为了迎向即将来到的全国大赛,青学网球部开始进行校内排名赛。现行校队成员和一般社员的实力差非常显著。在A组，大石和河村的对战正要展开。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4767/167/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第167话</span>网球王子 第167集「永远的对手 桃城VS海堂」<br/>校内排名赛，被称为「死亡之组」的B组，现校队成员的龙马、桃城及海堂三人之中有一人将会落选。桃城VS海堂在B组的对战，实际上将会成为决定校队成员一战，因此很多其他组别的人过来观</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4768/168/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第168话</span>网球王子 第168集「龙马的决定」<br/>月刊职业网球编辑部的井上，收到某信件后受到冲击，决定前往青学一探究竟。另一方面，校内排名赛的C组则是正要展开，已确定会当选校队，受到大家注目的乾VS菊丸的比赛。来拜访青学的井</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4769/169/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第169话</span>网球王子 第169集「动摇不定的心情」<br/>「龙马到底会不会参加全美公开赛？」一事成为青学的话题。如果龙马决定出赛全美公开赛，那么就等于无法参加全国大赛。而一想到，龙马可能会到自己双手无法触及的地方，樱乃就感到非常</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4770/170/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第170话</span>网球王子 第170集「燃烧吧 越前」<br/>B组的龙马和桃城，目前均全胜的两人展开对决比赛。自满自己是最了解龙马的桃城，觉得这次是难得的好机会可以较劲，因此格外地卖力。在比赛序盘，桃城就占了优势，不过…</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4771/171/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第171话</span>网球王子 第171集「给亲爱的朋友」<br/>对于宣布弃权的龙马，桃城满腔怒火。藉由龙崎的仲裁，龙马确定放弃比赛。对于不能接受这个结果的桃城，龙崎告诫说「就是因为最靠近，所以有些东西会看不到不是吗？」，桃城这才理解了</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4772/172/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第172话</span>网球王子 第172集「再见青学」<br/>龙马决定赴美参加公开赛，众人纷纷赠送临别礼物，樱乃绞尽脑汁也想不出该送什么好，眼看飞机起飞的时间已到，樱乃却还困在电车上。幸好因班机延误，总算即时见到龙马。于是龙马带着大</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4773/173/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第173话</span>网球王子 第173集「武士纽约」<br/>龙马在史帝夫的安排下一来到纽约，凯宾立刻出现，并且连手在公园教训了两个流氓，展现网球的实力，凯宾随即带龙马去参观全美公开赛的球场，要求龙马跟他一起，实现彼此的父亲当年未能</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4774/174/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第174话</span>网球王子 第174集「手冢国光VS不二周助」<br/>龙马赴美比赛，青学的校内排名赛也继续进行，来到最后的压轴好戏，由手冢出战不二，他们俩虽从一年级起就天天见面，却无人看过他们对战，只有大石听说他们以前曾比过一次，当时手冢惨</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4775/175/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第175话</span>网球王子 第175集「三年来的认真」<br/>校内排名赛进行到最后，由手冢出战不二，向来不在乎胜负的天才不二，和伤势康复的手冢，形成一场拉锯战，不二回想起二人一年级时，他曾找手冢比赛，但手冢却隐瞒伤势带伤比赛，此后二</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4776/176/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第176话</span>网球王子 第176集「Climax」<br/>手冢和不二的对决进入高潮，双方你来我往杀得难分难解，同时也想起了高一私下比赛时，手冢隐瞒手伤导致惨败的往事，向来不在乎输赢的不二，这次终于卯足全力应战，虽然最后落败，但彼</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4777/177/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第177话</span>网球王子 第177集「无法忘记的约定」<br/>龙马顺利晋级全美公开赛的复赛，桃城等人特地打国际电话恭喜他，但当他听说不二败给了手冢，当下再也按捺不住，不顾史帝夫和凯宾的阻止，翌日一早就决定整装回日本，和手冢对决，履行</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/4778/178/" target="_blank" target="_self">
+                                        <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                        <div class="fjjq"><span>第178话</span>网球王子 第178集「王子再见」<br/>龙马即将参加全美公开赛复赛，但他知道，如果不击败手冢，永远无法继续迈进，遂在复赛前夕匆匆赶回日本，要求跟手冢对决，没想到被堀尾等人无意发现，连忙赶去通知学长们，一行人接获</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next swiper-button-next4"></div>
+                <div class="swiper-button-prev swiper-button-prev4"></div>
+            </div>
+
+            <div class="time_con">
+                <div class="stafflist">
+                    <div class="staff">
+                        
+
+                    </div>
+                    <div class="cast">
+                        
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div><!--tab slider end-->
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+    <div class="con24">
+        <div class="stitle">
+            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/dessert2">粗点心战争 第二季</a><a href="/anime/wmdscnlzhe">我们都是超能力者</a><a href="/anime/sekkoboys">石膏男孩</a><a href="/anime/keroro">keroro军曹</a><a href="/anime/Otogi2">天使的尾巴第二季</a>
+                            </span>
+        </div>
+        <div class="swiper-container swiper3">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <ul class="m_pic clear">
+                        <li><a href="/anime/cookandsheep"><img src="http://static.jfrft.com/uploads/201601/1-160126021K0605.png"/><p>厨师与羊</p><div class="fc_m"><strong>厨师与羊</strong></div></a></li><li><a href="/anime/wmdscnlzhe"><img src="http://static.jfrft.com/uploads/allimg/160602/1_1617581841.jpg"/><p>我们都是超能力者</p><div class="fc_m"><strong>我们都是超能力者</strong></div></a></li><li><a href="/anime/tiantzs"><img src="http://static.jfrft.com/uploads/allimg/160812/1_2354363601.jpg"/><p>天体战士</p><div class="fc_m"><strong>天体战士</strong></div></a></li><li><a href="/anime/Otogi"><img src="http://static.jfrft.com/uploads/allimg/160522/1_2309028682.jpg"/><p>天使的尾巴</p><div class="fc_m"><strong>天使的尾巴</strong></div></a></li><li><a href="/anime/2bheroch"><img src="http://static.jfrft.com/uploads/allimg/160926/1_1132155361.jpg"/><p>凸变英雄 中文版</p><div class="fc_m"><strong>凸变英雄 中文版</strong></div></a></li><li><a href="/anime/jwsan1"><img src="http://static.jfrft.com/uploads/201601/1-16011Q621523E.jpg"/><p>再见绝望先生</p><div class="fc_m"><strong>再见绝望先生</strong></div></a></li><li><a href="/anime/servantservice"><img src="http://static.jfrft.com/uploads/201601/1-1601200356022X.jpg"/><p>跟班×服务</p><div class="fc_m"><strong>跟班×服务</strong></div></a></li><li><a href="/anime/bdjy"><img src="http://static.jfrft.com/uploads/201512/1-15121GP02U51.jpg"/><p>爆蛋晶英</p><div class="fc_m"><strong>爆蛋晶英</strong></div></a></li><li><a href="/anime/wannengphase/"><img src="http://static.jfrft.com/uploads/allimg/160608/1_2118445101.jpg"/><p>万能文化猫娘PHASE</p><div class="fc_m"><strong>万能文化猫娘PHASE</strong></div></a></li><li><a href="/anime/glglmfzdsj"><img src="http://www.dilidili.wang/uploads/allimg/170607/6_1114276391.jpg"/><p>咕噜咕噜魔法阵第三季</p><div class="fc_m"><strong>咕噜咕噜魔法阵第三季</strong></div></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="swiper-button-next swiper-button-next3"></div>
+            <div class="swiper-button-prev swiper-button-prev3"></div>
+        </div>
+    </div>
+
+    <script src="/templets/default/js/swiper.min.js"></script>
+    <script>
+        jQuery(".playjs").hide();
+        function changeSwiper1(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+//		alert(arrlen);
+            var len = 0;
+            if (_is) {
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                if(arrlen % 20 >0){
+                    len = parseInt(arrlen / 20)+1;
+                }else{
+                    len = parseInt(arrlen / 20);
+                }
+            }
+            if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+        changeSwiper1('.xfswiper0');
+        changeSwiper1('.xfswiper1');
+        changeSwiper1('.xfswiper2');
+        changeSwiper1('.xfswiper3');
+        changeSwiper1('.xfswiper4');
+        changeSwiper1('.xfswiper5');
+        changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+        changeSwiper('.swiper7');
+        changeSwiper2('.swiper4');
+        jQuery(window).resize(function () {
+            changeSwiper1('.xfswiper0');
+            changeSwiper1('.xfswiper1');
+            changeSwiper1('.xfswiper2');
+            changeSwiper1('.xfswiper3');
+            changeSwiper1('.xfswiper4');
+            changeSwiper1('.xfswiper5');
+            changeSwiper1('.xfswiper6');
+            changeSwiper('.swiper3');
+            changeSwiper('.swiper5');
+            changeSwiper('.swiper6');
+            changeSwiper('.swiper7');
+            changeSwiper2('.swiper4');
+        });
+        var swiper1 = new Swiper('.xfswiper1', {
+            nextButton: '.xfswiper-button-next1',
+            prevButton: '.xfswiper-button-prev1',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper2', {
+            nextButton: '.xfswiper-button-next2',
+            prevButton: '.xfswiper-button-prev2',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper3', {
+            nextButton: '.xfswiper-button-next3',
+            prevButton: '.xfswiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper3 = new Swiper('.swiper3', {
+            nextButton: '.swiper-button-next3',
+            prevButton: '.swiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper4 = new Swiper('.swiper4', {
+            nextButton: '.swiper-button-next4',
+            prevButton: '.swiper-button-prev4',
+            spaceBetween: 30
+        });
+        var swiper5 = new Swiper('.swiper5', {
+            nextButton: '.swiper-button-next5',
+            prevButton: '.swiper-button-prev5',
+            spaceBetween: 30
+        });
+        var swiper6 = new Swiper('.swiper6', {
+            nextButton: '.swiper-button-next6',
+            prevButton: '.swiper-button-prev6',
+            spaceBetween: 30
+        });
+        var swiper7 = new Swiper('.swiper7', {
+            nextButton: '.swiper-button-next7',
+            prevButton: '.swiper-button-prev7',
+            spaceBetween: 30
+        });
+
+        var week = new Date();
+        jQuery(".xf_news .pk_time a").removeClass("current");
+        jQuery(".xf_news .time_pic .time_con").hide();
+        if (week != 0) {
+            jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+            jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+            new Swiper(".xfswiper"+(0), {
+                nextButton: '.xfswiper-button-next'+(0),
+
+                prevButton: '.xfswiper-button-prev'+(0),
+                spaceBetween: 30
+            });
+        }
+
+        jQuery(".xf_news .pk_time a").each(function(index){
+            jQuery(this).click(function(){
+                jQuery(".xf_news .pk_time a").removeClass("current");
+                jQuery(this).addClass("current");
+                jQuery(".xf_news .time_pic .time_con").hide();
+                jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+                new Swiper(".xfswiper"+index, {
+                    nextButton: '.xfswiper-button-next'+index,
+                    prevButton: '.xfswiper-button-prev'+index,
+                    spaceBetween: 30
+                });
+                jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+            });
+        });
+
+        var swiper = new Swiper('.xfswiper1', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+            paginationBulletRender: function (index, className) {
+                return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+            }
+        });
+
+        var mySwiper1 = new Swiper('.swiper1',{
+            pagination: '.pagination1',
+            paginationClickable: true,
+            moveStartThreshold: 100,
+            autoplay:4000
+        });
+        var mySwiper2 = new Swiper('.swiper2',{
+            pagination: '.pagination2',
+            paginationClickable: true,
+            moveStartThreshold: 100
+        });
+        var webWidth = 736;
+        function changeSwiper(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 5 >0){
+                    len = parseInt(arrlen / 5)+1;
+                }else{
+                    len = parseInt(arrlen / 5);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        function changeSwiper2(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 8 >0){
+                    len = parseInt(arrlen / 8)+1;
+                }else{
+                    len = parseInt(arrlen / 8);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        jQuery(function() {
+            jQuery(".closed").click(
+                    function(){
+                        jQuery(".topimg").slideUp();
+                    });
+
+            // 收缩展开效果
+            jQuery(".adminico").click(function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+            },function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+            });
+
+            jQuery(".a_open").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").slideDown(500);
+                        jQuery(".fc_black").show();
+                        jQuery(".a_closed").show();
+                    });
+            jQuery(".a_closed").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                    });
+            jQuery(".fc_black").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                        jQuery(".a_closed").hide();
+                    });
+            jQuery(".rm_pank .pk_year a").each(function(index){
+                jQuery(this).mouseover(
+                        function(){
+                            jQuery(".rm_pank .pk_year a").removeClass("current");
+                            jQuery(this).addClass("current");
+                            jQuery(".rm_pank .rm_main .rm_con").hide();
+                            jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+                        })
+            });
+
+            var headHeight=$(".head_top").height();
+            var nav=$("#navf");
+            $(window).scroll(function(){
+                if($(this).scrollTop()>headHeight){
+                    nav.addClass("navFix");
+                }
+                else{
+                    nav.removeClass("navFix");
+                }
+            })
+
+            var headHeight2=$(".topimg").height();
+            var nav2=jQuery("#topnavf");
+            jQuery(window).scroll(function(){
+                if($(this).scrollTop()>headHeight2){
+                    nav2.addClass("topnavFix");
+                }
+                else{
+                    nav2.removeClass("topnavFix");
+                }
+            });
+
+        });
+
+    </script>
+
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+    <div class="con24">
+        <!--<div class="stitle">
+            <h3>评论</h3>
+            <span class="s_f">
+                <a href="http://bbs.005.tv">D站论坛</a>
+                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+            </span>
+            <a href="http://usr.005.tv" style="float:right;">评论前请先登录或注册</a>
+        </div>	-->
+        <div style="margin:20px 0; text-align:center;">
+            <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='614185' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+            <!-- UY BEGIN -->
+            <!--<div id="uyan_frame"></div>
+            <div class="comment">
+            <i>网球王子国语版评论</i>-->
+            <!-- 多说评论框 start -->
+            <!--<div class="ds-thread" data-thread-key="4600" data-title="网球王子国语版" data-url=
+        "http://www.dilidili.wang/anime/tenipuri/"></div>-->
+            <!-- 多说评论框 end -->
+            <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+            <!--<script type="text/javascript">
+            var duoshuoQuery = {short_name:"dzhan"};
+                (function() {
+                    var ds = document.createElement('script');
+                    ds.type = 'text/javascript';ds.async = true;
+                    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                    ds.charset = 'UTF-8';
+                    (document.getElementsByTagName('head')[0]
+                     || document.getElementsByTagName('body')[0]).appendChild(ds);
+                })();
+                </script>-->
+            <!-- 多说公共JS代码 end -->
+        </div>
+        <!-- UY END -->
+    </div>
+</div>
+<div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+    <script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script>
+    <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+</div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>			
+</div>
+<div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/muban/js/w234.js"></script>
+</body>
+</html>

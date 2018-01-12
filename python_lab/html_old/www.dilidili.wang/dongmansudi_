@@ -1,0 +1,1778 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="utf-8">
+    <title>动漫速递-  在线&下载 - 嘀哩嘀哩</title>
+    <meta name="keywords" content="动漫速递" />
+    <meta name="description" content="《动漫速递》是一档全新的动漫资讯节目,新作经典轮番推荐,无论您喜欢那种类型,《动漫速递》都能为您一网打尽,为您带来一场美妙的动漫盛宴。" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile">
+    <script src="http://static.jfrft.com/js/uaredirect.js"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/dongmansudi/");</script>
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/dongmansudi/"/>
+    <link rel="canonical" href="http://www.dilidili.wang/dongmansudi/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/dongmansudi/" >
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+    <link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+    <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+    <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js" defer></script>
+    <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+    <script>
+        jQuery(function(){
+            new jbCollect('a._collect', '#content1');
+        });
+    </script>
+    <base target="_blank">
+    <style>
+    </style>
+</head>
+<body>
+<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201801/" target="_blank">一月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+
+<div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>动漫速递</a></div>
+<div class="aside_cen2">
+    <div class="detail con24 clear">
+        <dl>
+            <dt><img src="http://static.jfrft.com/uploads/allimg/160513/1_1110529601.jpg" alt="动漫速递"/></dt>
+            <dd>
+                <h1>动漫速递</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="动漫速递" data-url="http://www.dilidili.wang/dongmansudi/" data-icon="http://static.jfrft.com/uploads/allimg/160513/1_1110529601.jpg"><span>收藏</span></a></div><br/>
+                <span class="play_cs">播放次数:<script src="http://www.dilidili.wang/plus/countlist.php?view=yes&aid=1193&mid=" type='text/javascript' language="javascript"></script></span>
+                <p><div class="d_label"><b>地区：</b>大陆</div><div class="d_label"><b>年代：</b>2012年8月</div></p>
+                <p><div class="d_label"><b>标签：</b>搞笑|真人</div><div class="d_label"><b>状态：</b>连载更新</div></p>
+                <p><div class="d_label2"><b>看点：</b>速递娘 推番啦！</div></p>
+                <p><div class="d_label2"><b>简介：</b>《动漫速递》是一档全新的动漫资讯节目,新作经典轮番推荐,无论您喜欢那种类型,《动漫速递》都能为您一网打尽,为您带来一场美妙的动漫盛宴。</div></p>
+                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('动漫速递','','','http://www.dilidili.wang/dongmansudi/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                <p>
+                <div class="button_bar">
+                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>
+                    
+                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                </div>
+                </p>
+            </dd>
+        </dl>
+    </div>
+    <div class="con24 m-10 xf_news">
+        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+        </div>
+        <div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+        <div class="time_pic list">
+            <div class="time_con">
+                <div class="swiper-container xfswiper1">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul class="clear">
+                                <li><a href="http://www.dilidili.wang/watch/5701/" target="_self"><em><span>第1话</span>动漫速递 第1期「日本动漫中的经典催泪大片」</em></a></li><li><a href="http://www.dilidili.wang/watch/5702/" target="_self"><em><span>第2话</span>动漫速递 第2期「日本动漫中美妙的真实场景」</em></a></li><li><a href="http://www.dilidili.wang/watch/5703/" target="_self"><em><span>第3话</span>动漫速递 第3期「那些年我们追过的魔法少女」</em></a></li><li><a href="http://www.dilidili.wang/watch/5704/" target="_self"><em><span>第4话</span>动漫速递 第4期「盘点动漫中的极品高富帅」</em></a></li><li><a href="http://www.dilidili.wang/watch/5705/" target="_self"><em><span>第5话</span>动漫速递 第5期「不容错过的秋季新番 上」</em></a></li><li><a href="http://www.dilidili.wang/watch/5706/" target="_self"><em><span>第6话</span>动漫速递 第6期「不容错过的秋季新番 下」</em></a></li><li><a href="http://www.dilidili.wang/watch/5707/" target="_self"><em><span>第7话</span>动漫速递 第7期「谁说国漫都是渣 我们国人有力量」</em></a></li><li><a href="http://www.dilidili.wang/watch/5708/" target="_self"><em><span>第8话</span>动漫速递 第8期「动漫游戏一家亲」</em></a></li><li><a href="http://www.dilidili.wang/watch/5709/" target="_self"><em><span>第9话</span>动漫速递 第9期「细数动漫中惊艳的白富美」</em></a></li><li><a href="http://www.dilidili.wang/watch/5710/" target="_self"><em><span>第10话</span>动漫速递 第10期「风靡全球的中国风动画」</em></a></li><li><a href="http://www.dilidili.wang/watch/5711/" target="_self"><em><span>第11话</span>动漫速递 第11期「神自嘲的欧美另类动画」</em></a></li><li><a href="http://www.dilidili.wang/watch/5712/" target="_self"><em><span>第12话</span>动漫速递 第12期「萌萌小动物温暖初冬」</em></a></li><li><a href="http://www.dilidili.wang/watch/5713/" target="_self"><em><span>第13话</span>动漫速递 第13期「人不“中二”枉少年」</em></a></li><li><a href="http://www.dilidili.wang/watch/5714/" target="_self"><em><span>第14话</span>动漫速递 第14期「年末必看的剧场版动画」</em></a></li><li><a href="http://www.dilidili.wang/watch/5715/" target="_self"><em><span>第15话</span>动漫速递 第15期「声优翻身做主角之男生篇」</em></a></li><li><a href="http://www.dilidili.wang/watch/5716/" target="_self"><em><span>第16话</span>动漫速递 第16期「超人气的美女声优」</em></a></li><li><a href="http://www.dilidili.wang/watch/5717/" target="_self"><em><span>第17话</span>动漫速递 第17期「走向终结 那些足以毁灭世界的灾难」</em></a></li><li><a href="http://www.dilidili.wang/watch/5718/" target="_self"><em><span>第18话</span>动漫速递 第18期「年末特辑 二次元的圣诞节」</em></a></li><li><a href="http://www.dilidili.wang/watch/5719/" target="_self"><em><span>第19话</span>动漫速递 第19期「妹纸满载 萌你一脸的一月新番（上）」</em></a></li><li><a href="http://www.dilidili.wang/watch/5720/" target="_self"><em><span>第20话</span>动漫速递 第20期「萌妹子大派送 一月新番（下）」</em></a></li><li><a href="http://www.dilidili.wang/watch/5721/" target="_self"><em><span>第21话</span>动漫速递 第21期「风光男主背后的苦逼故事」</em></a></li><li><a href="http://www.dilidili.wang/watch/5722/" target="_self"><em><span>第22话</span>动漫速递 第22期「勾引你的H之魂 壮哉我大卖肉番」</em></a></li><li><a href="http://www.dilidili.wang/watch/5723/" target="_self"><em><span>第23话</span>动漫速递 第23期「葫芦恒久远 神作永流传」</em></a></li><li><a href="http://www.dilidili.wang/watch/5724/" target="_self"><em><span>第24话</span>动漫速递 第24期「这么可爱一定是男孩子」</em></a></li><li><a href="http://www.dilidili.wang/watch/5725/" target="_self"><em><span>第25话</span>动漫速递 第25期「灵魂颤动 探究谜团背后的真相」</em></a></li><li><a href="http://www.dilidili.wang/watch/5726/" target="_self"><em><span>第26话</span>动漫速递 第26期「恶搞番外 二次元演绎春晚的正确观看方式」</em></a></li><li><a href="http://www.dilidili.wang/watch/5727/" target="_self"><em><span>第27话</span>动漫速递 第27期「官方出品无下限 逼死同人不商量」</em></a></li><li><a href="http://www.dilidili.wang/watch/5728/" target="_self"><em><span>第28话</span>动漫速递 第28期「如何毁掉一部动漫 论正确的打开方式」</em></a></li><li><a href="http://www.dilidili.wang/watch/5729/" target="_self"><em><span>第29话</span>动漫速递 第29期「原创佳作层层出 壮哉我大中华」</em></a></li><li><a href="http://www.dilidili.wang/watch/5730/" target="_self"><em><span>第30话</span>动漫速递 第30期「让人蛋疼菊紧的神功绝技」</em></a></li><li><a href="http://www.dilidili.wang/watch/5731/" target="_self"><em><span>第31话</span>动漫速递 第31期「魔王副业忙不停 行行都是状元才」</em></a></li><li><a href="http://www.dilidili.wang/watch/5732/" target="_self"><em><span>第32话</span>动漫速递 第32期「神之打码无节操 就是不让你看到」</em></a></li><li><a href="http://www.dilidili.wang/watch/5733/" target="_self"><em><span>第33话</span>动漫速递 第33期「新番年年有 四月槽点多」</em></a></li><li><a href="http://www.dilidili.wang/watch/5734/" target="_self"><em><span>第34话</span>动漫速递 第34期「新番槽点多之狂霸酷帅屌第二弹」</em></a></li><li><a href="http://www.dilidili.wang/watch/5735/" target="_self"><em><span>第35话</span>动漫速递 第35期「夏天就要看奇葩 提神醒脑清凉番」</em></a></li><li><a href="http://www.dilidili.wang/watch/5736/" target="_self"><em><span>第36话</span>动漫速递 第36期「真人不露相 看似废柴的动漫角色」</em></a></li><li><a href="http://www.dilidili.wang/watch/5737/" target="_self"><em><span>第37话</span>动漫速递 第37期「夏季纳凉好去处 影院大片看花眼」</em></a></li><li><a href="http://www.dilidili.wang/watch/5738/" target="_self"><em><span>第38话</span>动漫速递 第38期「钟为谁鸣 论日漫不断遭到攻击的背后」</em></a></li><li><a href="http://www.dilidili.wang/watch/5739/" target="_self"><em><span>第39话</span>动漫速递 第39期「清凉一夏 七月新番力作」</em></a></li><li><a href="http://www.dilidili.wang/watch/5740/" target="_self"><em><span>第40话</span>动漫速递 第40期「爱你才不说出口 一吻定情最靠谱」</em></a></li><li><a href="http://www.dilidili.wang/watch/5741/" target="_self"><em><span>第41话</span>动漫速递 第41期「三分钟能干什么？脱掉节操等着你」</em></a></li><li><a href="http://www.dilidili.wang/watch/5742/" target="_self"><em><span>第42话</span>动漫速递 第42期「吃货无止境 我已经饥渴难耐啦！」</em></a></li><li><a href="http://www.dilidili.wang/watch/5743/" target="_self"><em><span>第43话</span>动漫速递 第43期「宅家补番过暑假 不如出门游圣地」</em></a></li><li><a href="http://www.dilidili.wang/watch/5744/" target="_self"><em><span>第44话</span>动漫速递 第44期「高端洋气上档次 不一样的剧场版」</em></a></li><li><a href="http://www.dilidili.wang/watch/5745/" target="_self"><em><span>第45话</span>动漫速递 第45期「新番每季有时尽 基情绵延无断绝」</em></a></li><li><a href="http://www.dilidili.wang/watch/5746/" target="_self"><em><span>第46话</span>动漫速递 第46期「炎炎夏日看动漫 官方节操满地捡」</em></a></li><li><a href="http://www.dilidili.wang/watch/5747/" target="_self"><em><span>第47话</span>动漫速递 第47期「谁说不能黑白配 在我眼里你最美」</em></a></li><li><a href="http://www.dilidili.wang/watch/5748/" target="_self"><em><span>第48话</span>动漫速递 第48期「不够强大不要紧 女汉子来保护你」</em></a></li><li><a href="http://www.dilidili.wang/watch/5749/" target="_self"><em><span>第49话</span>动漫速递 第49期「超长的秋季新番 一起来战个痛快」</em></a></li><li><a href="http://www.dilidili.wang/watch/5750/" target="_self"><em><span>第50话</span>动漫速递 第50期「次元之墙不可破 漫改真人掉节操」</em></a></li><li><a href="http://www.dilidili.wang/watch/5751/" target="_self"><em><span>第51话</span>动漫速递 第51期「论BGM的重要性——华语乐坛篇」</em></a></li><li><a href="http://www.dilidili.wang/watch/5752/" target="_self"><em><span>第52话</span>动漫速递 第52期「论BGM的重要性——日语乐坛篇」</em></a></li><li><a href="http://www.dilidili.wang/watch/5753/" target="_self"><em><span>第53话</span>动漫速递 第53期「国庆收假怎么办？小编陪你聊聊天」</em></a></li><li><a href="http://www.dilidili.wang/watch/5754/" target="_self"><em><span>第54话</span>动漫速递 第54期「十月新番不间断 七月老番亮点多」</em></a></li><li><a href="http://www.dilidili.wang/watch/5755/" target="_self"><em><span>第55话</span>动漫速递 第55期「宅男不可怕 最怕宅男有文化 」</em></a></li><li><a href="http://www.dilidili.wang/watch/5756/" target="_self"><em><span>第56话</span>动漫速递 第56期「脱团攻略——论男孩子正确的告白方式」</em></a></li><li><a href="http://www.dilidili.wang/watch/5978/" target="_self"><em><span>第57话</span>动漫速递 第57期「脱团攻略——论女孩子正确的告白方式」</em></a></li><li><a href="http://www.dilidili.wang/watch/6058/" target="_self"><em><span>第58话</span>动漫速递 第58期「信仰的力量 燃系热血动画盘点」</em></a></li><li><a href="http://www.dilidili.wang/watch/6094/" target="_self"><em><span>第59话</span>动漫速递 第59期「二次元偶像大餐来袭」</em></a></li><li><a href="http://www.dilidili.wang/watch/6180/" target="_self"><em><span>第60话</span>动漫速递 第60期「FLAG不能随便立 不作死就不会死」</em></a></li><li><a href="http://www.dilidili.wang/watch/6527/" target="_self"><em><span>第61话</span>动漫速递 第61期「2013年度推荐动画TOP10」</em></a></li><li><a href="http://www.dilidili.wang/watch/6598/" target="_self"><em><span>第62话</span>动漫速递 第62期「一起燃起来 热血台词TOP10」</em></a></li><li><a href="http://www.dilidili.wang/watch/6785/" target="_self"><em><span>第63话</span>动漫速递 第63期「2014年1月新番 你准备好了吗？」</em></a></li><li><a href="http://www.dilidili.wang/watch/6968/" target="_self"><em><span>第64话</span>动漫速递 第64期「我的童年不是喜羊羊真是太好了」</em></a></li><li><a href="http://www.dilidili.wang/watch/7079/" target="_self"><em><span>第65话</span>动漫速递 第65期「绅士的品格 欧派大对决」</em></a></li><li><a href="http://www.dilidili.wang/watch/7172/" target="_self"><em><span>第66话</span>动漫速递 第66期「少女不好惹 粉毛容易黑」</em></a></li><li><a href="http://www.dilidili.wang/watch/7261/" target="_self"><em><span>第67话</span>动漫速递 第67期「后宫动漫良心推荐——男主篇」</em></a></li><li><a href="http://www.dilidili.wang/watch/7391/" target="_self"><em><span>第68话</span>动漫速递 第68期「后宫动漫良心推荐——女主篇」</em></a></li><li><a href="http://www.dilidili.wang/watch/7483/" target="_self"><em><span>第69话</span>动漫速递 第69期「新年特别篇 儿歌忆童年」</em></a></li><li><a href="http://www.dilidili.wang/watch/7695/" target="_self"><em><span>第70话</span>动漫速递 第70期「有个能干的妹妹就是好」</em></a></li><li><a href="http://www.dilidili.wang/watch/7863/" target="_self"><em><span>第71话</span>动漫速递 第71期「你很有想法 跟我学吐槽吧！」</em></a></li><li><a href="http://www.dilidili.wang/watch/7930/" target="_self"><em><span>第72话</span>动漫速递 第72期「杀伤力这么大 你爸妈知道吗」</em></a></li><li><a href="http://www.dilidili.wang/watch/7990/" target="_self"><em><span>第73话</span>动漫速递 第73期「良心推荐！2014年1月新番TOP10」</em></a></li><li><a href="http://www.dilidili.wang/watch/8273/" target="_self"><em><span>第74话</span>动漫速递 第74期「年上又何妨 只要能干就够了」</em></a></li><li><a href="http://www.dilidili.wang/watch/8341/" target="_self"><em><span>第75话</span>动漫速递 第75期「四月新番大放送 总会有你心头好」</em></a></li><li><a href="http://www.dilidili.wang/watch/8640/" target="_self"><em><span>第76话</span>动漫速递 第76期「原创坑爹回忆杀 官方满满恶意大」</em></a></li><li><a href="http://www.dilidili.wang/watch/8863/" target="_self"><em><span>第77话</span>动漫速递 第77期「再见了科学君 二次元很不科学」</em></a></li><li><a href="http://www.dilidili.wang/watch/9079/" target="_self"><em><span>第78话</span>动漫速递 第78期「福利满满！10分钟看遍岛国卖肉番」</em></a></li><li><a href="http://www.dilidili.wang/watch/9164/" target="_self"><em><span>第79话</span>动漫速递 第79期「腐利满满 10分钟基情小课堂」</em></a></li><li><a href="http://www.dilidili.wang/watch/9252/" target="_self"><em><span>第80话</span>动漫速递 第80期「福利第二弹！论后宫的养成」</em></a></li><li><a href="http://www.dilidili.wang/watch/9335/" target="_self"><em><span>第81话</span>动漫速递 第81期「日本帅哥声优好声音」</em></a></li><li><a href="http://www.dilidili.wang/watch/9389/" target="_self"><em><span>第82话</span>动漫速递 第82期「2014年4月新番推荐」</em></a></li><li><a href="http://www.dilidili.wang/watch/9448/" target="_self"><em><span>第83话</span>动漫速递 第83期「日本动漫中触动心灵的美好瞬间」</em></a></li><li><a href="http://www.dilidili.wang/watch/9510/" target="_self"><em><span>第84话</span>动漫速递 第84期「你死还是我活？一起来战个痛快！」</em></a></li><li><a href="http://www.dilidili.wang/watch/9564/" target="_self"><em><span>第85话</span>动漫速递 第85期「乱开后宫很危险 人渣男神一线间」</em></a></li><li><a href="http://www.dilidili.wang/watch/9642/" target="_self"><em><span>第86话</span>动漫速递 第86期「夏日福利！减肥特辑」</em></a></li><li><a href="http://www.dilidili.wang/watch/9693/" target="_self"><em><span>第87话</span>动漫速递 第87期「考前必看！论学霸的养成」</em></a></li><li><a href="http://www.dilidili.wang/watch/9777/" target="_self"><em><span>第88话</span>动漫速递 第88期「毕业季 我们不说再见」</em></a></li><li><a href="http://www.dilidili.wang/watch/9856/" target="_self"><em><span>第89话</span>动漫速递 第89期「2014年7月 史上最强夏季新番介绍」</em></a></li><li><a href="http://www.dilidili.wang/watch/9973/" target="_self"><em><span>第90话</span>动漫速递 第90期「ACG不分家 暑假来战个痛吧！」</em></a></li><li><a href="http://www.dilidili.wang/watch/10095/" target="_self"><em><span>第91话</span>动漫速递 第91期「二次元后宫撕逼大战」</em></a></li><li><a href="http://www.dilidili.wang/watch/10163/" target="_self"><em><span>第92话</span>动漫速递 第92期「禽兽不如！妈妈再生我一次」</em></a></li><li><a href="http://www.dilidili.wang/watch/10236/" target="_self"><em><span>第93话</span>动漫速递 第93期「论反派的自我修养」</em></a></li><li><a href="http://www.dilidili.wang/watch/10297/" target="_self"><em><span>第94话</span>动漫速递 第94期「听说这几年有些动漫少儿不宜」</em></a></li><li><a href="http://www.dilidili.wang/watch/10370/" target="_self"><em><span>第95话</span>动漫速递 第95期「闪耀变身二十年」</em></a></li><li><a href="http://www.dilidili.wang/watch/10456/" target="_self"><em><span>第96话</span>动漫速递 第96期「丧心病狂！男主都是这么开挂的」</em></a></li><li><a href="http://www.dilidili.wang/watch/10577/" target="_self"><em><span>第97话</span>动漫速递 第97期「打破次元墙 戏说真人版」</em></a></li><li><a href="http://www.dilidili.wang/watch/10662/" target="_self"><em><span>第98话</span>动漫速递 第98期「USA特产：英雄大礼包」</em></a></li><li><a href="http://www.dilidili.wang/watch/10742/" target="_self"><em><span>第99话</span>动漫速递 第99期「进击的COSPLAY」</em></a></li><li><a href="http://www.dilidili.wang/watch/10799/" target="_self"><em><span>第100话</span>动漫速递 第100期「肉番腐番福利满满！百期大放送」</em></a></li><li><a href="http://www.dilidili.wang/watch/10963/" target="_self"><em><span>第101话</span>动漫速递 第101期「十月新番大合集 基佬软妹随便挑」</em></a></li><li><a href="http://www.dilidili.wang/watch/11079/" target="_self"><em><span>第102话</span>动漫速递 第102期「7月新番人气TOP10 不服来战！」</em></a></li><li><a href="http://www.dilidili.wang/watch/11164/" target="_self"><em><span>第103话</span>动漫速递 第103期「抖你一下 S属性你有吗」</em></a></li><li><a href="http://www.dilidili.wang/watch/11237/" target="_self"><em><span>第104话</span>动漫速递 第104期「抖你一下 M属性你不缺哦」</em></a></li><li><a href="http://www.dilidili.wang/watch/11298/" target="_self"><em><span>第105话</span>动漫速递 第105期「满满少女心 重燃恋爱魂」</em></a></li><li><a href="http://www.dilidili.wang/watch/11373/" target="_self"><em><span>第106话</span>动漫速递 第106期「颤抖吧人类！来自异星球的入侵」</em></a></li><li><a href="http://www.dilidili.wang/watch/11452/" target="_self"><em><span>第107话</span>动漫速递 第107期「变态大合集 警察蜀黍就是这个人！」</em></a></li><li><a href="http://www.dilidili.wang/watch/11586/" target="_self"><em><span>第108话</span>动漫速递 第108期「不给糖就捣蛋！万圣节特辑」</em></a></li><li><a href="http://www.dilidili.wang/watch/11676/" target="_self"><em><span>第109话</span>动漫速递 第109期「反差萌！男神不为人知的一面」</em></a></li><li><a href="http://www.dilidili.wang/watch/11757/" target="_self"><em><span>第110话</span>动漫速递 第110期「二次元活力美少女来袭！」</em></a></li><li><a href="http://www.dilidili.wang/watch/11849/" target="_self"><em><span>第111话</span>动漫速递 第111期「巨乳or贫乳？胸部相对论」</em></a></li><li><a href="http://www.dilidili.wang/watch/11964/" target="_self"><em><span>第112话</span>动漫速递 第112期「萌即是正义！二次元萌神大盘点」</em></a></li><li><a href="http://www.dilidili.wang/watch/12138/" target="_self"><em><span>第113话</span>动漫速递 第113期「节操掉尽人清爽 绅士都爱萝莉番」</em></a></li><li><a href="http://www.dilidili.wang/watch/12177/" target="_self"><em><span>第114话</span>动漫速递 第114期「二次元嘴炮技术哪家强？」</em></a></li><li><a href="http://www.dilidili.wang/watch/12255/" target="_self"><em><span>第115话</span>动漫速递 第115期「耍帅把妹开挂 盘点二次元超能力！」</em></a></li><li><a href="http://www.dilidili.wang/watch/12372/" target="_self"><em><span>第116话</span>动漫速递 第116期「圣诞福利篇 爱豆们的明星梦」</em></a></li><li><a href="http://www.dilidili.wang/watch/12421/" target="_self"><em><span>第117话</span>动漫速递 第117期「高能预警！2015年1月新番大盘点」</em></a></li><li><a href="http://www.dilidili.wang/watch/12457/" target="_self"><em><span>第118话</span>动漫速递 第118期「软妹子福利 少女们的明星梦」</em></a></li><li><a href="http://www.dilidili.wang/watch/12554/" target="_self"><em><span>第119话</span>动漫速递 第119期「万万没想到的十月新番排行榜」</em></a></li><li><a href="http://www.dilidili.wang/watch/12628/" target="_self"><em><span>第120话</span>动漫速递 第120期「追番指南 一月新番推荐」</em></a></li><li><a href="http://www.dilidili.wang/watch/12686/" target="_self"><em><span>第121话</span>动漫速递 第121期「羞耻play全玩遍 漫改真人好点赞」</em></a></li><li><a href="http://www.dilidili.wang/watch/12755/" target="_self"><em><span>第122话</span>动漫速递 第122期「家有女神初养成 端庄神经一线间」</em></a></li><li><a href="http://www.dilidili.wang/watch/12848/" target="_self"><em><span>第123话</span>动漫速递 第123期「情人节特辑：二次元那些不忍烧的异性恋」</em></a></li><li><a href="http://www.dilidili.wang/watch/13089/" target="_self"><em><span>第124话</span>动漫速递 第124期「打破次元墙!教你穿越的正确方式」</em></a></li><li><a href="http://www.dilidili.wang/watch/13242/" target="_self"><em><span>第125话</span>动漫速递 第125期「燃！纯爷们的热血青春物语」</em></a></li><li><a href="http://www.dilidili.wang/watch/13298/" target="_self"><em><span>第126话</span>动漫速递 第126期「死神小学生 那些不科学的柯南」</em></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="playjs swiper-pagination"></div>
+            </div>
+            <div class="time_con">
+                <p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                <div class="swiper-container xfswiper3">
+                    <ul class="clear">
+                        <li class="list_xz">
+                            暂无下载
+                        <li>
+                    </ul>
+                </div>
+            </div>
+            <div class="time_con">
+                <div class="swiper-container swiper4">
+                    <div class="swiper-wrapper mb20">
+                        <div class="swiper-slide">
+                            <ul>
+                                <li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5701/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_001.jpg"/>
+                                        <div class="fjjq"><span>第1话</span>动漫速递 第1期「日本动漫中的经典催泪大片」<br/>二次元的感动，日本动漫中的催泪大片。现代人的生活繁忙而枯燥，人与人之间的情感也在逐渐消逝。本周小编准备了几部非常感人的动画作品，让您在忙碌之余体会这份久违的感动。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5702/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_002.jpg"/>
+                                        <div class="fjjq"><span>第2话</span>动漫速递 第2期「日本动漫中美妙的真实场景」<br/>在日本动慢里，观众们经常会看见一些标志性的场景和建筑物。这些建筑并非想象，而是在现实生活中是真实存在着的。二次元里出现的三次元标志，对熟悉日本的动漫迷来说，也是一件值得追</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5703/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_003.jpg"/>
+                                        <div class="fjjq"><span>第3话</span>动漫速递 第3期「那些年我们追过的魔法少女」<br/>在很多女孩儿时都曾有一个梦想，那就是拥有魔法的力量。美丽的服装，精致的魔杖，华丽的魔法，这些对于幼时的我们都有无限的诱惑。本期节目就带大家细数那些年我们追过的魔法少女。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5704/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_004.jpg"/>
+                                        <div class="fjjq"><span>第4话</span>动漫速递 第4期「盘点动漫中的极品高富帅」<br/>高帅富，无疑是当代优质男青年代名词。这样的男生往往是众多女性的理想情人。但是在现实生活中却是宅男当道、屌丝横行。本期节目就带大家到美好的动漫世界中，细数那些人见人爱的高富</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5705/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_005.jpg"/>
+                                        <div class="fjjq"><span>第5话</span>动漫速递 第5期「不容错过的秋季新番 上」<br/>时光飞逝，又是一年开学季，对于动漫迷们来说，开学就代表着一件事：秋季新番。在7月番动画陆续完结之际，我们迎来了新的一轮动画轰炸，动漫迷们你们准备好挑灯夜看了吗……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5706/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_006.jpg"/>
+                                        <div class="fjjq"><span>第6话</span>动漫速递 第6期「不容错过的秋季新番 下」<br/>上周小编为大家精选了几部关注度极高的秋季新番。但秋季新番远远不止这 5部之少。本周，就由小编继续为大家介绍几部精选的秋季新番动画。《军火女王》、《法外制裁者》、《樱花庄的宠</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5707/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_007.jpg"/>
+                                        <div class="fjjq"><span>第7话</span>动漫速递 第7期「谁说国漫都是渣 我们国人有力量」<br/>混迹ACG圈子的朋友都知道，想在电视里看到高品质的国产动画是难上加难。现在电视里播的所谓国产动画，其关注年龄层很少能高于六七岁的。难道“国漫”就是给幼儿看的么？！不！我们绝不</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5708/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_008.jpg"/>
+                                        <div class="fjjq"><span>第8话</span>动漫速递 第8期「动漫游戏一家亲」<br/>如今这年头，看动画的人多，玩游戏的人更多。以游戏内容为原型的动画不在少数，而由动画改编成的游戏更是比比皆是。本期节目，小编就带大家去了解下今下大热的游戏相关动画佳作。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5709/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_009.jpg"/>
+                                        <div class="fjjq"><span>第9话</span>动漫速递 第9期「细数动漫中惊艳的白富美」<br/>先前小编曾在节目里介绍过动漫中的极品高富帅，帅哥配美女，只有高富帅没有白富美这怎么能行？皮肤白，家境好，相貌出众，这样的美女谁不爱？本周，小编就带各位去欣赏下动漫中的白富</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5710/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_010.jpg"/>
+                                        <div class="fjjq"><span>第10话</span>动漫速递 第10期「风靡全球的中国风动画」<br/>近年来，中国风开始风靡全球。在文化艺术领域里随处可见东方传统元素。老外们也很喜欢拿中国风当素材，电影、动画、电视剧里经常能看到一些中华元素。本期节目就由小编为各位盘点深受</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5711/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_011.jpg"/>
+                                        <div class="fjjq"><span>第11话</span>动漫速递 第11期「神自嘲的欧美另类动画」<br/>嘲讽一词，最著名的莫过于《MT》中名震千古的“嘿，孙子！”此话一出，仇恨拉的妥妥儿的。而说到嘲讽，一般以打击别人来达到损人不利己的崇高效果，与大天朝的国骂有异曲同工之妙，但</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5712/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_012.jpg"/>
+                                        <div class="fjjq"><span>第12话</span>动漫速递 第12期「萌萌小动物温暖初冬」<br/>寒冬逼近，各位网友添件衣服保暖呢？在这寒冷初冬，小编设法给各位送去一点暖意。本期节目为大家献上四只萌动身心的可爱小动物，希望观看后能让您看得春心萌动……</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5713/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_013.jpg"/>
+                                        <div class="fjjq"><span>第13话</span>动漫速递 第13期「人不“中二”枉少年」<br/>中二病，又称初二病，指在这个阶段的青少年一些“唯我独尊”的叛逆思想。自我意识过强的少年少女们总会有“我是与众不同的”“我才没有错，是你们错了”“我很成熟”的想法。其实这也</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5714/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_014.jpg"/>
+                                        <div class="fjjq"><span>第14话</span>动漫速递 第14期「年末必看的剧场版动画」<br/>2012年末当前，各种动画的剧场版扎了堆的往电影院挤。庵野大神和新房昭之也不甘寂寞赶来凑热闹。魔法少女，除恶英雄，大荧幕上各种女神男神层出不穷。如此之多的剧场版直叫11区的宅男腐</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5715/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_015.jpg"/>
+                                        <div class="fjjq"><span>第15话</span>动漫速递 第15期「声优翻身做主角之男生篇」<br/>日本动画能火遍全世界，有很大一部分都归功于幕后的工作人员。其中最重要的就属声优了。一个好的声优能给一个角色赋予灵气，而这些人气角色也能让处于幕后的声优名声大噪。在11区，各</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5716/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_016.jpg"/>
+                                        <div class="fjjq"><span>第16话</span>动漫速递 第16期「超人气的美女声优」<br/>上周小编为各位网友盘点了几位人气超高的日本男声优，光有男生没有女生怎么能让我们的广大宅男满意呢？本期，小编就带各位去探究下有哪些以甜美声音闯入了御宅族心里的女声优。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5717/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_017.jpg"/>
+                                        <div class="fjjq"><span>第17话</span>动漫速递 第17期「走向终结 那些足以毁灭世界的灾难」<br/>随着时间一天天的流逝，距离玛雅语言中的12月21日大型全球仿真互动网游——《世界末日ONLINE》的不删档内测也即将开始，在所谓的末日来临之前，小编觉得最苦逼的莫过于在那一天还没发工</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5718/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_018.jpg"/>
+                                        <div class="fjjq"><span>第18话</span>动漫速递 第18期「年末特辑 二次元的圣诞节」<br/>2012被传的沸沸扬扬，幸运的童鞋安全的度过了12月21号的世界末日，劫后重生的各位大神，在如此珍贵的圣诞节，各位亲是怎么度过的呢？本期，小编为各位盘点了几种二次元的过节方式，不知</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5719/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_019.jpg"/>
+                                        <div class="fjjq"><span>第19话</span>动漫速递 第19期「妹纸满载 萌你一脸的一月新番（上）」<br/>新年将至，我们还沉浸在10月番的各种结局中无法自拔，1月新番已经悄悄露面。不知道是各大动画公司想安抚我们受末日惊吓的小心灵呢还是觉得已经完结的动画们杀必死不够多，1月新番里各</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5720/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_020.jpg"/>
+                                        <div class="fjjq"><span>第20话</span>动漫速递 第20期「萌妹子大派送 一月新番（下）」<br/>上期节目小编为大家精选了5部新作萌妹动画。新人妹纸受欢迎是当然的，可是也不能忽视一些已经在荧幕前与大家见过面的萌妹们。萌妹当道，人心不古，就让我们看看那些难以让人坐怀不乱</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5721/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_021.jpg"/>
+                                        <div class="fjjq"><span>第21话</span>动漫速递 第21期「风光男主背后的苦逼故事」<br/>转眼已到深冬时节，伴随着凌冽的寒风，在动漫世界中接连到来的却是那些逼死里番不偿命的新番。各种搞基搞后宫，各种绝对领域杀必死，那些里番的制作商一定滋味不怎么好受。同时，作为</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5722/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_022.jpg"/>
+                                        <div class="fjjq"><span>第22话</span>动漫速递 第22期「勾引你的H之魂 壮哉我大卖肉番」<br/>卖肉一词，原本是指菜市场那些手提杀猪刀五大三粗的汉子们在做的工作。然而随着时间的推移，卖肉的含义也在不断的发生着改变。现如今宅男女神层出不穷，虽然长得各有千秋，但是穿衣风</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5723/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_023.jpg"/>
+                                        <div class="fjjq"><span>第23话</span>动漫速递 第23期「葫芦恒久远 神作永流传」<br/>葫芦娃，葫芦娃，一棵藤上七朵花。当这句耳熟能详的歌词出现时，总能勾起无数童年的回忆。岁月如刀，回忆如塔，无数人就在刀塔中贡献出了自己的青春。当我们再次听到这首歌的时候，是</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5724/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_024.jpg"/>
+                                        <div class="fjjq"><span>第24话</span>动漫速递 第24期「这么可爱一定是男孩子」<br/>伪娘这个词流传已久，想当年的著姐在快乐男声可是惊倒一票评委啊。说起伪娘，大家不免还是有一种“好另类哦”、“好奇怪哦”的眼光。但是不知道从什么时候开始，大家越来越发现，妹子</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5725/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_025.jpg"/>
+                                        <div class="fjjq"><span>第25话</span>动漫速递 第25期「灵魂颤动 探究谜团背后的真相」<br/>悬疑片往往伴随着惊悚，在让人心惊肉跳之余，忍不住想继续了解故事的真相，这就是惊悚悬疑片的精髓所在。然而在动漫中，惊悚悬疑片却很少出现。尤其是在当下不是卖萌就是卖肉的风气下</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5726/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_026.jpg"/>
+                                        <div class="fjjq"><span>第26话</span>动漫速递 第26期「恶搞番外 二次元演绎春晚的正确观看方式」<br/>春节已过，红包已收，各位观众是否也度过了一个愉快的假期？说到春节，就不得不说大年三十万众瞩目众人期待已久一年一度的——收红包！红包虽好，可不要多发呦，不然就会想小编一样看</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5727/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_027.jpg"/>
+                                        <div class="fjjq"><span>第27话</span>动漫速递 第27期「官方出品无下限 逼死同人不商量」<br/>最近各类官方出品的动画里的节操值是屡创新低，各种神脑补把同人创作逼得是无路可走。可怜我同人圈，在这个一对百合一对基，剩下一个是苦逼的残酷世界里艰难的奋斗着。本期，小编就来</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5728/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_028.jpg"/>
+                                        <div class="fjjq"><span>第28话</span>动漫速递 第28期「如何毁掉一部动漫 论正确的打开方式」<br/>人的一生真是无比精彩，如果用各种影片来归纳，有的教育，有的励志，有的惊悚，有的悬疑，有的温馨。对于小编来说，人生更是精彩，有动作片，动作片以及动作片，奈何仔细回忆过去，无</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5729/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_029.jpg"/>
+                                        <div class="fjjq"><span>第29话</span>动漫速递 第29期「原创佳作层层出 壮哉我大中华」<br/>年长的人们常认为动画是小朋友的专利，其实那是他们还不明白动画本身的重要性。常年被我大中华出品的电视动画所洗脑，永远的动物做主角，强调真善美的陈词滥调，观看几分钟就审美疲劳</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5730/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_030.jpg"/>
+                                        <div class="fjjq"><span>第30话</span>动漫速递 第30期「让人蛋疼菊紧的神功绝技」<br/>纵观二次元动漫世界，凡是能蹦跶很久一直生龙活虎的角色，一般都拥有着各种特殊的能力。比如一身蛮力，白天骑赤兔夜晚欺貂蝉，人中赤兔、马中吕布的吕奉先大爷；比如有着神之右手，原</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5731/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_031.jpg"/>
+                                        <div class="fjjq"><span>第31话</span>动漫速递 第31期「魔王副业忙不停 行行都是状元才」<br/>普通“魔王”在我们的心目中都应该是狂拽霸酷屌，一副“天上天下唯我尊”的形象。不过2次元在世界里，魔王大人们可就没有那么高大的光辉形象了。连度娘都在吐槽：“最后故事和小说或</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5732/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_032.jpg"/>
+                                        <div class="fjjq"><span>第32话</span>动漫速递 第32期「神之打码无节操 就是不让你看到」<br/>近年来，动画里的各种杀必死是越来越多，露肉卖腐什么的更是家常便饭。可这些在电视台播放还是需要有那么一些顾及，于是就出现了打码一说。不过官方岂能让大家丢了眼福？那神打码应运</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5733/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_033.jpg"/>
+                                        <div class="fjjq"><span>第33话</span>动漫速递 第33期「新番年年有 四月槽点多」<br/>随着四月的结束，新番们也陆陆续续开始了自己的故事，就在这个动画多到用手指数不过来的旺季，各路英雄，广大漫迷，集思广益，各种剪辑，自带吐槽，让这些精彩的新番新剧场版变得槽点</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5734/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_034.jpg"/>
+                                        <div class="fjjq"><span>第34话</span>动漫速递 第34期「新番槽点多之狂霸酷帅屌第二弹」<br/>月新番实在太多了，并且几个剧场版也槽点满满，主观原因是网友纷纷点评说上期节目只有三部不过瘾，而且据说新番做多了就会有萌妹子陪你看日中出。于是，请打脸。好了，让我们进入今天</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5735/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_035.jpg"/>
+                                        <div class="fjjq"><span>第35话</span>动漫速递 第35期「夏天就要看奇葩 提神醒脑清凉番」<br/>晃眼一过，又是一夏。春天我们还在各种莺莺燕燕的软妹中游弋，到了夏天，不来点刺激醒脑的这还怎么过？软妹是好，天热了容易上火。本期小编就为各位绅士挑选了点纳凉神作，望各位网友</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5736/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_036.jpg"/>
+                                        <div class="fjjq"><span>第36话</span>动漫速递 第36期「真人不露相 看似废柴的动漫角色」<br/>作为一个常年受封建主义武侠思想余毒的苦逼小编，经常会在武侠小说中看到这样一个定理，越是一眼看上去平凡的，背后其实越不简单，或者是世外高人，或者是武学奇才，就连沿街的乞丐都</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5737/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_037.jpg"/>
+                                        <div class="fjjq"><span>第37话</span>动漫速递 第37期「夏季纳凉好去处 影院大片看花眼」<br/>好不容易才送走了五月病大魔王，六月份的烈日炎炎却烤的人更不想动弹。如此没有干劲的时期，总得找点乐子给自己不是。在家呆着吧，够无聊；出去逛逛吧，晒死人；于是，小编发现了一个</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5738/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_038.jpg"/>
+                                        <div class="fjjq"><span>第38话</span>动漫速递 第38期「钟为谁鸣 论日漫不断遭到攻击的背后」<br/>从《蜡笔小新》到《神探柯南》从《死亡笔记》到《Fate/Zreo》的禁播，究竟是日漫出了问题？还是这些作品不符合天朝国情？固然天朝的分级制度并不健全，但一味的堵截，简直就是看不起那个</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5739/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_039.jpg"/>
+                                        <div class="fjjq"><span>第39话</span>动漫速递 第39期「清凉一夏 七月新番力作」<br/>暑期将至，酷热难挡，不知各位观众老爷是否做好与头顶空调手抱电脑在家逍遥自在当个家里蹲的准备呢？就让我们进入今天的主题：清凉一夏，必不可少的7月力作。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5740/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_040.jpg"/>
+                                        <div class="fjjq"><span>第40话</span>动漫速递 第40期「爱你才不说出口 一吻定情最靠谱」<br/>矮挫穷女屌丝攻略男神，多田薰老师原作的漫画《一吻定情》，发行至今已经被翻拍过无数版本，有1996年的老版电视剧，2008年的动画版，最火热的莫过于2013年的新版电视剧了。本期节目小编就</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5741/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_041.jpg"/>
+                                        <div class="fjjq"><span>第41话</span>动漫速递 第41期「三分钟能干什么？脱掉节操等着你」<br/>三分钟，只需三分钟，不论是谁都能简单的做出一碗香喷喷的泡面。只不过在等泡面泡好的这三分钟里还真是无聊呢，就没有别的事情可以做了么？来看部动画吧，泡面番绝对是最佳选择。短小</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5742/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_042.jpg"/>
+                                        <div class="fjjq"><span>第42话</span>动漫速递 第42期「吃货无止境 我已经饥渴难耐啦！」<br/>今天我们要来扯吃货的淡。纵观人类进化史，人们总是走在追求吃的道路上，失败的人，成了美食的俘虏，成功的人，被冠以中华小当家的名号。吃，真的是一件很神奇的事情，有的人可以一口</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5743/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_043.jpg"/>
+                                        <div class="fjjq"><span>第43话</span>动漫速递 第43期「宅家补番过暑假 不如出门游圣地」<br/>暑假开始啦，旧番没补啦，新番又出啦。这，是个恶性循环。光宅在家里看动画，那你真是浪费了你的大好青春。所以为了青春不会虚度，我们要做点实际的。那就是----出门旅游！当然，单纯</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5744/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_044.jpg"/>
+                                        <div class="fjjq"><span>第44话</span>动漫速递 第44期「高端洋气上档次 不一样的剧场版」<br/>剧场版，一听就很高端大气的名词，永远是制作方圈钱的强力法宝，在这个动画满天飞的年代， 虽然我们没有那个条件，去电影院感受大屏动画带来的震撼，以及没有妹子让我们去电影院秀恩</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5745/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_045.jpg"/>
+                                        <div class="fjjq"><span>第45话</span>动漫速递 第45期「新番每季有时尽 基情绵延无断绝」<br/>怪当时年纪小，好多基情看不到。时代在变迁，我们再也回不去那个纯真的时代，这样也挺好的。开启新技能，用天眼腐之光扫射一切看似正常的校园番，捉基敢死队，何乐而不为？今天，小编</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5746/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_046.jpg"/>
+                                        <div class="fjjq"><span>第46话</span>动漫速递 第46期「炎炎夏日看动漫 官方节操满地捡」<br/>酷暑难耐，再不来点肉番，小编的欲火就像高温一样HOLD不住啦！是的，今天小编也要节操满满的给各位观众带来清凉的感觉，让我们一起进入肉番的世界，来让自己的眼睛清凉一夏吧。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5747/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_047.jpg"/>
+                                        <div class="fjjq"><span>第47话</span>动漫速递 第47期「谁说不能黑白配 在我眼里你最美」<br/>黑白配，顾名思义，黑发配白发，别想歪了啊，才不是什么黑发人送白发人。自古 红蓝是CP，黑白CP也官配。本次呢，小编就给各位盘点一下比较经典的黑白配组合，不知哪对才是您心中的最佳</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5748/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_048.jpg"/>
+                                        <div class="fjjq"><span>第48话</span>动漫速递 第48期「不够强大不要紧 女汉子来保护你」<br/>相传上古时期，人世间出现了这么一个物种，叫做女汉子，这是个神奇的物种，上能抗两桶水爬五楼不喘气，下能修电脑换灯泡，居家旅行相当之实用。在动画中，也有出现过各种各样霸气测漏</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5749/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_049.jpg"/>
+                                        <div class="fjjq"><span>第49话</span>动漫速递 第49期「超长的秋季新番 一起来战个痛快」<br/>7月夏季新番播出过半，10月秋季新番的各种情报PV也已经陆续出炉，小编这次不废话，给各位来期高端大气上档次，低调华丽有内涵的新番介绍。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5750/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_050.jpg"/>
+                                        <div class="fjjq"><span>第50话</span>动漫速递 第50期「次元之墙不可破 漫改真人掉节操」<br/>回忆，总是常伴我们左右，小编近来闲着蛋疼没事顺带业务需要，重温了许多儿时的 回忆，其中不可缺少的自然是奥特曼打小怪兽啦。今天，就让我们顺着奥特曼这个线索，一路向北，来好好</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5751/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_051.jpg"/>
+                                        <div class="fjjq"><span>第51话</span>动漫速递 第51期「论BGM的重要性——华语乐坛篇」<br/>说起华语乐坛可能各位阿宅都会撇嘴吐槽，那是什么玩意？能听嘛！回答是：当然可以！看你怎么听！一些在电视机里收音机里被闪亮的三次现充们玩的毫无新意的华语歌，转身一变配上二次元</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5752/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_052.jpg"/>
+                                        <div class="fjjq"><span>第52话</span>动漫速递 第52期「论BGM的重要性——日语乐坛篇」<br/>上周小编给各位洗脑了一系列华语神曲，听着有木有很带感？恩？小编在作死？这你就不懂了，小编已经护好后颈了嘛。中文BGM让各位听得整个人都不好了吧，这周小编就给各位“治愈”一下，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5753/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_053.jpg"/>
+                                        <div class="fjjq"><span>第53话</span>动漫速递 第53期「国庆收假怎么办？小编陪你聊聊天」<br/>人有悲欢离合，节目有长有短，此事古难全！国庆了想必各位观众也好好休息了一下，那么今天小编就来跟各位观众扯扯淡，说些比较轻松的话题，话说这种没有主题没有中心思想的节目做出来</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5754/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_054.jpg"/>
+                                        <div class="fjjq"><span>第54话</span>动漫速递 第54期「十月新番不间断 七月老番亮点多」<br/>又是一季动画大规模完结的悲伤时刻了，紧接着便是10月新番的接踵而至，卖肉卖腐卖剧情，叫好叫座叫热门。新番虽然好，承上启下要做好，进巨和free自不必提，就让小编来带各位观众回忆下</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5755/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_055.jpg"/>
+                                        <div class="fjjq"><span>第55话</span>动漫速递 第55期「宅男不可怕 最怕宅男有文化 」<br/>宅男一词，伴随着日漫登陆天朝也开始流行起来，四体不勤，交流障碍，吃啥啥不剩、干啥啥不行一时间成为了各大宅男的标准特征。虽然宅男们看起来一副废柴并且巨好欺负的样子，但越是软</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5756/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_056.jpg"/>
+                                        <div class="fjjq"><span>第56话</span>动漫速递 第56期「脱团攻略——论男孩子正确的告白方式」<br/>在这个突发性脱团横行的季节，骚年骚女们蠢蠢欲动，蓄势待发，为了抵抗即将到来的光棍末日节，纷纷使出浑身解数誓死抵抗。那么，如何才能顺利脱团而不被发卡呢？本期就让小编来告诉你</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/5978/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_057.jpg"/>
+                                        <div class="fjjq"><span>第57话</span>动漫速递 第57期「脱团攻略——论女孩子正确的告白方式」<br/>上周小编言传身教的与男♂孩♂子♂告白的正确方式，屏幕前的骚年们有木有学习到要领呢？现今社会，女追男的成功率可是大大高于男追女。被可爱的妹子们开口告白想必“绅士们”都会心花</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6058/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_058.jpg"/>
+                                        <div class="fjjq"><span>第58话</span>动漫速递 第58期「信仰的力量 燃系热血动画盘点」<br/>当年灌篮所带来的篮球热潮，以及这种能让大家感到内心火辣辣燃烧的动画，就叫做燃番；不过，现在也有一部以篮球为题材的动画，多少少年因为这部动画学会了捡肥皂。当然，共同的特点就</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6094/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_059.jpg"/>
+                                        <div class="fjjq"><span>第59话</span>动漫速递 第59期「二次元偶像大餐来袭」<br/>各位阿宅心目中的初代女神逐渐离你们远去。阿宅们，不要空虚，不要哀怨，我们还有坚挺的二次元来撑起一片天。一代神八已远去，世代交替无乐趣，次时代不尽满意？二次女神抚慰你。本期</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6180/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_060.jpg"/>
+                                        <div class="fjjq"><span>第60话</span>动漫速递 第60期「FLAG不能随便立 不作死就不会死」<br/>相传上古时期曾有神话，但凡看到死兆星在天空闪耀的，一年之内必跪无疑。于是，当那些心灰意冷生无可欢的文艺小青年觉得人生没有意义时，他们就会抬头45度角仰望星空，在泪水滑落的同</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6527/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_061.jpg"/>
+                                        <div class="fjjq"><span>第61话</span>动漫速递 第61期「2013年度推荐动画TOP10」<br/>距离2013年还有20多天，今年你都做了什么呢？脱团了吗？土豪了吗？学霸了吗？推出的各类动画你都看了吗？看了，那肯定有你自己心中的TOP10；没看，那就来看看小编精心选出的必看动画TOP</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6598/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_062.jpg"/>
+                                        <div class="fjjq"><span>第62话</span>动漫速递 第62期「一起燃起来 热血台词TOP10」<br/>自从小编放弃了治疗后，顿时发现自己神清气爽精神好，节目也高端大气上档次了不少。随着之前的热血系列播出以来，观众们纷纷给出了32个赞，这对于又短又小的小编来说无疑是一碗暖洋洋</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6785/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_063.jpg"/>
+                                        <div class="fjjq"><span>第63话</span>动漫速递 第63期「2014年1月新番 你准备好了吗？」<br/>一直以来，一季新番换一季的腥风血雨，大家总是孜孜不倦的寻觅着适合自己的动画，大有“路漫漫其修远兮，吾将上下而求索”之势。随着13年年末将至，一大波冬季新番即将来到战场，上演</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/6968/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_064.jpg"/>
+                                        <div class="fjjq"><span>第64话</span>动漫速递 第64期「我的童年不是喜羊羊真是太好了」<br/>童年，是那放学铃声后冲向小卖铺的脚步；童年，是那每天晚上5点半准时响起的《大风车》；童年，是那伴随我们长大的动画片；童年，没有来自方方面面的干扰，过去的童年总是充满着精彩</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7079/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_065.jpg"/>
+                                        <div class="fjjq"><span>第65话</span>动漫速递 第65期「绅士的品格 欧派大对决」<br/>一年两度现充节已经过去，各位绅士你们还好吗？窝在电脑前蹲等基友刷副本的日子无聊至极，小编就想到了个给各位绅士提神的好办法，我们来探讨探讨绅士的品格。欧派是尤物，没人不喜欢</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7172/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_066.jpg"/>
+                                        <div class="fjjq"><span>第66话</span>动漫速递 第66期「少女不好惹 粉毛容易黑」<br/>本期小编久违的掉了掉节操，大家不够过瘾的话本期继续为大家推荐萌妹子呦~只不过这些萌妹子可不好惹，我大天朝从上古便流传着一句话：车到山前必有路，船到桥头自然直。曾经我们都对</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7261/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_067.jpg"/>
+                                        <div class="fjjq"><span>第67话</span>动漫速递 第67期「后宫动漫良心推荐——男主篇」<br/>我国古代伟大的吟游诗人白居易曾写道：后宫佳丽三千人，三千宠爱在一身。从古至今，无数男人的终极目标便是建立后宫然后过上没羞没臊的生活。事业狂毕竟少数，我等凡夫俗子毕竟常年被</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7391/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_068.jpg"/>
+                                        <div class="fjjq"><span>第68话</span>动漫速递 第68期「后宫动漫良心推荐——女主篇」<br/>女子，自古被人们称作柔弱的代名词，也是因为这娇柔羸弱的形象吸引了无数男子的目光。男人的目标是建立后宫佳丽三千，女人也不例外，回眸一笑，万人倾倒，这便是许多女生的终极梦想。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7483/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_069.jpg"/>
+                                        <div class="fjjq"><span>第69话</span>动漫速递 第69期「新年特别篇 儿歌忆童年」<br/>今天是个团圆的日子，关东塞北川西江南，无论您在何处小编我都怀着极大的热诚邀您一起共迎新春；今天是个喜庆的日子，国兴生旺家有喜事，过去的一年不论小编怎么糟蹋了您心中的神作，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7695/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_070.jpg"/>
+                                        <div class="fjjq"><span>第70话</span>动漫速递 第70期「有个能干的妹妹就是好」<br/>诗经有云：窈窕淑女，君子好逑。男人们在历史的道路上总是不那么一帆风顺，路边的风景那么诱人，尤其是无数千姿百态的红颜，有的苗条，有的丰满，有的感性，有的性感，有的贫乳，有的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7863/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_071.jpg"/>
+                                        <div class="fjjq"><span>第71话</span>动漫速递 第71期「你很有想法 跟我学吐槽吧！」<br/>小伙伴们年过得还愉快吗？红包收得还满意吗？寒假作业写完了吗？咳咳，速递娘已经忍不住要跟大家吐槽据说有7亿观众收看的春晚了，春晚槽点年年有，今年槽点尤其多，看到黄渤穿着工装</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7930/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_072.jpg"/>
+                                        <div class="fjjq"><span>第72话</span>动漫速递 第72期「杀伤力这么大 你爸妈知道吗」<br/>相信许多小伙伴已经从温暖的被窝中爬起来，告别亲友的寒暄，踏上了返回学校的列车。对于我们来说，除去了家人团聚时的温馨，以及有情人的过情人节，没情人的过元宵节这种双重节日外，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/7990/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_073.jpg"/>
+                                        <div class="fjjq"><span>第73话</span>动漫速递 第73期「良心推荐！2014年1月新番TOP10」<br/>转眼就到了开春的季节，各位被雾霾余毒的朋友们你们还好吗？有没有好好坚持戴口罩呢？雾霾很闹心，那就需要看点开心的来缓缓情绪。1月新番已经播出近半，是否是自己的菜大家都已然有</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8273/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_074.jpg"/>
+                                        <div class="fjjq"><span>第74话</span>动漫速递 第74期「年上又何妨 只要能干就够了」<br/>前段时间小编搜集了几部妹控神作供大家学习研究，妹控=年下，有了年下怎么能少了年上呢？有人控妹就必有控姐（兄）的，男女都不例外，有个姐姐或者哥哥的好处简直不能再多啊~这次小编</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8341/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_075.jpg"/>
+                                        <div class="fjjq"><span>第75话</span>动漫速递 第75期「四月新番大放送 总会有你心头好」<br/>自古四月多混战，春季新番硝烟弥漫，科幻后宫热血三足鼎立，患有选择恐惧症的小编真是头痛不已啊。 小编收集整理了四月即将播出的新番资料，按播出时间列举给大家参考。来看看有没有</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8640/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_076.jpg"/>
+                                        <div class="fjjq"><span>第76话</span>动漫速递 第76期「原创坑爹回忆杀 官方满满恶意大」<br/>说到官方无良的代表大概就是各种无节操的拖剧情，各大动画制作商或为了延长动画寿命，或为了捞到更多的钱，使出了各种手段，今天，就让我们来看看那些恶意满满的官方圈钱手段。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/8863/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_077.jpg"/>
+                                        <div class="fjjq"><span>第77话</span>动漫速递 第77期「再见了科学君 二次元很不科学」<br/>上期介绍官方负能量满满让人看了就想弃番的小编各位是不是很想打？慢着先别冲动，官方的恶意可不止那么一点，说了几个玩长期牌的梗，那咱来侃侃不科学设定逗你玩的。想要抓住固定观众</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9079/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_078.jpg"/>
+                                        <div class="fjjq"><span>第78话</span>动漫速递 第78期「福利满满！10分钟看遍岛国卖肉番」<br/>资深《动物世界》主持赵老师曾说过：“春天到了，动物们又到了交配的季节。”而某不资深卖节操作死节目小编也曾说过：“春色满园关不住，肉番便是囊中物！”春天，就是要看有撸点的动</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9164/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_079.jpg"/>
+                                        <div class="fjjq"><span>第79话</span>动漫速递 第79期「腐利满满 10分钟基情小课堂」<br/>一部《哈利波特》捧红了一众小演员，看看当年的小丹尼尔，演完魔法小英雄，凭借一部《杀死吾爱》成功转型成实力派演员，里面的成熟演技让小编看的脸红红~再看看当年的小对手汤姆，演</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9252/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_080.jpg"/>
+                                        <div class="fjjq"><span>第80话</span>动漫速递 第80期「福利第二弹！论后宫的养成」<br/>在观看本视频前，你确认让掉节操成为你一生的伴侣，无论贫穷或富有、无论顺境与逆境、健康与疾病，你将舍弃所有的节操，直到永永远远么？（YES,I DO）以上誓词，均与观看本期节目有很大</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9335/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_081.jpg"/>
+                                        <div class="fjjq"><span>第81话</span>动漫速递 第81期「日本帅哥声优好声音」<br/>这周小编给妹子们发放福利，三次元的男神们各种帅的把持不住，而声音的魅力一样强大！男神都是可望而不可及的，无奈身处三次元，男神当前也只能舔屏。还好我们有一大法宝，能让众二次</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9389/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_082.jpg"/>
+                                        <div class="fjjq"><span>第82话</span>动漫速递 第82期「2014年4月新番推荐」<br/>不论你是作业堆如山，还是新番补不完，都不能阻止我们一起掉节操。四月新番多多少少已经开始播出了，你们是不是觉得前段时间小编一直忙于为各位观众社区送福利而忽略了本职工作，不要</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9448/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_083.jpg"/>
+                                        <div class="fjjq"><span>第83话</span>动漫速递 第83期「日本动漫中触动心灵的美好瞬间」<br/>回首看看第一期节目，当年文学少年清新范的小编不知何时已经淡出了大家的视线，无节操无下限成了小编的新式代言词。其实小编真的很想喊冤，我不是那样的人啊啊啊！(┳＿┳)无奈身在二</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9510/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_084.jpg"/>
+                                        <div class="fjjq"><span>第84话</span>动漫速递 第84期「你死还是我活？一起来战个痛快！」<br/>自古以来，每个人的命运史，就是一部战斗史，从出生开始，便为了生存而战，直到老去，还要与死亡抗衡。像某不出名的作死小编每天就在上演与上司的艰苦战斗，学生与老师斗，职员与上司</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9564/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_085.jpg"/>
+                                        <div class="fjjq"><span>第85话</span>动漫速递 第85期「乱开后宫很危险 人渣男神一线间」<br/>对于男神一词，汉子们有什么看法呢？怎样才能算得上男神？颜好，型好，家世好？还是有车有房有金卡？╮(╯_╰)╭ 单有了这些也不一定就能当上男神，重点是你得有一手把妹好技巧，没有</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9642/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_086.jpg"/>
+                                        <div class="fjjq"><span>第86话</span>动漫速递 第86期「夏日福利！减肥特辑」<br/>随着天气越来越炎热，妹纸们的短裙和汉纸们的沙滩裤也开始变得随处可见，而在屏幕面前的你，是否像小编一样只能看着那些中国好身材专用的衣服望洋兴叹呢？是的，宅男宅女加吃货，粗臂</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9693/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_087.jpg"/>
+                                        <div class="fjjq"><span>第87话</span>动漫速递 第87期「考前必看！论学霸的养成」<br/>儿童节已经离我们远去，还沉浸在端午假期无法自拔的孩子们该醒醒了。一年一度的恐怖大戏悄然逼近，初三高三汪们的末日即将到来。没错，小编我就是在说中高考。还记的桌前堆积如山的参</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9777/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_088.jpg"/>
+                                        <div class="fjjq"><span>第88话</span>动漫速递 第88期「毕业季 我们不说再见」<br/>高考的孩子们最艰难的一周已经熬过，各位考的如何啊？糊了也不要紧，反正成绩单还有三周才下来，在这期间就是要疯玩玩玩！不过，还是会有些小伤感，毕竟很多孩子要跟朝夕相处了3年的</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9856/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_089.jpg"/>
+                                        <div class="fjjq"><span>第89话</span>动漫速递 第89期「2014年7月 史上最强夏季新番介绍」<br/>随着暑假的临近，到了这个时间自然就到了大家喜闻乐见的超长7月番推荐特辑。这次的7月番号称史上最强，多部知名续作+原创让小伙伴们还没看四月番就各种期待7月份的到来，那么接下来，</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/9973/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_090.jpg"/>
+                                        <div class="fjjq"><span>第90话</span>动漫速递 第90期「ACG不分家 暑假来战个痛吧！」<br/>对于那些已经高考完的小伙伴们，等待你们的就是一个爽到翻天的暑假。想当年小编年少时又不看动画又不打游戏，天天不吃药，感觉整个人萌！萌！哒！然后天天吃累了睡，睡饿了吃，华丽丽</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10095/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_091.jpg"/>
+                                        <div class="fjjq"><span>第91话</span>动漫速递 第91期「二次元后宫撕逼大战」<br/>自古为了抢男人妹子们少不了勾心斗角，每次看N女互掐抢一男时的兴奋心情比看球赛给劲多了！三次元如此水深火热，二次元也是硝烟弥漫，为了男主姑娘和小伙子们（你没有看错）用尽了各</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10163/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_092.jpg"/>
+                                        <div class="fjjq"><span>第92话</span>动漫速递 第92期「禽兽不如！妈妈再生我一次」<br/>在21世纪，别说男女之间没有纯洁的友谊，男男之间也让人各种yoooooo，而个别比较另类的，那便是今天的主题，跨越种族的恋爱了。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10236/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_093.jpg"/>
+                                        <div class="fjjq"><span>第93话</span>动漫速递 第93期「论反派的自我修养」<br/>不要以为反派个个都是那种四肢发达长相狰狞坐在血池和尸骸上流哈喇子的丑男，这个年头，一个反派的形象与性格甚至比主角更加深邃，为了让各位观众对反派的了解更上一个档次，今天我们</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10297/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_094.jpg"/>
+                                        <div class="fjjq"><span>第94话</span>动漫速递 第94期「听说这几年有些动漫少儿不宜」<br/>这次给各位送上的火是欲火，相信等到某天小编被查水表了以后为人类作出的最大贡献也只是刺激刺激了纸巾的销售量激增。那么，就让我们进入今天的主题，不能忘却的历史，2010—2014的5年间</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10370/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_095.jpg"/>
+                                        <div class="fjjq"><span>第95话</span>动漫速递 第95期「闪耀变身二十年」<br/>7月新番腐腐团来袭，新片女主各种酱油+神隐，搞的小编都有点视觉疲劳。是时候找回当年的少女（男♂）心啦~本期节目就是咱们叱咤少女漫画界20年还毅力不倒的《美少女战士》。电视动画、</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10456/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_096.jpg"/>
+                                        <div class="fjjq"><span>第96话</span>动漫速递 第96期「丧心病狂！男主都是这么开挂的」<br/>一直以来，热血动漫中的男主都是打不死的小强，他们或身负异能，或拥有坚强的意志，但还有一部分男主，因偶然或必然的经历，令他们的生活变得与之前完全不同，不得不开始开挂的人生。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10577/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_097.jpg"/>
+                                        <div class="fjjq"><span>第97话</span>动漫速递 第97期「打破次元墙 戏说真人版」<br/>大家看漫改真人版的第一反应是什么呢？瞎眼啦！要死啊！真人好可怕啊！有这样的反应肯定都是近期不看漫改作品的。近年来漫改作品质量一个顶一个的棒，除去那些个电视剧SP版的不说，光</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10662/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_098.jpg"/>
+                                        <div class="fjjq"><span>第98话</span>动漫速递 第98期「USA特产：英雄大礼包」<br/>美漫盛产什么？标准答案大家肯定都知道~没错，就是英雄。说美漫是英雄量产基地一点都不为过，老美的英雄主义情节在他们的漫画里展露无遗，看看APH里的美国就知道了。美式英雄一般出自</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10742/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_099.jpg"/>
+                                        <div class="fjjq"><span>第99话</span>动漫速递 第99期「进击的COSPLAY」<br/>话说下周就是百期啦！想想都有点小激动呢 (>w<)b ~小编我在这周接受了冰桶挑战而且有捐款哦~冰水浇下来那可真是神清气爽啊！ 刺激血液循环~妈妈再也不用担心我会得感冒啦~。恩哼，回到正</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10799/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_100.jpg"/>
+                                        <div class="fjjq"><span>第100话</span>动漫速递 第100期「肉番腐番福利满满！百期大放送」<br/>液嘿！我们百期啦！！为了回报小伙伴们对我们节目的厚爱~小编特地在百期给大家准备了大惊喜~~大家猜是什么嘞？将将将！杀必死大福利！最近经常有小伙伴在节目下面留言说木有肉木有腐整</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/10963/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_101.jpg"/>
+                                        <div class="fjjq"><span>第101话</span>动漫速递 第101期「十月新番大合集 基佬软妹随便挑」<br/>上周杀必死大家吃的饱不饱？说不饱的肯定没暂停看名单~转眼间又到十月啦，FREE总裁虐你脆弱小心脏，东京吃货献上饕餮盛宴。七月番还意犹未尽，十月番已经凶猛来袭。本周照例送上喜闻乐</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11079/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_102.jpg"/>
+                                        <div class="fjjq"><span>第102话</span>动漫速递 第102期「7月新番人气TOP10 不服来战！」<br/>Hello大家好~欢迎收看本周的动漫速递~新学期开始半个月啦~各位小伙伴们还好么？军训累不累？小编我身在远方的办公室但是精神与你们同在，你若军训，便是晴天！最近老天爷脾气不好老是泼</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11164/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_103.jpg"/>
+                                        <div class="fjjq"><span>第103话</span>动漫速递 第103期「抖你一下 S属性你有吗」<br/>小编我先来做个小调查，现在观看节目的观众们有多少是抖S嘞？举个手我瞅瞅~恩~~现在举手的肯定都是抖M，一般抖S都是不外露滴~你们这点小伎俩是骗不到我滴<(￣ˇ￣)> ~话说小编为毛要做这个</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11237/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_104.jpg"/>
+                                        <div class="fjjq"><span>第104话</span>动漫速递 第104期「抖你一下 M属性你不缺哦」<br/>Hello大家好~欢迎收看本周的动漫速递~ 十一国庆假期到啦！小伙伴们有木有出去疯玩馁？国庆各大漫展都去了咩？还是在家疯狂补番呢？假期虽长~不要忘了作业哦~~把假期作业都留到最后一天做</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11298/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_105.jpg"/>
+                                        <div class="fjjq"><span>第105话</span>动漫速递 第105期「满满少女心 重燃恋爱魂」<br/>十一长假已经过完，宅在家里好吃好喝供着，每逢佳节胖三斤真的好桑感，外加上三姑六婆在你面前叨叨“怎么还不结婚啊，有对象了吗？”，真是皇上不急太监急（╬￣皿￣）。那些显摆自己</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11373/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_106.jpg"/>
+                                        <div class="fjjq"><span>第106话</span>动漫速递 第106期「颤抖吧人类！来自异星球的入侵」<br/>如果有一天外来生物进军地球，我们人类要如何自保嘞？碾压？还是被碾压？这就得看智商了。。。今天大家就随小编的脑洞一起，去研究学习一下如何应对外来生物的技巧吧~</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11452/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_107.jpg"/>
+                                        <div class="fjjq"><span>第107话</span>动漫速递 第107期「变态大合集 警察蜀黍就是这个人！」<br/>最近我大国漫是越来越碉堡了，上周播出的《画江湖之不良人》，黑白无常兄妹俩的福利戏看的小编鼻血狂流，有个能干的妹妹就是好啊！这要是放在三次元，那就是要被亲爹打断腿的节奏啊！</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11586/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_108.jpg"/>
+                                        <div class="fjjq"><span>第108话</span>动漫速递 第108期「不给糖就捣蛋！万圣节特辑」<br/>十月已末，小伙伴们出行有没有感受到南瓜王杰克的召唤？小编我平常最怕这类节日。。。因为怂。。。 不过为了服务大众，小编我还是坚强的爬出来给大家安利最适合万圣节观看的番啦~跟小</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11676/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_109.jpg"/>
+                                        <div class="fjjq"><span>第109话</span>动漫速递 第109期「反差萌！男神不为人知的一面」<br/>二次元里傲娇妹子多，一脸红晕嘴上说着不要不要其实心里早都乐开了花，反差萌真让人欲罢不能~妹子反差起来都能萌翻一票人了那换做是汉子更是不得了了。想象一下，一彪形大汉围着围裙</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11757/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_110.jpg"/>
+                                        <div class="fjjq"><span>第110话</span>动漫速递 第110期「二次元活力美少女来袭！」<br/>双11大家是如何度过的呢？不管你是现充闪瞎眼还是单身汪哭瞎眼都没关系，小编今天是来给大家散发正能量滴~现充容易肾虚，单身汪容易心虚，两者都不是什么好现象，于是大家一定要时刻保</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11849/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_111.jpg"/>
+                                        <div class="fjjq"><span>第111话</span>动漫速递 第111期「巨乳or贫乳？胸部相对论」<br/>俗话说胸围决定智商，这是哪个直男癌提出来的无从知晓，但是说的也有一定道理。上帝是公平的，对大部分妹子来说胸大约等于无脑，他给与了你S曲线却夺走了你的智商，但是那些大欧派学</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/11964/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_112.jpg"/>
+                                        <div class="fjjq"><span>第112话</span>动漫速递 第112期「萌即是正义！二次元萌神大盘点」<br/>论打怪刷副本还是谈恋爱刷经验值，有个萌萌哒宠物都是居家旅行必备良品，而今年的萌宠界尤其喧嚣，新生代萌宠层出不穷，老一代萌宠不甘示弱。</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12138/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_113.jpg"/>
+                                        <div class="fjjq"><span>第113话</span>动漫速递 第113期「节操掉尽人清爽 绅士都爱萝莉番」<br/>萝莉，因存留时间太短具有稀有价值。萝莉有三好，腰柔胸平易推倒；但小编还是要奉劝各位一句，萝莉是用来疼爱滴！脑内剧场请只在脑内完成！当然，萝莉控都是抱着一颗被萌化的心来关注</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12177/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_114.jpg"/>
+                                        <div class="fjjq"><span>第114话</span>动漫速递 第114期「二次元嘴炮技术哪家强？」<br/>在二次元世界里，有着这么一群汉子:他们没有配角光鲜亮丽，没有雄厚家底做后盾；但是人家命好，一诞生就被作者任命主角从此打遍天下无敌手即使你是个战五渣。为何这么说？主角光环就</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12255/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_115.jpg"/>
+                                        <div class="fjjq"><span>第115话</span>动漫速递 第115期「耍帅把妹开挂 盘点二次元超能力！」<br/>各位小伙伴还记得曾经有部动画里面的经典台词吗？“赐予我力量！我是希瑞！”小时候经常把这句话当口头禅喊，现在想想真是不堪回首，二次元里各种各样的能力让人看花了眼，魔法少女加</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12372/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_116.jpg"/>
+                                        <div class="fjjq"><span>第116话</span>动漫速递 第116期「圣诞福利篇 爱豆们的明星梦」<br/>年末将至，小伙伴们这一年来都实现自己的愿望了吗？四六级考的怎么样？糊了也不要紧~~在没拿到成绩单之前世界就是晴朗滴！偶像们在舞台上努力展示青春活力，小伙伴们在台下屏幕前追捧</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12421/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_117.jpg"/>
+                                        <div class="fjjq"><span>第117话</span>动漫速递 第117期「高能预警！2015年1月新番大盘点」<br/>十月番已进入尾声，该领便当的都领的差不多了，不该领的也快领了~在这年末大家集体领便当的时期里，1月新番悄然来袭~还回味在十月番余韵里的小伙伴们，可以清一下内存准备迎接新年第一</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12457/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_118.jpg"/>
+                                        <div class="fjjq"><span>第118话</span>动漫速递 第118期「软妹子福利 少女们的明星梦」<br/>又是新的一年到来了~各位现充单身狗你们还好吗？在新的一年里小编祝大家心想事成速速脱团哦~介于小编我在元旦假期里硬生生的被闪瞎了钛合金狗眼，必须得来点软妹子来治愈一下小编受伤</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12554/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_119.jpg"/>
+                                        <div class="fjjq"><span>第119话</span>动漫速递 第119期「万万没想到的十月新番排行榜」<br/>又到一年开启时，大家都沉浸在1月新番里无法自拔， 别忘了我们10月番的热潮还没有完全消退哦~10月番里哪部你最爱？是小右很萌寄生兽；还是热血同伴七大罪？今天要给大家盘点的就是11区小</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12628/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_120.jpg"/>
+                                        <div class="fjjq"><span>第120话</span>动漫速递 第120期「追番指南 一月新番推荐」<br/>Hello大家好~欢迎收看本周的动漫速递~上周的排行榜肯定会有很多小伙伴摔杯子砸碗的喊叫：“我不服！”那今天小编就带大家先去探秘几部一月新番，看看有什么可追的亮点吧~顺带一提，本期</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12686/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_121.jpg"/>
+                                        <div class="fjjq"><span>第121话</span>动漫速递 第121期「羞耻play全玩遍 漫改真人好点赞」<br/>2015年眨眼间已经过去一个月了，话说小伙伴们平日里除了追新番补老番之外有没有别的看剧计划呢？老宅在二次元世界里容易与社会脱节，想想看，粗门面个基，小伙伴们扎堆讨论最新电视剧</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12755/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_122.jpg"/>
+                                        <div class="fjjq"><span>第122话</span>动漫速递 第122期「家有女神初养成 端庄神经一线间」<br/>小伙伴们关注二次元这么多年，心中总会有那么一两个角色是神一样的存在。供之为神，是对心爱的角色至高无上的赞誉，不过神也是有区别的，今天小编就要来探究一下真正的女神角色们，看</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/12848/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_123.jpg"/>
+                                        <div class="fjjq"><span>第123话</span>动漫速递 第123期「情人节特辑：二次元那些不忍烧的异性恋」<br/>正在恋爱和等待恋爱的小伙伴们你们好吗~还记不记得有个愉快的节日就要到来了~有伴儿的小伙伴们自然是乐乐呵呵送花送礼甜蜜蜜，从单身汪们升级成单身龟的小伙伴们也不要伤心难过，身在</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13089/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_124.jpg"/>
+                                        <div class="fjjq"><span>第124话</span>动漫速递 第124期「打破次元墙!教你穿越的正确方式」<br/>相信喜欢动漫的小伙伴总有这样的困扰，要么超级想get不平凡的超能力，要么男神或者女神永远各种屏幕只能PRPR，次元墙不可破，可是像小编这种略带抖m倾向的中二少年急需去异世界试炼一下</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13242/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_125.jpg"/>
+                                        <div class="fjjq"><span>第125话</span>动漫速递 第125期「燃！纯爷们的热血青春物语」<br/>春节已经离我们远去，回想起收假前放纵的自己，真想穿越回过去提醒那个无知的我：少吃点，你会感谢我的。当年后的小编站在镜子前的那一刻，小编的内心几乎是崩溃的，镜子里那个土肥圆</div>
+                                    </a>
+                                </li><li class="fj_li">
+                                    <a href="http://www.dilidili.wang/watch/13298/" target="_blank" target="_self">
+                                        <img src="http://static.jfrft.com/dongmansudi/images/thumb_126.jpg"/>
+                                        <div class="fjjq"><span>第126话</span>动漫速递 第126期「死神小学生 那些不科学的柯南」<br/>各位汉子们锻炼的怎么样？纯爷们特辑有没有激发你们雄性气魄？光有雄性荷尔蒙那是远远不能够的，会被人认成无脑动物，有智慧，懂科学，这才是现今爷们需要必备的技能之一，一年一部的</div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next swiper-button-next4"></div>
+                <div class="swiper-button-prev swiper-button-prev4"></div>
+            </div>
+
+            <div class="time_con">
+                <div class="stafflist">
+                    <div class="staff">
+                        
+
+                    </div>
+                    <div class="cast">
+                        
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div><!--tab slider end-->
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+    <div class="con24">
+        <div class="stitle">
+            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anmie/niruoanhao">你若安好</a><a href="/anime/bllxmxyfzm">巴啦啦小魔仙音符之谜</a><a href="/anime/juedui">绝对动漫第一期</a><a href="/anime/juelang/">绝狼-BLACK BLOOD</a><a href="/anime/aoteyinh">奥特银河 大怪兽之战</a>
+                            </span>
+        </div>
+        <div class="swiper-container swiper3">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <ul class="m_pic clear">
+                        <li><a href="/anime/bllxmx1"><img src="http://static.jfrft.com/uploads/allimg/160419/6_1128305581.jpg"/><p>巴啦啦小魔仙 第一季</p><div class="fc_m"><strong>巴啦啦小魔仙 第一季</strong></div></a></li><li><a href="/anime/aksatm"><img src="http://static.jfrft.com/uploads/allimg/160420/6_1613063731.jpg"/><p>艾克斯奥特曼</p><div class="fc_m"><strong>艾克斯奥特曼</strong></div></a></li><li><a href="/anime/shingodzilla"><img src="http://static.jfrft.com/uploads/allimg/161202/1_1341014561.jpg"/><p>新哥斯拉</p><div class="fc_m"><strong>新哥斯拉</strong></div></a></li><li><a href="/dongmansudi"><img src="http://static.jfrft.com/uploads/allimg/160513/1_1110529601.jpg"/><p>动漫速递</p><div class="fc_m"><strong>动漫速递</strong></div></a></li><li><a href="/anime/Kiseijuujcb"><img src="http://static.jfrft.com/uploads/allimg/160917/1_1629398641.jpg"/><p>寄生兽真人版</p><div class="fc_m"><strong>寄生兽真人版</strong></div></a></li><li><a href="/balalaxiaomoxianzhimenghuanxuanlv_TVban"><img src="http://static.jfrft.com/uploads/allimg/160419/6_1512214831.jpg"/><p>巴啦啦小魔仙之梦幻旋律 TV版</p><div class="fc_m"><strong>巴啦啦小魔仙之梦幻旋律 TV版</strong></div></a></li><li><a href="/anime/juedui"><img src="http://static.jfrft.com/uploads/201601/1-160104141RD01.jpg"/><p>绝对动漫1</p><div class="fc_m"><strong>绝对动漫第一期</strong></div></a></li><li><a href="/anime/jmqswizard"><img src="http://www.dilidili.wang/uploads/allimg/170927/2_1818566181.jpg"/><p>假面骑士wizard</p><div class="fc_m"><strong>假面骑士wizard</strong></div></a></li><li><a href="/anime/tiejiaxb"><img src="http://static.jfrft.com/uploads/allimg/160504/6_1341534451.jpg"/><p>铁甲小宝</p><div class="fc_m"><strong>铁甲小宝</strong></div></a></li><li><a href="/anime/atmlz"><img src="http://static.jfrft.com/uploads/allimg/160425/6_1041296931.jpg"/><p>奥特曼列传</p><div class="fc_m"><strong>奥特曼列传</strong></div></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="swiper-button-next swiper-button-next3"></div>
+            <div class="swiper-button-prev swiper-button-prev3"></div>
+        </div>
+    </div>
+
+    <script src="/templets/default/js/swiper.min.js"></script>
+    <script>
+        jQuery(".playjs").hide();
+        function changeSwiper1(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+//		alert(arrlen);
+            var len = 0;
+            if (_is) {
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                if(arrlen % 20 >0){
+                    len = parseInt(arrlen / 20)+1;
+                }else{
+                    len = parseInt(arrlen / 20);
+                }
+            }
+            if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+        changeSwiper1('.xfswiper0');
+        changeSwiper1('.xfswiper1');
+        changeSwiper1('.xfswiper2');
+        changeSwiper1('.xfswiper3');
+        changeSwiper1('.xfswiper4');
+        changeSwiper1('.xfswiper5');
+        changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+        changeSwiper('.swiper7');
+        changeSwiper2('.swiper4');
+        jQuery(window).resize(function () {
+            changeSwiper1('.xfswiper0');
+            changeSwiper1('.xfswiper1');
+            changeSwiper1('.xfswiper2');
+            changeSwiper1('.xfswiper3');
+            changeSwiper1('.xfswiper4');
+            changeSwiper1('.xfswiper5');
+            changeSwiper1('.xfswiper6');
+            changeSwiper('.swiper3');
+            changeSwiper('.swiper5');
+            changeSwiper('.swiper6');
+            changeSwiper('.swiper7');
+            changeSwiper2('.swiper4');
+        });
+        var swiper1 = new Swiper('.xfswiper1', {
+            nextButton: '.xfswiper-button-next1',
+            prevButton: '.xfswiper-button-prev1',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper2', {
+            nextButton: '.xfswiper-button-next2',
+            prevButton: '.xfswiper-button-prev2',
+            spaceBetween: 30
+        });
+        var swiper2 = new Swiper('.xfswiper3', {
+            nextButton: '.xfswiper-button-next3',
+            prevButton: '.xfswiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper3 = new Swiper('.swiper3', {
+            nextButton: '.swiper-button-next3',
+            prevButton: '.swiper-button-prev3',
+            spaceBetween: 30
+        });
+        var swiper4 = new Swiper('.swiper4', {
+            nextButton: '.swiper-button-next4',
+            prevButton: '.swiper-button-prev4',
+            spaceBetween: 30
+        });
+        var swiper5 = new Swiper('.swiper5', {
+            nextButton: '.swiper-button-next5',
+            prevButton: '.swiper-button-prev5',
+            spaceBetween: 30
+        });
+        var swiper6 = new Swiper('.swiper6', {
+            nextButton: '.swiper-button-next6',
+            prevButton: '.swiper-button-prev6',
+            spaceBetween: 30
+        });
+        var swiper7 = new Swiper('.swiper7', {
+            nextButton: '.swiper-button-next7',
+            prevButton: '.swiper-button-prev7',
+            spaceBetween: 30
+        });
+
+        var week = new Date();
+        jQuery(".xf_news .pk_time a").removeClass("current");
+        jQuery(".xf_news .time_pic .time_con").hide();
+        if (week != 0) {
+            jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+            jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+            new Swiper(".xfswiper"+(0), {
+                nextButton: '.xfswiper-button-next'+(0),
+
+                prevButton: '.xfswiper-button-prev'+(0),
+                spaceBetween: 30
+            });
+        }
+
+        jQuery(".xf_news .pk_time a").each(function(index){
+            jQuery(this).click(function(){
+                jQuery(".xf_news .pk_time a").removeClass("current");
+                jQuery(this).addClass("current");
+                jQuery(".xf_news .time_pic .time_con").hide();
+                jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+                new Swiper(".xfswiper"+index, {
+                    nextButton: '.xfswiper-button-next'+index,
+                    prevButton: '.xfswiper-button-prev'+index,
+                    spaceBetween: 30
+                });
+                jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+            });
+        });
+
+        var swiper = new Swiper('.xfswiper1', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+            paginationBulletRender: function (index, className) {
+                return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+            }
+        });
+
+        var mySwiper1 = new Swiper('.swiper1',{
+            pagination: '.pagination1',
+            paginationClickable: true,
+            moveStartThreshold: 100,
+            autoplay:4000
+        });
+        var mySwiper2 = new Swiper('.swiper2',{
+            pagination: '.pagination2',
+            paginationClickable: true,
+            moveStartThreshold: 100
+        });
+        var webWidth = 736;
+        function changeSwiper(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 5 >0){
+                    len = parseInt(arrlen / 5)+1;
+                }else{
+                    len = parseInt(arrlen / 5);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        function changeSwiper2(obj) {
+            var _width = jQuery(window).width();
+            var _is = _width <= webWidth;
+            var _this = jQuery(obj);
+            var arr = new Array();
+            var ahtml = '';
+            _this.find('li').each(function (e) {
+                arr[e] = jQuery(this).html();
+            });
+            var arrlen = arr.length;
+            var len = 0;
+
+            if (_is) {
+                //len = arrlen / 2 + arrlen % 2;
+                if(arrlen % 2>0){
+                    len = parseInt(arrlen / 2)+1;
+                }else{
+                    len = parseInt(arrlen / 2);
+                }
+            } else {
+                //len = arrlen / 5 + arrlen % 5;
+                if(arrlen % 8 >0){
+                    len = parseInt(arrlen / 8)+1;
+                }else{
+                    len = parseInt(arrlen / 8);
+                }
+            }
+
+            var j = 0;
+            for (var i = 0; i < len; i++) {
+                var ihtml = '';
+                if (_is) {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                } else {
+                    ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+                }
+                ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';
+                j++;
+            }
+            _this.find('.swiper-wrapper').html(ahtml);
+        }
+
+        jQuery(function() {
+            jQuery(".closed").click(
+                    function(){
+                        jQuery(".topimg").slideUp();
+                    });
+
+            // 收缩展开效果
+            jQuery(".adminico").click(function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+            },function(){
+                jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+            });
+
+            jQuery(".a_open").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").slideDown(500);
+                        jQuery(".fc_black").show();
+                        jQuery(".a_closed").show();
+                    });
+            jQuery(".a_closed").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                    });
+            jQuery(".fc_black").click(
+                    function(){
+                        jQuery(this).hide();
+                        jQuery(".aside_lef").hide();
+                        jQuery(".fc_black").hide();
+                        jQuery(".a_open").show();
+                        jQuery(".a_closed").hide();
+                    });
+            jQuery(".rm_pank .pk_year a").each(function(index){
+                jQuery(this).mouseover(
+                        function(){
+                            jQuery(".rm_pank .pk_year a").removeClass("current");
+                            jQuery(this).addClass("current");
+                            jQuery(".rm_pank .rm_main .rm_con").hide();
+                            jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+                        })
+            });
+
+            var headHeight=$(".head_top").height();
+            var nav=$("#navf");
+            $(window).scroll(function(){
+                if($(this).scrollTop()>headHeight){
+                    nav.addClass("navFix");
+                }
+                else{
+                    nav.removeClass("navFix");
+                }
+            })
+
+            var headHeight2=$(".topimg").height();
+            var nav2=jQuery("#topnavf");
+            jQuery(window).scroll(function(){
+                if($(this).scrollTop()>headHeight2){
+                    nav2.addClass("topnavFix");
+                }
+                else{
+                    nav2.removeClass("topnavFix");
+                }
+            });
+
+        });
+
+    </script>
+
+    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+    <div class="con24">
+        <!--<div class="stitle">
+            <h3>评论</h3>
+            <span class="s_f">
+                <a href="http://bbs.005.tv">D站论坛</a>
+                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+            </span>
+            <a href="http://usr.005.tv" style="float:right;">评论前请先登录或注册</a>
+        </div>	-->
+        <div style="margin:20px 0; text-align:center;">
+            <link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='612224' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+            <!-- UY BEGIN -->
+            <!--<div id="uyan_frame"></div>
+            <div class="comment">
+            <i>动漫速递评论</i>-->
+            <!-- 多说评论框 start -->
+            <!--<div class="ds-thread" data-thread-key="1193" data-title="动漫速递" data-url=
+        "http://www.dilidili.wang/dongmansudi/"></div>-->
+            <!-- 多说评论框 end -->
+            <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+            <!--<script type="text/javascript">
+            var duoshuoQuery = {short_name:"dzhan"};
+                (function() {
+                    var ds = document.createElement('script');
+                    ds.type = 'text/javascript';ds.async = true;
+                    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                    ds.charset = 'UTF-8';
+                    (document.getElementsByTagName('head')[0]
+                     || document.getElementsByTagName('body')[0]).appendChild(ds);
+                })();
+                </script>-->
+            <!-- 多说公共JS代码 end -->
+        </div>
+        <!-- UY END -->
+    </div>
+</div>
+<div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+    <script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script>
+    <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+</div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>			
+</div>
+<div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/muban/js/w234.js"></script>
+</body>
+</html>

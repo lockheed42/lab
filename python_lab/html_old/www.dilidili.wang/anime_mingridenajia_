@@ -1,0 +1,1368 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+	<head>
+		<meta charset="utf-8">
+		<title>明日的娜嘉-  在线&下载 - 嘀哩嘀哩</title>
+		<meta name="keywords" content="明日的娜嘉全集,明日的娜嘉动画" />
+		<meta name="description" content="很久很久以前，大约一百年前，孤儿院长大的少女，面对命运之门而踏上旅程。20世纪初的英国。孤儿院快乐长大的娜嘉，在满13岁的前几天，收到了一个包裹，里面有一件礼服及一本日记本。此外，也带来了母亲还活着的消息。但是，接到包裹的那一天，孤儿院起了场大火，知道一切都是由于自己关系的妮嘉，决定提前离开，踏上了" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+        <meta name="applicable-device" content="pc,mobile">
+		<script src="http://static.jfrft.com/js/uaredirect.js"></script>
+        <script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/mingridenajia/");</script>
+        <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/mingridenajia/"/>
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/mingridenajia/" >		
+	<link rel="canonical" href="http://www.dilidili.wang/anime/mingridenajia/"/>
+	<link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+        <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+        <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js" defer></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+<script>
+	jQuery(function(){
+	new jbCollect('a._collect', '#content1');
+});
+</script>
+        <base target="_blank">
+<style>
+</style>        
+    </head>
+	<body>
+	<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201801/" target="_blank">一月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+					
+                <div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>明日的娜嘉</a></div>
+                <div class="aside_cen2">                    
+                    <div class="detail con24 clear">
+                        <dl>
+                            <dt><img src="http://static.jfrft.com/uploads/allimg/160803/1_0335467611.jpg" alt="明日的娜嘉"/></dt>
+                            <dd>
+                                <h1>明日的娜嘉</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="明日的娜嘉" data-url="http://www.dilidili.wang/anime/mingridenajia/" data-icon="http://static.jfrft.com/uploads/allimg/160803/1_0335467611.jpg"><span>收藏</span></a></div><br/>
+								<span class="play_cs">播放次数:<script src="http://www.dilidili.wang/plus/countlist.php?view=yes&aid=2213&mid=" type='text/javascript' language="javascript"></script></span>
+                                <p><div class="d_label"><b>地区：</b><a href="/riyu/" title="日本动漫">日本</a></div><div class="d_label"><b>年代：</b>2003年</div></p>
+                                <p><div class="d_label"><b>标签：</b>冒险|励志|治愈系|萝莉</div><div class="d_label"><b>状态：</b>完结</div></p>
+								<p><div class="d_label2"><b>看点：</b>卖艺少女感人寻亲路</div></p>
+                                <p><div class="d_label2"><b>简介：</b>很久很久以前，大约一百年前，孤儿院长大的少女，面对命运之门而踏上旅程。20世纪初的英国。孤儿院快乐长大的娜嘉，在满13岁的前几天，收到了一个包裹，里面有一件礼服及一本日记本。此外，也带来了母亲还活着的消息。但是，接到包裹的那一天，孤儿院起了场大火，知道一切都是由于自己关系的妮嘉，决定提前离开，踏上了</div></p>
+                                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('明日的娜嘉','','','http://www.dilidili.wang/anime/mingridenajia/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                                <p>
+                                <div class="button_bar">
+                                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>							
+																							
+                                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                                </div>
+                                </p>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="con24 m-10 xf_news">
+                        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								
+                            </span>
+                        </div>
+						<div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+                        <div class="time_pic list">
+                            <div class="time_con">
+                                <div class="swiper-container xfswiper1">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                             <ul class="clear">
+											  <li><a href="http://www.dilidili.wang/watch3/46769/" target="_self"><em><span>第1话</span>明日的娜嘉 第1话 娜嘉，命运之门</em></a></li><li><a href="http://www.dilidili.wang/watch3/46770/" target="_self"><em><span>第2话</span>明日的娜嘉 第2话 怪盗黑玫瑰之夜</em></a></li><li><a href="http://www.dilidili.wang/watch3/46771/" target="_self"><em><span>第3话</span>明日的娜嘉 第3话 日本武士 健之助大暴走！！</em></a></li><li><a href="http://www.dilidili.wang/watch3/46772/" target="_self"><em><span>第4话</span>明日的娜嘉 第4话 舞姬娜嘉和木乃伊博士</em></a></li><li><a href="http://www.dilidili.wang/watch3/46773/" target="_self"><em><span>第5话</span>明日的娜嘉 第5话 星夜下，只有2人的华尔兹！</em></a></li><li><a href="http://www.dilidili.wang/watch3/46774/" target="_self"><em><span>第6话</span>明日的娜嘉 第6话 连系母女2人的舞会日记</em></a></li><li><a href="http://www.dilidili.wang/watch3/46775/" target="_self"><em><span>第7话</span>明日的娜嘉 第7话 假面具舞会的陷阱</em></a></li><li><a href="http://www.dilidili.wang/watch3/46776/" target="_self"><em><span>第8话</span>明日的娜嘉 第8话 折断了的翅膀和恋爱的泪</em></a></li><li><a href="http://www.dilidili.wang/watch3/46777/" target="_self"><em><span>第9话</span>明日的娜嘉 第9话 烦恼的天才钢琴家</em></a></li><li><a href="http://www.dilidili.wang/watch3/46778/" target="_self"><em><span>第10话</span>明日的娜嘉 第10话 两段回忆的八音盒</em></a></li><li><a href="http://www.dilidili.wang/watch3/46779/" target="_self"><em><span>第11话</span>明日的娜嘉 第11话 危机一发！巴黎的表白</em></a></li><li><a href="http://www.dilidili.wang/watch3/46780/" target="_self"><em><span>第12话</span>明日的娜嘉 第12话 寻宝是浪漫的？</em></a></li><li><a href="http://www.dilidili.wang/watch3/46781/" target="_self"><em><span>第13话</span>明日的娜嘉 第13话 朝阳中的弗朗西斯</em></a></li><li><a href="http://www.dilidili.wang/watch3/46782/" target="_self"><em><span>第14话</span>明日的娜嘉 第14话 阿尔卑斯花之祭典的谎言</em></a></li><li><a href="http://www.dilidili.wang/watch3/46783/" target="_self"><em><span>第15话</span>明日的娜嘉 第15话 暴风雨中的家人</em></a></li><li><a href="http://www.dilidili.wang/watch3/46784/" target="_self"><em><span>第16话</span>明日的娜嘉 第16话 我不明白！大人的恋爱游戏</em></a></li><li><a href="http://www.dilidili.wang/watch3/46785/" target="_self"><em><span>第17话</span>明日的娜嘉 第17话 爱与欲望的米兰</em></a></li><li><a href="http://www.dilidili.wang/watch3/46786/" target="_self"><em><span>第18话</span>明日的娜嘉 第18话 威尼斯，泪之MAMA.MIA</em></a></li><li><a href="http://www.dilidili.wang/watch3/46787/" target="_self"><em><span>第19话</span>明日的娜嘉 第19话 雾之夜 黑玫瑰的真相</em></a></li><li><a href="http://www.dilidili.wang/watch3/46788/" target="_self"><em><span>第20话</span>明日的娜嘉 第20话 充满危险！罗马的约会</em></a></li><li><a href="http://www.dilidili.wang/watch3/46789/" target="_self"><em><span>第21话</span>明日的娜嘉 第21话 擦身而过的母女，2个人的生日</em></a></li><li><a href="http://www.dilidili.wang/watch3/46790/" target="_self"><em><span>第22话</span>明日的娜嘉 第22话 救命！火焰的记忆</em></a></li><li><a href="http://www.dilidili.wang/watch3/46791/" target="_self"><em><span>第23话</span>明日的娜嘉 第23话 恐怖！地中海的幽灵船</em></a></li><li><a href="http://www.dilidili.wang/watch3/46792/" target="_self"><em><span>第24话</span>明日的娜嘉 第24话 O-LE！太阳的斗牛士和弗拉明戈舞</em></a></li><li><a href="http://www.dilidili.wang/watch3/46793/" target="_self"><em><span>第25话</span>明日的娜嘉 第25话 美女背叛者的回归</em></a></li><li><a href="http://www.dilidili.wang/watch3/46794/" target="_self"><em><span>第26话</span>明日的娜嘉 第26话 法兰克斯的另一面</em></a></li><li><a href="http://www.dilidili.wang/watch3/46795/" target="_self"><em><span>第27话</span>明日的娜嘉 第27话 翱翔天空的健之助</em></a></li><li><a href="http://www.dilidili.wang/watch3/46796/" target="_self"><em><span>第28话</span>明日的娜嘉 第28话 危险的公主</em></a></li><li><a href="http://www.dilidili.wang/watch3/46797/" target="_self"><em><span>第29话</span>明日的娜嘉 第29话 美好的人生！看到光和影的男人</em></a></li><li><a href="http://www.dilidili.wang/watch3/46798/" target="_self"><em><span>第30话</span>明日的娜嘉 第30话 满身是泥的白玫瑰</em></a></li><li><a href="http://www.dilidili.wang/watch3/46799/" target="_self"><em><span>第31话</span>明日的娜嘉 第31话 不会哭泣的小丑</em></a></li><li><a href="http://www.dilidili.wang/watch3/46800/" target="_self"><em><span>第32话</span>明日的娜嘉 第32话 尼罗河的尽头．指环的秘密</em></a></li><li><a href="http://www.dilidili.wang/watch3/46801/" target="_self"><em><span>第33话</span>明日的娜嘉 第33话 消失于金字塔的胸针</em></a></li><li><a href="http://www.dilidili.wang/watch3/46802/" target="_self"><em><span>第34话</span>明日的娜嘉 第34话 再见了，蒲公英剧团</em></a></li><li><a href="http://www.dilidili.wang/watch3/46803/" target="_self"><em><span>第35话</span>明日的娜嘉 第35话 风的恶作剧．命运的讽刺</em></a></li><li><a href="http://www.dilidili.wang/watch3/46804/" target="_self"><em><span>第36话</span>明日的娜嘉 第36话 危险！赌上生命的黑玫瑰</em></a></li><li><a href="http://www.dilidili.wang/watch3/46805/" target="_self"><em><span>第37话</span>明日的娜嘉 第37话 明与暗！夺回胸针的作战</em></a></li><li><a href="http://www.dilidili.wang/watch3/46806/" target="_self"><em><span>第38话</span>明日的娜嘉 第38话 罗兹玛莉．笑容的阴谋</em></a></li><li><a href="http://www.dilidili.wang/watch3/46807/" target="_self"><em><span>第39话</span>明日的娜嘉 第39话 不要夺走！我的妈妈</em></a></li><li><a href="http://www.dilidili.wang/watch3/46808/" target="_self"><em><span>第40话</span>明日的娜嘉 第40话 决意的早晨！真正的旅途</em></a></li><li><a href="http://www.dilidili.wang/watch3/46809/" target="_self"><em><span>第41话</span>明日的娜嘉 第41话 喜悦和痛苦也是独自一人的旅行</em></a></li><li><a href="http://www.dilidili.wang/watch3/46810/" target="_self"><em><span>第42话</span>明日的娜嘉 第42话 孤苦伶仃的故乡</em></a></li><li><a href="http://www.dilidili.wang/watch3/46811/" target="_self"><em><span>第43话</span>明日的娜嘉 第43话 钢琴连系着的摇篮曲</em></a></li><li><a href="http://www.dilidili.wang/watch3/46812/" target="_self"><em><span>第44话</span>明日的娜嘉 第44话 喜欢哪一个？终极的选择！</em></a></li><li><a href="http://www.dilidili.wang/watch3/46813/" target="_self"><em><span>第45话</span>明日的娜嘉 第45话 3角关系．摇摆不定的爱情</em></a></li><li><a href="http://www.dilidili.wang/watch3/46814/" target="_self"><em><span>第46话</span>明日的娜嘉 第46话 两个娜嘉．对决</em></a></li><li><a href="http://www.dilidili.wang/watch3/46815/" target="_self"><em><span>第47话</span>明日的娜嘉 第47话 沉默！被囚禁的白玫瑰</em></a></li><li><a href="http://www.dilidili.wang/watch3/46816/" target="_self"><em><span>第48话</span>明日的娜嘉 第48话 形势逆转！黑玫瑰的最后</em></a></li><li><a href="http://www.dilidili.wang/watch3/46817/" target="_self"><em><span>第49话</span>明日的娜嘉 第49话 不会放弃！真相的力量</em></a></li><li><a href="http://www.dilidili.wang/watch3/46818/" target="_self"><em><span>第50话</span>明日的娜嘉 第50话 新的命运之门（大结局）</em></a></li>	 
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            	<div class="playjs swiper-pagination"></div>
+                            </div>
+                            <div class="time_con">
+								<p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                                <div class="swiper-container xfswiper3">
+							<ul class="clear">
+                                    <li class="list_xz">
+                                        <a href="http://pan.baidu.com/s/1i4EKZsx" target="_blank">全集</a>
+									<li>
+                                 </ul>
+                                </div>
+                            </div>
+							<div class="time_con">
+                                <div class="swiper-container swiper4">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                            <ul>
+                                                <li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46769/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第1话</span>明日的娜嘉 第1话 娜嘉，命运之门<br/>自小生活于孤儿院的娜嘉，有一天她收到一份送给她的包裹，内里有一条华丽的裙子，一本日记和一封信，信的内容竟提及娜嘉的亲生母亲仍然在世，满心欢喜的娜嘉就在此时，突然被两名古怪的男子追捕，目的是为了胸针中收藏的指环!在追捕途中，孤儿院意外地着起火来，好不容易逃了出火灾现场的娜嘉又遇上那两名古怪的男子，幸好得到一位非常英俊的男子救起，更带了她上剧团的车。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46770/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第2话</span>明日的娜嘉 第2话 怪盗黑玫瑰之夜<br/>苹果园孤儿院被一场意外大火烧毁了，而引起意外的原因是因为娜嘉被2名古怪的男子追捕。娜嘉为了不再给孤儿院带来麻烦，决定悄悄的离开。幸好娜嘉天生跳舞技术不凡，所以蒲公英剧团的团长答应让娜嘉加入剧团！起初加入剧团的娜嘉在晚上不能入睡，所以在伦敦的晚上时散步，竟遇到平民百姓的英雄，黑玫瑰。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46771/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第3话</span>明日的娜嘉 第3话 日本武士 健之助大暴走！！<br/>加入了蒲公英剧团的娜嘉到伦敦准备公演。但在这时候剧团的机关车被人偷走了。而且莉塔还在机关车上面，幸好在伦敦遇见的记者哈比帮忙制止机关车，莉塔和偷车贼都平安无事。原来偷车贼是一个日本小武士，团长看他这么喜欢机关车，而且剑法一流，于是就让他加入蒲公英剧团。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46772/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第4话</span>明日的娜嘉 第4话 舞姬娜嘉和木乃伊博士<br/>蒲公英剧团今次来到英国的博物馆前表演，加入了蒲公英剧团的娜嘉，亦终于第一次正式表演。美丽的舞姿大受观众欢迎。在博物馆里面，娜嘉认识了一位非常喜欢古埃及文化的少年古里斯，还与他成了朋友。可惜团长临时改变行程，娜嘉连道别也来不及跟古里斯说，就不得不离开英国，向欧洲大陆进发。应婆婆的要求，他们去欧洲之前，先要拜访婆婆的朋友-住在夏确家的埃玛女士，在这里，妮嘉与星之瞳孔的骑士再度重逢。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46773/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第5话</span>明日的娜嘉 第5话 星夜下，只有2人的华尔兹！<br/>因为团长临时改变行程，蒲公英剧团终于告别伦敦，向欧洲大陆的巴黎出发。正式出发之前，婆婆和娜嘉2人来到夏确家找埃玛女士，这时，妮嘉认识了夏确家的少爷，白玫瑰公子弗朗西斯，而且他就是星之瞳孔的骑士。在一个巧妙的机会下，本来说自己不懂得跳舞的弗朗西斯竟然和娜嘉跳舞。但是，他却忘记自己曾救过娜嘉的事情。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46774/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第6话</span>明日的娜嘉 第6话 连系母女2人的舞会日记<br/>蒲公英剧团终于到抵巴黎。一名自称是哈比的弟弟TJ对金发的娜嘉一见钟情，但是却整天与健之助吵架，令到娜嘉非常生气。不过2人决定联手帮娜嘉找她的妈妈。他还打算从娜嘉妈妈的日记中所提及的一名巴黎画家-马里着手，3人到处找他的下落，途中因帮助一名迷路的小女孩玛度莉奴找妈妈，不过终于她找到马里。可惜马里连娜嘉母亲的名字都不知道。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46775/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第7话</span>明日的娜嘉 第7话 假面具舞会的陷阱<br/>在巴黎的蒲公英剧团的表演一切顺利。但是有一天，由于莉他弄坏了一名贵族-史蒙奴.蒙箨路兰的车，作为赔偿，娜嘉要去史蒙奴家的派对表演跳舞。但是，原来这个人举办了一个化妆舞会。而且，所有人都穿着黑玫瑰的装扮。史蒙奴邀请娜嘉出席舞会是想她当众出丑，幸好得到婆婆的朋友瑞安纳度和箨艾里的帮忙，总算渡过难关。最后，真正的黑玫瑰真的出现了，还和娜嘉跳舞。娜嘉知道黑玫瑰是为了贫穷的人而偷东西，而对他的印象有所改观。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46776/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第8话</span>明日的娜嘉 第8话 折断了的翅膀和恋爱的泪<br/>在巴黎进行表演的蒲公英剧团遇见了一位老朋友-拿化伟路。拿化伟路是一个唱歌非常动听的人，他还是诗露比喜欢的人。可惜因为拿化伟路曾经有个一段不幸的恋情，他与自己心爱的女人私奔时，他的女朋友突然病倒，最后死了，所以拿化伟路决定不再恋爱，令到诗露比一直不敢表白。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46777/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第9话</span>明日的娜嘉 第9话 烦恼的天才钢琴家<br/>继续留在巴黎的娜嘉，今次陪婆婆去找一位婆婆的客人时，认识到一位年轻天才钢琴家，尊尼。但是尊尼性情孤僻，更嘲笑蒲公英剧团的表演不算是艺术。但其实尊尼只不过是害怕孤独，令到他连歌都写不出来。不过最后得到同是来自英国的娜嘉的安慰，尊尼终于振作起来。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46778/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第10话</span>明日的娜嘉 第10话 两段回忆的八音盒<br/>这一天是蒲公英剧团的休息日，哈比的弟弟TJ邀请娜嘉去跳蚤市场。在逛跳蚤市场的期间，娜嘉一行人遇到史蒙奴.蒙箨路兰，而且还说娜嘉他们不懂分辨值钱的东西，期间他们去到一间店铺，入面挂着一个古旧的钟。原来，那个钟是店主与他的妻子之间的回忆，不过这个钟已经停了。於是健之助就替店主修理这个钟，店主为了报答他们，就让他们在店内随意挑选一件货品，妮嘉看中了一个八音盒，八音盒中播放的乐曲是娜嘉和弗朗西斯跳舞时的乐曲，这亦同时是娜嘉妈妈第一次与娜嘉爸爸跳舞时的乐曲。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46779/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第11话</span>明日的娜嘉 第11话 危机一发！巴黎的表白<br/>蒲公英剧团今次来到凯旋门前面表演。有一天，有人送货给团长，而这个人竟然就是与娜嘉一起在苹果园孤儿院长大的奥利华。当2人非常高兴地逛街聚旧的时候，见到一直追捕娜嘉的比安高和罗素。幸好最后得到哈比和TJ的帮忙，妮嘉可以成功逃脱。不过团长见比安高同罗素终于追来，所以决定离开法国。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46780/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第12话</span>明日的娜嘉 第12话 寻宝是浪漫的？<br/>离开了巴黎的蒲公英剧团，这次来到法国东部一个叫做洛林的地方。这里一直很喜欢寻宝的团长，和想变为有钱人然后可以买机关车和得到娜嘉欢心的健之助，以及想修缮孤儿院的娜嘉3个人，</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46781/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第13话</span>明日的娜嘉 第13话 朝阳中的弗朗西斯<br/>这次蒲公英剧团来到瑞士的一间叫做丽玛园的孤儿院做慰问表演。在这里，娜嘉重遇弗朗西斯。娜嘉又想和他聊天，但又害怕弗朗西斯已经忘记自己，最后娜嘉终于鼓起勇气开口和弗朗西斯聊天。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46782/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第14话</span>明日的娜嘉 第14话 阿尔卑斯花之祭典的谎言<br/>蒲公英剧团来到阿尔卑斯山附近，参加了当地的祭典。这个祭典是要女孩子主动邀请男孩子跳舞的祭典。在这里，娜嘉和健之助认识了一个叫沙比的男孩子，他和健之助非常投契，2个人还一起玩“男孩子的玩意”。怎料，原来沙比是。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46783/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第15话</span>明日的娜嘉 第15话 暴风雨中的家人<br/>明日的娜嘉 第15话 暴风雨中的家人</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46784/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第16话</span>明日的娜嘉 第16话 我不明白！大人的恋爱游戏<br/>娜嘉他们一行人来到意大利贵族聚居的菰属湖，准备新一轮的公演。在准备公演的期间，妮嘉认识环鰦伯爵的千金茱丽艾他。原来茱丽艾他和瑞安纳度在小时候已经订下婚约，当茱丽艾他和瑞安纳度对婚约而烦脑时，对瑞安纳度非常妒忌的安东尼奥想乘虚而入，希望取悦茱丽艾他。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46785/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第17话</span>明日的娜嘉 第17话 爱与欲望的米兰<br/>蒲公英剧团在米兰的公演圆满结束，因为离去下一个目的地水城威尼斯还有时间，所以剧团休息一日，娜嘉亦有时间可以从日记的线索寻找妈妈。第2位和娜嘉妈妈跳舞的人是威特里奥.卡普里狄，得到瑞安纳度的帮忙，娜嘉终于找到卡普里狄的住址，可是去到竟发现卡普里狄因为受安东里奥的欺骗，失去所以资产。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46786/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第18话</span>明日的娜嘉 第18话 威尼斯，泪之MAMA.MIA<br/>这集蒲公英剧团来到意大利，有水都之称的威尼斯。在威尼斯，娜嘉又遇到TJ。当他和健之助吵架的时候，不小心掉进水里，幸好刚好经过的伊露玛救起了他，还请他到她的家里去。伊露玛的温柔令到健之助和TJ想起自己已去世的母亲。同时，伊露玛都开始提起自己的儿子，后来发现伊露玛的儿子就是为了金钱而不择手段的安东尼奥。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46787/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第19话</span>明日的娜嘉 第19话 雾之夜 黑玫瑰的真相<br/>来到威尼斯的娜嘉，有一个晚上她和哈比去找一名自称筹集资金来进行维修，外表一表人才的慈善家卡路罗，可是，哈比竟然带娜嘉以“收到怪盗黑玫瑰的信”（象征是坏人）来试探卡路罗为人。没想到，原来他真的是坏人。这件事令到娜嘉知道其实黑玫瑰是冒死从坏人手中抢回财物，还给应得的人士，娜嘉对黑玫瑰完全改观，可是，就在此时，黑玫瑰竟然亲吻了娜嘉。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46788/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第20话</span>明日的娜嘉 第20话 充满危险！罗马的约会<br/>来到意大利的娜嘉，巧遇准备去埃及而来到意大利搜集资料的木乃伊博士古里斯。团长特别放娜嘉一天的假期，让古里斯可以带她在意大利四处观光。途中，娜嘉还遇到小偷，在追捕期间娜嘉竟然掉失了重要的胸针。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46789/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第21话</span>明日的娜嘉 第21话 擦身而过的母女，2个人的生日<br/>蒲公英剧团最年长的婆婆今天生日，大家都各自在表演后买生日礼物送给她。另一边，娜嘉的亲生妈妈歌丽德和侄子奥斯卡谈及自己和娜嘉爸爸的相识过程，然后因为遭到家人的反对而私奔，到最后娜嘉爸爸因交通意外死亡，歌丽德一人独自扶养娜嘉导致筋疲力竭病倒，所以逼不得已将娜嘉送去孤儿院。娜嘉虽然再次巧遇歌丽德，可惜2人又再擦身而过，原来，今日也是娜嘉的生日。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46790/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第22话</span>明日的娜嘉 第22话 救命！火焰的记忆<br/>准备离开意大利的蒲公英剧团，终于作出最后一次表演，但是竟然遇着一个喝醉酒的男人，强逼莉他用火来表演，令莉他非常害怕，当每个人都赶着买东西或在整理行理的时候，莉他见到路过的一对母女非常开心，因此回想起自己的父母，令到她非常不开心。原来，莉他的亲生父母在她眼前被火烧死的。所以莉他不单止怕火，其实在那次的意外，莉他都失去了说话的能力。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46791/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第23话</span>明日的娜嘉 第23话 恐怖！地中海的幽灵船<br/>正在坐船横渡地中海向西班牙进发的蒲公英剧团，听到船员讲的幽灵故事，所有男士们都很惊慌。不久，一鼓大雾笼罩，难道幽灵是真的存在。原来，所有故事都由内鬼作出来吓人，其实只不过是一群普通的海盗而已。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46792/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第24话</span>明日的娜嘉 第24话 O-LE！太阳的斗牛士和弗拉明戈舞<br/>来到西班牙的蒲公英剧团，大家各自准备在西班牙的表演。在这里，妮嘉被一名斗牛士---荷西.卢多利基思，从一只失控的牛前救回，可惜一直没有机会答谢。另一边，娜嘉又忙于婆婆的介绍下，跟安西马学跳弗拉明戈舞，但是无论娜嘉怎样努力，总是跳得不理想，甚至被安西马和再一次见面的荷西都说自己不可能跳到弗拉明戈舞。最后，娜嘉终于掌握到跳弗拉明戈舞的心情，将跳弗拉明戈舞基本要有的热情跳出来。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46793/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第25话</span>明日的娜嘉 第25话 美女背叛者的回归<br/>停留在西班牙的蒲公英剧团。娜嘉继续向安西玛学跳吉普赛舞。有一天，以前曾经向安西玛学跳舞的加路文突然造访，但是安西玛非常愤怒地赶走她，更吩咐娜嘉不要向她来往。原来加路文是荷西的前女友，最后因为金钱而嫁给一个有钱人，令到现在的荷西性情非常孤僻。得到娜嘉做中间人，虽然2人已经和好如初，但是他仍然觉得好似缺少了些什么。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46794/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第26话</span>明日的娜嘉 第26话 法兰克斯的另一面<br/>离开了巴塞罗那，这次剧团来到哥拉纳达，在这个摄氏50度的中午，所有人都进入SIESTA（午睡）的状态，只有娜嘉一个不想浪费这么好的天气，而一个人去散步。正当娜嘉不小心，差点儿又被小偷偷走胸针的时候，得到了黑玫瑰（有戴面具）所救，所以胸针最后平安无事，不过由于黑玫瑰没有戴面具，所以她一直以为是弗朗西斯救了她。两人四处散步，令到娜嘉对黑玫瑰有更多了解，发现自己更喜欢黑玫瑰。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46795/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第27话</span>明日的娜嘉 第27话 翱翔天空的健之助<br/>健之助因为吃醋娜嘉整天看着黑玫瑰送给她的万花筒，所以和娜嘉吵架。团长和婆婆为了令他们两个人和好如初，带他们去一个向日葵的花田。两人被这美丽的景色缓和了心情，健之助也开始讲出为什么自己会只身来到欧洲，加入蒲公英剧团，最后他们当然和好如初。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46796/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第28话</span>明日的娜嘉 第28话 危险的公主<br/>在哥拉纳达继续表演的蒲公英剧团，娜嘉遇到以前在苹果园孤儿院里一起玩耍的青梅竹马罗兹玛莉！一直梦想自己是一位公主的罗兹玛莉，自小整天和娜嘉玩扮公主和骑士的游戏。梦想成为公主的罗兹玛莉，现在在费拿度的大屋裏做女佣，罗兹玛莉幻想自己有一个非常疼爱自己的主人，和非常温柔的少爷，但事实并非如此。而且，罗兹玛莉的心中一直都很妒忌娜嘉。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46797/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第29话</span>明日的娜嘉 第29话 美好的人生！看到光和影的男人<br/>在哥拉纳达继续表演的蒲公英剧团，有一天和卡门定了婚的荷西回来等娜嘉。但是明明充满幸福的两人，他们似乎都各有心事。原来卡门是为了金钱和名誉而与荷西结婚。最后，两人决定分手，各自追寻自己的梦想。荷西更在一场交通意外中身亡。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46798/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第30话</span>明日的娜嘉 第30话 满身是泥的白玫瑰<br/>蒲公英剧团来到希腊，娜嘉竟然又遇到弗朗西斯。娜嘉终于知道最初救了她的星之瞳孔的骑士是黑玫瑰基斯，而不是弗朗西斯。娜嘉还见到弗朗西斯出于好心捐助的孤儿院，因为院长贪图捐款，最后竟离开孤儿院，遗弃孤儿院的小孩。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46799/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第31话</span>明日的娜嘉 第31话 不会哭泣的小丑<br/>来到希腊的蒲公英剧团，在某一天的表演当中，一向身手不凡的亚宝竟然失手。原来是因为表演途中，亚宝见到他分开多年的妻子和儿子。亚宝以前其实是一名医生，他去到一个贫穷的村落，到处免费为人诊治，但就因为这样，他变得非常贫穷，到最后连自己儿子的病都没有钱买药，最后因为偷药而被判入狱。虽然儿子的病已经医好，但是因为后遗症的影响，双脚变得行动不便，所以亚宝出狱后，他没有面目再见他的妻子和儿子。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46800/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第32话</span>明日的娜嘉 第32话 尼罗河的尽头．指环的秘密<br/>专程来到埃及帮娜嘉找有关她妈妈的线索的蒲公英剧团，在炎热的天气到处找曾经和妈妈跳过舞的哈利逊教授，可惜处处碰钉。途中，娜嘉又再重遇木乃伊博士古里斯，可惜娜嘉得知哈利逊教授已经身亡。不过，幸好古里斯知道一些有关娜嘉的胸针内的指环的来历，娜嘉突然获知许多有关妈妈的信息。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46801/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第33话</span>明日的娜嘉 第33话 消失于金字塔的胸针<br/>在埃及找到有关妈妈的线索的娜嘉，蒲公英剧团正赶返回欧洲，娜嘉的胸针中途被罗素和比安高抢走了。在追捕中，3人逃进一座金字塔裏面，还发现了一堆宝藏。原来这个金字塔是法老王的坟</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46802/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第34话</span>明日的娜嘉 第34话 再见了，蒲公英剧团<br/>娜嘉可以跟妈妈相认，非常重要的胸针，在埃及被罗素和比安高抢走了。非常伤心的娜嘉在表演时都心不在焉，导致表演失败，团员亦因此发生争执。晚上，娜嘉更不小心听到团长他们说早就不应该让娜嘉加入剧团。最后，娜嘉决定离开剧团。原来，团长他们说早就不应该让娜嘉加入剧团是因为娜嘉的加入，会引来罗素和比安高的偷袭，娜嘉终于提起精神，重新振作，继续努力赚钱筹备旅费去维也纳。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46803/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第35话</span>明日的娜嘉 第35话 风的恶作剧．命运的讽刺<br/>继续努力赚钱筹旅费去维也纳的蒲公英剧团，终于储够了钱出发。在出发之前，大家去买旅途上会用到的东西的时候，突然一阵大风吹走了娜嘉的帽子，导致娜嘉与她的妈妈歌丽德相遇。2人一起一边逛罗马，一边找歌丽德与前夫一起吃过的烧栗子。可惜娜嘉的胸针被人抢去，如果没有发生这事情的话，她们2人就可以相认。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46804/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第36话</span>明日的娜嘉 第36话 危险！赌上生命的黑玫瑰<br/>终于筹够钱去到意大利的蒲公英剧团，因为机关车的齿轮坏了，买新的又要等一星期，剧团被迫滞留在salzburg。晚上，娜嘉又再遇上黑玫瑰（基斯），黑玫瑰知道娜嘉的胸针在罗兹玛丽那里之后，潜入贝林明谢公爵家，中途被希尔曼发现，更被痛打一身。但是，黑玫瑰因此发现有人假冒妮嘉的身份，入住贝林明谢家。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46805/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第37话</span>明日的娜嘉 第37话 明与暗！夺回胸针的作战<br/>得到黑玫瑰的帮忙，被罗素和比安高偷走的胸针，终于回到娜嘉的手中。另一方面，哈比提议在报纸刊登有关娜嘉胸针被盗的事情，希望大众可以帮忙寻回。可惜，这反而帮了倒忙，让罗兹玛莉趁机将真相扭曲！更说成黑玫瑰偷走了假妮嘉的胸针。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46806/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第38话</span>明日的娜嘉 第38话 罗兹玛莉．笑容的阴谋<br/>娜嘉为了知道谁是假冒她的人，说自己是贝林明谢公爵的孙女，得到婆婆的帮助下，她参加了一个假娜嘉都会出席的派对。娜嘉终于知道假冒她的人竟然就是自己从小一起玩耍的罗兹玛莉，善良的娜嘉又再上了罗兹玛莉的当，以为罗兹玛莉系被希尔曼所迫，还将可以跟妈妈相认的裙子，交给罗兹玛莉。最后裙子却被罗兹玛莉撕破了。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46807/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第39话</span>明日的娜嘉 第39话 不要夺走！我的妈妈<br/>当娜嘉知道假冒她的人是青梅竹马的罗兹玛莉後，觉得非常沮丧，迟迟都未回到剧团，令到其他团员都非常担心。健之助对娜嘉放不下心，于是四处找娜嘉。另一方面，罗兹玛莉将会在明天的早上与娜嘉的妈妈见面，希望夺走娜嘉妈妈对娜嘉的爱。虽然团长和其他团员都觉得娜嘉已经有足够的证据来证明娜嘉是贝林明谢公爵的孙女，可是哈比的报道的关系而令人觉得娜嘉才是假冒的，所以婆婆就叫娜嘉暂时不要再戴胸针外出。可是娜嘉觉得胸针是跟母亲重要的联系，所以依然带着胸针去见母亲，可惜当娜嘉因受到罗兹玛莉的阻挠，娜嘉的妈妈听不到娜嘉的呼叫声，而且还被当成是偷走胸针的小偷，正当危急之际，蒲公英剧团的机关车冲出来，救走了娜嘉。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46808/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第40话</span>明日的娜嘉 第40话 决意的早晨！真正的旅途<br/>由于娜嘉被当成偷走胸针的小偷，所以被警察追捕中，也因此而导致蒲公英剧团无法进行公演，团员也因无法赚钱而烦恼着。此时，娜嘉希望请孤儿院的好友奥利华来证明自己是真正的娜嘉，可是奥利华刚好去了俄罗斯工作，所以见不到他。娜嘉虽然见不到奥利华，可是她没有气馁，而且还支持他的梦想。正当娜嘉和健之助回到剧团的时候，维也纳的警察突然出现，是来逮捕娜嘉的，虽然健之助想办法让娜嘉顺利回到机关车，却令娜嘉觉得自己正为剧团带来麻烦，所以决定明天早上离开蒲公英剧团，在离别之前，娜嘉以舞蹈的方式向各位道别，并展开自己真正的旅途。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46809/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第41话</span>明日的娜嘉 第41话 喜悦和痛苦也是独自一人的旅行<br/>娜嘉为了去见苹果园孤儿院的院长老师，来证明自己是娜嘉，最后决定和蒲公英剧团的团员分开，自己一个人在向故乡英国出发。可是中途娜嘉又被人抢走钱，车票也不见了，肚子又饿，又没住宿的地方，幸好，最后得到偷去自己的钱的人帮助，娜嘉终于可以乘坐往英国的轮船。而且，她还知道之前谢拉鲁送给她的八音盒，原来这本来也是她妈妈的东西。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46810/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第42话</span>明日的娜嘉 第42话 孤苦伶仃的故乡<br/>终于回到苹果园孤儿院的娜嘉，见到的竟然是一个人都没有的废墟。原来，前一阵子院长为了救嬉戏中的小孩子时，被一堆木材压倒身亡，然后孤儿院因为资金周转的问题而出现困难，孤儿们都逼不得已各散东西。幸好，路过的音乐天才拿化伟路安慰娜嘉，令到娜嘉再次振作起来，决定去英国找寄妈妈的裙子，日记簿及行理箱来孤儿院的人。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46811/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第43话</span>明日的娜嘉 第43话 钢琴连系着的摇篮曲<br/>伤心的娜嘉得到拿化伟路的安慰，再次重新振作，决定去伦敦找寻把妈妈的裙子和日记簿寄来的人。在寻找的途中，娜嘉偶然看见天才钢琴家，尊尼的海报，得知尊尼将会举行演奏会，于是决定找尊尼商讨。在这次的演奏会中，娜嘉意外地听到自己经常唱给孤儿们听的歌。演奏会完结后，娜嘉急不及待地找尊尼，并问他有关那首歌的事。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46812/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第44话</span>明日的娜嘉 第44话 喜欢哪一个？终极的选择！<br/>在庆祝尊尼的钢琴表演成功完满结束的派对里，娜嘉再遇上弗朗西斯，得知娜嘉现时的状况的弗朗西斯，决定和娜嘉一起去维也纳找贝林明谢公爵，证明娜嘉才是一直戴着胸针的主人。同一时间，基斯出现说也要带妮嘉去维也纳见她的妈妈，更顺便要求娜嘉决定究竟喜欢哪一个。听到瑞安纳度的未婚妻茱丽艾他的意见后，妮嘉的决定是。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46813/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第45话</span>明日的娜嘉 第45话 3角关系．摇摆不定的爱情<br/>得到弗朗西斯的帮助，娜嘉终于可以去维也纳见贝林明谢公爵，告诉他自己才是真正的娜嘉。可是，弗朗西斯的青梅竹马玛莉安为了得到弗朗西斯，不单答应和弗朗西斯订婚，更跟着娜嘉他们去维也纳找贝林明谢公爵！其间更不停煽风点火，令弗朗西斯开始担心娜嘉真正喜欢的人，会不会是基斯而不是自己。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46814/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第46话</span>明日的娜嘉 第46话 两个娜嘉．对决<br/>娜嘉，弗朗西斯和玛莉安3人终于到达维也纳的公爵家，可是见娜嘉的人，并不是妈妈歌丽德，而是贝林明谢公爵和可恶的罗兹玛丽。公爵为了想认出谁才是真正的娜嘉，要娜嘉自己说出证据，可是无论娜嘉怎么说也好，也被罗兹玛莉的演技，弄巧成拙。后来，希尔曼更找来警察，说弗朗西斯便是曾经从他家中偷走了胸针的黑玫瑰，导致娜嘉她们被警察带回警察局问话。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46815/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第47话</span>明日的娜嘉 第47话 沉默！被囚禁的白玫瑰<br/>被关进了监房的弗朗西斯和娜嘉，虽然娜嘉很快就因为得到假娜嘉，罗兹玛莉的“宽恕”，而可以得到释放，弗朗西斯却一直坚持说自己是黑玫瑰。被释放出来的娜嘉遇到哈比，两人决定把罗素和比安高找出来，然后识穿希尔曼的诡计，那么希尔曼说弗朗西斯是黑玫瑰的证言便会没有人相信的了。另一边，歌丽德看到了娜嘉和弗朗西斯被逮捕的报导，深信娜嘉不是罗兹玛莉说的那样子，决定也要把娜嘉找出来。基斯知道弗朗西斯被误以为是黑玫瑰被捕的消息后，来到牢房说应该被关上的人是自己才对，2人正在吵架吵得如火如荼的时候，突然传来娜嘉的歌声，2人决定合作帮娜嘉寻找幸福。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46816/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第48话</span>明日的娜嘉 第48话 形势逆转！黑玫瑰的最后<br/>被释放出来的娜嘉，为了拯救弗朗西斯，决定把罗素和比安高找出来，原来2人在希尔曼家中躲起来。可是娜嘉一不小心，和罗素和比安高2人一起，被希尔曼关进了他家中地下的牢房。希尔曼也因为被债主安东里奥威胁，要赶快把贝林明谢的财产得到手才行。另一边，黑玫瑰再次出动，宣布因为有人因为他的信念而无辜被逮捕，所以决定黑玫瑰要从此消失于黑暗当中，因为黑玫瑰的出现，弗朗西斯自称是黑玫瑰的嫌疑也可解除，可是潜入哥烙里多家入屋行窃的罪名还未解除。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46817/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第49话</span>明日的娜嘉 第49话 不会放弃！真相的力量<br/>罗素和比安高决定帮助娜嘉，不但协助她成功逃离希尔曼家的牢房，还把自己的王牌。希尔曼写给他们的信的位置，告诉了娜嘉，让她可以把信带去警察局，把希尔曼的诡计揭穿。这样子，娜嘉的身份终于被认可了，弗朗西斯也释放了出来。可是，贝林明谢公爵不让娜嘉和妈妈歌丽德见面。</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.wang/watch3/46818/" target="_blank" target="_self">
+                                                    	<img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                                                    	<div class="fjjq"><span>第50话</span>明日的娜嘉 第50话 新的命运之门（大结局）<br/>勒芒的阴谋诡计的虚构，终于“真正过后”超级信使号公爵家迎接了过后。但是奖金同盟信使号公爵过后和夹头的见面不允许。不仅如此，唯一的接班人。过后为“优秀的贵族”为了教育，瑞士寄宿学校入学让考虑的。</div>
+                                                    </a>
+                                                </li>
+                                            </ul>
+										</div>
+                                    </div>
+                                </div>
+                                <div class="swiper-button-next swiper-button-next4"></div>
+                                <div class="swiper-button-prev swiper-button-prev4"></div>
+                            </div>	
+                          <div class="time_con">
+                            	<div class="stafflist">
+                                    <div class="staff">
+									
+                                    </div>
+                                    <div class="cast">
+									
+                                    </div>
+                                </div>
+                        </div>	
+                        </div>
+                    </div><!--tab slider end-->                       
+                    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+                    <div class="con24">
+                        <div class="stitle">
+                            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/gangtieshangz">钢铁三国志</a><a href="/anime/suxiezhe">速写者</a><a href="/anime/kingsgame">国王游戏</a><a href="/anime/oniheikanjou">鬼平犯科帐</a><a href="/anime/magishaonian">魔笛MAGI外传 辛巴德的冒险</a>
+                            </span>
+                        </div>
+						 <div class="swiper-container swiper3">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <ul class="m_pic clear">
+										<li><a href="/anime/kingdom2"><img src="http://static.jfrft.com/uploads/allimg/201512/1-1512232314470-L.jpg"/><p>王者天下第二季</p><div class="fc_m"><strong>王者天下 第二季</strong></div></a></li><li><a href="/anime/lantalo25"><img src="http://www.dilidili.wang/uploads/allimg/170410/1_0226432131.jpg"/><p>忍者乱太郎第25期</p><div class="fc_m"><strong>忍者乱太郎第25期</strong></div></a></li><li><a href="/anime/thunderbo"><img src="http://static.jfrft.com/uploads/allimg/160512/1_1129065641.jpg"/><p>Thunderbolt Fantasy 东离剑游纪</p><div class="fc_m"><strong>Thunderbolt Fantasy 东离剑游纪</strong></div></a></li><li><a href="/anime/sorakake"><img src="http://www.dilidili.wang/uploads/allimg/170531/6_1442065022.jpg"/><p>穿越宇宙的少女</p><div class="fc_m"><strong>穿越宇宙的少女</strong></div></a></li><li><a href="/anime/lzsy"><img src="http://www.dilidili.wang/uploads/allimg/170619/6_1419189111.jpg"/><p>来自深渊</p><div class="fc_m"><strong>来自深渊</strong></div></a></li><li><a href="/anime/shokomeza"><img src="http://static.jfrft.com/images/cover/15112.jpg"/><p>少女们向荒野进发</p><div class="fc_m"><strong>少女们向荒野进发</strong></div></a></li><li><a href="/anime/stellvia"><img src="http://static.jfrft.com/uploads/allimg/160819/1_0433558391.jpg"/><p>宇宙的星路</p><div class="fc_m"><strong>宇宙的星路</strong></div></a></li><li><a href="/anime/vandelbuster"><img src="http://static.jfrft.com/uploads/allimg/160919/1_2032507901.jpg"/><p>冒险王比特</p><div class="fc_m"><strong>冒险王比特</strong></div></a></li><li><a href="/anime/zzlf"><img src="http://static.jfrft.com/uploads/allimg/160722/1_1451543401.jpg"/><p>最终流放</p><div class="fc_m"><strong>最终流放</strong></div></a></li><li><a href="/anime/kamisamadolls"><img src="http://static.jfrft.com/uploads/201601/1-160112043G95I.jpg"/><p>神样dolls</p><div class="fc_m"><strong>神样dolls</strong></div></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="swiper-button-next swiper-button-next3"></div>
+                            <div class="swiper-button-prev swiper-button-prev3"></div>
+                        </div>
+                    </div>
+<script src="http://static.jfrft.com/templets/default/js/swiper.min.js"></script>
+<script>	
+jQuery(".playjs").hide();
+	function changeSwiper1(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+//		alert(arrlen);
+        var len = 0;		
+        if (_is) {
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+				}else{
+					len = parseInt(arrlen / 2);
+					}
+				} else {
+					if(arrlen % 20 >0){
+						len = parseInt(arrlen / 20)+1;
+						}else{
+							len = parseInt(arrlen / 20);
+						}
+					}
+			if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+    changeSwiper1('.xfswiper0');
+	changeSwiper1('.xfswiper1');
+	changeSwiper1('.xfswiper2');
+	changeSwiper1('.xfswiper3');
+	changeSwiper1('.xfswiper4');
+	changeSwiper1('.xfswiper5');
+	changeSwiper1('.xfswiper6');
+    changeSwiper('.swiper3');
+    changeSwiper('.swiper5');
+    changeSwiper('.swiper6');
+	changeSwiper('.swiper7');
+	changeSwiper2('.swiper4');
+    jQuery(window).resize(function () {
+		changeSwiper1('.xfswiper0');
+		changeSwiper1('.xfswiper1');
+		changeSwiper1('.xfswiper2');
+		changeSwiper1('.xfswiper3');
+		changeSwiper1('.xfswiper4');
+		changeSwiper1('.xfswiper5');
+		changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+		changeSwiper('.swiper7');
+		changeSwiper2('.swiper4');
+    });
+var swiper1 = new Swiper('.xfswiper1', {
+	nextButton: '.xfswiper-button-next1',
+	prevButton: '.xfswiper-button-prev1',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper2', {
+	nextButton: '.xfswiper-button-next2',
+	prevButton: '.xfswiper-button-prev2',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper3', {
+	nextButton: '.xfswiper-button-next3',
+	prevButton: '.xfswiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper3 = new Swiper('.swiper3', {
+	nextButton: '.swiper-button-next3',
+	prevButton: '.swiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper4 = new Swiper('.swiper4', {
+	nextButton: '.swiper-button-next4',
+	prevButton: '.swiper-button-prev4',
+	spaceBetween: 30
+});
+var swiper5 = new Swiper('.swiper5', {
+	nextButton: '.swiper-button-next5',
+	prevButton: '.swiper-button-prev5',
+	spaceBetween: 30
+});
+var swiper6 = new Swiper('.swiper6', {
+	nextButton: '.swiper-button-next6',
+	prevButton: '.swiper-button-prev6',
+	spaceBetween: 30
+});
+var swiper7 = new Swiper('.swiper7', {
+	nextButton: '.swiper-button-next7',
+	prevButton: '.swiper-button-prev7',
+	spaceBetween: 30
+});
+    var week = new Date();
+    jQuery(".xf_news .pk_time a").removeClass("current");
+    jQuery(".xf_news .time_pic .time_con").hide();
+    if (week != 0) {
+        jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+        jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+        new Swiper(".xfswiper"+(0), {
+            nextButton: '.xfswiper-button-next'+(0),
+            prevButton: '.xfswiper-button-prev'+(0),
+            spaceBetween: 30
+        });
+    }
+    jQuery(".xf_news .pk_time a").each(function(index){
+        jQuery(this).click(function(){
+            jQuery(".xf_news .pk_time a").removeClass("current");
+            jQuery(this).addClass("current");
+            jQuery(".xf_news .time_pic .time_con").hide();
+            jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+            new Swiper(".xfswiper"+index, {
+                nextButton: '.xfswiper-button-next'+index,
+                prevButton: '.xfswiper-button-prev'+index,
+                spaceBetween: 30
+            });
+			jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+        });
+    });
+var swiper = new Swiper('.xfswiper1', {
+	pagination: '.swiper-pagination',
+	paginationClickable: true,
+	paginationBulletRender: function (index, className) {
+		return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+	}
+});
+var mySwiper1 = new Swiper('.swiper1',{
+	pagination: '.pagination1',
+	paginationClickable: true,
+	moveStartThreshold: 100,
+	autoplay:4000
+});
+var mySwiper2 = new Swiper('.swiper2',{
+	pagination: '.pagination2',
+	paginationClickable: true,
+	moveStartThreshold: 100
+});
+  var webWidth = 736;
+    function changeSwiper(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 5 >0){
+				len = parseInt(arrlen / 5)+1;
+			}else{
+				len = parseInt(arrlen / 5);
+			}
+        }		
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+    function changeSwiper2(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 8 >0){
+				len = parseInt(arrlen / 8)+1;
+			}else{
+				len = parseInt(arrlen / 8);
+			}
+        }		
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+jQuery(function() {
+	jQuery(".closed").click(
+	  function(){
+		  jQuery(".topimg").slideUp();
+	});
+	// 收缩展开效果
+	   jQuery(".adminico").click(function(){
+		 jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   },function(){
+		jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   });
+	jQuery(".a_open").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").slideDown(500);
+		  jQuery(".fc_black").show();
+		  jQuery(".a_closed").show();
+	});
+	jQuery(".a_closed").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+	});
+	jQuery(".fc_black").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+		  jQuery(".a_closed").hide();
+	});
+	jQuery(".rm_pank .pk_year a").each(function(index){
+	   jQuery(this).mouseover(
+		  function(){
+			  jQuery(".rm_pank .pk_year a").removeClass("current");
+			  jQuery(this).addClass("current");
+			  jQuery(".rm_pank .rm_main .rm_con").hide();
+			  jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+	  })
+	});
+	var headHeight=$(".head_top").height();
+	var nav=$("#navf");
+	$(window).scroll(function(){
+		if($(this).scrollTop()>headHeight){
+			nav.addClass("navFix");
+		}
+		else{
+			nav.removeClass("navFix");
+		}
+	})
+	var headHeight2=$(".topimg").height();
+	var nav2=jQuery("#topnavf");
+    jQuery(window).scroll(function(){
+		if($(this).scrollTop()>headHeight2){
+			nav2.addClass("topnavFix");
+		}
+		else{
+			nav2.removeClass("topnavFix");
+		}
+	});
+});
+</script>
+                    <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+                    <div class="con24">
+                       <!-- <div class="stitle">
+                            <h3>评论</h3>
+                            <span class="s_f">
+                                <a href="http://bbs.005.tv">D站论坛</a>
+                                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+                            </span>
+<a href="" id="login_1_2" style="float:right;" target="_self">评论前请先登录或注册</a>
+                        </div>-->		
+                        <div style="margin:20px 0; text-align:center;">
+                           
+ <!--UY BEGIN 
+                            <div id="uyan_frame"></div>
+                            <div id="SOHUCS" sid="www_dilidili_com_t2213"></div> 
+                            <script>
+                                document.write("<link rel=\"stylesheet\" href=\"http://static.jfrft.com/css/cy.css\"\/>");
+                            </script>
+                            <script type="text/javascript"> (function(){ var appid = 'cyrWI9WPo'; var conf = 'eea24c2162fe79b36d73e420792de754'; var width = window.innerWidth || document.documentElement.clientWidth; if (width < 960) { window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>'); } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("http://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
+                            <!--UY END -->
+
+<link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='613156' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+				<script type="text/javascript" src="http://www.dilidili.wang/templets/default/zuixingengxin2.htm"></script>
+                <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+            </div>
+			<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>				
+		</div>
+        <div class="fc_black"></div>
+<input type='hidden' value='613156' id='bbs_tid' name='bbs_tid'>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/muban/js/w234.js"></script>
+<script>
+	var hre=window.encodeURIComponent(window.location.href);
+	var ahre="http://usr.005.tv?refurl="+hre;
+	$("#login_1_2").attr("href",ahre); 
+</script>
+	</body>
+</html>

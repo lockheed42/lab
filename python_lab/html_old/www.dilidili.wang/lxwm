@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="ACG爱好平台" />
+    <meta name="description" content="ACG爱好平台" />
+    <title>嘀哩科技ACG爱好平台</title>
+    <script type="text/javascript">
+/*        //平台、设备和操作系统
+        function is_mobile() {
+            var regex_match = /(nokia|iphone|android|motorola|^mot-|softbank|foma|docomo|kddi|up.browser|up.link|htc|dopod|blazer|netfront|helio|hosin|huawei|novarra|CoolPad|webos|techfaith|palmsource|blackberry|alcatel|amoi|ktouch|nexian|samsung|^sam-|s[cg]h|^lge|ericsson|philips|sagem|wellcom|bunjalloo|maui|symbian|smartphone|midp|wap|phone|windows ce|iemobile|^spice|^bird|^zte-|longcos|pantech|gionee|^sie-|portalmmm|jigs browser|hiptop|^benq|haier|^lct|operas*mobi|opera*mini|320x320|240x320|176x220)/i;
+            var u = navigator.userAgent;
+            if (null == u) {
+                return true;
+            }
+            var result = regex_match.exec(u);
+            if (null == result) {
+                return false
+            } else {
+                return true
+            }
+        }
+        function set_lang_cookie(type)
+        {
+            //alert(type);
+            $.cookie('lang', null, {path:'/'});
+            $.cookie('lang', type, {path:'/'});
+
+            if (document.location.href.indexOf('article') > 0 || document.location.href.indexOf('join') > 0)
+            {
+                window.location.href='';
+                return false;
+            }
+            else
+            {
+                window.location.reload();
+                return false;
+            }
+
+        }
+        if (is_mobile()) {
+            document.location.href= '';
+        }*/
+    </script>
+    <link type="text/css" href="css/mainstyle.css" rel="stylesheet"/>
+    <link type="text/css" href="css/style.css" rel="stylesheet"/>
+    <script type="text/javascript" src="js/jquery-3-2-1.js"></script>
+</head>
+
+<body>
+<div class="zxt_top_header">
+    <div class="topbox pr">
+        <div class="topcon pr">
+            <a href="/" target="_blank" class="logo" title="dilidili官网"></a>
+            <div class="navbox">
+                <ul class="c navlist">
+                    <li><a href="join.html" >加入我们</a></li>
+                    <li><a href="javascript:void (0)" class="active" >联系我们</a></li>
+                    <li><a href="aboutindex.html" >关于我们</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="next_menu" style="display:none;"></div>
+    </div>
+</div>
+
+<div class="ot_contaions" style="margin-top: 2px">
+    <div class="bus_nav"></div>
+    <div class="bus_contaions c">
+        <div class="bus_contaions_left">
+            <div class="contaions_leftBox">
+                <h5>渠道商务合作</h5>
+                <p>合作方向：联合运营、CPS、合作分成 </p>
+                <p>商务总监：黄小姐</p>
+                <p>邮箱：<a href="mailto:weiba@005.tv">weiba@005.tv</a>QQ：<a href="tencent://message/?Menu=yes&amp;uin=670431921&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">670431921</a></p>
+            </div>
+            <div class="contaions_leftBox">
+                <h5>市场合作</h5>
+                <p>合作对象：拥有相关领域独立市场资源（具体包括：产品、用户群、渠道、媒体、网吧资源）的合作伙伴。</p>
+                <p>商务总监：黄小姐</p>
+                <p>邮箱：<a href="mailto:weiba@005.tv">weiba@005.tv</a>QQ：<a href="tencent://message/?Menu=yes&amp;uin=670431921&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">670431921</a></p>
+                <p>市场经理：林小姐</p>
+                <p>邮箱：<a href="mailto:894875367@qq.com">894875367@qq.com</a>QQ：<a href="tencent://message/?Menu=yes&amp;uin=894875367&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">894875367</a></p>
+            </div>
+            <div class="contaions_leftBox">
+                <h5>友情链接与其他合作</h5>
+                <p>QQ：<a href="tencent://message/?Menu=yes&amp;uin=895261781&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">895261781</a></p>
+            </div>
+        </div>
+        <div class="bus_contaions_right">
+            <div class="contaions_leftBox">
+                <h5>广告合作</h5>
+                <p>合作方向：品牌广告投放，CPA、CPD、CPT、CPM推广合作</p>
+                <p>商务总监：黄小姐</p>
+                <p>邮箱：<a href="mailto:weiba@005.tv">weiba@005.tv</a>QQ：<a href="tencent://message/?Menu=yes&amp;uin=670431921&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">670431921</a></p>
+                
+<!--<p>商务经理：郑先生</p>
+                <p>邮箱：<a href="mailto:zsh83256605@qq.com">zsh83256605@qq.com</a>QQ：<a href="tencent://message/?Menu=yes&amp;uin=839581900&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">839581900</a></p>-->
+                <p>市场专员：林先生（专项负责各项广告联盟）</p>
+                <!--<p>邮箱：<a href="mailto:461701653@qq.com">461701653@qq.com</a>QQ：<a href="tencent://message/?Menu=yes&amp;uin=461701653&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">461701653</a></p>-->
+                <p>邮箱：<a href="mailto:981102790@qq.com">981102790@qq.com</a>QQ：<a href="tencent://message/?Menu=yes&amp;uin=981102790&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">981102790</a></p>
+            </div>
+            <div class="contaions_leftBox">
+                <h5>求职应聘</h5>
+                <p>嘀哩科技真诚欢迎各界有志加入的优秀人才，一同完成梦想</p>
+                <p>人事专员：廖小姐</p>
+                <p>邮箱：<a href="mailto:3171948109@qq.com">3171948109@qq.com</a>QQ：<a href="tencent://message/?Menu=yes&amp;uin=3171948109&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45" target="_blank">3171948109</a></p>
+
+            </div>
+            <div class="contaions_leftBox">
+                <h5>链接合作要求</h5>
+                <p>a、首页链接 百度权重>=6、世界排名20万以内、各搜索引擎收录良好、行业知名网站优先。</p>
+                <p>b、频道链接百度权重>=2、各搜索引擎收录良好、行业知名网站优先。</p>
+                <p>c、申请友情链接的站点不能存在色情、恐暴、反动等违反国家相关规定的内容。</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="display: none;">
+    <script src="https://s11.cnzz.com/z_stat.php?id=1254760299&web_id=1254760299" language="JavaScript"></script>
+    <script src="https://s95.cnzz.com/z_stat.php?id=1255455330&web_id=1255455330" language="JavaScript"></script>
+</div>
+</body>
+</html>

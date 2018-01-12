@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>纪录-UGC</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="http://static.jfrft.com/js/uaredirect.js" type="text/javascript"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/jilu/");</script>		
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/jilu/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/jilu/" >
+    <link rel="canonical" href="http://www.dilidili.wang/jilu/"/>
+    <script src="/newjs/jquery-3-2-1.js"></script>
+    <!--<script src="/js/swiper-3.4.2.min.js"></script>-->
+    <link rel="stylesheet" href="http://static.jfrft.com/jac/css/main.css">
+    <link rel="stylesheet" href="/newcss/ugcStyle.css" type="text/css">
+    <!--<link rel="stylesheet" href="/css/swiper-3.4.2.min.css">-->
+</head>
+
+<body class="widescreen" data-cover-preview="true">
+    
+    <!--header s-->
+    <header>
+        <div class="head-title">
+            <ul>
+                <li>
+                    <img src="http://static.jfrft.com/jac/newimages/logo.png" width="100">
+                    <a href="/" target="_blank">首页</a>
+                </li>
+                <li><a href="/lxwm/uprule.html" target="_blank">投稿</a></li>
+                <li><a href="/anime/201710/" target="_blank">新番</a></li>
+
+                <a href="/zxgx.html" title="最新更新"><i class="box1"></i></a>
+                <script>
+                    searchToggle = function()
+                    {
+                        if($('.box3').parent().attr('title') == '切换至360搜索')
+                        {
+                            $('.box3').css('background','rgb(252, 171, 103) url("http://www.dilidili.wang/newimages/search_baidu.png") no-repeat scroll 50% 50% / auto padding-box border-box');
+                            $('.search-box').hide();
+                            $('#so360').show();
+                            $('.box3').parent().attr('title','切换至百度搜索');
+                        }
+                        else
+                        {
+                            $('.box3').css('background','rgb(252, 171, 103) url("http://www.dilidili.wang/newimages/search_360.png") no-repeat scroll 50% 50% / auto padding-box border-box');
+                            $('#so360').hide();
+                            $('.search-box').show();
+                            $('.box3').parent().attr('title','切换至360搜索');
+                        }
+                    }
+                </script>
+                <a onclick="searchToggle()" title="切换至360搜索"><i class="box3"></i></a>
+                <form action="/search/index.html" target="_blank" class="search-box" style="box-sizing: border-box">
+                <input type="hidden" name="kwtype" value="0" class="s_inp" />
+                <input name="q" type="text" placeholder="百度搜索">
+                <i class="box2" onclick="$('.search-box').submit()"></i>
+                <input type="hidden" name="ie" value="utf8">
+                <input type="hidden" name="src" value="zz">
+                <input type="hidden" name="site" value="www.dilidili.wang">
+                <input type="hidden" name="rg" value="1">
+                </form>
+                <div id="so360"  style="box-sizing: border-box">
+                    <form action="http://www.so.com/s" target="_blank" id="so360form">
+                        <input type="text" autocomplete="off" name="q" id="so360_keyword" placeholder="360搜索">
+                        <input type="submit" id="so360_submit" value="">
+                        <input type="hidden" name="ie" value="utf8">
+                        <input type="hidden" name="src" value="zz_www.dilidili.wang">
+                        <input type="hidden" name="site" value="www.dilidili.wang">
+                        <input type="hidden" name="rg" value="1">
+                    </form>
+                </div>
+            </ul>
+        </div>
+        <hr/>
+    </header>
+    <script>
+
+    </script>
+    <!--header e-->
+    
+    <div class="b-page-body">
+        <div class="main-inner">
+            <div class="container-body">
+                <div class="list-custom-wrp ">
+                <script>
+                    orderSwitch = function(order)
+                    {
+                    	//alert(order);
+                    	if(order == 'list_order_default')
+                        {
+                    		if(!$('#list_order_default').hasClass('on'))
+                    		{
+                    			$('#list_order_default').toggleClass('on');$('#list_order_hot').toggleClass('on');
+                    			$('#orderTime').show();$('#orderHot').hide();
+                            }
+                    	}
+                    	else
+                        {
+                            if(!$('#list_order_hot').hasClass('on'))
+                    		{
+                    			$('#list_order_hot').toggleClass('on');$('#list_order_default').toggleClass('on');
+                    			$('#orderHot').show();$('#orderTime').hide();
+                            }
+                        }
+                    }
+                </script>
+                    <div class="tag-list-wrp">
+                        <div class="b-head"><span class="b-head-i"></span><span class="b-head-t">选择分区</span><span class="b-head-s">点击即可查看本区的相关内容</span></div>
+                        <div class="tag-list-cnt" id="tag_list" style="height: auto;">
+                            <ul class="tag-list">
+                                <a href="/ugc"><li class="tag-item" id="all" ><span>全部</span></li></a>
+                                <a href="/game"><li class="tag-item" id="youxi" ><span>游戏</span></li></a>
+                                <a href="/music"><li class="tag-item" id="yinyue"><span>音乐</span></li></a>
+                                <a href="/cartoon"><li class="tag-item" id="donghua"><span>动画</span></li></a>
+                                <a href="/dance"><li class="tag-item" id="zhaiwu"><span>宅舞</span></li></a>
+                                <a href="/life"><li class="tag-item" id="shenghuo"><span>生活</span></li></a>
+                                <a href="/jilu"><li class="tag-item" id="jilu"><span>纪录</span></li></a>
+                            </ul>
+<script>
+//var typeName='纪录';
+$("span:contains('纪录')").parent().addClass('on')
+</script>
+                        </div>
+                        <!--<div class="b-toggle-block tag-more" style="display: none;"><div class="b-toggle-btn" id="btn_tag_more" b-stat="tag_toggle" b-stat-v="20"><span>展开</span><i class="b-icon b-icon-toggle-down"></i></div></div>-->
+                    </div>
+                    <!--左-->
+                    <div class="b-page-large b-f-left">
+                        <div class="vl-dyn-wrp">
+                            <div class="b-head" id="vl_dyn_hd"><span class="b-head-i"></span><span class="b-head-t">最新动态</span>
+                            </div>
+                            <div class="vl-dyn-cnt">
+                                <ul class="v-list" id="vl_dyn_list">
+<div id="allTag">
+<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+<tr>
+    <td width='20%'>
+    </td>
+    <td width='20%'>
+    </td>
+    <td width='20%'>
+    </td>
+    <td width='20%'>
+    </td>
+    <td width='20%'>
+    </td>
+    </tr>
+<tr>
+    <td width='20%'>
+    </td>
+    <td width='20%'>
+    </td>
+    <td width='20%'>
+    </td>
+    <td width='20%'>
+    </td>
+    <td width='20%'>
+    </td>
+    </tr>
+    </table>
+
+</div>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="video-list list-c">
+                            <div class="vl-hd clearfix">
+                                <div class="left">
+                                    <ul class="vl-tab" id="tab_list_order">
+                                        <li class="tab-i on" id="list_order_default" onclick="orderSwitch(this.id)">投稿时间排序</li>
+                                        <li class="tab-i" id="list_order_hot" onclick="orderSwitch(this.id)">视频热度排序</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="vd-list-cnt loaded">
+                                <ul class="vd-list l2">
+<div id="orderTime">
+<div id="allTag">
+
+</div>
+</div>
+
+<div id="orderHot" style="display: none;">
+<div id="allTag">
+
+</div>
+</div>
+
+<!--分页-->
+<ul class="pagelistbox">
+<li><span class="pageinfo">共 <strong>0</strong>页<strong>0</strong>条记录</span></li>
+
+</ul>
+
+
+
+                                </ul>
+                                </div>
+                                <!--<div class="pagelistbox">
+                                    <a class="p active">1</a>
+                                    <a class="p" page="2">2</a>
+                                    <a class="p" page="3">3</a>
+                                    <a class="p" page="4">4</a>
+                                    <a class="p" page="5">5</a>
+                                    <a class="p" page="6">6</a>
+                                    <a class="p" page="7">7</a>
+                                    <strong>...</strong>
+                                    <a class="p endPage" page="4546">4546</a>
+                                    <a class="p nextPage" page="2">下一页</a>
+                                    <div class="custom-right"><span class="result custom-right-inner">共 4546 页/ 90920 个 ，跳至</span><input class="b-input custompage custom-right-inner" type="text"><span class="custom-right-inner">页</span></div>
+                                </div>-->
+
+                            </div>
+                        </div>
+                        <!--左-->
+
+                        <!--右-->
+                        <div class="b-page-small b-f-right">
+                            <div class="b-head">
+                                <span class="b-head-t">热门</span>
+                            </div>
+                            <div class="rlist-wrp">
+                                <ul class="rlist loaded">
+
+
+<script>
+    $('.rlist li:lt(3)').addClass('on');$('.rlist li:lt(3) .number').addClass('n1');
+    for(var i = 0; i < $('.rlist li').length; i++)
+    {
+	var number = i+1;
+	$('.rlist li').eq(i).find('.number').text(number);
+    }
+</script>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--右-->
+                    </div>
+                </div>
+                <div class="contact">
+                    <p>有好作品的小伙伴可以请投递到邮箱1771312689@qq.com，名称为“投稿-*标题*”，并在邮件内附上自己的简介，还可以加入推广链接，类似于微博或者直播间房间号哦</p>
+                </div>
+            </div>
+
+            <script src="about:blank" type="text/javascript"></script>
+            <script type="text/javascript" src="about:blank"></script>
+        </div>
+
+        <div class="index-nav sub" id="index_nav" style="opacity: 0;">
+            <div class="border"></div>
+            <div class="nav-list">
+                <div class="pointer-block"></div>
+            </div>
+            <div class="n-i gotop sub">
+                <div class="s-line"></div>
+                <div class="btn_gotop" title="返回顶部"></div>
+            </div>
+        </div>
+
+    <div style="display:none;">
+        <script src="http://s95.cnzz.com/stat.php?id=1255455330&web_id=1255455330" language="JavaScript"></script>
+        <script src="http://s11.cnzz.com/stat.php?id=1254760299&web_id=1254760299" language="JavaScript"></script>
+        <script src="http://s11.cnzz.com/stat.php?id=1259276514&web_id=1259276514" language="JavaScript"></script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "//hm.baidu.com/hm.js?ac109a7147396152534f7b6b2bbc507e";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+    </div>
+</body>
+
+</html>

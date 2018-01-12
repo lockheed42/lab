@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>宅舞-UGC</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="http://static.jfrft.com/js/uaredirect.js" type="text/javascript"></script>
+    <script type="text/javascript">uaredirect("http://m.dilidili.wang/dance/");</script>		
+    <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/dance/"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/dance/" >
+    <link rel="canonical" href="http://www.dilidili.wang/dance/"/>
+    <script src="/newjs/jquery-3-2-1.js"></script>
+    <!--<script src="/js/swiper-3.4.2.min.js"></script>-->
+    <link rel="stylesheet" href="http://static.jfrft.com/jac/css/main.css">
+    <link rel="stylesheet" href="/newcss/ugcStyle.css" type="text/css">
+    <!--<link rel="stylesheet" href="/css/swiper-3.4.2.min.css">-->
+</head>
+
+<body class="widescreen" data-cover-preview="true">
+    
+    <!--header s-->
+    <header>
+        <div class="head-title">
+            <ul>
+                <li>
+                    <img src="http://static.jfrft.com/jac/newimages/logo.png" width="100">
+                    <a href="/" target="_blank">首页</a>
+                </li>
+                <li><a href="/lxwm/uprule.html" target="_blank">投稿</a></li>
+                <li><a href="/anime/201710/" target="_blank">新番</a></li>
+
+                <a href="/zxgx.html" title="最新更新"><i class="box1"></i></a>
+                <script>
+                    searchToggle = function()
+                    {
+                        if($('.box3').parent().attr('title') == '切换至360搜索')
+                        {
+                            $('.box3').css('background','rgb(252, 171, 103) url("http://www.dilidili.wang/newimages/search_baidu.png") no-repeat scroll 50% 50% / auto padding-box border-box');
+                            $('.search-box').hide();
+                            $('#so360').show();
+                            $('.box3').parent().attr('title','切换至百度搜索');
+                        }
+                        else
+                        {
+                            $('.box3').css('background','rgb(252, 171, 103) url("http://www.dilidili.wang/newimages/search_360.png") no-repeat scroll 50% 50% / auto padding-box border-box');
+                            $('#so360').hide();
+                            $('.search-box').show();
+                            $('.box3').parent().attr('title','切换至360搜索');
+                        }
+                    }
+                </script>
+                <a onclick="searchToggle()" title="切换至360搜索"><i class="box3"></i></a>
+                <form action="/search/index.html" target="_blank" class="search-box" style="box-sizing: border-box">
+                <input type="hidden" name="kwtype" value="0" class="s_inp" />
+                <input name="q" type="text" placeholder="百度搜索">
+                <i class="box2" onclick="$('.search-box').submit()"></i>
+                <input type="hidden" name="ie" value="utf8">
+                <input type="hidden" name="src" value="zz">
+                <input type="hidden" name="site" value="www.dilidili.wang">
+                <input type="hidden" name="rg" value="1">
+                </form>
+                <div id="so360"  style="box-sizing: border-box">
+                    <form action="http://www.so.com/s" target="_blank" id="so360form">
+                        <input type="text" autocomplete="off" name="q" id="so360_keyword" placeholder="360搜索">
+                        <input type="submit" id="so360_submit" value="">
+                        <input type="hidden" name="ie" value="utf8">
+                        <input type="hidden" name="src" value="zz_www.dilidili.wang">
+                        <input type="hidden" name="site" value="www.dilidili.wang">
+                        <input type="hidden" name="rg" value="1">
+                    </form>
+                </div>
+            </ul>
+        </div>
+        <hr/>
+    </header>
+    <script>
+
+    </script>
+    <!--header e-->
+    
+    <div class="b-page-body">
+        <div class="main-inner">
+            <div class="container-body">
+                <div class="list-custom-wrp ">
+                <script>
+                    orderSwitch = function(order)
+                    {
+                    	//alert(order);
+                    	if(order == 'list_order_default')
+                        {
+                    		if(!$('#list_order_default').hasClass('on'))
+                    		{
+                    			$('#list_order_default').toggleClass('on');$('#list_order_hot').toggleClass('on');
+                    			$('#orderTime').show();$('#orderHot').hide();
+                            }
+                    	}
+                    	else
+                        {
+                            if(!$('#list_order_hot').hasClass('on'))
+                    		{
+                    			$('#list_order_hot').toggleClass('on');$('#list_order_default').toggleClass('on');
+                    			$('#orderHot').show();$('#orderTime').hide();
+                            }
+                        }
+                    }
+                </script>
+                    <div class="tag-list-wrp">
+                        <div class="b-head"><span class="b-head-i"></span><span class="b-head-t">选择分区</span><span class="b-head-s">点击即可查看本区的相关内容</span></div>
+                        <div class="tag-list-cnt" id="tag_list" style="height: auto;">
+                            <ul class="tag-list">
+                                <a href="/ugc"><li class="tag-item" id="all" ><span>全部</span></li></a>
+                                <a href="/game"><li class="tag-item" id="youxi" ><span>游戏</span></li></a>
+                                <a href="/music"><li class="tag-item" id="yinyue"><span>音乐</span></li></a>
+                                <a href="/cartoon"><li class="tag-item" id="donghua"><span>动画</span></li></a>
+                                <a href="/dance"><li class="tag-item" id="zhaiwu"><span>宅舞</span></li></a>
+                                <a href="/life"><li class="tag-item" id="shenghuo"><span>生活</span></li></a>
+                                <a href="/jilu"><li class="tag-item" id="jilu"><span>纪录</span></li></a>
+                            </ul>
+<script>
+//var typeName='宅舞';
+$("span:contains('宅舞')").parent().addClass('on')
+</script>
+                        </div>
+                        <!--<div class="b-toggle-block tag-more" style="display: none;"><div class="b-toggle-btn" id="btn_tag_more" b-stat="tag_toggle" b-stat-v="20"><span>展开</span><i class="b-icon b-icon-toggle-down"></i></div></div>-->
+                    </div>
+                    <!--左-->
+                    <div class="b-page-large b-f-left">
+                        <div class="vl-dyn-wrp">
+                            <div class="b-head" id="vl_dyn_hd"><span class="b-head-i"></span><span class="b-head-t">最新动态</span>
+                            </div>
+                            <div class="vl-dyn-cnt">
+                                <ul class="v-list" id="vl_dyn_list">
+<div id="allTag">
+<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+<tr>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60524/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1100341191.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60524/" target="_blank" title="【小野】Ten Thousand Stars">
+                                                <div class="t">【小野】Ten Thousand Stars</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>1083</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-22</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60523/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1051218551.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60523/" target="_blank" title="【小野，雾岛】Magnet">
+                                                <div class="t">【小野，雾岛】Magnet</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>1203</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-22</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60528/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1119566921.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60528/" target="_blank" title="【小野】无梦之梦（灯油ver.）">
+                                                <div class="t">【小野】无梦之梦（灯油ver.）</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>2216</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-21</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60527/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1118109951.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60527/" target="_blank" title="【小野x2】（猫装boy）猫☆猫★show time">
+                                                <div class="t">【小野x2】（猫装boy）猫☆猫★show time</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>1898</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-21</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60526/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1112272471.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60526/" target="_blank" title="【小野，二三三】啾噜哩啦・啾噜哩啦・哒哒哒！">
+                                                <div class="t">【小野，二三三】啾噜哩啦・啾噜哩啦・哒哒哒！</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>1078</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-21</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    </tr>
+<tr>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60525/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1104002651.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60525/" target="_blank" title="【FE:小野x涂鸦】孑然妒火【reita振付】">
+                                                <div class="t">【FE:小野x涂鸦】孑然妒火【reita振付】</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>3556</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-21</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60473/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1609499001.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60473/" target="_blank" title="【黑麦克斯】Re：从零开始异世界 ED - STYX HELIX">
+                                                <div class="t">【黑麦克斯】Re：从零开始异世界 ED - STYX HELIX</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>23811</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-18</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60472/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1601123771.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60472/" target="_blank" title="【七岁萝莉】斩服少女 LightYourHeartUp">
+                                                <div class="t">【七岁萝莉】斩服少女 LightYourHeartUp</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>24845</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-18</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60471/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1553593961.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60471/" target="_blank" title="【啊飘】一骑当千">
+                                                <div class="t">【啊飘】一骑当千</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>23359</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-18</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    <td width='20%'>
+<li>
+                                        <div class="v">
+                                            <a class="preview cover-preview" href="http://www.dilidili.wang/huiyuan/60470/" target="_blank">
+                                                <img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1552242311.jpg" loaded="loaded" style="opacity: 1;">
+                                            </a>
+                                            <a href="http://www.dilidili.wang/huiyuan/60470/" target="_blank" title="【啊飘】小小鹿~">
+                                                <div class="t">【啊飘】小小鹿~</div>
+                                                <div class="i"><span><i class="b-icon b-icon-v-play"></i><em>23313</em></span><span class="v-date"><i class="b-icon b-icon-date"></i>2017-09-18</span></div>
+                                            </a>
+                                        </div>
+                                    </li>
+    </td>
+    </tr>
+    </table>
+
+</div>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="video-list list-c">
+                            <div class="vl-hd clearfix">
+                                <div class="left">
+                                    <ul class="vl-tab" id="tab_list_order">
+                                        <li class="tab-i on" id="list_order_default" onclick="orderSwitch(this.id)">投稿时间排序</li>
+                                        <li class="tab-i" id="list_order_hot" onclick="orderSwitch(this.id)">视频热度排序</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="vd-list-cnt loaded">
+                                <ul class="vd-list l2">
+<div id="orderTime">
+<div id="allTag">
+<li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60523/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1051218551.jpg" loaded="loaded" alt="【小野，雾岛】Magnet" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60523/" target="_blank" class="title" title="【小野，雾岛】Magnet">【小野，雾岛】Magnet</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【gay里gay气的深夜小区play】</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1203</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="小野，雾岛">小野，雾岛</a><span class="v-date" title="日期">2017-09-22 10:20:06</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60524/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1100341191.jpg" loaded="loaded" alt="【小野】Ten Thousand Stars" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60524/" target="_blank" class="title" title="【小野】Ten Thousand Stars">【小野】Ten Thousand Stars</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【原创编舞】</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1083</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="小野">小野</a><span class="v-date" title="日期">2017-09-22 10:20:06</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60525/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1104002651.jpg" loaded="loaded" alt="【FE:小野x涂鸦】孑然妒火【reita振付】" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60525/" target="_blank" class="title" title="【FE:小野x涂鸦】孑然妒火【reita振付】">【FE:小野x涂鸦】孑然妒火【reita振付】</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">监禁少女与变态少年的孑然妒火</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>3556</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="小野x涂鸦">小野x涂鸦</a><span class="v-date" title="日期">2017-09-21 11:21:16</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60526/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1112272471.jpg" loaded="loaded" alt="【小野，二三三】啾噜哩啦・啾噜哩啦・哒哒哒！" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60526/" target="_blank" class="title" title="【小野，二三三】啾噜哩啦・啾噜哩啦・哒哒哒！">【小野，二三三】啾噜哩啦・啾噜哩啦・哒哒哒！</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【干掉他就好】</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1078</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="小野，二三三">小野，二三三</a><span class="v-date" title="日期">2017-09-21 11:21:16</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60527/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1118109951.jpg" loaded="loaded" alt="【小野x2】（猫装boy）猫☆猫★show time" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60527/" target="_blank" class="title" title="【小野x2】（猫装boy）猫☆猫★show time">【小野x2】（猫装boy）猫☆猫★show time</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【堵上尊严去买卖萌233】</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>1898</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="小野x2">小野x2</a><span class="v-date" title="日期">2017-09-21 11:21:16</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60528/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170922/6_1119566921.jpg" loaded="loaded" alt="【小野】无梦之梦（灯油ver.）" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60528/" target="_blank" class="title" title="【小野】无梦之梦（灯油ver.）">【小野】无梦之梦（灯油ver.）</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【原创编舞】</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>2216</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="小野">小野</a><span class="v-date" title="日期">2017-09-21 11:21:16</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60470/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1552242311.jpg" loaded="loaded" alt="【啊飘】小小鹿~" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60470/" target="_blank" class="title" title="【啊飘】小小鹿~">【啊飘】小小鹿~</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">原创词曲：阿良良木健 
+编舞：佳兒将军 
+翻唱：新月冰冰</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>23313</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="啊飘">啊飘</a><span class="v-date" title="日期">2017-09-18 15:18:45</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60471/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1553593961.jpg" loaded="loaded" alt="【啊飘】一骑当千" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60471/" target="_blank" class="title" title="【啊飘】一骑当千">【啊飘】一骑当千</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">音乐：梅とら 
+编舞：ATY×それ女</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>23359</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="啊飘">啊飘</a><span class="v-date" title="日期">2017-09-18 15:18:45</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60472/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1601123771.jpg" loaded="loaded" alt="【七岁萝莉】斩服少女 LightYourHeartUp" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60472/" target="_blank" class="title" title="【七岁萝莉】斩服少女 LightYourHeartUp">【七岁萝莉】斩服少女 LightYourHeartUp</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">音乐：梅とら 
+编舞：ATY×それ女</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>24845</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="黑麦克斯">黑麦克斯</a><span class="v-date" title="日期">2017-09-18 15:18:45</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60473/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1609499001.jpg" loaded="loaded" alt="【黑麦克斯】Re：从零开始异世界 ED - STYX HELIX" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60473/" target="_blank" class="title" title="【黑麦克斯】Re：从零开始异世界 ED - STYX HELIX">【黑麦克斯】Re：从零开始异世界 ED - STYX HELIX</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc"> BGM：STYX HELIX</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>23811</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="黑麦克斯">黑麦克斯</a><span class="v-date" title="日期">2017-09-18 15:18:45</span></div>
+                                            </div>
+                                        </div>
+                                    </li>
+</div>
+</div>
+
+<div id="orderHot" style="display: none;">
+<div id="allTag">
+<li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60467/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1719083121.jpg" loaded="loaded" alt="【啊飘】Hysteric Bullet" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60467/" target="_blank" class="title" title="【啊飘】Hysteric Bullet">【啊飘】Hysteric Bullet</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">音乐：maria，
+编舞出处: Miume</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>65721</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="啊飘">啊飘</a><span class="v-date" title="日期">2017-09-18 15:18:45</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60469/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1548492261.jpg" loaded="loaded" alt="【啊飘】令其响彻" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60469/" target="_blank" class="title" title="【啊飘】令其响彻">【啊飘】令其响彻</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">编舞：神沢有紗 
+音乐：reol</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>65258</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="啊飘">啊飘</a><span class="v-date" title="日期">2017-09-18 15:18:45</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60415/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170915/6_1617516752.jpg" loaded="loaded" alt="【阿叶君】恋爱循环之三分钟带你游岳阳" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60415/" target="_blank" class="title" title="【阿叶君】恋爱循环之三分钟带你游岳阳">【阿叶君】恋爱循环之三分钟带你游岳阳</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">叶哥&激萌卡历经九九八十一天的风吹雨打日晒终于产出了这个三分钟25个场景24套衣服的正片！鼓掌！
+此作献给即将去外地工作的自己和已经在外地读书打拼的广大岳阳人民！另外！大岳阳欢</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>48888</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="阿叶君">阿叶君</a><span class="v-date" title="日期">2017-09-15 16:00:07</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60468/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1545308581.jpg" loaded="loaded" alt="【啊飘】恋dance~gakki舞" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60468/" target="_blank" class="title" title="【啊飘】恋dance~gakki舞">【啊飘】恋dance~gakki舞</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">原创词曲：阿良良木健 
+编舞：佳兒将军 
+翻唱：新月冰冰</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>48715</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="啊飘">啊飘</a><span class="v-date" title="日期">2017-09-18 15:18:45</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60367/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2159285821.jpg" loaded="loaded" alt="【PP酱】桃源恋歌 超级粉嫩的PP酱" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60367/" target="_blank" class="title" title="【PP酱】桃源恋歌 超级粉嫩的PP酱">【PP酱】桃源恋歌 超级粉嫩的PP酱</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【PP酱】桃源恋歌 超级粉嫩的PP酱</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>44973</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="PP酱">PP酱</a><span class="v-date" title="日期">2017-09-11 21:56:59</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60366/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2156188451.jpg" loaded="loaded" alt="【撩人女仆】Galaxias-鹿恩馨" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60366/" target="_blank" class="title" title="【撩人女仆】Galaxias-鹿恩馨">【撩人女仆】Galaxias-鹿恩馨</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【撩人女仆】Galaxias-鹿恩馨</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>42137</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="小鹿同学">小鹿同学</a><span class="v-date" title="日期">2017-09-11 21:51:17</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60365/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2150277241.jpg" loaded="loaded" alt="【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60365/" target="_blank" class="title" title="【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）">【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>35665</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="啊飘">啊飘</a><span class="v-date" title="日期">2017-09-11 21:48:27</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60359/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2118253391.jpg" loaded="loaded" alt="【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60359/" target="_blank" class="title" title="【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time">【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>35594</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="PP酱">PP酱</a><span class="v-date" title="日期">2017-09-11 21:15:16</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60352/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/2_1950507001.jpg" loaded="loaded" alt="AKB48-Beginner！纪念神七毕业" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60352/" target="_blank" class="title" title="AKB48-Beginner！纪念神七毕业">AKB48-Beginner！纪念神七毕业</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">AKB48-Beginner！纪念神七毕业</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>35046</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="啊飘">啊飘</a><span class="v-date" title="日期">2017-09-11 19:47:50</span></div>
+                                            </div>
+                                        </div>
+                                    </li><li>
+                                        <div class="l-item">
+                                            <div class="l-l">
+                                                <a href="http://www.dilidili.wang/huiyuan/60361/" target="_blank" class="preview cover-preview"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2126469061.jpg" loaded="loaded" alt="【啊飘】恋爱循环~软萌萝莉一个" style="opacity: 1;">
+                                                </a><a href="http://www.dilidili.wang/huiyuan/60361/" target="_blank" class="title" title="【啊飘】恋爱循环~软萌萝莉一个">【啊飘】恋爱循环~软萌萝莉一个</a></div>
+                                            <div class="l-r">
+                                                <div class="v-desc">【啊飘】恋爱循环~软萌萝莉一个</div>
+                                                <div class="v-info"><span class="v-info-i gk"><i class="b-icon b-icon-v-play" title="观看"></i><span>34921</span></span>
+                                                </div>
+                                                <div class="up-info"><a class="v-author" href="javascript:void(0);" target="_blank" title="啊飘">啊飘</a><span class="v-date" title="日期">2017-09-11 21:24:25</span></div>
+                                            </div>
+                                        </div>
+                                    </li>
+</div>
+</div>
+
+<!--分页-->
+<ul class="pagelistbox">
+<li><a>首页</a></li>
+<li class="thisclass"><a>1</a></li>
+<li><a href='2.html'>2</a></li>
+<li><a href='3.html'>3</a></li>
+<li><a href='2.html'>下一页</a></li>
+<li><a href='3.html'>末页</a></li>
+<li><select name='sldd' style='width:36px' onchange='location.href=this.options[this.selectedIndex].value;'>
+<option value='1.html' selected>1</option>
+<option value='2.html'>2</option>
+<option value='3.html'>3</option>
+</select></li>
+
+</ul>
+
+
+
+                                </ul>
+                                </div>
+                                <!--<div class="pagelistbox">
+                                    <a class="p active">1</a>
+                                    <a class="p" page="2">2</a>
+                                    <a class="p" page="3">3</a>
+                                    <a class="p" page="4">4</a>
+                                    <a class="p" page="5">5</a>
+                                    <a class="p" page="6">6</a>
+                                    <a class="p" page="7">7</a>
+                                    <strong>...</strong>
+                                    <a class="p endPage" page="4546">4546</a>
+                                    <a class="p nextPage" page="2">下一页</a>
+                                    <div class="custom-right"><span class="result custom-right-inner">共 4546 页/ 90920 个 ，跳至</span><input class="b-input custompage custom-right-inner" type="text"><span class="custom-right-inner">页</span></div>
+                                </div>-->
+
+                            </div>
+                        </div>
+                        <!--左-->
+
+                        <!--右-->
+                        <div class="b-page-small b-f-right">
+                            <div class="b-head">
+                                <span class="b-head-t">热门</span>
+                            </div>
+                            <div class="rlist-wrp">
+                                <ul class="rlist loaded">
+
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60467/" title="【啊飘】Hysteric Bullet" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1719083121.jpg" loaded="loaded" alt="【啊飘】Hysteric Bullet" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60467/" title="【啊飘】Hysteric Bullet" target="_blank">
+                                            <div class="title t">【啊飘】Hysteric Bullet</div>
+                                            <div class="i"><b class="pts" title="【啊飘】Hysteric Bullet">点击数：<em>65721</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60469/" title="【啊飘】令其响彻" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1548492261.jpg" loaded="loaded" alt="【啊飘】令其响彻" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60469/" title="【啊飘】令其响彻" target="_blank">
+                                            <div class="title t">【啊飘】令其响彻</div>
+                                            <div class="i"><b class="pts" title="【啊飘】令其响彻">点击数：<em>65258</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60415/" title="【阿叶君】恋爱循环之三分钟带你游岳阳" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170915/6_1617516752.jpg" loaded="loaded" alt="【阿叶君】恋爱循环之三分钟带你游岳阳" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60415/" title="【阿叶君】恋爱循环之三分钟带你游岳阳" target="_blank">
+                                            <div class="title t">【阿叶君】恋爱循环之三分钟带你游岳阳</div>
+                                            <div class="i"><b class="pts" title="【阿叶君】恋爱循环之三分钟带你游岳阳">点击数：<em>48888</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60468/" title="【啊飘】恋dance~gakki舞" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170918/6_1545308581.jpg" loaded="loaded" alt="【啊飘】恋dance~gakki舞" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60468/" title="【啊飘】恋dance~gakki舞" target="_blank">
+                                            <div class="title t">【啊飘】恋dance~gakki舞</div>
+                                            <div class="i"><b class="pts" title="【啊飘】恋dance~gakki舞">点击数：<em>48715</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60367/" title="【PP酱】桃源恋歌 超级粉嫩的PP酱" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2159285821.jpg" loaded="loaded" alt="【PP酱】桃源恋歌 超级粉嫩的PP酱" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60367/" title="【PP酱】桃源恋歌 超级粉嫩的PP酱" target="_blank">
+                                            <div class="title t">【PP酱】桃源恋歌 超级粉嫩的PP酱</div>
+                                            <div class="i"><b class="pts" title="【PP酱】桃源恋歌 超级粉嫩的PP酱">点击数：<em>44973</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60366/" title="【撩人女仆】Galaxias-鹿恩馨" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2156188451.jpg" loaded="loaded" alt="【撩人女仆】Galaxias-鹿恩馨" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60366/" title="【撩人女仆】Galaxias-鹿恩馨" target="_blank">
+                                            <div class="title t">【撩人女仆】Galaxias-鹿恩馨</div>
+                                            <div class="i"><b class="pts" title="【撩人女仆】Galaxias-鹿恩馨">点击数：<em>42137</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60365/" title="【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2150277241.jpg" loaded="loaded" alt="【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60365/" title="【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）" target="_blank">
+                                            <div class="title t">【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）</div>
+                                            <div class="i"><b class="pts" title="【啊飘】妖精的尾巴op15~MASAYUME CHASING（元气少女舞蹈）">点击数：<em>35665</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60359/" title="【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2118253391.jpg" loaded="loaded" alt="【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60359/" title="【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time" target="_blank">
+                                            <div class="title t">【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time</div>
+                                            <div class="i"><b class="pts" title="【全民舞姬挑战赛】【PP酱】茨木薰-猫☆猫★Show time">点击数：<em>35594</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60352/" title="AKB48-Beginner！纪念神七毕业" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/2_1950507001.jpg" loaded="loaded" alt="AKB48-Beginner！纪念神七毕业" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60352/" title="AKB48-Beginner！纪念神七毕业" target="_blank">
+                                            <div class="title t">AKB48-Beginner！纪念神七毕业</div>
+                                            <div class="i"><b class="pts" title="AKB48-Beginner！纪念神七毕业">点击数：<em>35046</em></b></div>
+                                        </a>
+                                    </li>
+<li><i class="number">1</i>
+                                        <div class="preview">
+                                            <a href="http://www.dilidili.wang/huiyuan/60361/" title="【啊飘】恋爱循环~软萌萝莉一个" target="_blank"><img data-img="" src="http://www.dilidili.wang/uploads/allimg/170911/290_2126469061.jpg" loaded="loaded" alt="【啊飘】恋爱循环~软萌萝莉一个" style="opacity: 1;"></a></div>
+                                        <a class="rl-info" href="http://www.dilidili.wang/huiyuan/60361/" title="【啊飘】恋爱循环~软萌萝莉一个" target="_blank">
+                                            <div class="title t">【啊飘】恋爱循环~软萌萝莉一个</div>
+                                            <div class="i"><b class="pts" title="【啊飘】恋爱循环~软萌萝莉一个">点击数：<em>34921</em></b></div>
+                                        </a>
+                                    </li>
+
+<script>
+    $('.rlist li:lt(3)').addClass('on');$('.rlist li:lt(3) .number').addClass('n1');
+    for(var i = 0; i < $('.rlist li').length; i++)
+    {
+	var number = i+1;
+	$('.rlist li').eq(i).find('.number').text(number);
+    }
+</script>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--右-->
+                    </div>
+                </div>
+                <div class="contact">
+                    <p>有好作品的小伙伴可以请投递到邮箱1771312689@qq.com，名称为“投稿-*标题*”，并在邮件内附上自己的简介，还可以加入推广链接，类似于微博或者直播间房间号哦</p>
+                </div>
+            </div>
+
+            <script src="about:blank" type="text/javascript"></script>
+            <script type="text/javascript" src="about:blank"></script>
+        </div>
+
+        <div class="index-nav sub" id="index_nav" style="opacity: 0;">
+            <div class="border"></div>
+            <div class="nav-list">
+                <div class="pointer-block"></div>
+            </div>
+            <div class="n-i gotop sub">
+                <div class="s-line"></div>
+                <div class="btn_gotop" title="返回顶部"></div>
+            </div>
+        </div>
+
+    <div style="display:none;">
+        <script src="http://s95.cnzz.com/stat.php?id=1255455330&web_id=1255455330" language="JavaScript"></script>
+        <script src="http://s11.cnzz.com/stat.php?id=1254760299&web_id=1254760299" language="JavaScript"></script>
+        <script src="http://s11.cnzz.com/stat.php?id=1259276514&web_id=1259276514" language="JavaScript"></script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "//hm.baidu.com/hm.js?ac109a7147396152534f7b6b2bbc507e";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+    </div>
+</body>
+
+</html>

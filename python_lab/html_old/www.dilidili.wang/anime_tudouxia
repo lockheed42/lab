@@ -1,0 +1,749 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+	<head>
+		<meta charset="utf-8">
+		<title>土豆侠-  在线&下载 - 嘀哩嘀哩</title>
+		<meta name="keywords" content="土豆侠全集,土豆侠动画" />
+		<meta name="description" content="蔬菜世界，纷争不断。阿逗是土豆家族的独苗，自幼胆小怕事，优柔寡断，原本因祖上禁令而远离外界是非，却因一次意外出走与传说中的无上神器“麒麟筷”结下不解之缘，并被认定为新一任“筷子英雄”，担负起振兴云山派、消灭魔派通天帮、恢复和平的重任。" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+        <meta name="applicable-device" content="pc,mobile">
+		<script src="http://static.jfrft.com/js/uaredirect.js"></script>
+        <script type="text/javascript">uaredirect("http://m.dilidili.com/anime/tudouxia/");</script>
+        <meta name="mobile-agent" content="format=html5;url=http://m.dilidili.com/anime/tudouxia/"/>
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.com/anime/tudouxia/" >		
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+		<link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+        <script type="text/javascript" src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+        <script type="text/javascript" src="http://usr.005.tv/Style/js/tool.js"></script>
+        <script type="text/javascript" src="http://static.jfrft.com/js/list_ad.js"></script>
+<script>
+	jQuery(function(){
+	new jbCollect('a._collect', '#content1');
+});
+</script>
+        <base target="_blank">
+<style>
+</style>        
+    </head>
+	<body>
+	<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topimg">
+		<div class="w1410">
+			<span class="closed"></span>
+            <div class="weibo3">
+                <div style="float:left;">关注站长</div>
+                <a href="http://weibo.com/u/3390288124" target="_blank" style="float:left;"><img src="http://static.jfrft.com/images/weibo.png"/></a>
+            </div>
+		</div>
+	</div>
+    </a>
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.com/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.com/anime/201607/" target="_blank">七月新番</a>
+                    <div class="xlcd">
+                        <a href="http://www.dilidili.com/anime/201610/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+                <li><a href="http://www.dilidili.com/anime/guoman/" target="_blank">腾讯国漫</a></li>
+                <li><a href="http://www.dilidili.com/anime/youyaoqidm/" target="_blank">有妖气动漫</a></li>
+                <li>
+                    <a href="http://www.dilidili.com/rexue/" target="_blank">热血动漫</a>
+                    <div class="xlcd">
+                        <a href="http://www.dilidili.com/anime/onepiece/" target="_blank">海贼王</a>
+                        <a href="http://www.dilidili.com/anime/gintama/" target="_blank">银魂</a>
+                        <a href="http://www.dilidili.com/anime/naruto/" target="_blank">火影忍者</a>
+                        <a href="http://www.dilidili.com/anime/conan/" target="_blank">柯南</a>
+                        <a href="http://www.dilidili.com/anime/bleach/" target="_blank">境界</a>
+                    </div>
+                </li>
+                <li><a href="http://www.dilidili.com/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+				<li><a href="http://www.dilidili.com/hougong/"  target="_blank">动漫分类</a></li>
+                <li>
+                    <a>更多</a>
+                    <div class="xlcd">
+                        <a href="http://moe.005.tv/" rel="nofollow" target="_blank">换衣服</a>
+                        <a href="http://www.005.tv/" rel="nofollow" target="_blank">看福利</a>
+                        <a href="http://www.xcmh.cc/" rel="nofollow" target="_blank">和谐漫</a>
+                        <a href="http://www.93w.net/" rel="nofollow" target="_blank">喝鸡汤</a>
+                    </div>
+                </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.com/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.com">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<script language="javascript" src="http://usr.005.tv/Common/header3.html"></script>
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/templets/default/images/slogo.png">
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+					
+                <div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.com/'>嘀哩嘀哩</a> > <a href=''>土豆侠第一季</a></div>
+                <div class="aside_cen2">                    
+                    <div class="detail con24 clear">
+                        <dl>
+                            <dt><img src="http://static.jfrft.com/uploads/allimg/160413/1_0428012051.jpg"/></dt>
+                            <dd>
+                                <h1>土豆侠</h1><div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="土豆侠" data-url="http://www.dilidili.com/anime/tudouxia/" data-icon="http://static.jfrft.com/uploads/allimg/160413/1_0428012051.jpg"><span>收藏</span></a></div><br/>
+								<span class="play_cs">播放次数:<script src="http://www.dilidili.com/plus/countlist.php?view=yes&aid=1562&mid=" type='text/javascript' language="javascript"></script></span>
+                                <p><div class="d_label"><b>地区：</b><a href="/guoyu/" title="日本动漫">中国</a></div><div class="d_label"><b>年代：</b>2011年</div></p>
+                                <p><div class="d_label"><b>标签：</b>国产/搞笑/冒险</div><div class="d_label"><b>状态：</b>完结</div></p>
+								<p><div class="d_label2"><b>看点：</b>各种好吃的。。。</div></p>
+                                <p><div class="d_label2"><b>简介：</b>蔬菜世界，纷争不断。阿逗是土豆家族的独苗，自幼胆小怕事，优柔寡断，原本因祖上禁令而远离外界是非，却因一次意外出走与传说中的无上神器“麒麟筷”结下不解之缘，并被认定为新一任“筷子英雄”，担负起振兴云山派、消灭魔派通天帮、恢复和平的重任。</div></p>
+                                <p><div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://weibo.com/u/5337098143/" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('土豆侠','','','http://www.dilidili.com/anime/tudouxia/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div></p>
+                                <p>
+                                <div class="button_bar">
+                                    <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a>							
+																							
+                                    <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+                                </div>
+                                </p>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="con24 m-10 xf_news">
+                        <div class="stitle">
+                        	<span class="pk_time">
+                                <a herf="javascript:;" class="current">在线</a>
+                                <a herf="javascript:;">下载</a>
+                                <a herf="javascript:;" class="pk_time_right">分集剧情</a>
+								          <a herf="javascript:;" class="pk_time_right">演职员表</a>
+								<h2><a href="/anime/tudouxia2/">第2季</a></h2>
+                            </span>
+                        </div>
+                        <div class="time_pic list">
+                            <div class="time_con">
+                                <div class="swiper-container xfswiper1">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                             <ul class="clear">
+											  <li><a href="http://www.dilidili.com/watch3/31875/" target="_self"><em><span>第1话</span>土豆侠 第1话</em></a></li><li><a href="http://www.dilidili.com/watch3/31876/" target="_self"><em><span>第2话</span>土豆侠 第2话</em></a></li><li><a href="http://www.dilidili.com/watch3/31877/" target="_self"><em><span>第3话</span>土豆侠 第3话</em></a></li><li><a href="http://www.dilidili.com/watch3/31878/" target="_self"><em><span>第4话</span>土豆侠 第4话</em></a></li><li><a href="http://www.dilidili.com/watch3/31879/" target="_self"><em><span>第5话</span>土豆侠 第5话</em></a></li><li><a href="http://www.dilidili.com/watch3/31880/" target="_self"><em><span>第6话</span>土豆侠 第6话</em></a></li><li><a href="http://www.dilidili.com/watch3/31881/" target="_self"><em><span>第7话</span>土豆侠 第7话</em></a></li><li><a href="http://www.dilidili.com/watch3/31882/" target="_self"><em><span>第8话</span>土豆侠 第8话</em></a></li><li><a href="http://www.dilidili.com/watch3/31883/" target="_self"><em><span>第9话</span>土豆侠 第9话</em></a></li><li><a href="http://www.dilidili.com/watch3/31884/" target="_self"><em><span>第10话</span>土豆侠 第10话</em></a></li><li><a href="http://www.dilidili.com/watch3/31885/" target="_self"><em><span>第11话</span>土豆侠 第11话</em></a></li><li><a href="http://www.dilidili.com/watch3/31886/" target="_self"><em><span>第12话</span>土豆侠 第12话</em></a></li><li><a href="http://www.dilidili.com/watch3/31887/" target="_self"><em><span>第13话</span>土豆侠 第13话</em></a></li><li><a href="http://www.dilidili.com/watch3/31888/" target="_self"><em><span>第14话</span>土豆侠 第14话</em></a></li><li><a href="http://www.dilidili.com/watch3/31889/" target="_self"><em><span>第15话</span>土豆侠 第15话</em></a></li><li><a href="http://www.dilidili.com/watch3/31890/" target="_self"><em><span>第16话</span>土豆侠 第16话</em></a></li><li><a href="http://www.dilidili.com/watch3/31891/" target="_self"><em><span>第17话</span>土豆侠 第17话</em></a></li><li><a href="http://www.dilidili.com/watch3/31892/" target="_self"><em><span>第18话</span>土豆侠 第18话</em></a></li><li><a href="http://www.dilidili.com/watch3/31893/" target="_self"><em><span>第19话</span>土豆侠 第19话</em></a></li><li><a href="http://www.dilidili.com/watch3/31894/" target="_self"><em><span>第20话</span>土豆侠 第20话</em></a></li><li><a href="http://www.dilidili.com/watch3/31895/" target="_self"><em><span>第21话</span>土豆侠 第21话</em></a></li><li><a href="http://www.dilidili.com/watch3/31896/" target="_self"><em><span>第22话</span>土豆侠 第22话</em></a></li><li><a href="http://www.dilidili.com/watch3/31897/" target="_self"><em><span>第23话</span>土豆侠 第23话</em></a></li><li><a href="http://www.dilidili.com/watch3/31898/" target="_self"><em><span>第24话</span>土豆侠 第24话</em></a></li><li><a href="http://www.dilidili.com/watch3/31899/" target="_self"><em><span>第25话</span>土豆侠 第25话</em></a></li><li><a href="http://www.dilidili.com/watch3/31900/" target="_self"><em><span>第26话</span>土豆侠 第26话</em></a></li>	 
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            	<div class="playjs swiper-pagination"></div>
+                            </div>
+                            <div class="time_con">
+								<p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+                                <div class="swiper-container xfswiper3">
+							<ul class="clear">
+                                    <li class="list_xz">
+                                        不支持下载
+									<li>
+                                 </ul>
+                                </div>
+                            </div>
+							<div class="time_con">
+                                <div class="swiper-container swiper4">
+                                    <div class="swiper-wrapper mb20">
+                                        <div class="swiper-slide">
+                                            <ul>
+                                                <li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31875/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第1话</span>土豆侠 第1话<br/>邪恶的通天帮为了一统江湖，四处寻找筷子英雄的神器麒麟筷。麒麟筷的守护者老姜，在逃亡中偶遇初次离家的土豆阿逗。没想到阿逗被麒麟筷认作主人，于是老姜任命阿逗为新一代筷子英雄，</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31876/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第2话</span>土豆侠 第2话<br/>阿逗并不想当筷子英雄，老姜努力劝说他。就在此时，通天帮的人找到了他们。老姜为了保护麒麟筷掉入水沟，愤怒至极的阿逗爆发出强大的力量。麒麟筷被阿逗的力量吸引，化身利刃帮他击退</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31877/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第3话</span>土豆侠 第3话<br/>阿逗在老姜的指引下，前往姜无牙所在的七号厨房。得知麒麟筷未能到手，通天帮老大派手下跟踪围堵阿逗。阿逗寡不敌众，危急时刻云山派弟子小晴使用兰花扇出手相助，并称阿逗也是云山派</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31878/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第4话</span>土豆侠 第4话<br/>阿逗和小晴被通天帮一伙发现，为了保护阿逗，小晴拖住敌人孤军奋战。被机关困住的小晴无法逃脱，关键时刻阿逗用棋局中的策略，紧靠自己一人就打败了通天帮一伙。面对阿逗的勇气，小晴</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31879/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第5话</span>土豆侠 第5话<br/>在小晴的带领下，阿逗终于来到传说中的七号厨房，见到了燕十三和姜无牙。没想到姜无牙竟然是云山派的长老，姜无牙和燕十三对于阿逗成为新一代筷子英雄的事抱有怀疑，此时茄子帮为了报</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31880/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第6话</span>土豆侠 第6话<br/>茄子帮本想用炸弹吓唬阿逗一伙，却不小心点着了厨房。危急时刻，阿逗舍身扑灭大火，众人才免于一难。燕十三被阿逗的行为感动，破例允许他和小晴留在七号厨房。而发生的一切，似乎都在</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31881/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第7话</span>土豆侠 第7话<br/>南宫堂主命通天帮一伙深夜偷袭七号厨房，通天帮拐走了蒜子，晴子和燕十三前去救援。中了调虎离山计的阿逗和姜无牙被南宫堂主带人包围，在另一边的晴子和燕十三也被陷阱困住，一切都只</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31882/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第8话</span>土豆侠 第8话<br/>麒麟筷凭借自身的强大力量，从南宫堂主手中逃脱。而在上次的一战中，阿逗发现了克服内心恐惧的方法，只要蒙上眼睛，他便可以使出功夫。就在阿逗练武时，厨房里突然发生了怪事，看不到</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31883/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第9话</span>土豆侠 第9话<br/>燕十三误会了阿逗，两人大打出手。厨房里的盘子竟凭空飞了起来，这让他们俩手足无措。姜无牙从文献中得知麒麟筷里封印着一个恶魔，而此事正是麒麟筷在搞鬼。就在大家犯难时，麒麟筷里</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31884/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第10话</span>土豆侠 第10话<br/>千年老参决定亲自教授阿逗武功，条件是要阿逗拜他为师。不死心的茄子帮再次挑战七号厨房，实力大增的阿逗用一根棍子就解决了他们。这次的对战让阿逗下定了决心，他拜千年老参为师，踏</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31885/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第11话</span>土豆侠 第11话<br/>为了让阿逗克服恐惧功夫的毛病，千年老参特意给他准备了一顶能遮住眼睛的斗笠。通天帮帮主下令，急招二十四堂主回总舵。阿逗的功夫特训开始，千年老参让他呆在冰箱24小时不许出来，阿</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31886/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第12话</span>土豆侠 第12话<br/>通天帮帮主命堂主们围攻七号厨房，务必把麒麟筷抢到手。阿逗在千年老参的指点下，开始苦练麒麟棍法。在另一边，通天帮的卧底老姜将明日进攻之事告诉了小晴，并让小晴想办法让阿逗一个</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31887/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第13话</span>土豆侠 第13话<br/>阿逗只身对敌，巧妙应战，在通天帮堂主们的轮番攻击下仍游刃有余。此时，之前与阿逗下过棋的神秘人出现，此人竟然是通天帮的堂主。神秘人与阿逗展开对决，最终输给了阿逗，围剿七号厨</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31888/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第14话</span>土豆侠 第14话<br/>阿逗发现了燕十三的宝贝，一个瓷盒子。阿逗对这个盒子十分好奇，却在与燕十三争抢时失手将盒子打碎了，这让燕十三愤怒至极，两人扭打在一起。原来今天是燕十三好友的忌日，而燕十三本</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31889/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第15话</span>土豆侠 第15话<br/>燕十三躲到屋顶一个人吹风，深感愧疚的阿逗想安慰燕十三，却不知道怎么做。燕十三回忆起与好友的点滴，此时它的师兄十九受伤倒在七号厨房前。十九带来消息，千面神和通天帮将要血洗七</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31890/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第16话</span>土豆侠 第16话<br/>千年老参发现七号厨房潜入坏人，于是故意和阿逗外出好引蛇出洞。随后，一个和阿逗长的一模一样的土豆现身，四处寻找着麒麟筷。假阿逗无意间闯入了姜无牙的实验室，姜无牙发现了假土豆</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31891/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第17话</span>土豆侠 第17话<br/>千面神和南宫堂主联手突袭七号厨房，与阿逗和燕十三展开激战。阿逗被变化成燕十三模样的千面神所伤，这让燕十三更加愤怒。无法分辨出千面神的阿逗和燕十三陷入危机，麒麟筷被南宫堂主</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31892/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第18话</span>土豆侠 第18话<br/>阿逗打败了千面神，燕十三最终也放下了对千面神的仇恨。经过这一战，土豆侠的名号越发响亮。千年老参决定把麒麟筷的最终奥义传授给阿逗，但阿逗无法参透其中的奥秘。阿逗披上掌门披风</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31893/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第19话</span>土豆侠 第19话<br/>阿逗被千年灵芝打败命悬一线，此时一直跟着阿逗的神秘人“姜堂主”出手救了阿逗。没想到姜堂主竟然是云山派掌门老姜，而阿逗经历的一切全是老姜一手策划的，这让阿逗难以接受。千年老</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31894/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第20话</span>土豆侠 第20话<br/>千年老参帮阿逗他们争取了逃走的时间，可在逃亡中小晴不慎跌落生死不明。七号厨房在战斗中被彻底毁坏，愤怒的姜无牙认为这一切都是老姜造成的。在另一边，燕十三只身前往通天帮，而阿</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31895/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第21话</span>土豆侠 第21话<br/>通天帮正在悬赏捉拿阿逗，此时心灰意冷的阿逗被茄子帮发现。为了拿到悬赏，茄子帮带着阿逗上路。老姜和姜无牙四处寻找阿逗，但阿逗不愿见到他们。千年灵芝为了引出阿逗，故意放出十天</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31896/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第22话</span>土豆侠 第22话<br/>阿逗一直无法振作，这让想招揽他的茄子帮犯了难。茄子帮得到消息，十天后通天帮将要处决小晴，听闻此事的阿逗十分震惊。此时，老姜和姜无牙找到了他，而一直躲在暗处的南宫终于出手了</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31897/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第23话</span>土豆侠 第23话<br/>阿逗遭到南宫的致命一击，昏迷中阿逗见到了千年老参，终于明白了自己的心意。振作起来的他召唤出麒麟筷，击退了南宫一伙。阿逗等人在茄子帮的掩护下，潜入通天帮想要救出小晴，却中了</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31898/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第24话</span>土豆侠 第24话<br/>阿逗等人被关在笼子里，千年灵芝命手下用箭射死他们。一直潜伏在通天帮的燕十三和千面神帮他们解除了危机，但小晴仍被关押在牢里。救人心切的阿逗和千年灵芝对峙，此时突然爆发了山洪</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31899/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第25话</span>土豆侠 第25话<br/>阿逗为救小晴，被千年灵芝打入山崖中，其他人遭到通天帮包围。昏迷中的阿逗终于领会了“侠之筷”的最终奥义，在伙伴们命悬一线的危急关头出手相助。千年灵芝被阿逗彻底激怒，两人展开</div>
+                                                    </a>
+                                                </li><li class="fj_li">
+                                                	<a href="http://www.dilidili.com/watch3/31900/" target="_blank" target="_self">
+                                                    	<img src="http://static.jfrft.com/uploads/201604/1-160413043220293.jpg"/>
+                                                    	<div class="fjjq"><span>第26话</span>土豆侠 第26话<br/>阿逗与千年灵芝一同掉入悬崖，没有了帮主的通天帮宣布解散。就在众人为阿逗的离去而伤心时，阿逗活着回来了，没想到竟是千年灵芝在临死前救了他。一场江湖风波终于落下帷幕，阿逗与姜</div>
+                                                    </a>
+                                                </li>
+                                            </ul>
+										</div>
+                                    </div>
+                                </div>
+                                <div class="swiper-button-next swiper-button-next4"></div>
+                                <div class="swiper-button-prev swiper-button-prev4"></div>
+                            </div>	
+                          <div class="time_con">
+                            	<div class="stafflist">
+                                    <div class="staff">
+									
+                                    </div>
+                                    <div class="cast">
+									
+                                    </div>
+                                </div>
+                        </div>	
+                        </div>
+                    </div><!--tab slider end-->                       
+                    <div class="adv banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+                    <div class="con24">
+                        <div class="stitle">
+                            <h3>相关推荐</h3>
+                            <span class="s_f">
+							<a href="/anime/chaaerzhong">茶啊二中</a><a href="/anime/mengliren">梦里人</a><a href="/anime/jhxdysm/">菊花笑典之有神么</a><a href="/anime/weiqishaonian">围棋少年</a><a href="/anime/qihuanlongbao">奇幻龙宝</a>
+                            </span>
+                        </div>
+						 <div class="swiper-container swiper3">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <ul class="m_pic clear">
+										<li><a href="/anime/dedtt1"><img src="http://static.jfrft.com/uploads/allimg/160426/6_1438014431.jpg"/><p>大耳朵图图</p><div class="fc_m"><strong>大耳朵图图</strong></div></a></li><li><a href="/anime/sqxfx"><img src="http://static.jfrft.com/uploads/allimg/160425/6_1551255851.jpg"/><p>三七小福星 第二部</p><div class="fc_m"><strong>三七小福星 第二部</strong></div></a></li><li><a href="/anime/xrydmw"><img src="http://static.jfrft.com/uploads/allimg/160418/6_1023391511.jpg"/><p>小瑞与大魔王</p><div class="fc_m"><strong>小瑞与大魔王</strong></div></a></li><li><a href="/anime/aspire-figures"><img src="http://static.jfrft.com/images/cover/14547.jpg"/><p>雏蜂 B·E·E</p><div class="fc_m"><strong>雏蜂 B·E·E</strong></div></a></li><li><a href="/anime/cmsn"><img src="http://static.jfrft.com/uploads/allimg/160510/6_1139475251.jpg"/><p>吃谜少女</p><div class="fc_m"><strong>吃谜少女</strong></div></a></li><li><a href="/anime/operacats"><img src="http://static.jfrft.com/uploads/201602/1-16021914060M04.jpg"/><p>京剧猫</p><div class="fc_m"><strong>京剧猫</strong></div></a></li><li><a href="/anime/qsmyksny"><img src="http://static.jfrft.com/uploads/allimg/160412/1_1716053891.jpg"/><p>秦时明月之空山鸟语</p><div class="fc_m"><strong>秦时明月之空山鸟语</strong></div></a></li><li><a href="/anime/chaaerzhong"><img src="http://static.jfrft.com/uploads/allimg/160503/1_0055172501.jpg"/><p>茶啊二中</p><div class="fc_m"><strong>茶啊二中</strong></div></a></li><li><a href="/anime/nienie"><img src="http://static.jfrft.com/uploads/allimg/201601/1-16012Z13R60-L.jpg"/><p>捏捏大爆炸</p><div class="fc_m"><strong>捏捏大爆炸</strong></div></a></li><li><a href="/anime/mohuanxz"><img src="http://static.jfrft.com/uploads/allimg/160422/6_1001249521.jpg"/><p>魔幻仙踪</p><div class="fc_m"><strong>魔幻仙踪</strong></div></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="swiper-button-next swiper-button-next3"></div>
+                            <div class="swiper-button-prev swiper-button-prev3"></div>
+                        </div>
+                    </div>
+<script src="http://static.jfrft.com/templets/default/js/swiper.min.js"></script>
+<script>	
+jQuery(".playjs").hide();
+	function changeSwiper1(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+//		alert(arrlen);
+        var len = 0;		
+        if (_is) {
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+				}else{
+					len = parseInt(arrlen / 2);
+					}
+				} else {
+					if(arrlen % 20 >0){
+						len = parseInt(arrlen / 20)+1;
+						}else{
+							len = parseInt(arrlen / 20);
+						}
+					}
+			if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+    changeSwiper1('.xfswiper0');
+	changeSwiper1('.xfswiper1');
+	changeSwiper1('.xfswiper2');
+	changeSwiper1('.xfswiper3');
+	changeSwiper1('.xfswiper4');
+	changeSwiper1('.xfswiper5');
+	changeSwiper1('.xfswiper6');
+    changeSwiper('.swiper3');
+    changeSwiper('.swiper5');
+    changeSwiper('.swiper6');
+	changeSwiper('.swiper7');
+	changeSwiper2('.swiper4');
+    jQuery(window).resize(function () {
+		changeSwiper1('.xfswiper0');
+		changeSwiper1('.xfswiper1');
+		changeSwiper1('.xfswiper2');
+		changeSwiper1('.xfswiper3');
+		changeSwiper1('.xfswiper4');
+		changeSwiper1('.xfswiper5');
+		changeSwiper1('.xfswiper6');
+        changeSwiper('.swiper3');
+        changeSwiper('.swiper5');
+        changeSwiper('.swiper6');
+		changeSwiper('.swiper7');
+		changeSwiper2('.swiper4');
+    });
+var swiper1 = new Swiper('.xfswiper1', {
+	nextButton: '.xfswiper-button-next1',
+	prevButton: '.xfswiper-button-prev1',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper2', {
+	nextButton: '.xfswiper-button-next2',
+	prevButton: '.xfswiper-button-prev2',
+	spaceBetween: 30
+});
+var swiper2 = new Swiper('.xfswiper3', {
+	nextButton: '.xfswiper-button-next3',
+	prevButton: '.xfswiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper3 = new Swiper('.swiper3', {
+	nextButton: '.swiper-button-next3',
+	prevButton: '.swiper-button-prev3',
+	spaceBetween: 30
+});
+var swiper4 = new Swiper('.swiper4', {
+	nextButton: '.swiper-button-next4',
+	prevButton: '.swiper-button-prev4',
+	spaceBetween: 30
+});
+var swiper5 = new Swiper('.swiper5', {
+	nextButton: '.swiper-button-next5',
+	prevButton: '.swiper-button-prev5',
+	spaceBetween: 30
+});
+var swiper6 = new Swiper('.swiper6', {
+	nextButton: '.swiper-button-next6',
+	prevButton: '.swiper-button-prev6',
+	spaceBetween: 30
+});
+var swiper7 = new Swiper('.swiper7', {
+	nextButton: '.swiper-button-next7',
+	prevButton: '.swiper-button-prev7',
+	spaceBetween: 30
+});
+    var week = new Date();
+    jQuery(".xf_news .pk_time a").removeClass("current");
+    jQuery(".xf_news .time_pic .time_con").hide();
+    if (week != 0) {
+        jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+        jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+        new Swiper(".xfswiper"+(0), {
+            nextButton: '.xfswiper-button-next'+(0),
+            prevButton: '.xfswiper-button-prev'+(0),
+            spaceBetween: 30
+        });
+    }
+    jQuery(".xf_news .pk_time a").each(function(index){
+        jQuery(this).click(function(){
+            jQuery(".xf_news .pk_time a").removeClass("current");
+            jQuery(this).addClass("current");
+            jQuery(".xf_news .time_pic .time_con").hide();
+            jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+            new Swiper(".xfswiper"+index, {
+                nextButton: '.xfswiper-button-next'+index,
+                prevButton: '.xfswiper-button-prev'+index,
+                spaceBetween: 30
+            });
+			jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+        });
+    });
+var swiper = new Swiper('.xfswiper1', {
+	pagination: '.swiper-pagination',
+	paginationClickable: true,
+	paginationBulletRender: function (index, className) {
+		return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+	}
+});
+var mySwiper1 = new Swiper('.swiper1',{
+	pagination: '.pagination1',
+	paginationClickable: true,
+	moveStartThreshold: 100,
+	autoplay:4000
+});
+var mySwiper2 = new Swiper('.swiper2',{
+	pagination: '.pagination2',
+	paginationClickable: true,
+	moveStartThreshold: 100
+});
+  var webWidth = 736;
+    function changeSwiper(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 5 >0){
+				len = parseInt(arrlen / 5)+1;
+			}else{
+				len = parseInt(arrlen / 5);
+			}
+        }		
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+    function changeSwiper2(obj) {
+        var _width = jQuery(window).width();
+        var _is = _width <= webWidth;
+        var _this = jQuery(obj);
+        var arr = new Array();
+        var ahtml = '';
+        _this.find('li').each(function (e) {
+            arr[e] = jQuery(this).html();
+        });
+        var arrlen = arr.length;
+        var len = 0;
+        if (_is) {
+            //len = arrlen / 2 + arrlen % 2;
+			if(arrlen % 2>0){
+				len = parseInt(arrlen / 2)+1;
+			}else{
+				len = parseInt(arrlen / 2);
+			}
+        } else {
+            //len = arrlen / 5 + arrlen % 5;
+			if(arrlen % 8 >0){
+				len = parseInt(arrlen / 8)+1;
+			}else{
+				len = parseInt(arrlen / 8);
+			}
+        }		
+        var j = 0;
+        for (var i = 0; i < len; i++) {
+            var ihtml = '';
+            if (_is) {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            } else {
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+            }
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+            j++;
+        }
+        _this.find('.swiper-wrapper').html(ahtml);
+    }
+jQuery(function() {
+	jQuery(".closed").click(
+	  function(){
+		  jQuery(".topimg").slideUp();
+	});
+	// 收缩展开效果
+	   jQuery(".adminico").click(function(){
+		 jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   },function(){
+		jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+		   });
+	jQuery(".a_open").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").slideDown(500);
+		  jQuery(".fc_black").show();
+		  jQuery(".a_closed").show();
+	});
+	jQuery(".a_closed").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+	});
+	jQuery(".fc_black").click(
+	  function(){
+		  jQuery(this).hide();
+		  jQuery(".aside_lef").hide();
+		  jQuery(".fc_black").hide();
+		  jQuery(".a_open").show();
+		  jQuery(".a_closed").hide();
+	});
+	jQuery(".rm_pank .pk_year a").each(function(index){
+	   jQuery(this).mouseover(
+		  function(){
+			  jQuery(".rm_pank .pk_year a").removeClass("current");
+			  jQuery(this).addClass("current");
+			  jQuery(".rm_pank .rm_main .rm_con").hide();
+			  jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+	  })
+	});
+	var headHeight=$(".head_top").height();
+	var nav=$("#navf");
+	$(window).scroll(function(){
+		if($(this).scrollTop()>headHeight){
+			nav.addClass("navFix");
+		}
+		else{
+			nav.removeClass("navFix");
+		}
+	})
+	var headHeight2=$(".topimg").height();
+	var nav2=jQuery("#topnavf");
+    jQuery(window).scroll(function(){
+		if($(this).scrollTop()>headHeight2){
+			nav2.addClass("topnavFix");
+		}
+		else{
+			nav2.removeClass("topnavFix");
+		}
+	});
+});
+</script>
+                    <div class="adv banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+                    <div class="con24">
+                        <div class="stitle">
+                            <h3>评论</h3>
+                            <span class="s_f">
+                                <a href="http://bbs.005.tv">D站论坛</a>
+                                <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a>
+                            </span>
+<a href="" id="login_1_2" style="float:right;" target="_self">评论前请先登录或注册</a>
+                        </div>		
+                        <div style="margin:20px 0; text-align:center;">
+                            <!-- UY BEGIN -->
+                            <div id="uyan_frame"></div>
+                            <div id="SOHUCS" sid="www_dilidili_com_t1562"></div> 
+                            <script>
+                                document.write("<link rel=\"stylesheet\" href=\"http://usr.005.tv/Style/css/cy.css\"\/>");
+                            </script>
+                            <script type="text/javascript"> (function(){ var appid = 'cyrWI9WPo'; var conf = 'eea24c2162fe79b36d73e420792de754'; var width = window.innerWidth || document.documentElement.clientWidth; if (width < 960) { window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>'); } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("http://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
+                            <!-- UY END -->
+                        </div>
+                    </div>
+                </div>
+                <div class="adv2 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script>
+				<script type="text/javascript" src="http://static.jfrft.com/templets/default/zuixingengxin2.htm"></script>
+                <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+            </div>
+			<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.com/a/">A</a></li>
+            	<li><a href="http://www.dilidili.com/b/">B</a></li>
+            	<li><a href="http://www.dilidili.com/c/">C</a></li>
+            	<li><a href="http://www.dilidili.com/d/">D</a></li>
+            	<li><a href="http://www.dilidili.com/e/">E</a></li>
+            	<li><a href="http://www.dilidili.com/f/">F</a></li>
+            	<li><a href="http://www.dilidili.com/g/">G</a></li>
+            	<li><a href="http://www.dilidili.com/h/">H</a></li>
+            	<li><a href="http://www.dilidili.com/i/">I</a></li>
+            	<li><a href="http://www.dilidili.com/j/">J</a></li>
+            	<li><a href="http://www.dilidili.com/k/">K</a></li>
+            	<li><a href="http://www.dilidili.com/l/">L</a></li>
+            	<li><a href="http://www.dilidili.com/m/">M</a></li>
+            	<li><a href="http://www.dilidili.com/n/">N</a></li>
+            	<li><a href="http://www.dilidili.com/o/">O</a></li>
+            	<li><a href="http://www.dilidili.com/p/">P</a></li>
+            	<li><a href="http://www.dilidili.com/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.com/r/">R</a></li>
+            	<li><a href="http://www.dilidili.com/s/">S</a></li>
+            	<li><a href="http://www.dilidili.com/t/">T</a></li>
+            	<li><a href="http://www.dilidili.com/u/">U</a></li>
+            	<li><a href="http://www.dilidili.com/v/">V</a></li>
+            	<li><a href="http://www.dilidili.com/w/">W</a></li>
+            	<li><a href="http://www.dilidili.com/x/">X</a></li>
+            	<li><a href="http://www.dilidili.com/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.com/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.com/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2016 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://www.dilidili.com/js/tongji.js"></script>
+		
+</center>				
+		</div>
+        <div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/js/w234.js"></script>
+<script>
+	var hre=window.encodeURIComponent(window.location.href);
+	var ahre="http://usr.005.tv?refurl="+hre;
+	$("#login_1_2").attr("href",ahre); 
+</script>
+	</body>
+</html>

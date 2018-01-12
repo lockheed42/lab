@@ -1,0 +1,1629 @@
+<!doctype html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+<meta charset="utf-8">
+<title>噬魂师-  在线&下载 - 嘀哩嘀哩</title>
+<meta name="keywords" content="噬魂师" />
+<meta name="description" content="故事以“镰职人”摩诃与“魔镰”SOUL EATER噬魂，为主线展开，而其馀各主角总共分为三组。分别是暗器职人——BLACK☆STAR、魔暗器——中务椿，和死神之子，DEATH．THE．KID，魔枪——汤普森姐妹。" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0 ,user-scalable=no">
+<meta name="applicable-device" content="pc,mobile">
+<link rel="canonical" href="http://www.dilidili.wang/anime/souleater/"/>
+<script src="http://static.jfrft.com/js/uaredirect.js" type="text/javascript"></script>
+<script type="text/javascript">uaredirect("http://m.dilidili.wang/anime/souleater/");</script>
+<meta name="mobile-agent" content="format=html5;url=http://m.dilidili.wang/anime/souleater/"/>
+<link rel="canonical" href="http://www.dilidili.wang/anime/souleater/"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.dilidili.wang/anime/souleater/" >
+<link rel="stylesheet" href="http://static.jfrft.com/muban/css/master.css" />
+<link rel="stylesheet" href="http://static.jfrft.com/muban/css/swiper.min.css">
+<script src="http://static.jfrft.com/muban/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/js/tab.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/js/public.js"></script>
+<script src="http://usr.005.tv/Style/js/tool.js"></script>
+<script type="text/javascript" src="http://static.jfrft.com/js/main_list.js"></script>
+<script>
+	jQuery(function(){
+	new jbCollect('a._collect', '#content1');
+});
+</script>
+<base target="_blank">
+<style></style>
+</head>
+
+<body>
+<link href="http://static.jfrft.com/css/hjj2.css" rel="stylesheet" type="text/css" media="screen">
+<script src="http://static.jfrft.com/js/history.js"></script>
+<div class="head_top">
+	<div class="topnav clear" id="topnavf">
+		<div class="w1410">
+			<ul class="nav_lef fl">
+				<li><a href="http://www.dilidili.wang/" target="_blank">首页</a></li>
+                <li>
+					<a href="http://www.dilidili.wang/anime/201801/" target="_blank">一月新番</a>
+                    <div class="xlcd">
+ 	                               <a href="http://www.dilidili.wang/anime/201710/" target="_blank">十月新番</a>
+                    </div>
+                </li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">热血动漫</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/onepiece/" target="_blank">海贼王</a> <a href="http://www.dilidili.wang/anime/gintama/" target="_blank">银魂</a> <a href="http://www.dilidili.wang/anime/naruto/" target="_blank">火影忍者</a> <a href="http://www.dilidili.wang/anime/conan/" target="_blank">柯南</a> <a href="http://www.dilidili.wang/anime/bleach/" target="_blank">境界</a> <a href="http://www.dilidili.wang/anime/fairytail/" target="_blank">妖精的尾巴</a> </div>
+        </li>
+        <li><a href="http://www.dilidili.wang/anime/zhanzhang/"  target="_blank">站长推荐</a></li>
+        <li><a href="http://www.dilidili.wang/hougong/"  target="_blank">动漫分类</a></li>
+        <li><a href="http://www.dilidili.wang/jcdh/" target="_blank">剧场动漫</a></li>
+        <li> <a href="http://www.dilidili.wang/rexue/" target="_blank">动漫专栏</a>
+          <div class="xlcd"> <a href="http://www.dilidili.wang/anime/guoman/" target="_blank">腾讯国漫</a> <a href="http://www.dilidili.wang/anime/youyaoqidm/" target="_blank">有妖气动漫</a><a href="http://www.dilidili.wang/anime/hjhzt/" target="_blank">若森画江湖</a></div>
+        </li>
+			</ul>
+			<ul>
+                <li class="history" onmouseout="hideTop();" onMouseOver="showTop(0);" id="Tab_top_0"><a href="javascript:void(0)"><font color="red"><b>播放记录</b></font></a>
+                    <div class="nav_nav historys" onmouseout="hideTop();" onmouseover="showTop(0);" id="List_top_0" style="display:none;">
+                        <div class="vlist">
+                        <ul id="playhistory" class="item">
+                            <li>您的观看历史为空</li>
+                        </ul>
+                        <script>PlayHistoryObj.viewPlayHistory('playhistory')</script>
+                        <div class="vinfo"> <span class="count"><a title="清空观看记录" onclick="javascript:_GC()" href="javascript:void(0)">清空观看记录</a></span> <span class="close"><a onclick="hideTop();" class="red" title="关闭" href="javascript:void(0)">关闭</a></span> </div>
+                        </div>
+                    </div>
+                </li>
+			</ul>
+			<script>
+            $(".nav_lef li>a").hover(
+                function() {
+                    var l = $(this).parents("li").offset().left - $(".nav_lef").offset().left - 750;
+                    $(".nav_nav").hide();
+                    $(this).siblings(".nav_nav").css("left", l).animate({
+                        opacity: "toggle",
+                        height: "toggle"
+                        }, 300);
+                    },
+                    function() {}
+                )
+                $(".nav_nav").hover(function() {}, function() {
+                $(this).hide()
+                });
+            </script>
+                    
+			<div class="fr search_box2">
+				<form name="formsearch" action="http://www.dilidili.wang/search/index.html" target="_blank">
+					<input name="kwtype" class="s_inp" type="hidden" value="0">
+					<input name="q" class="text fl s_inp" id="search-keyword" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" type="text" value="搜索感兴趣的动漫">
+					<button name="button" class="s_mit" id="button" type="submit" value="搜索"></button>
+					<input name="ie" type="hidden" value="utf8">
+					<input name="src" type="hidden" value="zz">
+					<input name="site" type="hidden" value="www.dilidili.wang">
+					<input name="rg" type="hidden" value="1">
+				</form>
+			</div>
+		<ul id="div0"><li><a  href="http://usr.005.tv/" target="_blank">个人中心</a><div class="xlcd"><a href="http://usr.005.tv/User/register.html" target="_blank">注册</a><a id="login_1_1" href="http://usr.005.tv?refurl=" target="_blank">登录</a></div></li></ul>
+		<a  href="http://usr.005.tv/" target="_blank"><ul id="div1"></ul></a>
+
+
+
+		</div>
+	</div>
+</div>
+        <div class="small_logo">
+			<img src="http://static.jfrft.com/images/slogo.png"/>
+			<div class="adminico"></div>
+			<div class="adminmenu" style="display:none;">
+				<a href="#">用户中心</a>
+				<a href="#">关注动态</a>
+				<a href="#">我的群组</a>
+				<a href="#">个人空间</a>
+				<a href="#">网站地图</a>
+			</div>
+		</div>
+<div class="container clear">
+<div class="clear">
+<div class="aside_lef" id="navf" style="display:none;">
+	<h1 class="logo"><a href="">嘀哩嘀哩</a></h1>
+	<div class="search_box">  
+		<form name="formsearch" action="http://www.so.com/s" target="_blank">
+			<input type="hidden" name="kwtype" value="0" class="s_inp" />
+			<input type="text" class="text fl s_inp" id="search-keyword" name="q" value="搜索感兴趣的动漫" onfocus="if(this.value=='搜索感兴趣的动漫'){this.value=''};this.style.color='black';" onblur="if(this.value==''||this.value=='搜索感兴趣的动漫'){this.value='搜索感兴趣的动漫';this.style.color='gray';}" />
+			<button name="button" type="submit" id="button" class="s_mit" value="搜索"></button>
+			<input type="hidden" name="ie" value="utf8">
+			<input type="hidden" name="src" value="zz">
+			<input type="hidden" name="site" value="www.dilidili.wang">
+			<input type="hidden" name="rg" value="1">
+		</form>
+	</div>
+	<div class="v_dl">
+		<dl>
+			<dt><a href="http://www.dilidili.wang/">首页</a><a href="http://bbs.005.tv/forum.php">D站论坛</a></dt>
+			<dd><a href="http://www.xiaoc.cn/">音乐FM</a><a href="http://www.005.tv/">动漫资讯</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>导航</h4></dt>
+			<dd><a href="http://www.dilidili.wang/2016xf/4/">新番动漫</a></dd>
+			<dd><a href="http://www.dilidili.wang/guoyu/">腾讯国漫</a><a href="http://www.dilidili.wang/2016xf/4/">2016年新番（持续更新中）</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>分类</h4></dt>
+			<dd><a href="http://www.dilidili.wang/qihuan/">奇幻</a><a href="http://www.dilidili.wang/qingchun/">青春</a><a href="http://www.dilidili.wang/hougong/">后宫</a><a href="http://www.dilidili.wang/maoxian/">冒险</a></dd><dd><a href="http://www.dilidili.wang/qingxiaoshuo/">轻小说</a><a href="http://www.dilidili.wang/rexue/">热血</a><a href="http://www.dilidili.wang/jizhan/">机战</a></dd>
+		</dl>
+		<dl>
+			<dt><h4>标签</h4></dt>
+			<dd><a href="http://www.dilidili.wang/anime/onepiece/">海贼王</a><a href="http://www.dilidili.wang/anime/naruto/">火影忍者</a><a href="http://www.dilidili.wang/anime/gintama/">银魂</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/fairytail/">妖精的尾巴</a><a href="http://www.dilidili.wang/anime/7-taizai/">七大罪</a></dd>
+			<dd><a href="http://www.dilidili.wang/anime/natsume/">夏目友人帐</a><a href="http://www.dilidili.wang/anime/free/">free男子游泳部</a><a href="http://www.dilidili.wang/anime/bleach/">死神</a></dd>
+		</dl>
+	</div>
+</div>
+
+<div id="link" class="aside_cen2 m-60"><a href='http://www.dilidili.wang/'>嘀哩嘀哩</a> > <a href=''>噬魂师</a></div>
+<div class="aside_cen2">
+  <div class="detail con24 clear">
+    <dl>
+      <dt><img src="http://static.jfrft.com/uploads/allimg/161208/1_1649498821.jpg" alt="噬魂师"/></dt>
+      <dd>
+        <h1>噬魂师</h1>
+        <div id="content1" class="fr like"><a class="detail_sc _collect" href="javascript:;"  data-title="噬魂师" data-url="http://www.dilidili.wang/anime/souleater/" data-icon="http://static.jfrft.com/uploads/allimg/161208/1_1649498821.jpg"><span>收藏</span></a></div>
+        <br/>
+        <span class="play_cs">播放次数:88 </span>
+        <p>
+        <div class="d_label"><b>地区：</b><a href="/riyu/" title="日本动漫">日本</a></div>
+        <div class="d_label"><b>年代：</b><a href="/2010xq/" title="2010年之前番">2010年之前</a></div>
+        </p>
+        <p>
+        <div class="d_label"><b>标签：</b>动作|热血|冒险</div>
+        <div class="d_label"><b>状态：</b>完成</div>
+        </p>
+        <p>
+        <div class="d_label2"><b>看点：</b>舞台为死神武器职人专门学校</div>
+        </p>
+        <p>
+        <div class="d_label2"><b>简介：</b>故事以“镰职人”摩诃与“魔镰”SOUL EATER噬魂，为主线展开，而其馀各主角总共分为三组。分别是暗器职人——BLACK☆STAR、魔暗器——中务椿，和死神之子，DEATH．THE．KID，魔枪——汤普森姐妹。</div>
+        </p>
+        <p>
+        <div class="d_label2"><b style="color:#F00">报错/寻番：</b> <a href="http://bbs.005.tv/forum.php?mod=forumdisplay&fid=708" target="_blank">报错求番入口</a> <b style="color:#F00">更新时间:</b>  <a href='javascript:;' style="float:right;" onclick="open_qq_tixing('噬魂师','','','http://www.dilidili.wang/anime/souleater/');"><img src='http://static.jfrft.com/images/qqtixing_1_1.gif' style='vertical-align:middle;' /></a></div>
+        </p>
+        <p>
+        <div class="button_bar"> <a class="collec" href="http://bbs.005.tv" style="float:left;">讨论版</a> 
+          <div style="float:right;"><script src="http://static.jfrft.com/js/share.js" type="text/javascript"></script></div>
+        </div>
+        </p>
+      </dd>
+    </dl>
+  </div>
+  <div class="con24 m-10 xf_news">
+    <div class="stitle"> <span class="pk_time"> <a herf="javascript:;" class="current">在线</a> <a herf="javascript:;">下载</a> <a herf="javascript:;" class="pk_time_right">分集剧情</a> <a herf="javascript:;" class="pk_time_right">演职员表</a> <h2><a href="/anime/souleaternot">外传</a></h2> </span> </div>
+    <div class="list_r3"><script type="text/javascript">WRITE_xinxi_ad();</script></div>
+    <div class="time_pic list">
+      <div class="time_con">
+        <div class="swiper-container xfswiper1">
+          <div class="swiper-wrapper mb20">
+            <div class="swiper-slide">
+              <ul class="clear">
+                <li><a href="http://www.dilidili.wang/watch/16112/" target="_self"><em><span>第1话</span>噬魂师第一季 第01话 灵魂的共鸣 SOUL EATER要成为Death Scythe?</em></a></li><li><a href="http://www.dilidili.wang/watch/16113/" target="_self"><em><span>第2话</span>噬魂师第一季 第02话 我才是明星最令人吃惊的男人在此出现?</em></a></li><li><a href="http://www.dilidili.wang/watch/16114/" target="_self"><em><span>第3话</span>噬魂师第一季 第3话 完美的少年 DEATH THE KID 华丽的任务?</em></a></li><li><a href="http://www.dilidili.wang/watch/16115/" target="_self"><em><span>第4话</span>噬魂师第一季 第4话 开始狩猎魔女时不时来个墓地补习?</em></a></li><li><a href="http://www.dilidili.wang/watch/16116/" target="_self"><em><span>第5话</span>噬魂师第一季 第5话 魂的形态最强职人索达恩登场?</em></a></li><li><a href="http://www.dilidili.wang/watch/16117/" target="_self"><em><span>第6话</span>噬魂师第一季 第6话 传说中的新生充满回忆的 KID首次死武尊亮相?</em></a></li><li><a href="http://www.dilidili.wang/watch/16118/" target="_self"><em><span>第7话</span>噬魂师第一季 第7话 黑血的恐怖在古洛那的身体中有武器?</em></a></li><li><a href="http://www.dilidili.wang/watch/16119/" target="_self"><em><span>第8话</span>噬魂师第一季 第8话  魔女美杜莎拥有及其凶残灵魂之人?</em></a></li><li><a href="http://www.dilidili.wang/watch/16120/" target="_self"><em><span>第9话</span>噬魂师第一季 第9话 圣剑传说KID和BLACKSTAR的大冒险?</em></a></li><li><a href="http://www.dilidili.wang/watch/16121/" target="_self"><em><span>第10话</span>噬魂师第一季 第10话 妖刀正宗 打破灵魂的凭依 雨中传颂的心意?</em></a></li><li><a href="http://www.dilidili.wang/watch/16122/" target="_self"><em><span>第11话</span>噬魂师第一季 第11话 椿之花 超越悲伤尽头得到的是?</em></a></li><li><a href="http://www.dilidili.wang/watch/16123/" target="_self"><em><span>第12话</span>噬魂师第一季 第12话 不输给恐惧的勇气 玛嘉阿鲁邦 最大的决心</em></a></li><li><a href="http://www.dilidili.wang/watch/16124/" target="_self"><em><span>第13话</span>噬魂师第一季 第13话 魔眼人SOUL和摩诃 逐渐偏移的灵魂波长?</em></a></li><li><a href="http://www.dilidili.wang/watch/16125/" target="_self"><em><span>第14话</span>噬魂师第一季 第14话 超笔记测试</em></a></li><li><a href="http://www.dilidili.wang/watch/16126/" target="_self"><em><span>第15话</span>噬魂师第一季 第15话 寻找幽灵船 </em></a></li><li><a href="http://www.dilidili.wang/watch/16127/" target="_self"><em><span>第16话</span>噬魂师第一季 第16话 激斗!幽灵船 我脑中的地狱?</em></a></li><li><a href="http://www.dilidili.wang/watch/16130/" target="_self"><em><span>第18话</span>噬魂师第一季 第18话 前夜祭的恶梦 然后幕布拉开了?</em></a></li><li><a href="http://www.dilidili.wang/watch/16132/" target="_self"><em><span>第19话</span>噬魂师第一季 第19话 地下攻防战开始 突破美杜莎的导航箭?</em></a></li><li><a href="http://www.dilidili.wang/watch/16133/" target="_self"><em><span>第20话</span>噬魂师第一季 第20话 黑血共鸣战 抗拒恐怖拼斗的弱小灵魂?</em></a></li><li><a href="http://www.dilidili.wang/watch/16134/" target="_self"><em><span>第21话</span>噬魂师第一季 第21话 传达到我的灵魂 干枯的心 在无法忍受的寂寞中?</em></a></li><li><a href="http://www.dilidili.wang/watch/16135/" target="_self"><em><span>第22话</span>噬魂师第一季 第22话 封印之社 不死男设下的陷阱?</em></a></li><li><a href="http://www.dilidili.wang/watch/16136/" target="_self"><em><span>第23话</span>噬魂师第一季 第23话 生与死 在复活与幻觉的夹缝之中?</em></a></li><li><a href="http://www.dilidili.wang/watch/16139/" target="_self"><em><span>第24话</span>噬魂师第一季 第24话 神之间的战斗 死亡城濒临毁灭的危机?</em></a></li><li><a href="http://www.dilidili.wang/watch/16140/" target="_self"><em><span>第25话</span>噬魂师第一季 第25话 召集！death scythe 玛嘉爸爸的人事异动！</em></a></li><li><a href="http://www.dilidili.wang/watch/16141/" target="_self"><em><span>第26话</span>噬魂师第一季 第26话 高兴害羞的入学体验！死武专新生活鼓励会召开中？</em></a></li><li><a href="http://www.dilidili.wang/watch/16142/" target="_self"><em><span>第27话</span>噬魂师第一季 第27话 800年的杀意 异端魔女降临？</em></a></li><li><a href="http://www.dilidili.wang/watch/16143/" target="_self"><em><span>第28话</span>噬魂师第一季 第28话 剑神屹立 味道是甜的还是咸的？</em></a></li><li><a href="http://www.dilidili.wang/watch/16144/" target="_self"><em><span>第29话</span>噬魂师第一季 第29话 复活的美杜莎！蜘蛛和蛇、姻缘的再会？</em></a></li><li><a href="http://www.dilidili.wang/watch/16145/" target="_self"><em><span>第30话</span>噬魂师第一季 第30话 炙热的失控特快列车！ 大魔导师留下的魔道具？</em></a></li><li><a href="http://www.dilidili.wang/watch/16146/" target="_self"><em><span>第31话</span>噬魂师第一季 第31话 干涸的幸福 在月光下闪烁的是谁的泪水？</em></a></li><li><a href="http://www.dilidili.wang/watch/16153/" target="_self"><em><span>第17话</span>噬魂师第一季 第17话 圣剑传说2 喝 打 买 事先说明?</em></a></li><li><a href="http://www.dilidili.wang/watch/16561/" target="_self"><em><span>第32话</span>噬魂师第一季 第32话  圣剑传说3 死武专老大的传说?</em></a></li><li><a href="http://www.dilidili.wang/watch/16562/" target="_self"><em><span>第33话</span>噬魂师第一季 第33话 共鸣连锁 奏鸣吧！灵魂的旋律？</em></a></li><li><a href="http://www.dilidili.wang/watch/16563/" target="_self"><em><span>第34话</span>噬魂师第一季 第34话 Brew争夺战 激突 死武专VS蜘蛛恐惧？</em></a></li><li><a href="http://www.dilidili.wang/watch/16564/" target="_self"><em><span>第35话</span>噬魂师第一季 第35话 风暴摩斯基 曾经的世界 限定时间是10分钟？</em></a></li><li><a href="http://www.dilidili.wang/watch/16565/" target="_self"><em><span>第36话</span>噬魂师第一季 第36话 放开吧 7人的共鸣连锁 破坏与创造的演奏会？</em></a></li><li><a href="http://www.dilidili.wang/watch/16566/" target="_self"><em><span>第37话</span>噬魂师第一季 第37话 名侦探第一的事件 KID揭露死武专的秘密？</em></a></li><li><a href="http://www.dilidili.wang/watch/16567/" target="_self"><em><span>第38话</span>噬魂师第一季 第38话 通往修罗的诱惑 伟大的男子汉无法抑制的焦虑？</em></a></li><li><a href="http://www.dilidili.wang/watch/16568/" target="_self"><em><span>第39话</span>噬魂师第一季 第39话 古洛那逃亡 请给我你的微笑？</em></a></li><li><a href="http://www.dilidili.wang/watch/16569/" target="_self"><em><span>第40话</span>噬魂师第一季 第40话 失去的王牌 美杜莎向死武专投降？</em></a></li><li><a href="http://www.dilidili.wang/watch/16570/" target="_self"><em><span>第41话</span>噬魂师第一季 第41话 乱了乱了混乱了 博士起舞 崭新的世界？</em></a></li><li><a href="http://www.dilidili.wang/watch/16571/" target="_self"><em><span>第42话</span>噬魂师第一季 第42话 出击 巴巴耶罗之城 感觉有点摸不着头脑？</em></a></li><li><a href="http://www.dilidili.wang/watch/16572/" target="_self"><em><span>第43话</span>噬魂师第一季 第43话 最后的魔道具 赤手空拳的KID 无法完成的任务？</em></a></li><li><a href="http://www.dilidili.wang/watch/16573/" target="_self"><em><span>第44话</span>噬魂师第一季 第44话 胆小古洛那的决意 献给一直陪伴在身边的你？</em></a></li><li><a href="http://www.dilidili.wang/watch/16574/" target="_self"><em><span>第45话</span>噬魂师第一季 第45话 退魔波长 猛攻 愤怒的魔人狩猎？</em></a></li><li><a href="http://www.dilidili.wang/watch/16575/" target="_self"><em><span>第46话</span>噬魂师第一季 第46话 是武还是修罗 决战 米霍尼 VS BLACK STAR？</em></a></li><li><a href="http://www.dilidili.wang/watch/16576/" target="_self"><em><span>第47话</span>噬魂师第一季 第47话 奇迹般的愤怒反击 飞翔吧 我们的死亡城机器人？</em></a></li><li><a href="http://www.dilidili.wang/watch/16577/" target="_self"><em><span>第48话</span>噬魂师第一季 第48话 手持武器的死神大人 事态突变 吉凶未卜？</em></a></li><li><a href="http://www.dilidili.wang/watch/16578/" target="_self"><em><span>第49话</span>噬魂师第一季 第49话 阿修罗觉醒 世界终结的尽头？</em></a></li><li><a href="http://www.dilidili.wang/watch/16579/" target="_self"><em><span>第50话</span>噬魂师第一季 第50话 听天由命 超越神的男子汉们？</em></a></li><li><a href="http://www.dilidili.wang/watch/16580/" target="_self"><em><span>第51话</span>噬魂师第一季 第51话 关键词是勇气!</em></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="playjs swiper-pagination"></div>
+      </div>
+      <div class="time_con">
+        <p class="baidu"><i>百度网盘</i>　<span>( 高清 | 简体 | MP4 )</span></p>
+        <div class="swiper-container xfswiper3">
+          <ul class="clear">
+            <li class="list_xz"> <a href="http://bbs.005.tv/thread-489450-1-1.html" target="_blank">01-51</a>
+            <li>
+          </ul>
+        </div>
+      </div>
+      <div class="time_con">
+        <div class="swiper-container swiper4">
+          <div class="swiper-wrapper mb20">
+            <div class="swiper-slide">
+              <ul>
+                <li class="fj_li"> <a href="http://www.dilidili.wang/watch/16112/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第1话</span>噬魂师第一季 第01话 灵魂的共鸣 SOUL EATER要成为Death Scythe?<br/>
+                    死武专是死神创立专门培养武器和职人的机构，作为镰武器的SOUL EATER和他的职人玛嘉也是其中的一份子。刚刚被SOUL EATER吃掉的鬼神之卵是第99个，再加上一个魔女的灵魂SOUL EATER便会晋级为死神</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16113/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第2话</span>噬魂师第一季 第02话 我才是明星最令人吃惊的男人在此出现?<br/>
+                    前去暗杀阿尔卡波内和他的爪牙们的是BLACK STAR和椿，虽然BLACK STAR默念着暗杀的法则但他的张扬出场又一次让任务失败。从死神哪里得到了阿尔卡波内去袭击魔女安杰拉的消息后BLACK STAR和椿立即</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16114/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第3话</span>噬魂师第一季 第3话 完美的少年 DEATH THE KID 华丽的任务?<br/>
+                    死神的儿子KID是个追求左右对称完美的公子哥，为了收集大量死神之卵的他接下了阿努比斯的任务。进入阿努比斯后十分在意自家牌匾是否歪斜的KID竟然又跑回了家中，作为武器的莉兹和帕蒂只</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16115/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第4话</span>噬魂师第一季 第4话 开始狩猎魔女时不时来个墓地补习?<br/>
+                    死神为鬼神之卵收集量为零的玛嘉和BLACK STAR等人安排了补习，他们这次的目标是死后变为僵尸的希德老师。虽然玛嘉和SOUL EATER还不能很好控制灵魂共鸣后使出的狩猎魔女，但与BLACK STAR和椿的配</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16116/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第5话</span>噬魂师第一季 第5话 魂的形态最强职人索达恩登场?<br/>
+                    玛嘉等人所要战胜的对手是Death Scythe的初代使用者修泰因，作为死武专毕业生里最强的职人，即便不使用武器修泰因也能施展出绝强的实力。看到修泰因强大的灵魂后玛嘉陷入了绝望，在SOUL </div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16117/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第6话</span>噬魂师第一季 第6话 传说中的新生充满回忆的 KID首次死武尊亮相?<br/>
+                    SOUL EATER和BLACK STAR对今天将要来到学校的新生非常在意，他就是死神之子KID。SOUL和BLACK STAR认为解决了阿努比斯任务的KID占尽了风头，这对笨蛋组合便向KID发起了挑战，与KID稳定的波长不一样，</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16118/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第7话</span>噬魂师第一季 第7话 黑血的恐怖在古洛那的身体中有武器?<br/>
+                    为了完成课外补习而来到意大利的玛嘉和SOUL虽然完美的完成了任务，但不祥的魂之波长却让他们感到不安。玛嘉感受到教团内包围着武器和职人的大量人类灵魂在一瞬间消失了，明知道门后潜</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16119/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第8话</span>噬魂师第一季 第8话  魔女美杜莎拥有及其凶残灵魂之人?<br/>
+                    SOUL为了保护玛嘉受到重创，而前来营救他们的是死武专最强的职人修泰因与DEATH SCYTHE。库罗娜和拉格纳罗库是鬼神蜕变前的阶段，体内的每一滴黑血都能够化为武器，修泰因和DEATH SCYTHE靠着强</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16120/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第9话</span>噬魂师第一季 第9话 圣剑传说KID和BLACKSTAR的大冒险?<br/>
+                    没有收集到鬼神之卵的BLACK STAR被罚打扫图书馆，他与前来借书的KID都被记录着圣剑EXCALIBUR的书所吸引。听到修泰因对于圣剑的评价后两人前去寻找圣剑，当两人拔出圣剑时却被眼前的一幕惊呆</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16121/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第10话</span>噬魂师第一季 第10话 妖刀正宗 打破灵魂的凭依 雨中传颂的心意?<br/>
+                    能够依附并吸收人类灵魂的妖刀正宗很有可能变为鬼神，前去阻止他的是椿和BLACK STAR。BLACK STAR肩膀上的星族刺青遭到了针之村的仇视，这是BLACK STAR从未提及的事情，而妖刀也与椿有着千丝万缕</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16122/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第11话</span>噬魂师第一季 第11话 椿之花 超越悲伤尽头得到的是?<br/>
+                    同为中务家的兄妹俩，正宗和可以多种变化的椿不同，他只继承了日本刀的姿态，现在的他想要得到椿的灵魂。BLACK STAR已经不能插足妖刀内的战斗，现在的他只能在一旁默默的守候，而妖刀内</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16123/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第12话</span>噬魂师第一季 第12话 不输给恐惧的勇气 玛嘉阿鲁邦 最大的决心<br/>
+                    在魔女集会上美杜莎遭到了艾露卡等人的挑衅，她的所作所为已经威胁到了魔女们的安危。被黑血侵入体内的SOUL整日做着恶梦，玛嘉到现在还没有勇气面对SOUL之前受到的伤害，SOUL身上的那道伤</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16124/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第13话</span>噬魂师第一季 第13话 魔眼人SOUL和摩诃 逐渐偏移的灵魂波长?<br/>
+                    美杜莎威胁艾露卡救出了魔女监狱的13号犯人魔眼之男，她这样做的目的是为了测试混入SOUL体内的黑血。玛嘉和SOUL两人的分歧越来越大，这致使两人的泼长出现了偏差，修泰因对两人的修炼也</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16125/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第14话</span>噬魂师第一季 第14话 超笔记测试<br/>
+                    死武专里的超笔试测验即将开始，传说在笔试中获得第一的人便可以让武器成为DEATH SCYTHE，平时努力的玛嘉对于这次考试志在必得。为了迎接考试每个人都以自己的方式开始了考前准备，经过了</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16126/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第15话</span>噬魂师第一季 第15话 寻找幽灵船 <br/>
+                    追寻着波罗的海沿岸事件，为了调查灵魂和小镇一起被吞噬的原因KID等人开始了调查，通过幸存者提供的讯息他们找到了被称作黑龙的幽灵船。KID等人在幽灵船内发现了大量的人类灵魂，还受到</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16127/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第16话</span>噬魂师第一季 第16话 激斗!幽灵船 我脑中的地狱?<br/>
+                    KID和魔剑在幽灵船上展开了激斗，库罗娜爆发出的强大力量竟然将整艘船一分为二， 但他却没有恋战的意思，KID在追捕魔剑时却被完美对称的风景所吸引。让美杜莎吃惊的是因同步共鸣而转移</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16130/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第18话</span>噬魂师第一季 第18话 前夜祭的恶梦 然后幕布拉开了?<br/>
+                    在死武专的创立纪念日上大家都盛装出席，但死武专内部封印着鬼神的事实却让KID无法放松，于此同时美杜莎恐怖的诡计正在施展。与美杜莎共舞的修泰因识破了她研究黑血的目的，就在美杜莎</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16132/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第19话</span>噬魂师第一季 第19话 地下攻防战开始 突破美杜莎的导航箭?<br/>
+                    死神所属八武众里最强的阿修罗也是最大的不安，执着于力量的他终于开始狩猎人类的灵魂，这就是鬼神的诞生，死神将阿修罗封印在死武专地下，并将自己的灵魂和身体附着在死亡之城将其压</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16133/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第20话</span>噬魂师第一季 第20话 黑血共鸣战 抗拒恐怖拼斗的弱小灵魂?<br/>
+                    不顾斯泰因的作战计划，玛嘉执意要和魔剑战斗，看出玛嘉认真态度的BLACK STAR赶去支援KID。库罗娜现在的扭曲完全都是作为亲生母亲的美杜莎所为，在玛嘉和SOUL灵魂共鸣后黑血开始活跃，但他</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16134/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第21话</span>噬魂师第一季 第21话 传达到我的灵魂 干枯的心 在无法忍受的寂寞中?<br/>
+                    受到狂气的影响玛嘉失去了理智，在玛嘉乱来的战斗同时SOUL也即将被狂气所吞噬。受到狂气影响的玛嘉开始在内心感受库罗娜的灵魂，透过库罗娜干涸的灵魂玛嘉看到的是毫无生气的沙丘，库</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16135/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第22话</span>噬魂师第一季 第22话 封印之社 不死男设下的陷阱?<br/>
+                    使库罗娜波长平静下来的玛嘉立即赶去支援KID和BLACK STAR，而机动性最好的KID则遭到了魔眼之男的阻截。面对棘手的敌人KID思索着突破的方法，但凌乱的房间却让他陷入了恐慌，BLACK STAR的到来终</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16136/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第23话</span>噬魂师第一季 第23话 生与死 在复活与幻觉的夹缝之中?<br/>
+                    来到神社的魔眼和艾露卡因为狂气而产生了幻觉，紧追上来的KID也没能幸免，双方围绕着鬼神的战斗还没有结束。斯泰因还没有从美杜莎的纠缠中解脱出来，想要打败美杜莎的他回想着自己以前</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16139/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第24话</span>噬魂师第一季 第24话 神之间的战斗 死亡城濒临毁灭的危机?<br/>
+                    复活的鬼神已经不是KID和BLACK STAR所能应对，举手投足的一个动作便能让他们丧失意识，赶到的玛嘉也无能为力。发动的死神封印已经无法阻止阿修罗，现在能与他抗衡的只有挡在他面前的死神</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16140/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第25话</span>噬魂师第一季 第25话 召集！death scythe 玛嘉爸爸的人事异动！<br/>
+                    因为鬼神阿修罗的复活死神召集了世界各地的death scythe们，虽然逃走的阿修罗非常强大，但一向懦弱的他不会立即行动，更应该在意的是他释放出来的狂气波长。死神对来此的四位death scythe分配</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16141/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第26话</span>噬魂师第一季 第26话 高兴害羞的入学体验！死武专新生活鼓励会召开中？<br/>
+                    死神决定让库罗娜作为死武专的试读生，无法与库罗娜沟通的希德老师找来了玛嘉。由玛嘉和玛丽老师带着库罗娜参观死武专，企图鼓励库罗娜的同伴们却被他带着一同陷入了消沉。作为玛嘉和</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16142/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第27话</span>噬魂师第一季 第27话 800年的杀意 异端魔女降临？<br/>
+                    玛嘉在与基利克战斗的时候沾染到泥人伤口中涌出的丝线，库罗娜为了保护不能动弹的玛嘉陷入了苦战，而魔武器之母阿拉克妮也复活了，赶来支援玛嘉等人的贾斯丁压制住了基利克，阿拉克妮</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16143/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第28话</span>噬魂师第一季 第28话 剑神屹立 味道是甜的还是咸的？<br/>
+                    西德老师前去阿拉克妮之惧调查那里秘密制造的魔道具，这个魔道具与历史上赫赫有名的大魔导师艾邦有关。在阿梓的引领下西德进入了阿拉克妮之惧，但让他们没想到的是想为玛嘉报仇的BL</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16144/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第29话</span>噬魂师第一季 第29话 复活的美杜莎！蜘蛛和蛇、姻缘的再会？<br/>
+                    XNDIyNjA2NjA4</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16145/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第30话</span>噬魂师第一季 第30话 炙热的失控特快列车！ 大魔导师留下的魔道具？<br/>
+                    来到炎热沙漠的KID等人将要回收魔道具永动发条，KID显然对于这个100年都没有停过的暴走列车非常感兴趣。阿拉克妮之惧果然觊觎魔道具，在KID赶到之前阿拉克妮之惧的刺客钓鱼王已经控制了列</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16146/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第31话</span>噬魂师第一季 第31话 干涸的幸福 在月光下闪烁的是谁的泪水？<br/>
+                    害怕与人相处的库罗娜已经渐渐的融入了死武专，朋友们的关心与热情填满了他那本来干涩的灵魂，他感受到了从未有过的温暖。美杜莎的阴影并没有从库罗娜的世界里消失，复活后的美杜莎让</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16153/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第17话</span>噬魂师第一季 第17话 圣剑传说2 喝 打 买 事先说明?<br/>
+                    传说中北方某地的寺庙里，有一把传说中名为EXCALIBUR的圣剑。然而就在奥古斯来寻找圣剑唤醒EXCALIBUR时，EXCALIBUR向往常一样提出了必须遵守自己的1000条的要求，并滔滔不绝的讲诉起了自己风光</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16561/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第32话</span>噬魂师第一季 第32话  圣剑传说3 死武专老大的传说?<br/>
+                    死武专平庸的职人希罗老是受到别人的欺负，想要脱胎换骨的他看到了关于圣剑的书。取得圣剑EXCALIBUR的希罗获得了重生，一瞬间便轻松摆平了前来挑战的KID等人，希罗不光可以忍受烦死人的</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16562/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第33话</span>噬魂师第一季 第33话 共鸣连锁 奏鸣吧！灵魂的旋律？<br/>
+                    受到狂气影响的修泰因已经渐渐不能维持理智，在被狂气完全控制之前他还有更为重要的事情需要完成。为了应对即将面对的强大敌人修泰因以小组为单位，小组队员们的共鸣连锁可以发挥出巨</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16563/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第34话</span>噬魂师第一季 第34话 Brew争夺战 激突 死武专VS蜘蛛恐惧？<br/>
+                    艾绑智慧的结晶波乱成为了死武专与阿拉克妮之惧争夺的目标，而它所在的罗斯特岛因为一次事故笼罩在魔法磁场之中，争夺波乱的战争已经拉开了帷幕。由玛丽和修泰因进入了磁场，而玛嘉等</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16564/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第35话</span>噬魂师第一季 第35话 风暴摩斯基 曾经的世界 限定时间是10分钟？<br/>
+                    进入磁场的玛丽和修泰因并没有找到魔道具，狂气的影响已经让修泰因寸步难行，由于时间的关系磁场外的死武专部队也先行撤退。找到修泰因的玛嘉等人决定代替他们夺回波乱，而他们必须面</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16565/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第36话</span>噬魂师第一季 第36话 放开吧 7人的共鸣连锁 破坏与创造的演奏会？<br/>
+                    通过SOUL的琴声玛嘉小队终于开始了共鸣连锁，激昂的音乐将7人紧紧联系在了一起，完美无缺的配合让莫斯基特毫无还手之力，被玛嘉等人合力打倒莫斯基特趁着爆炸逃走，玛嘉他们已经失去了</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16566/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第37话</span>噬魂师第一季 第37话 名侦探第一的事件 KID揭露死武专的秘密？<br/>
+                    争夺波乱一战让玛嘉他们非常沮丧，而KID更在乎父亲为什么如此执着于艾绑的魔道具。对于KID与大家的质疑死神还是搪塞了过去，玛嘉关于退魔波长的疑问死神还是给出了确切的回答，继承了母</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16567/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第38话</span>噬魂师第一季 第38话 通往修罗的诱惑 伟大的男子汉无法抑制的焦虑？<br/>
+                    死神召集来了大洋洲支部技术开发部顾问bj，他将要执行死神的某项任务，而四处寻找答案的KID自然不会放过对他的询问。接二连三的失败再加上无法驾驭妖刀，这一切让BLACK STAR表现出从未有过</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16568/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第39话</span>噬魂师第一季 第39话 古洛那逃亡 请给我你的微笑？<br/>
+                    阿拉克妮等人来到了鬼神所在的深山，胆小懦弱的鬼神将自己一直隐藏在此，虽然费了一番功夫，但阿拉克妮还是成功的招揽了鬼神。被美杜莎逼着做了不想做的事情，库罗娜依旧不想离开朋友</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16569/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第40话</span>噬魂师第一季 第40话 失去的王牌 美杜莎向死武专投降？<br/>
+                    美杜莎向死武专的投降让众人都感到非常吃惊，被关押起来的美杜莎竟然拿出了波乱作为和死神见面的条件。来到死神面前的美杜莎想要和死武专做个交易，招揽鬼神的阿拉克妮想要通过狂气增</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16570/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第41话</span>噬魂师第一季 第41话 乱了乱了混乱了 博士起舞 崭新的世界？<br/>
+                    因为美杜莎的影响修泰因已经完全被狂气所牵引，在心中徘徊的他已经不清楚自己到底该如何选择，现在他的世界陷入混乱之中，秩序、道德和情感完全起不到约束的作用，他也不明白眼前推开</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16571/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第42话</span>噬魂师第一季 第42话 出击 巴巴耶罗之城 感觉有点摸不着头脑？<br/>
+                    屏幕上父亲和死神一起宣布了目前大家首要的任务，但是抵御鬼神的计划在玛嘉看来只是转移注意力的噱头，她更在意最近发生的事情，尤其是库罗娜受到的不合理对待。在西德老师口中玛嘉知</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16572/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第43话</span>噬魂师第一季 第43话 最后的魔道具 赤手空拳的KID 无法完成的任务？<br/>
+                    为了启动波乱死神派KID前去寻找最后的魔道具，目的地石棺的传说让莉兹非常恐惧，而未知的危险也让KID决定独自前往。轻松拿到魔道具后KID遭到了守护者们的袭击，而手无寸铁的他陷入了危险</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16573/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第44话</span>噬魂师第一季 第44话 胆小古洛那的决意 献给一直陪伴在身边的你？<br/>
+                    死武专和阿拉克妮之惧的战争还没有结束，各处的战斗已经到了白热化，而库罗娜与玛丽也来到了美杜莎的所在。任由美杜莎的花言巧语，一开始的攻击便表明了她的态度，再次对库罗娜施加恐</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16574/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第45话</span>噬魂师第一季 第45话 退魔波长 猛攻 愤怒的魔人狩猎？<br/>
+                    死武专的约定，蕾杰尔的身体，这些对于玛嘉来说全都没有意义，现在的她唯一想做的就是消灭眼前的美杜莎。推开玛嘉的库罗娜受到了严重的伤害，愤怒的玛嘉失去了理智，狂躁的她砍向眼前</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16575/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第46话</span>噬魂师第一季 第46话 是武还是修罗 决战 米霍尼 VS BLACK STAR？<br/>
+                    KID带回的魔道具承载着艾绑的灵魂，聒噪的圣剑对于艾绑的解说都是事实，波乱终于将要开启，而阿拉克妮之惧的新型武器也令死武专陷入了困境。在阿拉克妮之惧内四处大闹的BLACK STAR再次遇</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16576/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第47话</span>噬魂师第一季 第47话 奇迹般的愤怒反击 飞翔吧 我们的死亡城机器人？<br/>
+                    波乱是可以实现愿望的魔道具，而被禁锢在死城的死神现在最大的愿望便是赶往前线，整个死城的移动便是他愿望的迫切体现。选择了自己特有的道路后BLACK STAR打败了米佛涅，而死亡城市机器</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16577/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第48话</span>噬魂师第一季 第48话 手持武器的死神大人 事态突变 吉凶未卜？<br/>
+                    手持武器的死神这次并没有准备放水，阿修罗的所作所为已经让他忍无可忍，神之间的战斗让在场的众人感受到了从未有过的压迫感。阿修罗那些难以理解的话语死神并不认同，而死神认为必须</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16578/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第49话</span>噬魂师第一季 第49话 阿修罗觉醒 世界终结的尽头？<br/>
+                    吃下阿拉克妮灵魂的阿修罗力量暴增，为了修复与死神战斗中的创伤他准备在结界内休眠，而他所释放的狂气将会支配整个世界。为了阻止鬼神的阴谋玛嘉等人不约而同来到了结界内部，一开始</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16579/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第50话</span>噬魂师第一季 第50话 听天由命 超越神的男子汉们？<br/>
+                    在玛嘉前往SOUL精神世界期间KID和BLACK STAR并未停止对鬼神的攻击，在BLACK STAR的配合下KID使出了强力的绝招，但被KID炮轰成渣的残骸里出现了鬼神的本体。识破了黑血阴谋的玛嘉还是选择了打开关</div>
+                  </a> </li><li class="fj_li"> <a href="http://www.dilidili.wang/watch/16580/" target="_blank" target="_self"> <img src="http://www.dilidili.wang/images/defaultpic.gif"/>
+                  <div class="fjjq"><span>第51话</span>噬魂师第一季 第51话 关键词是勇气!<br/>
+                    玛嘉进化至狩猎鬼神的退魔波长依旧无法打倒阿修罗，一开始他们便没有明白每人都有的狂气并非污秽之物。觉醒武器化的玛嘉依然不是鬼神的对手，但关键词勇气的出现却让鬼神陷入了恐慌，</div>
+                  </a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-button-next swiper-button-next4"></div>
+        <div class="swiper-button-prev swiper-button-prev4"></div>
+      </div>
+      <div class="time_con">
+        <div class="stafflist">
+          <div class="staff"> <p class="row">监督：五十岚卓哉</p><p class="row">系列构成：大和屋晓</p><p class="row">人物设定·总作画监督：伊藤嘉之</p><p class="row">主动画师：稻留和美</p><p class="row">概念设计：荒牧伸志</p><p class="row">主要道具设计：星野猛</p><p class="row">美术监督：中村典史</p> </div>
+          <div class="cast"> <p class="row">Soul Eater	内山昂辉</p><p class="row">摩诃	小见川千明</p><p class="row">blackstar	小林由美子</p><p class="row">中务椿	名冢佳织</p><p class="row">Death The Kid	宫野真守</p> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--tab slider end-->
+  <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad0();</script></div>
+  <div class="con24">
+    <div class="stitle">
+      <h3>相关推荐</h3>
+      <span class="s_f"> <a href="/anime/kyojin2">进击的巨人第二季</a><a href="/anime/kyojin">进击的巨人 第一季</a><a href="/anime/quanhuanchuanshiji">拳王创世纪</a><a href="/anime/seikai">星界之战旗</a><a href="/anime/qzgs">全职高手</a> </span> </div>
+    <div class="swiper-container swiper3">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <ul class="m_pic clear">
+            <li><a href="/anime/seiya-sog"><img src="http://static.jfrft.com/images/cover/12947.jpg"/>
+              <p>圣斗士星矢 黄金魂</p>
+              <div class="fc_m"><strong>圣斗士星矢 黄金魂</strong></div>
+              </a></li><li><a href="/anime/jjsst"><img src="http://www.dilidili.wang/uploads/allimg/170306/1_1554213451.jpg"/>
+              <p>剑姬神圣谭</p>
+              <div class="fc_m"><strong>剑姬神圣谭</strong></div>
+              </a></li><li><a href="/anime/gintamajxj"><img src="http://www.dilidili.wang/uploads/allimg/170410/1_0159034681.jpg"/>
+              <p>银魂 精选集</p>
+              <div class="fc_m"><strong>银魂 精选集</strong></div>
+              </a></li><li><a href="/anime/aonoexorcist2"><img src="http://static.jfrft.com/uploads/allimg/161101/1_1550471701.jpg"/>
+              <p>青之驱魔师第二季</p>
+              <div class="fc_m"><strong>青之驱魔师第二季</strong></div>
+              </a></li><li><a href="/anime/xinsanyi"><img src="http://static.jfrft.com/uploads/allimg/160829/1_0459548011.jpg"/>
+              <p>新三一万能侠</p>
+              <div class="fc_m"><strong>新三一万能侠</strong></div>
+              </a></li><li><a href="/anime/kabanegitv"><img src="http://static.jfrft.com/uploads/allimg/160513/1_1528451231.jpg"/>
+              <p>甲铁城的卡巴内瑞</p>
+              <div class="fc_m"><strong>甲铁城的卡巴内瑞</strong></div>
+              </a></li><li><a href="/anime/qiangzhong"><img src="http://static.jfrft.com/uploads/allimg/160805/1_0633541421.jpg"/>
+              <p>枪冢</p>
+              <div class="fc_m"><strong>枪冢</strong></div>
+              </a></li><li><a href="/anime/necijotansuothex"><img src="http://static.jfrft.com/uploads/allimg/160512/1_1537307651.jpg"/>
+              <p>时空幻境 情热传说 the X</p>
+              <div class="fc_m"><strong>时空幻境 情热传说 the X</strong></div>
+              </a></li><li><a href="/anime/necijotansuothex2"><img src="http://static.jfrft.com/uploads/allimg/160512/1_1537307651.jpg"/>
+              <p>时空幻境 情热传说 the X 第二季</p>
+              <div class="fc_m"><strong>时空幻境 情热传说 the X 第二季</strong></div>
+              </a></li><li><a href="/anime/xingyoujijcb"><img src="http://www.dilidili.wang/uploads/allimg/170811/290_2116335991.jpg"/>
+              <p>星游记 剧场版</p>
+              <div class="fc_m"><strong>星游记 剧场版</strong></div>
+              </a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="swiper-button-next swiper-button-next3"></div>
+      <div class="swiper-button-prev swiper-button-prev3"></div>
+    </div>
+  </div>
+  <script src="http://www.dilidili.wang/templets/default/js/swiper.min.js"></script> 
+  <script>	
+
+jQuery(".playjs").hide();
+
+	function changeSwiper1(obj) {
+
+        var _width = jQuery(window).width();
+
+        var _is = _width <= webWidth;
+
+        var _this = jQuery(obj);
+
+        var arr = new Array();
+
+        var ahtml = '';
+
+        _this.find('li').each(function (e) {
+
+            arr[e] = jQuery(this).html();
+
+        });
+
+        var arrlen = arr.length;
+
+//		alert(arrlen);
+
+        var len = 0;		
+
+        if (_is) {
+
+			if(arrlen % 2>0){
+
+				len = parseInt(arrlen / 2)+1;
+
+				}else{
+
+					len = parseInt(arrlen / 2);
+
+					}
+
+				} else {
+
+					if(arrlen % 20 >0){
+
+						len = parseInt(arrlen / 20)+1;
+
+						}else{
+
+							len = parseInt(arrlen / 20);
+
+						}
+
+					}
+
+			if($(".xfswiper1 li").length>21){jQuery(".playjs").show();}else{jQuery(".playjs").hide();};
+
+        var j = 0;
+
+        for (var i = 0; i < len; i++) {
+
+            var ihtml = '';
+
+            if (_is) {
+
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+
+            } else {
+
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+
+            }
+
+			ahtml += '<div class="swiper-slide"><ul class="clear">' + ihtml + '</ul></div>';
+
+            j++;
+
+        }
+
+        _this.find('.swiper-wrapper').html(ahtml);
+
+    }
+
+    changeSwiper1('.xfswiper0');
+
+	changeSwiper1('.xfswiper1');
+
+	changeSwiper1('.xfswiper2');
+
+	changeSwiper1('.xfswiper3');
+
+	changeSwiper1('.xfswiper4');
+
+	changeSwiper1('.xfswiper5');
+
+	changeSwiper1('.xfswiper6');
+
+    changeSwiper('.swiper3');
+
+    changeSwiper('.swiper5');
+
+    changeSwiper('.swiper6');
+
+	changeSwiper('.swiper7');
+
+	changeSwiper2('.swiper4');
+
+    jQuery(window).resize(function () {
+
+		changeSwiper1('.xfswiper0');
+
+		changeSwiper1('.xfswiper1');
+
+		changeSwiper1('.xfswiper2');
+
+		changeSwiper1('.xfswiper3');
+
+		changeSwiper1('.xfswiper4');
+
+		changeSwiper1('.xfswiper5');
+
+		changeSwiper1('.xfswiper6');
+
+        changeSwiper('.swiper3');
+
+        changeSwiper('.swiper5');
+
+        changeSwiper('.swiper6');
+
+		changeSwiper('.swiper7');
+
+		changeSwiper2('.swiper4');
+
+    });
+
+var swiper1 = new Swiper('.xfswiper1', {
+
+	nextButton: '.xfswiper-button-next1',
+
+	prevButton: '.xfswiper-button-prev1',
+
+	spaceBetween: 30
+
+});
+
+var swiper2 = new Swiper('.xfswiper2', {
+
+	nextButton: '.xfswiper-button-next2',
+
+	prevButton: '.xfswiper-button-prev2',
+
+	spaceBetween: 30
+
+});
+
+var swiper2 = new Swiper('.xfswiper3', {
+
+	nextButton: '.xfswiper-button-next3',
+
+	prevButton: '.xfswiper-button-prev3',
+
+	spaceBetween: 30
+
+});
+
+var swiper3 = new Swiper('.swiper3', {
+
+	nextButton: '.swiper-button-next3',
+
+	prevButton: '.swiper-button-prev3',
+
+	spaceBetween: 30
+
+});
+
+var swiper4 = new Swiper('.swiper4', {
+
+	nextButton: '.swiper-button-next4',
+
+	prevButton: '.swiper-button-prev4',
+
+	spaceBetween: 30
+
+});
+
+var swiper5 = new Swiper('.swiper5', {
+
+	nextButton: '.swiper-button-next5',
+
+	prevButton: '.swiper-button-prev5',
+
+	spaceBetween: 30
+
+});
+
+var swiper6 = new Swiper('.swiper6', {
+
+	nextButton: '.swiper-button-next6',
+
+	prevButton: '.swiper-button-prev6',
+
+	spaceBetween: 30
+
+});
+
+var swiper7 = new Swiper('.swiper7', {
+
+	nextButton: '.swiper-button-next7',
+
+	prevButton: '.swiper-button-prev7',
+
+	spaceBetween: 30
+
+});
+
+
+
+    var week = new Date();
+
+    jQuery(".xf_news .pk_time a").removeClass("current");
+
+    jQuery(".xf_news .time_pic .time_con").hide();
+
+    if (week != 0) {
+
+        jQuery(".xf_news .pk_time a:eq(" + (0) + ")").addClass("current");
+
+        jQuery(".xf_news .time_pic .time_con:eq(" + (0) + ")").show();
+
+        new Swiper(".xfswiper"+(0), {
+
+            nextButton: '.xfswiper-button-next'+(0),
+
+
+
+            prevButton: '.xfswiper-button-prev'+(0),
+
+            spaceBetween: 30
+
+        });
+
+    }
+
+
+
+    jQuery(".xf_news .pk_time a").each(function(index){
+
+        jQuery(this).click(function(){
+
+            jQuery(".xf_news .pk_time a").removeClass("current");
+
+            jQuery(this).addClass("current");
+
+            jQuery(".xf_news .time_pic .time_con").hide();
+
+            jQuery(".xf_news .time_pic .time_con:eq(" + index + ")").show();
+
+            new Swiper(".xfswiper"+index, {
+
+                nextButton: '.xfswiper-button-next'+index,
+
+                prevButton: '.xfswiper-button-prev'+index,
+
+                spaceBetween: 30
+
+            });
+
+			jQuery(".swiper-button-next").removeClass("swiper-button-disabled");
+
+        });
+
+    });
+
+
+
+var swiper = new Swiper('.xfswiper1', {
+
+	pagination: '.swiper-pagination',
+
+	paginationClickable: true,
+
+	paginationBulletRender: function (index, className) {
+
+		return '<a class="' + className + '">' + (index*20 + 1) + '-' + (index*20 + 20) + '</a>';
+
+	}
+
+});
+
+
+
+var mySwiper1 = new Swiper('.swiper1',{
+
+	pagination: '.pagination1',
+
+	paginationClickable: true,
+
+	moveStartThreshold: 100,
+
+	autoplay:4000
+
+});
+
+var mySwiper2 = new Swiper('.swiper2',{
+
+	pagination: '.pagination2',
+
+	paginationClickable: true,
+
+	moveStartThreshold: 100
+
+});
+
+  var webWidth = 736;
+
+    function changeSwiper(obj) {
+
+        var _width = jQuery(window).width();
+
+        var _is = _width <= webWidth;
+
+        var _this = jQuery(obj);
+
+        var arr = new Array();
+
+        var ahtml = '';
+
+        _this.find('li').each(function (e) {
+
+            arr[e] = jQuery(this).html();
+
+        });
+
+        var arrlen = arr.length;
+
+        var len = 0;
+
+		
+
+        if (_is) {
+
+            //len = arrlen / 2 + arrlen % 2;
+
+			if(arrlen % 2>0){
+
+				len = parseInt(arrlen / 2)+1;
+
+			}else{
+
+				len = parseInt(arrlen / 2);
+
+			}
+
+        } else {
+
+            //len = arrlen / 5 + arrlen % 5;
+
+			if(arrlen % 5 >0){
+
+				len = parseInt(arrlen / 5)+1;
+
+			}else{
+
+				len = parseInt(arrlen / 5);
+
+			}
+
+        }		
+
+
+
+        var j = 0;
+
+        for (var i = 0; i < len; i++) {
+
+            var ihtml = '';
+
+            if (_is) {
+
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li>';
+
+            } else {
+
+                ihtml = '<li>' + arr[j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li><li>' + arr[++j] + '</li>';
+
+            }
+
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+
+            j++;
+
+        }
+
+        _this.find('.swiper-wrapper').html(ahtml);
+
+    }
+
+	
+
+    function changeSwiper2(obj) {
+
+        var _width = jQuery(window).width();
+
+        var _is = _width <= webWidth;
+
+        var _this = jQuery(obj);
+
+        var arr = new Array();
+
+        var ahtml = '';
+
+        _this.find('li').each(function (e) {
+
+            arr[e] = jQuery(this).html();
+
+        });
+
+        var arrlen = arr.length;
+
+        var len = 0;
+
+		
+
+        if (_is) {
+
+            //len = arrlen / 2 + arrlen % 2;
+
+			if(arrlen % 2>0){
+
+				len = parseInt(arrlen / 2)+1;
+
+			}else{
+
+				len = parseInt(arrlen / 2);
+
+			}
+
+        } else {
+
+            //len = arrlen / 5 + arrlen % 5;
+
+			if(arrlen % 8 >0){
+
+				len = parseInt(arrlen / 8)+1;
+
+			}else{
+
+				len = parseInt(arrlen / 8);
+
+			}
+
+        }		
+
+
+
+        var j = 0;
+
+        for (var i = 0; i < len; i++) {
+
+            var ihtml = '';
+
+            if (_is) {
+
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+
+            } else {
+
+                ihtml = '<li class="fj_li">' + arr[j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li><li class="fj_li">' + arr[++j] + '</li>';
+
+            }
+
+			ahtml += '<div class="swiper-slide"><ul class="m_pic clear">' + ihtml + '</ul></div>';	
+
+            j++;
+
+        }
+
+        _this.find('.swiper-wrapper').html(ahtml);
+
+    }
+
+
+
+jQuery(function() {
+
+	jQuery(".closed").click(
+
+	  function(){
+
+		  jQuery(".topimg").slideUp();
+
+	});
+
+
+
+	// 收缩展开效果
+
+	   jQuery(".adminico").click(function(){
+
+		 jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+
+
+		   },function(){
+
+		jQuery(".adminmenu").animate({height: 'toggle', opacity: 'toggle'}, "slow");
+
+		   });
+
+
+
+	jQuery(".a_open").click(
+
+	  function(){
+
+		  jQuery(this).hide();
+
+		  jQuery(".aside_lef").slideDown(500);
+
+		  jQuery(".fc_black").show();
+
+		  jQuery(".a_closed").show();
+
+	});
+
+	jQuery(".a_closed").click(
+
+	  function(){
+
+		  jQuery(this).hide();
+
+		  jQuery(".aside_lef").hide();
+
+		  jQuery(".fc_black").hide();
+
+		  jQuery(".a_open").show();
+
+	});
+
+	jQuery(".fc_black").click(
+
+	  function(){
+
+		  jQuery(this).hide();
+
+		  jQuery(".aside_lef").hide();
+
+		  jQuery(".fc_black").hide();
+
+		  jQuery(".a_open").show();
+
+		  jQuery(".a_closed").hide();
+
+	});
+
+	jQuery(".rm_pank .pk_year a").each(function(index){
+
+	   jQuery(this).mouseover(
+
+		  function(){
+
+			  jQuery(".rm_pank .pk_year a").removeClass("current");
+
+			  jQuery(this).addClass("current");
+
+			  jQuery(".rm_pank .rm_main .rm_con").hide();
+
+			  jQuery(".rm_pank .rm_main .rm_con:eq(" + index + ")").show();
+
+	  })
+
+	});
+
+
+
+	var headHeight=$(".head_top").height();
+
+	var nav=$("#navf");
+
+	$(window).scroll(function(){
+
+		if($(this).scrollTop()>headHeight){
+
+			nav.addClass("navFix");
+
+		}
+
+		else{
+
+			nav.removeClass("navFix");
+
+		}
+
+	})
+
+
+
+	var headHeight2=$(".topimg").height();
+
+	var nav2=jQuery("#topnavf");
+
+    jQuery(window).scroll(function(){
+
+		if($(this).scrollTop()>headHeight2){
+
+			nav2.addClass("topnavFix");
+
+		}
+
+		else{
+
+			nav2.removeClass("topnavFix");
+
+		}
+
+	});
+
+
+
+});
+
+
+
+
+
+</script>
+  <div class="list_c1 banner"><script type="text/javascript">WRITE_xinxi_ad1();</script></div>
+  <div class="con24">
+
+<!--
+    <div class="stitle">
+      <h3>评论</h3>
+      <span class="s_f"> <a href="http://bbs.005.tv">D站论坛</a> <a href="http://bbs.005.tv/forum-643-1.html">新番讨论</a> </span> <a href="" id="login_1_2" style="float:right;" target="_self">评论前请先登录或注册</a> </div>
+-->
+    <div style="margin:20px 0; text-align:center;"> 
+      
+      <!-- UY BEGIN 
+      
+      <div id="uyan_frame"></div>
+      <div id="SOHUCS" sid="www_dilidili_com_t1137"></div>
+      <script>    document.write("<link rel=\"stylesheet\" href=\"http://static.jfrft.com/css/cy.css\"\/>");</script><script type="text/javascript"> (function(){ var appid = 'cyrWI9WPo'; var conf = 'eea24c2162fe79b36d73e420792de754'; var width = window.innerWidth || document.documentElement.clientWidth; if (width < 960) { window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="http://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>'); } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("http://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script> 
+      
+      <!-- UY END --> 
+      	<link rel="stylesheet" href="/newcss/common.css">
+<style>
+    .bb-comment .comment-list .list-item .user span {
+        display: inline-block;
+        position: absolute;
+        max-width: 100%;
+        color: #00a1d6;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .bb-comment .user-face:hover .text-content {
+        display: block;
+    }
+
+    .bb-comment .user-face .text-content {
+        display: none;
+        min-width: 250px;
+        position: absolute;
+        bottom: 55px;
+        left: 0;
+        z-index: 220;
+        background: #eee;
+        border: 2px solid #aaa;
+        border-radius: 5px;
+    }
+
+    .bb-comment .user-face .text-content p {
+        padding: 20px 10px
+    }
+
+    .bb-comment .user-face .text-content i {
+        position: absolute;
+        display: block;
+        width: 20px;
+        height: 20px;
+        bottom: -12px;
+        left: 14px;
+        border-right: 2px solid #aaa;
+        border-bottom: 2px solid #aaa;
+        transform: rotate(45deg);
+        background: #eee;
+    }
+
+
+    @media screen and (max-width:960px) {
+        .common {
+            padding: 0 5px;
+        }
+        .bb-comment .comment-header {
+            border: none;
+        }
+        .bb-comment .comment-header .tabs-order li.on {
+            border: none;
+        }
+
+    }
+
+</style>
+<input type='hidden' value='612171' id='bbs_tid' name='bbs_tid'>
+<div class="common" style="text-align: left;">
+    <div class="b-head"><span class="b-head-t results" style="display: inline;"></span><span class="b-head-t">评论</span></div>
+    <div class="comm" id="bbComment" style="position: relative;">
+        <div class="bb-comment ">
+            <div class="reply-notice"></div>
+            <div class="comment-header clearfix">
+                <div class="tabs-order">
+                    <ul class="clearfix">
+                        <li class="on">全部评论</li>
+                        <li><a href="http://bbs.005.tv" target="_blank">论坛首页</a></li>
+                        <li><a href="http://usr.005.tv" target="_blank">用户中心</a></li>
+                        <li style="margin: 0;"><a href="" id="enterbbs" target="_blank">进入该贴</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="comment-send">
+                <div class="textarea-container"><i class="ipt-arrow"></i><textarea cols="80" name="msg" rows="5" placeholder="请输入文字..." maxlength="1000" class="ipt-txt"></textarea>
+                    <button type="submit" class="comment-submit">发表评论</button>
+                    <div class="m-layer m_layer m-error" style="right: 0; top: -40px; z-index: 20009; opacity: 1;">
+                        <div class="bg">
+                            <div class="content">
+                                <div class="mini">
+                                    <div class="msg-text"><i class="b-icon"></i>请发送符合规范的内容评论</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comment-emoji">
+                    <i class="face"></i>
+                    <span class="text">表情</span>
+                </div>
+            </div>
+            <div class="comment-list">
+            </div>
+        </div>
+        <div class="emoji-box" style="display: none;">
+            <div class="emoji-title">
+                <span>颜文字</span>
+            </div>
+            <div class="emoji-wrap">
+                <a class="emoji-list emoji-text">（⌒▽⌒）</a>
+                <a class="emoji-list emoji-text">（￣▽￣）</a>
+                <a class="emoji-list emoji-text">（=・ω・=）</a>
+                <a class="emoji-list emoji-text">（｀・ω・´）</a>
+                <a class="emoji-list emoji-text">（〜￣△￣）〜</a>
+                <a class="emoji-list emoji-text">（･∀･）</a>
+                <a class="emoji-list emoji-text">（°∀°）ﾉ</a>
+                <a class="emoji-list emoji-text">（￣3￣）</a>
+                <a class="emoji-list emoji-text">╮（￣▽￣）╭</a>
+                <a class="emoji-list emoji-text">（ ´_ゝ｀）</a>
+                <a class="emoji-list emoji-text">←_←</a>
+                <a class="emoji-list emoji-text">→_→</a>
+                <a class="emoji-list emoji-text">（《_《）</a>
+                <a class="emoji-list emoji-text">（》_》）</a>
+                <a class="emoji-list emoji-text">（;¬_¬）</a>
+                <a class="emoji-list emoji-text">（”▔□▔）/</a>
+                <a class="emoji-list emoji-text">（ﾟДﾟ≡ﾟдﾟ）!?</a>
+                <a class="emoji-list emoji-text">Σ（ﾟдﾟ;）</a>
+                <a class="emoji-list emoji-text">Σ（ ￣□￣||）</a>
+                <a class="emoji-list emoji-text">（´；ω；`）</a>
+                <a class="emoji-list emoji-text">（/TДT）/</a>
+                <a class="emoji-list emoji-text">（^・ω・^ ）</a>
+                <a class="emoji-list emoji-text">（｡･ω･｡）</a>
+                <a class="emoji-list emoji-text">（●￣（ｴ）￣●）</a>
+                <a class="emoji-list emoji-text">ε=ε=（ノ≧∇≦）ノ</a>
+                <a class="emoji-list emoji-text">（´･_･`）</a>
+                <a class="emoji-list emoji-text">（-_-*）</a>
+                <a class="emoji-list emoji-text">（￣へ￣）</a>
+                <a class="emoji-list emoji-text">（￣ε（*￣） Σ</a>
+                <a class="emoji-list emoji-text">ヽ（`Д´）ﾉ</a>
+                <a class="emoji-list emoji-text">（╯°口°）╯（┴—┴</a>
+                <a class="emoji-list emoji-text">（*-_-）┯━┯</a>
+                <a class="emoji-list emoji-text">_（:3」∠）_</a>
+                <a class="emoji-list emoji-text">（笑）</a>
+                <a class="emoji-list emoji-text">（汗）</a>
+                <a class="emoji-list emoji-text">（泣）</a>
+                <a class="emoji-list emoji-text">（苦笑）</a>
+            </div>
+            <div class="emoji-tabs">
+                <div class="emoji-container">
+                    <div class="emoji-tab-wrap clearfix" style="width: 46px; left: 0px;">
+                        <a class="tab-link on" data-index="0">
+                            <img src="http://www.dilidili.wang/newimages/emoji-tab-default.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="http://static.jfrft.com/jac/js/jquery-3-2-1.js"></script>
+<script>
+    $(function() {
+        var b = $(bbs_tid).val();
+        var f = $(".common");
+        var c = $(".common .comment-list");
+        var a = $(".common #bbComment .emoji-box");
+        var e;
+        $(".m-layer").hide();
+        enterbbs.href = "http://bbs.005.tv/thread-" + b + "-1-1.html";
+
+        function d() {
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=1&limit=10",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    $.each(k.comment, function(l, m) {
+                        if (!m.is_vip) {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a></div> <p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        } else {
+                            c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + m.userUrl + '" target="_blank"><img src="' + m.faceImg + '" alt=""></a><div class="text-content"><p>' + m.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + m.userUrl + '" target="_blank" class="name ">' + m.userName + '</a><i class="level"></i><span>' + m.produce + '</span></div><p class="text">' + userContent(m.content) + '</p> <div class="info"><span class="floor">' + m.position + '楼</span><span class="time">' + m.date + '</span><span class="like "><i></i><span>' + m.goods + '</span></span><p style="display: none">' + m.pid + '</p><span class="hate"><i></i><span>' + m.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                        }
+                    });
+                    $(".common .comment-list").after(k.page_css)
+                }
+            });
+            $.ajax({
+                url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=getUid&tid=123",
+                type: "get",
+                dataType: "jsonp",
+                jsonp: "callback",
+                jsonpCallback: "jsonpcallback",
+                success: function(k) {
+                    if (k.errorno === 0) {
+                        if (k.headerImg_big === undefined) {
+                            d()
+                        } else {
+                            f.find(".comment-send").prepend('<div class="user-face"><div class="text-content" id="userInfo" style="display: block;min-width: 95px;bottom: -82px;z-index: 150;"><p><a href="http://bbs.005.tv/home.php?mod=space&do=notice&view=mypost&type=at" target="_blank">您有' + k.notiCount + '条信息未读取。</a></p><i style="top:-12px;border:2px solid #aaa;border-bottom: none;border-right: none;"></i><b style="position: absolute;top: -4px;right: 3px;font-size: 1.5em;color: #555;cursor: pointer" onclick="closeInfo()">x</b></div><a target="_blank" href="' + k.bbs_tv + '" onclick="closeInfo()"><img class="user-head" src="' + k.headerImg_big + '"></a></div>');
+                            e = k.headerImg_big;
+                            if (document.getElementById("div0") != null) {
+                                div0.style.display = "none"
+                            }
+                            if (k.notiCount === 0) {
+                                closeInfo()
+                            }
+                            g()
+                        }
+                    } else {
+                        f.find(".comment-send").prepend('<a target="_blank" href="http://usr.005.tv" style="float: left;margin: 7px 0 0 5px;position: relative;">您未登录<br/>点击登录</a>');
+                        h()
+                    }
+                },
+                error: function() {
+                    h()
+                }
+            });
+            $(".bb-comment").on("click", ".comment-send .textarea-container", function(k) {
+                k.stopPropagation();
+                $(this).addClass("focus")
+            });
+            f.click(function() {
+                $(this).find(".bb-comment .comment-send .textarea-container").eq(0).removeClass("focus");
+                $(".list-item .comment-send").remove();
+                a.hide()
+            });
+            f.on("click", ".ipt-txt", function() {
+                $(".textarea-container").removeClass("focus");
+                $(this).parent().addClass("focus")
+            });
+            var j = $(".bb-comment .comment-send .comment-emoji");
+            var i;
+
+            function g() {
+                a.click(function(l) {
+                    l.stopPropagation()
+                });
+                var k;
+                j.click(function(l) {
+                    l.stopPropagation();
+                    a.css("top", $(this).position().top + 30);
+                    a.show();
+                    k = 1
+                });
+                f.on("click", ".bb-comment .comment-list .comment-send .comment-emoji", function(l) {
+                    l.stopPropagation();
+                    a.css("top", ($(this).parents(".list-item").position().top + $(this).position().top + 30));
+                    a.show();
+                    k = 0
+                });
+                f.find(".emoji-box .emoji-wrap a").click(function(m) {
+                    m.stopPropagation();
+                    if (k) {
+                        var n = $(".common .comment-send .ipt-txt");
+                        n.eq(0).get(0).value += $(this).text();
+                        n.eq(0).focus()
+                    } else {
+                        var l = $(".common .comment-list .list-item .comment-send .ipt-txt");
+                        l.get(0).value += $(this).text();
+                        l.focus()
+                    }
+                });
+                c.on("click", ".list-item .info .reply", function(m) {
+                    m.stopPropagation();
+                    var l = $(".list-item .comment-send");
+                    var n = $(this);
+                    i = n.parent().prevAll(".user").children(".name").html();
+                    if (l) {
+                        l.remove()
+                    }
+                    n.parents(".con").append('<div class="comment-send "><div class="user-face">' + '<img class="user-head" src="' + e + '">' + "</div>" + '<div class="textarea-container focus">' + '<i class="ipt-arrow"></i>' + '<textarea cols="80" name="msg" minlength="1" maxlength="1000" rows="5" placeholder="请输入文字..." class="ipt-txt">回复 @' + i + "：</textarea>" + '<button type="submit" class="comment-submit">发表评论</button>' + "</div>" + '<div class="comment-emoji"><i class="face"></i><span class="text">表情</span></div>' + "</div>")
+                });
+                $(".comment-submit").click(function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(n) {
+                                if (n.errorno == 0) {
+                                    if (!n.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.comment[0].userUrl + '" target="_blank"><img src="' + n.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + n.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.comment[0].userUrl + '" target="_blank" class="name ">' + n.comment[0].userName + '</a><i class="level"></i><span>' + n.comment[0].produce + '</span></div> <p class="text">' + userContent(n.comment[0].content) + '</p> <div class="info"><span class="floor">' + n.comment[0].position + '楼</span><span class="time">' + n.comment[0].date + '</span><span class="like "><i></i><span>' + n.comment[0].goods + '</span></span><p style="display: none">' + n.comment[0].pid + '</p><span class="hate"><i></i><span>' + n.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(n.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  }else {
+                                    alert(n.msg)
+                                   }
+                            },
+                            error: function() {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(m, 3000);
+
+                        function m() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                c.on("click", ".list-item .comment-send .textarea-container button", function() {
+                    if ($(this).prev().val().length != 0) {
+                        var l = $(this).prev(".ipt-txt").val();
+                        $(this).prev().val("回复 @" + i + "：");
+                        var m = /@(.*)：/g.exec(l);
+                        m = m[1].replace("@", "");
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=BackPosts&message=" + l + "&tid=" + b + "&at=" + m,
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(o) {
+                                if (o.errorno == 0) {
+                                    if (!o.comment[0].is_vip) {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    } else {
+                                        c.prepend('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + o.comment[0].userUrl + '" target="_blank"><img src="' + o.comment[0].faceImg + '" alt=""></a><div class="text-content"><p>' + o.comment[0].produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + o.comment[0].userUrl + '" target="_blank" class="name ">' + o.comment[0].userName + '</a><i class="level"></i><span>' + o.comment[0].produce + '</span></div> <p class="text">' + userContent(o.comment[0].content) + '</p> <div class="info"><span class="floor">' + o.comment[0].position + '楼</span><span class="time">' + o.comment[0].date + '</span><span class="like "><i></i><span>' + o.comment[0].goods + '</span></span><p style="display: none">' + o.comment[0].pid + '</p><span class="hate"><i></i><span>' + o.comment[0].bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                    }
+                                } else if(o.errorno == 88){
+                                        alert("您的账号未验证绑定手机，暂时不能进行评论，请进入论坛进行手机绑定操作！");
+                                        location.href="http://bbs.005.tv/home.php?mod=spacecp&ac=plugin&id=jzsjiale_sms:home";
+                                  } else {
+                                    alert(o.msg + "，由于近期维护，请重新上传您的头像（￣▽￣）。")
+                                }
+                            },
+                            error: function(o) {
+                                alert("评论失败！拥有非法字符或提交失败")
+                            }
+                        })
+                    } else {
+                        $(".m-layer").show();
+                        setTimeout(n, 3000);
+
+                        function n() {
+                            $(".m-layer.m_layer.m-error").hide()
+                        }
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("liked");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).next().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=support",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg)
+                                }
+                            },
+                            error: function(m) {
+                                console.log(m.errorno, m.msg)
+                            }
+                        })
+                    }
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    $(this).append('<p class="flag" style="display: none;">0</p>');
+                    if ($(this).find(".flag").eq(0).text() == 0) {
+                        $(this).find(".flag").eq(0).text("1");
+                        $(this).addClass("hated");
+                        $(this).find("span").text(parseInt($(this).find("span").text()) + 1);
+                        var l = $(this).prev().text();
+                        $.ajax({
+                            url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=postreview&tid=" + b + "&pid=" + l + "&do=against",
+                            type: "get",
+                            dataType: "jsonp",
+                            jsonp: "callback",
+                            jsonpCallback: "jsonpcallback",
+                            success: function(m) {
+                                if (m.errorno != 0) {
+                                    alert(m.msg + "（￣▽￣）。")
+                                }
+                            },
+                            error: function(m) {}
+                        })
+                    }
+                })
+            }
+
+            function h() {
+                f.find(".comment-send button.comment-submit").click(function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                f.on("click", ".comment-list .info .reply", function() {
+                    alert("您还未登录！");
+                    window.open("http://usr.005.tv")
+                });
+                j.click(function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .like", function() {
+                    alert("请登录后再评论！")
+                });
+                f.on("click", ".comment-list .list-item .con .info .hate", function() {
+                    alert("请登录后再评论！")
+                })
+            }
+            f.on("click", ".bottom-page a", function() {
+                $(this).addClass("current").siblings().removeClass("current");
+                var k = $(this).text();
+                $.ajax({
+                    url: "http://bbs.005.tv/source/plugin/gact/gact.php?actions=ReplyPostsList&tid=" + b + "&page=" + k + "&limit=10",
+                    type: "get",
+                    dataType: "jsonp",
+                    jsonp: "callback",
+                    jsonpCallback: "jsonpcallback",
+                    success: function(l) {
+                        if (l.errorno == 0) {
+                            c.empty();
+                            $.each(l.comment, function(m, n) {
+                                if (!n.is_vip) {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a></div> <p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                } else {
+                                    c.append('<div class="list-item reply-wrap "> <div class="user-face"><a href="' + n.userUrl + '" target="_blank"><img src="' + n.faceImg + '" alt=""></a><div class="text-content"><p>' + n.produce + '</p><i></i></div></div> <div class="con "> <div class="user"><a href="' + n.userUrl + '" target="_blank" class="name ">' + n.userName + '</a><i class="level"></i><span>' + n.produce + '</span></div><p class="text">' + userContent(n.content) + '</p> <div class="info"><span class="floor">' + n.position + '楼</span><span class="time">' + n.date + '</span><span class="like "><i></i><span>' + n.goods + '</span></span><p style="display: none">' + n.pid + '</p><span class="hate"><i></i><span>' + n.bad + '</span></span><span class="reply btn-hover">回复</span></div> <div class="reply-box"></div> <div class="paging-box"></div> </div> </div>')
+                                }
+                            });
+                            $(".common .bottom-page").remove();
+                            $(".common .comment-list").after(l.page_css)
+                        } else {}
+                    }
+                })
+            });
+            $(".tabs-order ul li").click(function() {
+                $(this).addClass("on").siblings().removeClass("on")
+            })
+        }
+        d()
+    });
+
+    function closeInfo() {
+        userInfo.style.display = "none"
+    }
+
+    function userContent(b) {
+        if (/@(.*)：/g.test(b)) {
+            var a = /@(.*)：/g.exec(b);
+            a = b.replace(a[0], '<span style="color:#00a1d6;cursor:pointer">' + a[0] + "</span>");
+            return a
+        } else {
+            return b
+        }
+    }
+    if (bbComment.clientWidth < 270) {
+        $(".emoji-box").css("width", "270px");
+        bbComment.addEventListener("DOMNodeInserted", function() {
+            $("#bbComment .comment-send").not($("#bbComment .comment-send").eq(0)).css("transform", "translateX(-80px)").css("width", "270px")
+        })
+    };
+
+</script>
+	
+    </div>
+  </div>
+</div>
+<div class="list_r1 movebox"><script type="text/javascript">WRITE_xinxi_ad2();</script> 
+  <script type="text/javascript" src="/templets/default/zuixingengxin2.htm"></script> 
+  <script type="text/javascript">WRITE_xinxi_ad3();</script></div>
+</div>
+		<div class="zmfl">
+        	<ul>
+            	<p>动画头字母索引:</p>
+            	<li><a href="http://www.dilidili.wang/a/">A</a></li>
+            	<li><a href="http://www.dilidili.wang/b/">B</a></li>
+            	<li><a href="http://www.dilidili.wang/c/">C</a></li>
+            	<li><a href="http://www.dilidili.wang/d/">D</a></li>
+            	<li><a href="http://www.dilidili.wang/e/">E</a></li>
+            	<li><a href="http://www.dilidili.wang/f/">F</a></li>
+            	<li><a href="http://www.dilidili.wang/g/">G</a></li>
+            	<li><a href="http://www.dilidili.wang/h/">H</a></li>
+            	<li><a href="http://www.dilidili.wang/i/">I</a></li>
+            	<li><a href="http://www.dilidili.wang/j/">J</a></li>
+            	<li><a href="http://www.dilidili.wang/k/">K</a></li>
+            	<li><a href="http://www.dilidili.wang/l/">L</a></li>
+            	<li><a href="http://www.dilidili.wang/m/">M</a></li>
+            	<li><a href="http://www.dilidili.wang/n/">N</a></li>
+            	<li><a href="http://www.dilidili.wang/o/">O</a></li>
+            	<li><a href="http://www.dilidili.wang/p/">P</a></li>
+            	<li><a href="http://www.dilidili.wang/q/">Q</a></li>
+            	<li><a href="http://www.dilidili.wang/r/">R</a></li>
+            	<li><a href="http://www.dilidili.wang/s/">S</a></li>
+            	<li><a href="http://www.dilidili.wang/t/">T</a></li>
+            	<li><a href="http://www.dilidili.wang/u/">U</a></li>
+            	<li><a href="http://www.dilidili.wang/v/">V</a></li>
+            	<li><a href="http://www.dilidili.wang/w/">W</a></li>
+            	<li><a href="http://www.dilidili.wang/x/">X</a></li>
+            	<li><a href="http://www.dilidili.wang/y/">Y</a></li>
+            	<li><a href="http://www.dilidili.wang/z/">Z</a></li>
+            </ul>
+        </div>
+            <div class="copy_right">
+
+                <!--<div class="ka_box m-20">
+                    <a href="http://www.005.tv/">资讯</a><span>|</span><a href="http://moe.005.tv/">资源</a><span>|</span><a href="http://www.dilidili.wang/anime/">新番</a><span>|</span><a href="http://bbs.005.tv/forum.php">论坛</a><a href="">群组</a><span>|</span><a href="">网站地图</a><span>|</span><a href="">
+                帮助中心</a><span>|</span><a href="">如何认证</a><span>|</span><a href="">BUG提交</a><span>|</span><a href="">联系我们</a><span>|</span><a href="">友情链接</a><span>|</span><a href="http://weibo.com/005dilidili/">官方微博</a><span>
+                </div>-->
+                <div class="copyright">
+                   <!-- <p>互联网ICP备案：沪ICP备xx号x　信息网络传播视听节目许可证：xxx</p>-->
+                    <p>2017 嘀哩嘀哩 本站不提供任何视听上传服务，所有内容均来自视频分享站点提供的公开引用资源</p>
+                </div>
+                <!--<div class="code"><img src="images/code.png"><p>扫描二维码收听公共号</p></div>-->
+            </div>
+			<div class="m_copyright">
+               <p>copyright by dilidili.com QQ:959514764</p>
+            </div>
+<center>
+<script type="text/javascript" src="http://static.jfrft.com/js/tongji.js"></script>
+<script language="javascript" src="http://static.jfrft.com/js/header3.js"></script>
+
+<script>WRITE_header99();</script>
+</center>
+<script>
+0,function(){
+	var str= document.getElementById('nick_name').innerText;
+	if(str!="")
+	{
+	document.getElementById('div0').style.display="none";
+	document.getElementById('div1').style.display="block";
+	}
+	else{
+	document.getElementById('div0').style.display="block";
+	document.getElementById('div1').style.display="none";
+        }
+}();
+</script>			
+</div>
+<div class="fc_black"></div>
+<script type="text/javascript" src="http://static.jfrft.com/js/backtop.js"></script> 
+<script src="http://static.jfrft.com/muban/js/w234.js"></script> 
+<script>
+
+var hre=window.encodeURIComponent(window.location.href);
+
+var ahre="http://usr.005.tv?refurl="+hre;
+
+$("#login_1_2").attr("href",ahre); 
+
+</script>
+</body>
+</html>
