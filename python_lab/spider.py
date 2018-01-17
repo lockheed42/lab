@@ -16,6 +16,8 @@ import os
 import redis
 import traceback
 import time as time_machine
+from multiprocessing import Pool
+import multiprocessing
 
 '''
 记录错误日志
@@ -24,7 +26,7 @@ import time as time_machine
 
 def error_log(e):
     global host
-    with open("./log/error/" + get_domain(host) +"_error.log", 'a') as f:
+    with open("./log/error/" + get_domain(host) + "_error.log", 'a') as f:
         f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(traceback.format_exc()) + '\n')
 
 
@@ -34,7 +36,7 @@ def error_log(e):
 
 
 def log(file, content):
-    with open("./log/" + get_domain(host) +"_" + file + ".log", 'a') as f:
+    with open("./log/" + get_domain(host) + "_" + file + ".log", 'a') as f:
         f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(content) + '\n')
 
 
@@ -44,7 +46,8 @@ html源文件保存
 '''
 
 
-def save_html(url):
+def save_html(url, content):
+    url = get_domain(url)
     index = -1
     suffix_len = 0
     for suffix in get_domain_suffix():
@@ -55,7 +58,7 @@ def save_html(url):
 
     # 匹配不到域名后缀，直接保存
     if index == -1:
-        content = url.replace('/', '_')
+        file = url.replace('/', '_')
     else:
         dir = url[:index + suffix_len]
         dir = dir.replace('/', '_')
@@ -66,10 +69,10 @@ def save_html(url):
         else:
             file_name = url[index + suffix_len + 1:].replace('/', '_')
 
-        content = dir + '/' + file_name
+        file = dir + '/' + file_name
 
     # 把html文件写入。存入html路径下
-    with open("./html/" + content, 'w') as f:
+    with open("./html/" + file, 'w') as f:
         f.write(content)
 
 
@@ -79,10 +82,9 @@ def save_html(url):
 
 
 def url_is_get(url):
-    global pool
-    r = redis.Redis(connection_pool=pool)
+    global redis_connect
 
-    is_get = r.setnx("catch_url:" + url, 1)
+    is_get = redis_connect.setnx("catch_url:" + url, 1)
     return True if is_get else False
 
 
@@ -93,10 +95,9 @@ key结构：url_queue:{host}:{deep} = url
 
 
 def url_push(host, url, deep):
-    global pool
-    r = redis.Redis(connection_pool=pool)
+    global redis_connect
     queue_key = "url_queue:" + host + ":" + str(deep)
-    r.lpush(queue_key, url)
+    rs = redis_connect.lpush(queue_key, url)
 
 
 '''
@@ -109,19 +110,18 @@ def url_push(host, url, deep):
 
 
 def url_pop(host):
-    global pool
-    r = redis.Redis(connection_pool=pool)
+    global redis_connect
     url_deep_key = "url_deep:" + host
-    deep = r.get(url_deep_key)
+    deep = redis_connect.get(url_deep_key)
     deep = deep.decode('utf-8')
     queue_key = "url_queue:" + host + ":" + deep
-    pop_url = r.rpop(queue_key)
+    pop_url = redis_connect.rpop(queue_key)
     # 如果当前深度队列 已取完，从下一级深度读取
     if pop_url is None:
         deep = int(deep) + 1
-        r.set(url_deep_key, deep)
+        redis_connect.set(url_deep_key, deep)
         queue_key = "url_queue:" + host + ":" + str(deep)
-        pop_url = r.rpop(queue_key)
+        pop_url = redis_connect.rpop(queue_key)
 
     if pop_url is not None:
         pop_url = pop_url.decode('utf-8')
@@ -177,21 +177,23 @@ def request_parse(url):
     # TODO header可配置
     user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
     accept = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8"
-    accept_encoding = "gzip, deflate"
     accept_language = "zh-CN,zh;q=0.9,en;q=0.8"
     connection = "keep-alive"
     cache_control = "max-age=0"
-    headers = {'Accept': accept, 'Accept-Encoding': accept_encoding, 'Accept-Language': accept_language,
+    headers = {'Accept': accept, 'Accept-Language': accept_language,
                'Connection': connection, 'User-Agent': user_agent, 'Cache-Control': cache_control}
     req = urllib.request.Request(url, headers=headers)
     return urllib.request.urlopen(req)
+
 
 '''
 响应程序，处理相应数据以及模拟处理
 '''
 
+
 def response_parse(response):
     # 检测是否分块发送
+    content_length = 0
     transfer_encoding = response.headers.get('Transfer-Encoding')
     if transfer_encoding != 'chunked':
         # 根据length来决定是否抓取，上限20M
@@ -200,18 +202,16 @@ def response_parse(response):
             log('too_large', url + '  返回大小: ' + str(content_length))
             return True
 
-    # 有 Set-Cookie响应时保存
-    set_cookie = response.headers.get('Set-Cookie')
-    if set_cookie is not None:
-        with open("./log/" + get_domain(host) +"_cookie.log", 'a') as f:
-            f.write(set_cookie)
-
+    # 有 Set-Cookie响应时保存 TODO 暂时关闭
+    # set_cookie = response.headers.get('Set-Cookie')
+    # if set_cookie is not None:
+    #     with open("./log/" + get_domain(host) + "_cookie.log", 'a') as f:
+    #         f.write(set_cookie)
 
     # 读取内容
     res = response.read()
-    print(res)
     # TODO 编码可配置
-    return res.decode('utf-8')
+    return res.decode('utf-8'), content_length
 
 
 '''
@@ -219,18 +219,14 @@ def response_parse(response):
 '''
 
 
-def catch(host):
+def catch(url, deep, redis_connect):
     global deep_limit
     try:
         # 基础信息
         time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        url, deep = url_pop(host)
 
         # 降低抓取速度，减少访问压力 TODO 多进程正式抓取时开启
         # time_machine.sleep(0.5)
-
-        if url is None:
-            return False
 
         # 阻止重复抓取
         if url_is_get(url) == False:
@@ -238,13 +234,15 @@ def catch(host):
 
         # 抓取数据
         response = request_parse(url)
-        content = response_parse(response)
+        content, content_length = response_parse(response)
         real_length = len(content)
 
         # 记录当前正在抓取的url
-        log('run', url + '  ' + str(content_length) + 'byte  ' + str(real_length) + 'byte  ' + str(deep))
+        log('run',
+            str(os.getpid()) + '  ' + url + '  ' + str(content_length) + 'byte  ' + str(real_length) + 'byte  ' + str(
+                deep))
         # 把html文件写入。存入html路径下
-        save_html(url)
+        save_html(url, content)
 
         # 链接列表
         href = []
@@ -275,68 +273,127 @@ def catch(host):
                 url_push(host, ele, deep + 1)
             else:
                 # TODO 非同一域名另外保存根目录
-                log('skip', '  非同一域名  ' + str(host) + '  ' + str(ele))
+                log('skip', str(os.getpid()) + '  ' + '  非同一域名  ' + str(host) + '  ' + str(ele))
 
-        connection = pymysql.connect(host='localhost',
-                                     user='root',
-                                     password='',
-                                     db='test',
-                                     port=3306,
-                                     charset='utf8')
+        # connection = pymysql.connect(host='localhost',
+        #                              user='root',
+        #                              password='',
+        #                              db='test',
+        #                              port=3306,
+        #                              charset='utf8')
+        #
+        # if deep == 0:
+        #     # 插入首页html
+        #     pid = 0
+        #     sql_main = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
+        #     sql_main = sql_main + "('" + get_domain(host) + "','" + url + "'," + str(pid) + ", '" + str(
+        #         deep) + "','" + time + "')"
+        #
+        #     with connection.cursor() as cursor:
+        #         cursor.execute(sql_main)
+        #         connection.commit()
+        # else:
+        #     # 查询当前url的id
+        #     sql_main = "select * from t_html where `current_url` = '" + url + "'"
+        #     with connection.cursor() as cursor:
+        #         cursor.execute(sql_main)
+        #         data = cursor.fetchone()
+        #         connection.commit()
+        #     if data is not None:
+        #         pid = data[0]
+        #     else:
+        #         pid = -1
+        #         log('skip', '  在数据库被未插入  ' + str(url))
+        #
+        # # 插入当前html下的子链接
+        # sql = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
+        # for ele in href:
+        #     if ele is not None and ele[:4] == 'http':
+        #         sql = sql + "('" + get_domain(host) + "','" + ele + "','" + str(pid) + "','" + str(
+        #             deep + 1) + "','" + time + "'),"
+        # sql = sql.rstrip(',')
+        #
+        # with connection.cursor() as cursor:
+        #     cursor.execute(sql)
+        #     connection.commit()
 
-        if deep == 0:
-            # 插入首页html
-            pid = 0
-            sql_main = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
-            sql_main = sql_main + "('" + get_domain(host) + "','" + url + "'," + str(pid) + ", '" + str(
-                deep) + "','" + time + "')"
-
-            with connection.cursor() as cursor:
-                cursor.execute(sql_main)
-                connection.commit()
-        else:
-            # 查询当前url的id
-            sql_main = "select * from t_html where `current_url` = '" + url + "'"
-            with connection.cursor() as cursor:
-                cursor.execute(sql_main)
-                data = cursor.fetchone()
-                connection.commit()
-            if data is not None:
-                pid = data[0]
-            else:
-                pid = -1
-                log('skip', '  在数据库被未插入  ' + str(url))
-
-        # 插入当前html下的子链接
-        sql = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
-        for ele in href:
-            if ele is not None and ele[:4] == 'http':
-                sql = sql + "('" + get_domain(host) + "','" + ele + "','" + str(pid) + "','" + str(
-                    deep + 1) + "','" + time + "'),"
-        sql = sql.rstrip(',')
-
-        with connection.cursor() as cursor:
-            cursor.execute(sql)
-            connection.commit()
         return True
     except BaseException as e:
         error_log(e)
-        return False
+        return True
+
+
+# 子进程
+def sub_process(pipe):
+    # 为每次子进程提供一个连接池
+    redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
+    redis_connect = redis.Redis(connection_pool=redis_pool)
+
+    is_continue = True
+    while is_continue:
+        message = pipe.recv()
+        print("recv:", message)
+        # 收到结束信号中止循环
+        if message == '---end---':
+            is_continue = False
+
+        message_array = message.split('------')
+        url = message_array[0]
+        deep = int(message_array[1])
+
+        catch(url, deep, redis_connect)
+        redis_connect.lpush('free_process', str(os.getpid()))
 
 
 # 抓取深度限制
-deep_limit = 0
+deep_limit = 3
+# 进程数
+process_num = 10
 # 根域名
-host = "http://www.heiyan.com/"
+host = "https://www.heavengifts.com"
+host = "http://www.dilidili.wang"
+
 # 重置redis缓存
-pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
-r = redis.Redis(connection_pool=pool)
+redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
+redis_connect = redis.Redis(connection_pool=redis_pool)
 
 # 初始化 url队列
-# r.flushdb()
-# r.set('url_deep:' + host, 0)
-# url_push(host, host, 0)
+redis_connect.flushdb()
+redis_connect.set('url_deep:' + host, 0)
+url_push(host, host, 0)
 
-is_continue = True
-while is_continue:
-    is_continue = catch(host)
+# 多工作进程运行
+process_pool = Pool(process_num)
+pipe_pool = {}
+for i in range(process_num):
+    # 重要，延长每个pipe创建的间隔
+    time_machine.sleep(0.5)
+    pipe_pool[i] = multiprocessing.Pipe()
+    process_pool.apply_async(sub_process, args=(pipe_pool[i][1],))
+    # 设置空闲进程队列
+    redis_connect.lpush('free_process', '1')
+
+# 抓取根目录
+url, deep = url_pop(host)
+pipe_pool[0][0].send(url + '------' + str(deep))
+redis_connect.brpop('free_process')
+time_machine.sleep(5)
+
+# 主进程逻辑
+i = 0
+while True:
+    redis_connect.brpop('free_process')
+    url, deep = url_pop(host)
+    if url is None:
+        # TODO 任务全部做完，等待子进程结束
+        for j in range(process_num):
+            pipe_pool[j][0].send('---end---')
+
+        process_pool.close()
+        process_pool.join()
+        print('All url done.')
+        exit()
+
+    pipe_num = i % process_num
+    pipe_pool[pipe_num][0].send(url + '------' + str(deep))
+    i = i + 1
