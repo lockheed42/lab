@@ -14,75 +14,53 @@
       <file leaf-file-name="spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            <state relative-caret-position="-139">
+              <caret line="356" column="39" lean-forward="true" selection-start-line="356" selection-start-column="39" selection-end-line="356" selection-end-column="39" />
               <folding>
                 <element signature="e#91#112#0" expanded="true" />
-                <marker date="1516166744000" expanded="true" signature="6763:6837" ph="INSERT INTO t_html... " />
-                <marker date="1516166744000" expanded="true" signature="7203:7259" ph="select * fro... t_html" />
-                <marker date="1516166744000" expanded="true" signature="7659:7733" ph="INSERT INTO t_html... " />
+                <marker date="1516269581000" expanded="true" signature="7200:7274" ph="INSERT INTO t_html... " />
+                <marker date="1516269581000" expanded="true" signature="7640:7696" ph="select * fro... t_html" />
+                <marker date="1516269581000" expanded="true" signature="8096:8170" ph="INSERT INTO t_html... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="os.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/os.py">
+      <file leaf-file-name="www.biqugezw.com_socket_send.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_send.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="-111992">
+              <caret line="10900" column="70" lean-forward="false" selection-start-line="10900" selection-start-column="70" selection-end-line="10900" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="process.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process.py">
+      <file leaf-file-name="www.biqugezw.com_socket_recv.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_recv.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="e#47#79#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="-131134">
+              <caret line="9641" column="71" lean-forward="false" selection-start-line="9641" selection-start-column="71" selection-end-line="9641" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="www.dilidili.wang_run.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/www.dilidili.wang_run.log">
+      <file leaf-file-name="www.biqugezw.com_error.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/error/www.biqugezw.com_error.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-62726">
-              <caret line="2512" column="93" lean-forward="false" selection-start-line="2512" selection-start-column="93" selection-end-line="2512" selection-end-column="93" />
+            <state relative-caret-position="656">
+              <caret line="428" column="0" lean-forward="false" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="www.dilidili.wang_skip.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/www.dilidili.wang_skip.log">
+      <file leaf-file-name="www.biqugezw.com_run.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_run.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="redis_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redis_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="-85699">
+              <caret line="11311" column="86" lean-forward="false" selection-start-line="11311" selection-start-column="86" selection-end-line="11311" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -99,20 +77,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>file</find>
-      <find>https://www.instagram.com/heavengiftscom/</find>
-      <find>long_time_task</find>
-      <find>start</find>
-      <find>ele</find>
-      <find>Pool</find>
-      <find>p</find>
-      <find>os</find>
-      <find>pool</find>
-      <find>proc2</find>
-      <find>deep</find>
-      <find>catch</find>
-      <find>accept_encoding</find>
-      <find>time</find>
       <find>process_pool</find>
       <find />
       <find>58140</find>
@@ -124,15 +88,30 @@
       <find>r.decr</find>
       <find>r.</find>
       <find>href</find>
-      <find>print</find>
       <find>pipe_pool</find>
       <find>print(</find>
       <find>process_num</find>
+      <find>dir</find>
+      <find>create_dir</find>
+      <find>root_path</find>
+      <find>url[index + suffix_len + 1:]</find>
+      <find>dir_path_array</find>
+      <find>response_parse</find>
       <find>url</find>
+      <find>content_length</find>
+      <find>content</find>
+      <find>response</find>
+      <find>print</find>
+      <find>get</find>
+      <find>pid</find>
+      <find>dir_path</find>
+      <find>redis_connect</find>
+      <find>run</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
       <replace>html</replace>
+      <replace>root_path</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -150,16 +129,20 @@
         <option value="$PROJECT_DIR$/log/error/skip.log" />
         <option value="$PROJECT_DIR$/log/error/error.log" />
         <option value="$PROJECT_DIR$/redis_test.py" />
-        <option value="$PROJECT_DIR$/request_test.py" />
-        <option value="$PROJECT_DIR$/log/error/www.heavengifts.com_error.log" />
-        <option value="$PROJECT_DIR$/log/error/www.dilidili.wang_error.log" />
         <option value="$PROJECT_DIR$/log/error/www.heiyan.com_error.log" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/process.py" />
         <option value="$PROJECT_DIR$/log/www.dilidili.wang_run.log" />
         <option value="$PROJECT_DIR$/log/www.dilidili.wang_skip.log" />
-        <option value="$PROJECT_DIR$/spider.py" />
+        <option value="$PROJECT_DIR$/log/error/www.dilidili.wang_error.log" />
+        <option value="$PROJECT_DIR$/log/www.heavengifts.com_run.log" />
+        <option value="$PROJECT_DIR$/log/error/www.heavengifts.com_error.log" />
         <option value="$PROJECT_DIR$/os.py" />
+        <option value="$PROJECT_DIR$/request_test.py" />
+        <option value="$PROJECT_DIR$/log/error/www.biqugezw.com_error.log" />
+        <option value="$PROJECT_DIR$/log/www.biqugezw.com_run.log" />
+        <option value="$PROJECT_DIR$/log/www.biqugezw.com_skip.log" />
+        <option value="$PROJECT_DIR$/spider.py" />
       </list>
     </option>
   </component>
@@ -207,6 +190,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +218,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,149 +300,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html_old/www.dilidili.wang/anime_201707_">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/www.dilidili.wang/watch3_31952_" />
-    <entry file="file://$PROJECT_DIR$/log/error/error_bak.txt" />
-    <entry file="file://$PROJECT_DIR$/log/error/error.txt" />
-    <entry file="file://$PROJECT_DIR$/html_old/www.dilidili.wang/2000xq_">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/www.swoole.com/index.html" />
-    <entry file="file://$PROJECT_DIR$/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/b1.jpg" />
-    <entry file="file://$PROJECT_DIR$/g1.jpg" />
-    <entry file="file://$PROJECT_DIR$/verify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/skip.txt" />
-    <entry file="file://$PROJECT_DIR$/html/http:__m.yue-me.com/index.html" />
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/test.log" />
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/watch3_61660_" />
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/rexue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75022">
-          <caret line="39" column="92" lean-forward="false" selection-start-line="39" selection-start-column="92" selection-end-line="39" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/run.log" />
-    <entry file="file://$PROJECT_DIR$/io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/skip.log" />
-    <entry file="file://$PROJECT_DIR$/log/error/error.log" />
-    <entry file="file://$PROJECT_DIR$/log/run.log" />
-    <entry file="file://$PROJECT_DIR$/log/skip.log" />
-    <entry file="file://$PROJECT_DIR$/log/error/www.58kuu.com_error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/588ku.com_error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/58kuu.com_error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/https:__www.heavengifts.com/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8130">
-          <caret line="542" column="67" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3017" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/https:__www.heavengifts.com/Others_c16.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/www.heavengifts.com_cookie.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/https:__www.heavengifts.com/UD_b25_Battery-MOD_c3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="1581" column="15" lean-forward="false" selection-start-line="1581" selection-start-column="15" selection-end-line="1581" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log/www.heavengifts.com_skip.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-39919">
           <caret line="4504" column="73" lean-forward="false" selection-start-line="4504" selection-start-column="73" selection-end-line="4504" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/www.heavengifts.com_run.log">
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/yingyu_" />
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_dmmhuawan2_" />
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_inuyakushi_" />
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_princess_" />
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_themoon_" />
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/q" />
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/tvdh" />
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_caonliqmnxzp2_" />
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/www.heavengifts.com_error.log">
+    <entry file="file://$PROJECT_DIR$/log/error/www.heiyan.com_error.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/request_test.py">
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/a_" />
+    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/a" />
+    <entry file="file://$PROJECT_DIR$/log/www.dilidili.wang_skip.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -467,78 +342,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/yingyu_">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3157">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_dmmhuawan2_">
+    <entry file="file://$PROJECT_DIR$/html/www.heavengifts.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/a">
+    <entry file="file://$PROJECT_DIR$/log/www.dilidili.wang_run.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-31138">
+          <caret line="6646" column="32" lean-forward="false" selection-start-line="6646" selection-start-column="32" selection-end-line="6646" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_inuyakushi_">
+    <entry file="file://$PROJECT_DIR$/html/www.heavengifts.com/Advken_b68/Accessory_c5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="317">
+          <caret line="221" column="66" lean-forward="false" selection-start-line="221" selection-start-column="66" selection-end-line="221" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_princess_">
+    <entry file="file://$PROJECT_DIR$/html/www.heavengifts.com/ProCore-Aries_b506/Cartomizer-Tank_c2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="365">
+          <caret line="348" column="66" lean-forward="true" selection-start-line="348" selection-start-column="66" selection-end-line="348" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_themoon_">
+    <entry file="file://$PROJECT_DIR$/log/www.heavengifts.com_run.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="401">
+          <caret line="8145" column="56" lean-forward="false" selection-start-line="8145" selection-start-column="56" selection-end-line="8145" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/q">
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/0_245">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-37822">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/tvdh">
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/4_4056">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-36352">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_caonliqmnxzp2_">
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/3_3090">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1841">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-9870">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/error/www.heavengifts.com_error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="2276" column="0" lean-forward="true" selection-start-line="2276" selection-start-column="0" selection-end-line="2276" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -551,15 +417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/www.heiyan.com_error.log">
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/58_58695">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -567,7 +425,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/www.dilidili.wang_skip.log">
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/17_17142">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4052">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60875">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -575,41 +441,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/process.py">
+    <entry file="file://$PROJECT_DIR$/html/www.dilidili.wang/c4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="-19045">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.dilidili.wang/geass/akito">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/http:__588ku.com/?m=Company&amp;a=sponsor&amp;type=2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9186">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60865">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="250" column="24" lean-forward="true" selection-start-line="250" selection-start-column="24" selection-end-line="250" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.dilidili.wang/anime2/qjlrjcb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60882.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/paihangbang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/58_58833/9943979.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60891/9943949.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#47#79#0" expanded="true" />
+            <marker date="1516269052000" expanded="true" signature="8675:8678" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/www.dilidili.wang_run.log">
+    <entry file="file://$PROJECT_DIR$/request_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62726">
-          <caret line="2512" column="93" lean-forward="false" selection-start-line="2512" selection-start-column="93" selection-end-line="2512" selection-end-column="93" />
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/os.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#79#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_skip.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/0_327/9943395.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2024">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/11_11244/9780801.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/11_11244/8672957.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2984">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_recv.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131134">
+          <caret line="9641" column="71" lean-forward="false" selection-start-line="9641" selection-start-column="71" selection-end-line="9641" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/error/www.biqugezw.com_error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="428" column="0" lean-forward="false" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_run.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85699">
+          <caret line="11311" column="86" lean-forward="false" selection-start-line="11311" selection-start-column="86" selection-end-line="11311" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_send.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111992">
+          <caret line="10900" column="70" lean-forward="false" selection-start-line="10900" selection-start-column="70" selection-end-line="10900" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        <state relative-caret-position="-139">
+          <caret line="356" column="39" lean-forward="true" selection-start-line="356" selection-start-column="39" selection-end-line="356" selection-end-column="39" />
           <folding>
             <element signature="e#91#112#0" expanded="true" />
-            <marker date="1516166744000" expanded="true" signature="6763:6837" ph="INSERT INTO t_html... " />
-            <marker date="1516166744000" expanded="true" signature="7203:7259" ph="select * fro... t_html" />
-            <marker date="1516166744000" expanded="true" signature="7659:7733" ph="INSERT INTO t_html... " />
+            <marker date="1516269581000" expanded="true" signature="7200:7274" ph="INSERT INTO t_html... " />
+            <marker date="1516269581000" expanded="true" signature="7640:7696" ph="select * fro... t_html" />
+            <marker date="1516269581000" expanded="true" signature="8096:8170" ph="INSERT INTO t_html... " />
           </folding>
         </state>
       </provider>

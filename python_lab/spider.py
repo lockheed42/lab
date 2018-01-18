@@ -27,7 +27,7 @@ import multiprocessing
 def error_log(e):
     global host
     with open("./log/error/" + get_domain(host) + "_error.log", 'a') as f:
-        f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(traceback.format_exc()) + '\n')
+        f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(os.getpid()) + '  ' + str(traceback.format_exc()) + '\n')
 
 
 '''
@@ -36,6 +36,7 @@ def error_log(e):
 
 
 def log(file, content):
+    global host
     with open("./log/" + get_domain(host) + "_" + file + ".log", 'a') as f:
         f.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(content) + '\n')
 
@@ -48,6 +49,7 @@ html源文件保存
 
 def save_html(url, content):
     url = get_domain(url)
+    url = url.strip('/')
     index = -1
     suffix_len = 0
     for suffix in get_domain_suffix():
@@ -60,16 +62,30 @@ def save_html(url, content):
     if index == -1:
         file = url.replace('/', '_')
     else:
-        dir = url[:index + suffix_len]
-        dir = dir.replace('/', '_')
-        if not os.path.exists("./html/" + dir):
-            os.mkdir("./html/" + dir)
-        if url[index + suffix_len + 1:] == '':
-            file_name = 'index.html'
-        else:
-            file_name = url[index + suffix_len + 1:].replace('/', '_')
+        root_path = url[:index + suffix_len]
+        if not os.path.exists("./html/" +root_path):
+            os.mkdir("./html/" +root_path)
+        dir_path = url[index + suffix_len + 1:]
+        # 根目录
+        if dir_path == '':
+            dir_path = 'index.html'
 
-        file = dir + '/' + file_name
+        # 迭代创建目录
+        dir_path_array = dir_path.split('/')
+        tmp_dir = "./html/" +root_path
+        for dir_block in dir_path_array:
+            if dir_block == dir_path_array[-1]:
+                # 添加文件后缀，防止文件与目录重名
+                if dir_block.find('.') == -1:
+                    dir_path = dir_path + '.html'
+                continue
+
+            if not os.path.isdir(tmp_dir + '/' + dir_block):
+                os.mkdir(tmp_dir + '/' + dir_block)
+
+            tmp_dir = tmp_dir + '/' + dir_block
+
+        file = root_path + '/' + dir_path
 
     # 把html文件写入。存入html路径下
     with open("./html/" + file, 'w') as f:
@@ -170,6 +186,8 @@ def get_host(url):
 '''
 请求程序，模拟真实用户
 还需要优化
+
+响应程序，处理相应数据以及模拟处理
 '''
 
 
@@ -183,15 +201,8 @@ def request_parse(url):
     headers = {'Accept': accept, 'Accept-Language': accept_language,
                'Connection': connection, 'User-Agent': user_agent, 'Cache-Control': cache_control}
     req = urllib.request.Request(url, headers=headers)
-    return urllib.request.urlopen(req)
+    response = urllib.request.urlopen(req)
 
-
-'''
-响应程序，处理相应数据以及模拟处理
-'''
-
-
-def response_parse(response):
     # 检测是否分块发送
     content_length = 0
     transfer_encoding = response.headers.get('Transfer-Encoding')
@@ -200,7 +211,7 @@ def response_parse(response):
         content_length = response.headers.get('content-length')
         if int(content_length) > 10485760:
             log('too_large', url + '  返回大小: ' + str(content_length))
-            return True
+            return '', 0
 
     # 有 Set-Cookie响应时保存 TODO 暂时关闭
     # set_cookie = response.headers.get('Set-Cookie')
@@ -211,7 +222,7 @@ def response_parse(response):
     # 读取内容
     res = response.read()
     # TODO 编码可配置
-    return res.decode('utf-8'), content_length
+    return res.decode('gbk'), content_length
 
 
 '''
@@ -233,8 +244,7 @@ def catch(url, deep, redis_connect):
             return True
 
         # 抓取数据
-        response = request_parse(url)
-        content, content_length = response_parse(response)
+        content, content_length = request_parse(url)
         real_length = len(content)
 
         # 记录当前正在抓取的url
@@ -323,7 +333,9 @@ def catch(url, deep, redis_connect):
         return True
 
 
-# 子进程
+'''
+爬取子进程
+'''
 def sub_process(pipe):
     # 为每次子进程提供一个连接池
     redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
@@ -332,6 +344,7 @@ def sub_process(pipe):
     is_continue = True
     while is_continue:
         message = pipe.recv()
+        log('pipe_recv', str(os.getpid()) + '  ' + message)
         print("recv:", message)
         # 收到结束信号中止循环
         if message == '---end---':
@@ -346,12 +359,11 @@ def sub_process(pipe):
 
 
 # 抓取深度限制
-deep_limit = 3
+deep_limit = 6
 # 进程数
-process_num = 10
+process_num = 50
 # 根域名
-host = "https://www.heavengifts.com"
-host = "http://www.dilidili.wang"
+host = "http://www.biqugezw.com"
 
 # 重置redis缓存
 redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
@@ -377,7 +389,7 @@ for i in range(process_num):
 url, deep = url_pop(host)
 pipe_pool[0][0].send(url + '------' + str(deep))
 redis_connect.brpop('free_process')
-time_machine.sleep(5)
+time_machine.sleep(10)
 
 # 主进程逻辑
 i = 0
@@ -385,7 +397,7 @@ while True:
     redis_connect.brpop('free_process')
     url, deep = url_pop(host)
     if url is None:
-        # TODO 任务全部做完，等待子进程结束
+        # 任务全部做完，发送信号给子程序，并等待子进程结束
         for j in range(process_num):
             pipe_pool[j][0].send('---end---')
 
@@ -395,5 +407,6 @@ while True:
         exit()
 
     pipe_num = i % process_num
+    log('pipe_send', url + '------' + str(deep))
     pipe_pool[pipe_num][0].send(url + '------' + str(deep))
     i = i + 1

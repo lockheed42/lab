@@ -5,3 +5,6 @@
 __author__ = 'lockheed'
 
 import os
+
+rs = os.path.isdir('./html/www.biqugezw.com/modules/articl')
+print(rs)
