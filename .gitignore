@@ -1,5 +1,6 @@
 # 编辑器
 .idea
 python_lab/.idea
-python_lab/html/
-python_lab/log/
+html/
+html_old/
+log/

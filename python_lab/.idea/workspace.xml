@@ -14,54 +14,14 @@
       <file leaf-file-name="spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-139">
-              <caret line="356" column="39" lean-forward="true" selection-start-line="356" selection-start-column="39" selection-end-line="356" selection-end-column="39" />
+            <state relative-caret-position="95">
+              <caret line="316" column="33" lean-forward="true" selection-start-line="316" selection-start-column="33" selection-end-line="316" selection-end-column="33" />
               <folding>
                 <element signature="e#91#112#0" expanded="true" />
-                <marker date="1516269581000" expanded="true" signature="7200:7274" ph="INSERT INTO t_html... " />
-                <marker date="1516269581000" expanded="true" signature="7640:7696" ph="select * fro... t_html" />
-                <marker date="1516269581000" expanded="true" signature="8096:8170" ph="INSERT INTO t_html... " />
+                <marker date="1516344310000" expanded="true" signature="5246:5247" ph="..." />
+                <marker date="1516344310000" expanded="true" signature="5253:6874" ph="..." />
+                <marker date="1516344310000" expanded="true" signature="9246:9389" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="www.biqugezw.com_socket_send.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_send.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111992">
-              <caret line="10900" column="70" lean-forward="false" selection-start-line="10900" selection-start-column="70" selection-end-line="10900" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="www.biqugezw.com_socket_recv.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_recv.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-131134">
-              <caret line="9641" column="71" lean-forward="false" selection-start-line="9641" selection-start-column="71" selection-end-line="9641" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="www.biqugezw.com_error.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/error/www.biqugezw.com_error.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="428" column="0" lean-forward="false" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="www.biqugezw.com_run.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_run.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85699">
-              <caret line="11311" column="86" lean-forward="false" selection-start-line="11311" selection-start-column="86" selection-end-line="11311" selection-end-column="86" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -77,8 +37,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>process_pool</find>
-      <find />
       <find>58140</find>
       <find>58136</find>
       <find>60342</find>
@@ -107,6 +65,8 @@
       <find>dir_path</find>
       <find>redis_connect</find>
       <find>run</find>
+      <find>'run'</find>
+      <find>html</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -189,8 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,26 +156,12 @@
               <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_lab" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_lab" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_lab" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_lab" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-              <item name="error" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,18 +209,16 @@
     <frame x="-1716" y="42" width="1613" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18970862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18970862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -284,6 +226,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -293,6 +237,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="5" />
@@ -300,18 +249,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/log/www.heavengifts.com_skip.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39919">
-          <caret line="4504" column="73" lean-forward="false" selection-start-line="4504" selection-start-column="73" selection-end-line="4504" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/yingyu_" />
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_dmmhuawan2_" />
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_inuyakushi_" />
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_princess_" />
-    <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_themoon_" />
     <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/q" />
     <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/tvdh" />
     <entry file="file://$PROJECT_DIR$/html/http:__www.dilidili.wang/anime_caonliqmnxzp2_" />
@@ -401,35 +338,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/www.heavengifts.com_error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="2276" column="0" lean-forward="true" selection-start-line="2276" selection-start-column="0" selection-end-line="2276" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/log/error/www.heavengifts.com_error.log" />
     <entry file="file://$PROJECT_DIR$/log/error/www.dilidili.wang_error.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/58_58695">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/58_58695" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/17_17142">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4052">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-19045">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,7 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,7 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9186">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="250" column="24" lean-forward="true" selection-start-line="250" selection-start-column="24" selection-end-line="250" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,23 +393,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/.html" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60882.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -525,9 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1516269052000" expanded="true" signature="8675:8678" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,7 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#47#79#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -561,7 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,7 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2024">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,51 +478,98 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2984">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_recv.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131134">
-          <caret line="9641" column="71" lean-forward="false" selection-start-line="9641" selection-start-column="71" selection-end-line="9641" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/error/www.biqugezw.com_error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="428" column="0" lean-forward="false" selection-start-line="428" selection-start-column="0" selection-end-line="428" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_run.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85699">
-          <caret line="11311" column="86" lean-forward="false" selection-start-line="11311" selection-start-column="86" selection-end-line="11311" selection-end-column="86" />
-          <folding />
+        <state relative-caret-position="788">
+          <caret line="17936" column="73" lean-forward="true" selection-start-line="17936" selection-start-column="73" selection-end-line="17936" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_send.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111992">
-          <caret line="10900" column="70" lean-forward="false" selection-start-line="10900" selection-start-column="70" selection-end-line="10900" selection-end-column="70" />
-          <folding />
+        <state relative-caret-position="803">
+          <caret line="17909" column="22" lean-forward="false" selection-start-line="17909" selection-start-column="22" selection-end-line="17909" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/43_43550/9943919.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/27_27927/9943614.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/14_14010/4112112.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-707">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/0_413/688435.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_run.log">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="713">
+          <caret line="13166" column="16" lean-forward="false" selection-start-line="13166" selection-start-column="16" selection-end-line="13166" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="13169" column="67" lean-forward="true" selection-start-line="13169" selection-start-column="67" selection-end-line="13169" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/0_275.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5711">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/kehuanlingyi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/error/www.biqugezw.com_error.log">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="623">
+          <caret line="16368" column="63" lean-forward="true" selection-start-line="16368" selection-start-column="63" selection-end-line="16368" selection-end-column="63" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-5757">
+          <caret line="577" column="23" lean-forward="false" selection-start-line="577" selection-start-column="23" selection-end-line="577" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="356" column="39" lean-forward="true" selection-start-line="356" selection-start-column="39" selection-end-line="356" selection-end-column="39" />
+        <state relative-caret-position="95">
+          <caret line="316" column="33" lean-forward="true" selection-start-line="316" selection-start-column="33" selection-end-line="316" selection-end-column="33" />
           <folding>
             <element signature="e#91#112#0" expanded="true" />
-            <marker date="1516269581000" expanded="true" signature="7200:7274" ph="INSERT INTO t_html... " />
-            <marker date="1516269581000" expanded="true" signature="7640:7696" ph="select * fro... t_html" />
-            <marker date="1516269581000" expanded="true" signature="8096:8170" ph="INSERT INTO t_html... " />
+            <marker date="1516344310000" expanded="true" signature="5246:5247" ph="..." />
+            <marker date="1516344310000" expanded="true" signature="5253:6874" ph="..." />
+            <marker date="1516344310000" expanded="true" signature="9246:9389" ph="..." />
           </folding>
         </state>
       </provider>

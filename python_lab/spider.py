@@ -63,8 +63,8 @@ def save_html(url, content):
         file = url.replace('/', '_')
     else:
         root_path = url[:index + suffix_len]
-        if not os.path.exists("./html/" +root_path):
-            os.mkdir("./html/" +root_path)
+        if not os.path.exists("../html/" +root_path):
+            os.mkdir("../html/" +root_path)
         dir_path = url[index + suffix_len + 1:]
         # 根目录
         if dir_path == '':
@@ -72,12 +72,12 @@ def save_html(url, content):
 
         # 迭代创建目录
         dir_path_array = dir_path.split('/')
-        tmp_dir = "./html/" +root_path
+        tmp_dir = "../html/" +root_path
         for dir_block in dir_path_array:
             if dir_block == dir_path_array[-1]:
                 # 添加文件后缀，防止文件与目录重名
                 if dir_block.find('.') == -1:
-                    dir_path = dir_path + '.html'
+                    dir_path = dir_path + '..html'
                 continue
 
             if not os.path.isdir(tmp_dir + '/' + dir_block):
@@ -88,7 +88,7 @@ def save_html(url, content):
         file = root_path + '/' + dir_path
 
     # 把html文件写入。存入html路径下
-    with open("./html/" + file, 'w') as f:
+    with open("../html/" + file, 'w') as f:
         f.write(content)
 
 
@@ -224,9 +224,55 @@ def request_parse(url):
     # TODO 编码可配置
     return res.decode('gbk'), content_length
 
+'''
+插入数据库，暂时搁置
+'''
+def insert():
+    # connection = pymysql.connect(host='localhost',
+    #                              user='root',
+    #                              password='',
+    #                              db='test',
+    #                              port=3306,
+    #                              charset='utf8')
+    #
+    # if deep == 0:
+    #     # 插入首页html
+    #     pid = 0
+    #     sql_main = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
+    #     sql_main = sql_main + "('" + get_domain(host) + "','" + url + "'," + str(pid) + ", '" + str(
+    #         deep) + "','" + time + "')"
+    #
+    #     with connection.cursor() as cursor:
+    #         cursor.execute(sql_main)
+    #         connection.commit()
+    # else:
+    #     # 查询当前url的id
+    #     sql_main = "select * from t_html where `current_url` = '" + url + "'"
+    #     with connection.cursor() as cursor:
+    #         cursor.execute(sql_main)
+    #         data = cursor.fetchone()
+    #         connection.commit()
+    #     if data is not None:
+    #         pid = data[0]
+    #     else:
+    #         pid = -1
+    #         log('skip', '  在数据库被未插入  ' + str(url))
+    #
+    # # 插入当前html下的子链接
+    # sql = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
+    # for ele in href:
+    #     if ele is not None and ele[:4] == 'http':
+    #         sql = sql + "('" + get_domain(host) + "','" + ele + "','" + str(pid) + "','" + str(
+    #             deep + 1) + "','" + time + "'),"
+    # sql = sql.rstrip(',')
+    #
+    # with connection.cursor() as cursor:
+    #     cursor.execute(sql)
+    #     connection.commit()
+
 
 '''
-主程序
+抓取程序
 '''
 
 
@@ -284,49 +330,6 @@ def catch(url, deep, redis_connect):
             else:
                 # TODO 非同一域名另外保存根目录
                 log('skip', str(os.getpid()) + '  ' + '  非同一域名  ' + str(host) + '  ' + str(ele))
-
-        # connection = pymysql.connect(host='localhost',
-        #                              user='root',
-        #                              password='',
-        #                              db='test',
-        #                              port=3306,
-        #                              charset='utf8')
-        #
-        # if deep == 0:
-        #     # 插入首页html
-        #     pid = 0
-        #     sql_main = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
-        #     sql_main = sql_main + "('" + get_domain(host) + "','" + url + "'," + str(pid) + ", '" + str(
-        #         deep) + "','" + time + "')"
-        #
-        #     with connection.cursor() as cursor:
-        #         cursor.execute(sql_main)
-        #         connection.commit()
-        # else:
-        #     # 查询当前url的id
-        #     sql_main = "select * from t_html where `current_url` = '" + url + "'"
-        #     with connection.cursor() as cursor:
-        #         cursor.execute(sql_main)
-        #         data = cursor.fetchone()
-        #         connection.commit()
-        #     if data is not None:
-        #         pid = data[0]
-        #     else:
-        #         pid = -1
-        #         log('skip', '  在数据库被未插入  ' + str(url))
-        #
-        # # 插入当前html下的子链接
-        # sql = "INSERT INTO t_html (`domain`,`current_url`, `pid`, `deep`, `cdate`) VALUES "
-        # for ele in href:
-        #     if ele is not None and ele[:4] == 'http':
-        #         sql = sql + "('" + get_domain(host) + "','" + ele + "','" + str(pid) + "','" + str(
-        #             deep + 1) + "','" + time + "'),"
-        # sql = sql.rstrip(',')
-        #
-        # with connection.cursor() as cursor:
-        #     cursor.execute(sql)
-        #     connection.commit()
-
         return True
     except BaseException as e:
         error_log(e)
@@ -357,56 +360,76 @@ def sub_process(pipe):
         catch(url, deep, redis_connect)
         redis_connect.lpush('free_process', str(os.getpid()))
 
+'''
+追加可执行子进程份额
+'''
+def add_limit(process_num):
+    # 重置redis缓存
+    redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
+    redis_connect = redis.Redis(connection_pool=redis_pool)
 
-# 抓取深度限制
-deep_limit = 6
-# 进程数
-process_num = 50
-# 根域名
-host = "http://www.biqugezw.com"
+    # 多工作进程运行
+    pipe_pool = {}
+    for i in range(process_num):
+        # 设置空闲进程队列
+        redis_connect.lpush('free_process', '1')
 
-# 重置redis缓存
-redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
-redis_connect = redis.Redis(connection_pool=redis_pool)
+'''
+main
+'''
+def main():
+    # 抓取深度限制
+    deep_limit = 6
+    # 进程数
+    process_num = 50
+    # 根域名
+    host = "http://www.biqugezw.com"
 
-# 初始化 url队列
-redis_connect.flushdb()
-redis_connect.set('url_deep:' + host, 0)
-url_push(host, host, 0)
+    # 重置redis缓存
+    redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379)
+    redis_connect = redis.Redis(connection_pool=redis_pool)
 
-# 多工作进程运行
-process_pool = Pool(process_num)
-pipe_pool = {}
-for i in range(process_num):
-    # 重要，延长每个pipe创建的间隔
-    time_machine.sleep(0.5)
-    pipe_pool[i] = multiprocessing.Pipe()
-    process_pool.apply_async(sub_process, args=(pipe_pool[i][1],))
-    # 设置空闲进程队列
-    redis_connect.lpush('free_process', '1')
+    # 初始化 url队列
+    redis_connect.flushdb()
+    redis_connect.set('url_deep:' + host, 0)
+    url_push(host, host, 0)
 
-# 抓取根目录
-url, deep = url_pop(host)
-pipe_pool[0][0].send(url + '------' + str(deep))
-redis_connect.brpop('free_process')
-time_machine.sleep(10)
+    # 多工作进程运行
+    process_pool = Pool(process_num)
+    pipe_pool = {}
+    for i in range(process_num):
+        # 重要，延长每个pipe创建的间隔
+        time_machine.sleep(0.5)
+        pipe_pool[i] = multiprocessing.Pipe()
+        process_pool.apply_async(sub_process, args=(pipe_pool[i][1],))
+        # 设置空闲进程队列
+        redis_connect.lpush('free_process', '1')
 
-# 主进程逻辑
-i = 0
-while True:
-    redis_connect.brpop('free_process')
+    # 抓取根目录
     url, deep = url_pop(host)
-    if url is None:
-        # 任务全部做完，发送信号给子程序，并等待子进程结束
-        for j in range(process_num):
-            pipe_pool[j][0].send('---end---')
+    pipe_pool[0][0].send(url + '------' + str(deep))
+    redis_connect.brpop('free_process')
+    time_machine.sleep(10)
 
-        process_pool.close()
-        process_pool.join()
-        print('All url done.')
-        exit()
+    # 主进程逻辑
+    i = 0
+    while True:
+        redis_connect.brpop('free_process')
+        url, deep = url_pop(host)
+        if url is None:
+            # 任务全部做完，发送信号给子程序，并等待子进程结束
+            for j in range(process_num):
+                pipe_pool[j][0].send('---end---')
 
-    pipe_num = i % process_num
-    log('pipe_send', url + '------' + str(deep))
-    pipe_pool[pipe_num][0].send(url + '------' + str(deep))
-    i = i + 1
+            process_pool.close()
+            process_pool.join()
+            print('All url done.')
+            exit()
+
+        pipe_num = i % process_num
+        log('pipe_send', url + '------' + str(deep))
+        pipe_pool[pipe_num][0].send(url + '------' + str(deep))
+        i = i + 1
+
+
+main()
