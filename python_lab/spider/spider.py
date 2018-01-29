@@ -303,7 +303,6 @@ def catch(url, deep, redis_connect):
         log('run',
             str(os.getpid()) + '  ' + url + '  ' + str(content_length) + 'byte  ' + str(real_length) + 'byte  ' + str(
                 deep))
-        print("done:", str(os.getpid()) + ' ' + url + '-----' + str(deep))
 
         # 链接列表
         href = []
@@ -331,6 +330,9 @@ def catch(url, deep, redis_connect):
                 ele = host + ele
             # 继续抓取同一域名下的资源
             if get_host(ele) == host:
+                # 阻止已抓取的页面丢入队列
+                if url_is_get(ele) == False:
+                    continue
                 url_push(host, ele, deep + 1)
             else:
                 # TODO 非同一域名另外保存根目录
@@ -431,7 +433,7 @@ main
 # 抓取深度限制
 deep_limit = 6
 # 进程数
-process_num = 50
+process_num = 40
 # 下载的html资源文件保存地址
 html_res_path = '/Library/WebServer/Documents/code/spider_res/html'
 # 日志文件保存地址
