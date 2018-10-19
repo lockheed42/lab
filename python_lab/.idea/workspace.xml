@@ -11,67 +11,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="redis2txt.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/redis2txt.py">
+      <file leaf-file-name="catch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/turtle/catch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="296">
+              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
               <folding>
-                <element signature="e#143#152#0" expanded="true" />
+                <element signature="e#90#110#0" expanded="true" />
+                <marker date="1539934709000" expanded="true" signature="1168:1207" ph="select * fro... src_industry" />
+                <marker date="1539934709000" expanded="true" signature="1168:1209" ph="select * fro... src_industry" />
+                <marker date="1539934709000" expanded="true" signature="1168:1226" ph="SELECT * FRO... src_industry" />
+                <marker date="1539934709000" expanded="true" signature="1311:1418" ph="INSERT INTO src_stock... " />
+                <marker date="1539934709000" expanded="true" signature="1452:1590" ph="INSERT INTO src_stock... " />
+                <marker date="1539934709000" expanded="true" signature="1452:1591" ph="INSERT INTO src_stock... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="455" column="56" lean-forward="false" selection-start-line="455" selection-start-column="56" selection-end-line="455" selection-end-column="56" />
+            <state relative-caret-position="-2478">
+              <caret line="244" column="24" lean-forward="true" selection-start-line="244" selection-start-column="24" selection-end-line="244" selection-end-column="24" />
               <folding>
                 <element signature="e#91#112#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/pybloom/tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bloom_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bloom_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pybloom.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/pybloom/pybloom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="84" column="41" lean-forward="false" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="benchmarks.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/pybloom/benchmarks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="79" lean-forward="false" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
-              <folding>
-                <element signature="e#96#106#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,36 +52,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>get</find>
-      <find>pid</find>
-      <find>dir_path</find>
-      <find>run</find>
-      <find>'run'</find>
-      <find>html</find>
-      <find>deep_limit</find>
-      <find>./log</find>
-      <find>'free_process'</find>
-      <find>free_process</find>
-      <find>.html</find>
-      <find>./html</find>
-      <find>../html</find>
-      <find>../log</find>
-      <find>benchmarks</find>
-      <find>num_salts</find>
-      <find>../../</find>
-      <find>html_res_path</find>
-      <find>queue_key</find>
-      <find>_make_hashfuncs</find>
-      <find>redis_connect</find>
-      <find>loop</find>
-      <find>url_queue_key</find>
-      <find>5</find>
-      <find>replace</find>
-      <find>url_deep_key</find>
+      <find>strip</find>
+      <find>process_pool</find>
+      <find>sub_process</find>
+      <find>i</find>
+      <find>pipe_pool</find>
+      <find>ConnectionPool</find>
+      <find>os.getpid()</find>
+      <find>error_log</find>
+      <find>os.</find>
       <find>print</find>
-      <find>host</find>
-      <find>url</find>
-      <find>pipe</find>
+      <find>deep_limit</find>
+      <find>print(</find>
+      <find>抓取程序</find>
+      <find>port</find>
+      <find>int(</find>
+      <find>redis</find>
+      <find>path</find>
+      <find>https</find>
+      <find>count</find>
+      <find>time</find>
+      <find>time_machine</find>
+      <find>list</find>
+      <find>get_domain</find>
+      <find>lstrip</find>
+      <find>redis_connect</find>
+      <find>initial_capacity</find>
+      <find>pymysql</find>
+      <find>mysql_commit</find>
+      <find>sql_main</find>
+      <find>cursor.fetchone()</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -125,6 +89,10 @@
       <replace>root_path</replace>
       <replace>'free_process' + host</replace>
       <replace>../../spider_res/log</replace>
+      <replace>decode_responses=True</replace>
+      <replace>sub_id</replace>
+      <replace>time</replace>
+      <replace>_get_domain</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -143,7 +111,6 @@
         <option value="$PROJECT_DIR$/log/error/error.log" />
         <option value="$PROJECT_DIR$/redis_test.py" />
         <option value="$PROJECT_DIR$/log/error/www.heiyan.com_error.log" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/process.py" />
         <option value="$PROJECT_DIR$/log/www.dilidili.wang_run.log" />
         <option value="$PROJECT_DIR$/log/www.dilidili.wang_skip.log" />
@@ -156,9 +123,14 @@
         <option value="$PROJECT_DIR$/log/www.biqugezw.com_run.log" />
         <option value="$PROJECT_DIR$/log/www.biqugezw.com_skip.log" />
         <option value="$PROJECT_DIR$/spider.py" />
-        <option value="$PROJECT_DIR$/bloom_test.py" />
         <option value="$PROJECT_DIR$/spider/redis2txt.py" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/bloom_test.py" />
+        <option value="$PROJECT_DIR$/spider/tool.py" />
         <option value="$PROJECT_DIR$/spider/spider.py" />
+        <option value="$PROJECT_DIR$/tushare.py" />
+        <option value="$PROJECT_DIR$/turtle/catch.py" />
       </list>
     </option>
   </component>
@@ -169,10 +141,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
+    <option name="x" value="-1660" />
     <option name="y" value="23" />
-    <option name="width" value="1815" />
-    <option name="height" value="1057" />
+    <option name="width" value="1614" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -206,6 +178,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,15 +191,19 @@
               <item name="python_lab" type="462c0819:PsiDirectoryNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_lab" type="462c0819:PsiDirectoryNode" />
+              <item name="turtle" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -295,7 +272,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1815" height="1057" extended-state="0" />
+    <frame x="-1660" y="23" width="1614" height="1045" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -303,7 +281,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16859505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1654275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -337,22 +315,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/log/www.dilidili.wang_skip.log" />
-    <entry file="file://$PROJECT_DIR$/redis_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/www.heavengifts.com/index.html" />
-    <entry file="file://$PROJECT_DIR$/log/www.dilidili.wang_run.log" />
-    <entry file="file://$PROJECT_DIR$/html/www.heavengifts.com/Advken_b68/Accessory_c5.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.heavengifts.com/ProCore-Aries_b506/Cartomizer-Tank_c2.html" />
-    <entry file="file://$PROJECT_DIR$/log/www.heavengifts.com_run.log" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/0_245" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/4_4056" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/3_3090" />
     <entry file="file://$PROJECT_DIR$/log/error/www.heavengifts.com_error.log" />
     <entry file="file://$PROJECT_DIR$/log/error/www.dilidili.wang_error.log" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/58_58695" />
@@ -401,48 +363,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/pybloom/utils.py">
+    <entry file="file://$PROJECT_DIR$/spider.py" />
+    <entry file="file://$PROJECT_DIR$/redis_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider.py">
+    <entry file="file://$PROJECT_DIR$/spider/impot.py" />
+    <entry file="file://$PROJECT_DIR$/cmd.txt" />
+    <entry file="file://$PROJECT_DIR$/spider/test.py" />
+    <entry file="file://$PROJECT_DIR$/thread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bloom_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/spider/pybloom/benchmarks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="240">
           <caret line="16" column="79" lean-forward="false" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
-          <folding>
-            <element signature="e#96#106#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tushare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/pybloom/pybloom.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="84" column="41" lean-forward="false" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="4860">
+          <caret line="328" column="26" lean-forward="false" selection-start-line="328" selection-start-column="26" selection-end-line="328" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -450,26 +411,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/redis2txt.py">
+    <entry file="file://$PROJECT_DIR$/spider/pybloom/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding>
-            <element signature="e#143#152#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloom_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cmd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="455" column="56" lean-forward="false" selection-start-line="455" selection-start-column="56" selection-end-line="455" selection-end-column="56" />
+        <state relative-caret-position="-2478">
+          <caret line="244" column="24" lean-forward="true" selection-start-line="244" selection-start-column="24" selection-end-line="244" selection-end-column="24" />
           <folding>
             <element signature="e#91#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle/catch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="e#90#110#0" expanded="true" />
+            <marker date="1539934709000" expanded="true" signature="1168:1207" ph="select * fro... src_industry" />
+            <marker date="1539934709000" expanded="true" signature="1168:1209" ph="select * fro... src_industry" />
+            <marker date="1539934709000" expanded="true" signature="1168:1226" ph="SELECT * FRO... src_industry" />
+            <marker date="1539934709000" expanded="true" signature="1311:1418" ph="INSERT INTO src_stock... " />
+            <marker date="1539934709000" expanded="true" signature="1452:1590" ph="INSERT INTO src_stock... " />
+            <marker date="1539934709000" expanded="true" signature="1452:1591" ph="INSERT INTO src_stock... " />
           </folding>
         </state>
       </provider>
