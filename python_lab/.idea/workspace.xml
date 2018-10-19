@@ -14,17 +14,24 @@
       <file leaf-file-name="catch.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/turtle/catch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="168">
+              <caret line="50" column="48" lean-forward="true" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
               <folding>
                 <element signature="e#90#110#0" expanded="true" />
-                <marker date="1539934709000" expanded="true" signature="1168:1207" ph="select * fro... src_industry" />
-                <marker date="1539934709000" expanded="true" signature="1168:1209" ph="select * fro... src_industry" />
-                <marker date="1539934709000" expanded="true" signature="1168:1226" ph="SELECT * FRO... src_industry" />
-                <marker date="1539934709000" expanded="true" signature="1311:1418" ph="INSERT INTO src_stock... " />
-                <marker date="1539934709000" expanded="true" signature="1452:1590" ph="INSERT INTO src_stock... " />
-                <marker date="1539934709000" expanded="true" signature="1452:1591" ph="INSERT INTO src_stock... " />
+                <marker date="1539943578000" expanded="true" signature="1520:1578" ph="SELECT * FRO... src_industry" />
+                <marker date="1539943578000" expanded="true" signature="1686:1773" ph="INSERT INTO src_industry... " />
+                <marker date="1539943578000" expanded="true" signature="2396:2615" ph="INSERT INTO src_stock... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stock_error.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/turtle/log/stock_error.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="92" column="21" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -32,8 +39,8 @@
       <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2478">
-              <caret line="244" column="24" lean-forward="true" selection-start-line="244" selection-start-column="24" selection-end-line="244" selection-end-column="24" />
+            <state relative-caret-position="291">
+              <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="21" />
               <folding>
                 <element signature="e#91#112#0" expanded="true" />
               </folding>
@@ -52,11 +59,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>strip</find>
-      <find>process_pool</find>
-      <find>sub_process</find>
-      <find>i</find>
-      <find>pipe_pool</find>
       <find>ConnectionPool</find>
       <find>os.getpid()</find>
       <find>error_log</find>
@@ -79,9 +81,14 @@
       <find>redis_connect</find>
       <find>initial_capacity</find>
       <find>pymysql</find>
-      <find>mysql_commit</find>
       <find>sql_main</find>
       <find>cursor.fetchone()</find>
+      <find>ctime</find>
+      <find>try</find>
+      <find>log_path</find>
+      <find>BaseException</find>
+      <find>traceback</find>
+      <find>mysql_commit</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -93,6 +100,7 @@
       <replace>sub_id</replace>
       <replace>time</replace>
       <replace>_get_domain</replace>
+      <replace>mysql_insert</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -195,6 +203,12 @@
               <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_lab" type="462c0819:PsiDirectoryNode" />
               <item name="turtle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_lab" type="462c0819:PsiDirectoryNode" />
+              <item name="turtle" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -315,7 +329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/log/error/www.heavengifts.com_error.log" />
     <entry file="file://$PROJECT_DIR$/log/error/www.dilidili.wang_error.log" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/58_58695" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/17_17142" />
@@ -451,26 +464,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2478">
-          <caret line="244" column="24" lean-forward="true" selection-start-line="244" selection-start-column="24" selection-end-line="244" selection-end-column="24" />
+        <state relative-caret-position="291">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="21" />
           <folding>
             <element signature="e#91#112#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/turtle/log/stock_error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="92" column="21" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/turtle/catch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="168">
+          <caret line="50" column="48" lean-forward="true" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
           <folding>
             <element signature="e#90#110#0" expanded="true" />
-            <marker date="1539934709000" expanded="true" signature="1168:1207" ph="select * fro... src_industry" />
-            <marker date="1539934709000" expanded="true" signature="1168:1209" ph="select * fro... src_industry" />
-            <marker date="1539934709000" expanded="true" signature="1168:1226" ph="SELECT * FRO... src_industry" />
-            <marker date="1539934709000" expanded="true" signature="1311:1418" ph="INSERT INTO src_stock... " />
-            <marker date="1539934709000" expanded="true" signature="1452:1590" ph="INSERT INTO src_stock... " />
-            <marker date="1539934709000" expanded="true" signature="1452:1591" ph="INSERT INTO src_stock... " />
+            <marker date="1539943578000" expanded="true" signature="1520:1578" ph="SELECT * FRO... src_industry" />
+            <marker date="1539943578000" expanded="true" signature="1686:1773" ph="INSERT INTO src_industry... " />
+            <marker date="1539943578000" expanded="true" signature="2396:2615" ph="INSERT INTO src_stock... " />
           </folding>
         </state>
       </provider>
