@@ -374,79 +374,15 @@ def init_redis(host):
     redis_connect.delete('free_process:' + host)
     for deep in range(20):
         redis_connect.delete("url_queue:" + host + ":" + str(deep))
+    redis_connect.set('url_deep:' + host, 0)
     return
 
 
 '''
 main
 '''
-# # 抓取深度限制
-# deep_limit = 10
-# # 进程数
-# process_num = 60
-# # 下载的html资源文件保存地址
-# html_res_path = '/Library/WebServer/Documents/code/spider_res/html'
-# # 日志文件保存地址
-# log_path = '/Library/WebServer/Documents/code/spider_res/log'
-# error_log_path = '/Library/WebServer/Documents/code/spider_res/log/error'
-# host = 'https://www.heavengifts.com'
-# cmd_file = './cmd.txt'
-#
-# # 重置redis缓存
-# redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379, decode_responses=True)
-# redis_connect = redis.Redis(connection_pool=redis_pool)
-#
-# # 初始化 url队列
-# init_redis(host)
-# redis_connect.set('url_deep:' + host, 0)
-# url_push(host, host, '0')
-#
-# # 多工作进程运行
-# process_pool = Pool(process_num)
-# pipe_pool = {}
-# for i in range(process_num):
-#     # 重要，延长每个pipe创建的间隔
-#     time.sleep(0.5)
-#     pipe_pool[i] = multiprocessing.Pipe()
-#     process_pool.apply_async(sub_process, args=(pipe_pool[i][1], i,))
-#     # 设置空闲进程队列
-#     redis_connect.lpush('free_process:' + host, i)
-#
-# # 抓取根目录
-# url, deep = url_pop(host)
-# pipe_pool[0][0].send(url + '------' + str(deep))
-# redis_connect.brpop('free_process:' + host)
-# time.sleep(10)
-#
-# # 主进程逻辑
-# while True:
-#     if os.path.exists(cmd_file):
-#         with open(cmd_file, 'r') as f:
-#             cmd = f.readline().strip()
-#             do_cmd(cmd)
-#
-#         os.remove(cmd_file)
-
-#     sub_id = redis_connect.brpop('free_process:' + host)[1]
-#     url, deep = url_pop(host)
-#     if url is None:
-#         # 任务全部做完，发送信号给子程序，并等待子进程结束
-#         for j in range(process_num):
-#             pipe_pool[j][0].send('---end---')
-#
-#         process_pool.close()
-#         process_pool.join()
-#         print('All url done.')
-#         exit()
-#
-#     log('pipe_send', url + '------' + str(deep))
-#     pipe_pool[int(sub_id)][0].send(url.strip("\n") + '------' + str(deep))
-
-'''
-临时方案，异常中止之后的继续采集
-'''
 # 抓取深度限制
-deep_limit = 10
+deep_limit = 3
 # 进程数
 process_num = 10
 # 下载的html资源文件保存地址
@@ -454,14 +390,16 @@ html_res_path = '/Library/WebServer/Documents/code/spider_res/html'
 # 日志文件保存地址
 log_path = '/Library/WebServer/Documents/code/spider_res/log'
 error_log_path = '/Library/WebServer/Documents/code/spider_res/log/error'
-
-host = "https://www.heavengifts.com"
+host = 'https://www.elegomall.com'
 cmd_file = './cmd.txt'
 
 # 重置redis缓存
 redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379, decode_responses=True)
 redis_connect = redis.Redis(connection_pool=redis_pool)
-redis_connect.delete('free_process:' + host)
+
+# 初始化 url队列
+init_redis(host)
+url_push(host, host, '0')
 
 # 多工作进程运行
 process_pool = Pool(process_num)
@@ -474,19 +412,82 @@ for i in range(process_num):
     # 设置空闲进程队列
     redis_connect.lpush('free_process:' + host, i)
 
+# 抓取根目录
+url, deep = url_pop(host)
+pipe_pool[0][0].send(url + '------' + str(deep))
+redis_connect.brpop('free_process:' + host)
+time.sleep(10)
+
 # 主进程逻辑
 while True:
-    # 接收新命令执行
     if os.path.exists(cmd_file):
         with open(cmd_file, 'r') as f:
             cmd = f.readline().strip()
             do_cmd(cmd)
+
         os.remove(cmd_file)
 
     sub_id = redis_connect.brpop('free_process:' + host)[1]
     url, deep = url_pop(host)
+    print(url, deep)
     if url is None:
-        end_program()
+        # 任务全部做完，发送信号给子程序，并等待子进程结束
+        for j in range(process_num):
+            pipe_pool[j][0].send('---end---')
+
+        process_pool.close()
+        process_pool.join()
+        print('All url done.')
+        exit()
 
     log('pipe_send', url + '------' + str(deep))
     pipe_pool[int(sub_id)][0].send(url.strip("\n") + '------' + str(deep))
+
+'''
+临时方案，异常中止之后的继续采集
+'''
+# # 抓取深度限制
+# deep_limit = 10
+# # 进程数
+# process_num = 10
+# # 下载的html资源文件保存地址
+# html_res_path = '/Library/WebServer/Documents/code/spider_res/html'
+# # 日志文件保存地址
+# log_path = '/Library/WebServer/Documents/code/spider_res/log'
+# error_log_path = '/Library/WebServer/Documents/code/spider_res/log/error'
+#
+# host = "https://www.elegomall.com"
+# cmd_file = './cmd.txt'
+#
+# # 重置redis缓存
+# redis_pool = redis.ConnectionPool(host='127.0.0.1', port=6379, decode_responses=True)
+# redis_connect = redis.Redis(connection_pool=redis_pool)
+# redis_connect.delete('free_process:' + host)
+#
+# # 多工作进程运行
+# process_pool = Pool(process_num)
+# pipe_pool = {}
+# for i in range(process_num):
+#     # 重要，延长每个pipe创建的间隔
+#     time.sleep(0.5)
+#     pipe_pool[i] = multiprocessing.Pipe()
+#     process_pool.apply_async(sub_process, args=(pipe_pool[i][1], i,))
+#     # 设置空闲进程队列
+#     redis_connect.lpush('free_process:' + host, i)
+#
+# # 主进程逻辑
+# while True:
+#     # 接收新命令执行
+#     if os.path.exists(cmd_file):
+#         with open(cmd_file, 'r') as f:
+#             cmd = f.readline().strip()
+#             do_cmd(cmd)
+#         os.remove(cmd_file)
+#
+#     sub_id = redis_connect.brpop('free_process:' + host)[1]
+#     url, deep = url_pop(host)
+#     if url is None:
+#         end_program()
+#
+#     log('pipe_send', url + '------' + str(deep))
+#     pipe_pool[int(sub_id)][0].send(url.strip("\n") + '------' + str(deep))

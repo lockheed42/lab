@@ -11,33 +11,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="catch.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/turtle/catch.py">
+      <file leaf-file-name="SicBo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SicBo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="105" column="71" lean-forward="false" selection-start-line="105" selection-start-column="71" selection-end-line="105" selection-end-column="71" />
+            <state relative-caret-position="611">
+              <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
               <folding>
-                <element signature="e#90#110#0" expanded="true" />
-                <marker date="1540198340000" expanded="true" signature="1631:1689" ph="SELECT * FRO... src_industry" />
-                <marker date="1540198340000" expanded="true" signature="1797:1884" ph="INSERT INTO src_industry... " />
-                <marker date="1540198340000" expanded="true" signature="2507:5031" ph="INSERT INTO src_stock... " />
-                <marker date="1540198340000" expanded="true" signature="2912:3052" ph="INSERT INTO src_base_day... " />
-                <marker date="1540198340000" expanded="true" signature="4000:4111" ph="INSERT INTO log_catch... " />
-                <marker date="1540198340000" expanded="true" signature="4000:4140" ph="INSERT INTO log_catch... " />
-                <marker date="1540198340000" expanded="true" signature="4000:4163" ph="INSERT INTO log_catch... " />
-                <marker date="1540198340000" expanded="true" signature="4000:4220" ph="INSERT INTO log_catch... " />
-                <marker date="1540198340000" expanded="true" signature="4000:4221" ph="INSERT INTO log_catch... " />
-                <marker date="1540198340000" expanded="true" signature="4687:4713" ph="select code src_stock" />
+                <element signature="e#83#96#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/spider.py">
+      <file leaf-file-name="os.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/os.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="120">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/request_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/verify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,41 +89,42 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>error_log</find>
-      <find>os.</find>
-      <find>print</find>
-      <find>deep_limit</find>
-      <find>print(</find>
-      <find>抓取程序</find>
-      <find>port</find>
-      <find>int(</find>
-      <find>redis</find>
-      <find>path</find>
-      <find>https</find>
-      <find>count</find>
-      <find>time</find>
-      <find>time_machine</find>
-      <find>list</find>
-      <find>get_domain</find>
-      <find>lstrip</find>
-      <find>redis_connect</find>
-      <find>initial_capacity</find>
-      <find>pymysql</find>
-      <find>sql_main</find>
-      <find>cursor.fetchone()</find>
-      <find>ctime</find>
-      <find>try</find>
-      <find>log_path</find>
-      <find>BaseException</find>
-      <find>mysql_commit</find>
-      <find>traceback</find>
-      <find>','</find>
-      <find>cdate</find>
+      <find>shopping_gw_num</find>
+      <find>shoppingcar-table-wrap</find>
+      <find>+ ' ' +</find>
+      <find>re.</find>
+      <find>sku_origin</find>
+      <find>re.search</find>
+      <find>shopping_jian</find>
+      <find>price</find>
+      <find>table_html</find>
+      <find>title_label</find>
+      <find>year_month_date(</find>
+      <find>preorder(</find>
+      <find>data-preordertime</find>
+      <find>Out of stock</find>
+      <find>HeightLightCart(</find>
+      <find>avail_static</find>
+      <find>child_ids</find>
+      <find>quantity</find>
+      <find>stock_status</find>
+      <find>step_price</find>
+      <find>购物车</find>
+      <find>result</find>
+      <find>goods_detail_title</find>
+      <find>18720</find>
+      <find>%</find>
+      <find>current_bet</find>
+      <find>is_win</find>
+      <find>init_n</find>
+      <find>init_money</find>
+      <find>total</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -97,6 +138,10 @@
       <replace>_get_domain</replace>
       <replace>mysql_insert</replace>
       <replace>,</replace>
+      <replace>sell_price</replace>
+      <replace>class=&quot;hide&quot;</replace>
+      <replace>+ ';' +</replace>
+      <replace>&lt;/table&gt;&lt;table</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -129,13 +174,25 @@
         <option value="$PROJECT_DIR$/spider.py" />
         <option value="$PROJECT_DIR$/spider/redis2txt.py" />
         <option value="$PROJECT_DIR$/test.txt" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/bloom_test.py" />
         <option value="$PROJECT_DIR$/spider/tool.py" />
-        <option value="$PROJECT_DIR$/spider/spider.py" />
         <option value="$PROJECT_DIR$/tushare.py" />
         <option value="$PROJECT_DIR$/turtle/log/daily_trade_error.log" />
+        <option value="$PROJECT_DIR$/venv/max_draw_down.py" />
+        <option value="$PROJECT_DIR$/max_draw_down.py" />
         <option value="$PROJECT_DIR$/turtle/catch.py" />
+        <option value="$PROJECT_DIR$/turtle/model_plan.py" />
+        <option value="$PROJECT_DIR$/turtle/analysis.py" />
+        <option value="$PROJECT_DIR$/turtle/analyze.py" />
+        <option value="$PROJECT_DIR$/turtle/sql.txt" />
+        <option value="$PROJECT_DIR$/turtle/model.py" />
+        <option value="$PROJECT_DIR$/spider/spider.py" />
+        <option value="$PROJECT_DIR$/spider/test.py" />
+        <option value="$PROJECT_DIR$/spider/a.html" />
+        <option value="$PROJECT_DIR$/spider/b.html" />
+        <option value="$PROJECT_DIR$/spider/spider_for_hg.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/SicBo.py" />
       </list>
     </option>
   </component>
@@ -145,11 +202,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1626" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1614" />
-    <option name="height" value="1045" />
+    <option name="width" value="1397" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -183,7 +239,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,26 +249,25 @@
             <path>
               <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_lab" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_lab" type="462c0819:PsiDirectoryNode" />
               <item name="turtle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/lockheed/Library/Caches/PyCharm2017.3/python_stubs/1296655625/builtins.py" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/spider" />
       <recent name="$PROJECT_DIR$/html_old" />
     </key>
@@ -277,16 +331,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1626" y="23" width="1614" height="1045" extended-state="0" />
+    <frame x="0" y="23" width="1397" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1654275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19112384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -315,91 +369,25 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/58_58695" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/17_17142" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60875" />
-    <entry file="file://$PROJECT_DIR$/html/www.dilidili.wang/c4" />
-    <entry file="file://$PROJECT_DIR$/html/www.dilidili.wang/geass/akito" />
-    <entry file="file://$PROJECT_DIR$/html/http:__588ku.com/?m=Company&amp;a=sponsor&amp;type=2" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60865" />
-    <entry file="file://$PROJECT_DIR$/html/www.dilidili.wang/anime2/qjlrjcb" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60882.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/paihangbang.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/58_58833/9943979.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/60_60891/9943949.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/index.html" />
-    <entry file="file://$PROJECT_DIR$/request_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_skip.log" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/0_327/9943395.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/11_11244/9780801.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/11_11244/8672957.html" />
-    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_recv.log" />
-    <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_socket_send.log" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/43_43550/9943919.html" />
-    <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/27_27927/9943614.html" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/14_14010/4112112.html" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/0_413/688435.html" />
     <entry file="file://$PROJECT_DIR$/log/www.biqugezw.com_run.log" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/0_275.html" />
     <entry file="file://$PROJECT_DIR$/html/www.biqugezw.com/kehuanlingyi.html" />
     <entry file="file://$PROJECT_DIR$/log/error/www.biqugezw.com_error.log" />
-    <entry file="file://$PROJECT_DIR$/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider.py" />
-    <entry file="file://$PROJECT_DIR$/redis_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/impot.py" />
     <entry file="file://$PROJECT_DIR$/cmd.txt" />
-    <entry file="file://$PROJECT_DIR$/spider/test.py" />
-    <entry file="file://$PROJECT_DIR$/thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/spider/pybloom/benchmarks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="79" lean-forward="false" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tushare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -424,17 +412,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bloom_test.py">
+    <entry file="file://$PROJECT_DIR$/turtle/log/stock_error.log" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="543">
+          <caret line="746" column="0" lean-forward="false" selection-start-line="746" selection-start-column="0" selection-end-line="746" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/turtle/log/daily_trade_error.log" />
+    <entry file="file://$PROJECT_DIR$/turtle/model_plan.py" />
+    <entry file="file://$PROJECT_DIR$/turtle/log/calc_model_plan.log" />
+    <entry file="file://$PROJECT_DIR$/turtle/log/calc_model_detail.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle/sql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1296655625/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5299">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python3/3.6.3/Frameworks/Python.framework/Versions/3.6/lib/python3.6/traceback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#72#90#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle/analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -442,56 +469,254 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/turtle/log/stock_error.log">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1296655625/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3015">
-          <caret line="201" column="28" lean-forward="false" selection-start-line="201" selection-start-column="28" selection-end-line="201" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/turtle/log/daily_trade_error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3688">
-          <caret line="1360" column="43" lean-forward="true" selection-start-line="1360" selection-start-column="43" selection-end-line="1360" selection-end-column="43" />
+        <state relative-caret-position="316">
+          <caret line="297" column="4" lean-forward="false" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/turtle/catch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="105" column="71" lean-forward="false" selection-start-line="105" selection-start-column="71" selection-end-line="105" selection-end-column="71" />
+        <state relative-caret-position="-108">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
-            <element signature="e#90#110#0" expanded="true" />
-            <marker date="1540198340000" expanded="true" signature="1631:1689" ph="SELECT * FRO... src_industry" />
-            <marker date="1540198340000" expanded="true" signature="1797:1884" ph="INSERT INTO src_industry... " />
-            <marker date="1540198340000" expanded="true" signature="2507:5031" ph="INSERT INTO src_stock... " />
-            <marker date="1540198340000" expanded="true" signature="2912:3052" ph="INSERT INTO src_base_day... " />
-            <marker date="1540198340000" expanded="true" signature="4000:4111" ph="INSERT INTO log_catch... " />
-            <marker date="1540198340000" expanded="true" signature="4000:4140" ph="INSERT INTO log_catch... " />
-            <marker date="1540198340000" expanded="true" signature="4000:4163" ph="INSERT INTO log_catch... " />
-            <marker date="1540198340000" expanded="true" signature="4000:4220" ph="INSERT INTO log_catch... " />
-            <marker date="1540198340000" expanded="true" signature="4000:4221" ph="INSERT INTO log_catch... " />
-            <marker date="1540198340000" expanded="true" signature="4687:4713" ph="select code src_stock" />
+            <marker date="1540880553000" expanded="true" signature="1628:1686" ph="SELECT * FRO... src_industry" />
+            <marker date="1540880553000" expanded="true" signature="1794:1881" ph="INSERT INTO src_industry... " />
+            <marker date="1540880553000" expanded="true" signature="2504:4669" ph="INSERT INTO src_stock... " />
+            <marker date="1540880553000" expanded="true" signature="2727:2819" ph="INSERT INTO src_base_day... " />
+            <marker date="1540880553000" expanded="true" signature="2727:2826" ph="INSERT INTO src_base_day... " />
+            <marker date="1540880553000" expanded="true" signature="3619:3730" ph="INSERT INTO log_catch... " />
+            <marker date="1540880553000" expanded="true" signature="4306:4351" ph="SELECT code src_stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding>
+            <element signature="e#91#106#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/os/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="983" column="4" lean-forward="false" selection-start-line="983" selection-start-column="4" selection-end-line="983" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="183" column="4" lean-forward="false" selection-start-line="183" selection-start-column="4" selection-end-line="183" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="1176" column="4" lean-forward="false" selection-start-line="1176" selection-start-column="4" selection-end-line="1176" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/b.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26421">
+          <caret line="10143" column="8" lean-forward="false" selection-start-line="10143" selection-start-column="5" selection-end-line="10143" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spider_for_hg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="424" column="16" lean-forward="true" selection-start-line="424" selection-start-column="16" selection-end-line="424" selection-end-column="16" />
+          <folding>
+            <element signature="e#91#106#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="27" column="87" lean-forward="true" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="172" column="40" lean-forward="false" selection-start-line="172" selection-start-column="31" selection-end-line="172" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hanoi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloom_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_draw_down.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tushare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5974">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="269" column="67" lean-forward="false" selection-start-line="269" selection-start-column="66" selection-end-line="269" selection-end-column="67" />
+          <folding>
+            <element signature="e#86#100#0" expanded="true" />
+            <marker date="1543218152000" expanded="true" signature="1809:1850" ph="SELECT * FRO... rpt_test_detail" />
+            <marker date="1543218152000" expanded="true" signature="2212:2441" ph="UPDATE rpt_test_detail... " />
+            <marker date="1543218152000" expanded="true" signature="3254:3298" ph="SELECT * FRO... src_base_day" />
+            <marker date="1543218152000" expanded="true" signature="3254:3317" ph="SELECT * FRO... src_base_day" />
+            <marker date="1543218152000" expanded="true" signature="3254:3334" ph="SELECT * FRO... src_base_day" />
+            <marker date="1543218152000" expanded="true" signature="3477:3622" ph="INSERT INTO rpt_test... " />
+            <marker date="1543218152000" expanded="true" signature="4946:5017" ph="SELECT avg(`... src_base_day" />
+            <marker date="1543218152000" expanded="true" signature="4946:5158" ph="SELECT avg(`... src_base_day" />
+            <marker date="1543218152000" expanded="true" signature="5293:5364" ph="SELECT avg(`... src_base_day" />
+            <marker date="1543218152000" expanded="true" signature="5293:5506" ph="SELECT avg(`... src_base_day" />
+            <marker date="1543218152000" expanded="true" signature="6097:6152" ph="SELECT id, a... rpt_test_detail" />
+            <marker date="1543218152000" expanded="true" signature="6303:6558" ph="INSERT INTO rpt_test_detail... " />
+            <marker date="1543218152000" expanded="true" signature="8297:8359" ph="SELECT test_... rpt_test" />
+            <marker date="1543218152000" expanded="true" signature="8452:8561" ph="SELECT after... rpt_test_detail" />
+            <marker date="1543218152000" expanded="true" signature="8677:8724" ph="UPDATE rpt_test... " />
+            <marker date="1543218152000" expanded="true" signature="8867:8956" ph="SELECT befor... rpt_test_detail" />
+            <marker date="1543218152000" expanded="true" signature="9273:9390" ph="SELECT max_r... rpt_test_detail" />
+            <marker date="1543218152000" expanded="true" signature="9561:9631" ph="SELECT count... rpt_test_detail" />
+            <marker date="1543218152000" expanded="true" signature="9738:9827" ph="SELECT count... rpt_test_detail" />
+            <marker date="1543218152000" expanded="true" signature="9985:10172" ph="UPDATE rpt_test... " />
+            <marker date="1543218152000" expanded="true" signature="10526:10571" ph="SELECT code src_stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1514340491000" expanded="true" signature="406:426" ph="select * fro... t_user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SicBo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+          <folding>
+            <element signature="e#83#96#0" expanded="true" />
           </folding>
         </state>
       </provider>

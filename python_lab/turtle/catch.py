@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
-'''
-   catch
-'''
-
+"""
+抓取交易数据
+"""
 __author__ = 'lockheed'
 
 import tushare as ts
@@ -89,33 +88,26 @@ def catch_daily_trade(stock_code, start, end):
     try:
         data = ts.get_k_data(stock_code, start=start, end=end)
         counter = 0
-        error_counter = 0
         start_runtime = time.time()
-        if data is not None:
-            for day in data.values:
-                cdate = time.strftime('%Y-%m-%d %H:%M:%S')
-                try:
-                    insert_sql = "INSERT INTO src_base_day (`code`, `date`, `open`, `close`, `high`, `low`, `volume`, `cdate`)" \
-                                 " VALUES ('" + day[6] + "','" + day[0] + "'," + str(day[1]) + "," + str(day[2]) \
-                                 + "," + str(day[3]) + "," + str(day[4]) + "," + str(day[5]) + ",'" + cdate + "')"
-                    mysql_insert(insert_sql)
-                    ''' 记录抓取日志'''
-                    counter = counter + 1
-                except BaseException as e:
-                    error_counter = error_counter + 1
-                    log('daily_trade_error', str(stock_code) + '|' + day[0] + str(traceback.format_exc()))
-                    continue
 
-        end_runtime = int(time.time() - start_runtime)
+        insert_sql = "INSERT INTO src_base_day (`code`, `date`, `open`, `close`, `high`, `low`, `volume`, `cdate`) VALUES "
+        cdate = time.strftime('%Y-%m-%d %H:%M:%S')
+        if data.empty is not True:
+            for day in data.values:
+                insert_sql += "('" + day[6] + "','" + day[0] + "'," + str(day[1]) + "," + str(day[2]) \
+                              + "," + str(day[3]) + "," + str(day[4]) + "," + str(day[5]) + ",'" + cdate + "'),"
+                counter = counter + 1
+            insert_sql = insert_sql.strip(',')
+            mysql_insert(insert_sql)
+
+        end_runtime = round(time.time() - start_runtime, 3)
         request_json = json.dumps({
             'code': stock_code,
             'start_date': start,
             'end': end
         })
         result_json = json.dumps({
-            'total': counter + error_counter,
-            'success': counter,
-            'error': error_counter,
+            'total': counter,
             'runtime': end_runtime
         })
         insert_sql = "INSERT INTO log_catch (`type`, `request`, `result`, `cdate`)" \
@@ -131,7 +123,7 @@ def catch_daily_trade(stock_code, start, end):
 
 def init_all_day_trade():
     """ 初始化所有股票 日交易数据"""
-    sql = "select code from src_stock"
+    sql = "SELECT code from src_stock where `status` = 1"
     data = mysql_fetch(sql, False)
     for code in data:
         print(code[0])
@@ -141,4 +133,4 @@ def init_all_day_trade():
 
 
 log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
-init_all_day_trade()
+# init_all_day_trade()

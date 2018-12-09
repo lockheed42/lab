@@ -1,0 +1,43 @@
+/*
+用于存放常用查询测试结果SQL，替代字符串用{name}来占位
+ */
+
+
+/* 获取某一计划 盈利个股 占比 */
+select
+(select count(*) from rpt_test
+where model_code='{model_code}' and profit_year > 0)
+/
+(select count(*) from rpt_test
+where model_code='{model_code}');
+
+
+/* 最大回撤率超过40%的数量 */
+select count(*) from rpt_test
+where model_code='{model_code}' and max_retracement > 40;
+
+
+/* 平均回撤率 */
+select avg(`max_retracement`) from rpt_test
+where model_code='{model_code}';
+
+
+/* 平均成功率 */
+select avg(`success_rate`) from rpt_test
+where model_code='{model_code}';
+
+
+/* 平均年化收益率 */
+select avg(`profit_year`) from rpt_test
+where model_code='{model_code}';
+
+
+/* 平均交易次数 */
+select avg(`trade_times`) from rpt_test ``
+where model_code='{model_code}';
+
+
+/* 总和收益率 */
+select sum(init_money), sum(final_money) - sum(init_money),(sum(final_money) - sum(init_money)) / sum(init_money)
+from rpt_test
+where model_code = '{model_code}';
