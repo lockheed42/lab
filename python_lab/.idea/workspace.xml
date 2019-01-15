@@ -9,76 +9,59 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_lab$catch.coverage" NAME="catch Coverage Results" MODIFIED="1546582161959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SicBo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SicBo.py">
+      <file leaf-file-name="catch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/turtle/catch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+            <state relative-caret-position="131">
+              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding>
-                <element signature="e#83#96#0" expanded="true" />
+                <element signature="e#87#107#0" expanded="true" />
+                <marker date="1546589904000" expanded="true" signature="1807:1865" ph="SELECT * FRO... src_industry" />
+                <marker date="1546589904000" expanded="true" signature="1976:2063" ph="INSERT INTO src_industry... " />
+                <marker date="1546589904000" expanded="true" signature="2312:2568" ph="INSERT INTO src_stock... " />
+                <marker date="1546589904000" expanded="true" signature="2922:5116" ph="INSERT INTO src_stock... " />
+                <marker date="1546589904000" expanded="true" signature="3199:3291" ph="INSERT INTO src_base_day... " />
+                <marker date="1546589904000" expanded="true" signature="3199:3298" ph="INSERT INTO src_base_day... " />
+                <marker date="1546589904000" expanded="true" signature="4053:4164" ph="INSERT INTO log_catch... " />
+                <marker date="1546589904000" expanded="true" signature="4747:4794" ph="SELECT code src_stock" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="os.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/os.py">
+      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/turtle/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="process.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="redis_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redis_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="request_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/request_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thread.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="verify.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/verify.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="4050">
+              <caret line="276" column="50" lean-forward="false" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
+              <folding>
+                <marker date="1543218152000" expanded="true" signature="1809:1850" ph="SELECT * FRO... rpt_test_detail" />
+                <marker date="1543218152000" expanded="true" signature="2212:2441" ph="UPDATE rpt_test_detail... " />
+                <marker date="1543218152000" expanded="true" signature="3254:3298" ph="SELECT * FRO... src_base_day" />
+                <marker date="1543218152000" expanded="true" signature="3254:3317" ph="SELECT * FRO... src_base_day" />
+                <marker date="1543218152000" expanded="true" signature="3254:3334" ph="SELECT * FRO... src_base_day" />
+                <marker date="1543218152000" expanded="true" signature="3477:3622" ph="INSERT INTO rpt_test... " />
+                <marker date="1543218152000" expanded="true" signature="4946:5017" ph="SELECT avg(`... src_base_day" />
+                <marker date="1543218152000" expanded="true" signature="4946:5158" ph="SELECT avg(`... src_base_day" />
+                <marker date="1543218152000" expanded="true" signature="5293:5364" ph="SELECT avg(`... src_base_day" />
+                <marker date="1543218152000" expanded="true" signature="5293:5506" ph="SELECT avg(`... src_base_day" />
+                <marker date="1543218152000" expanded="true" signature="6097:6152" ph="SELECT id, a... rpt_test_detail" />
+                <marker date="1543218152000" expanded="true" signature="6303:6558" ph="INSERT INTO rpt_test_detail... " />
+                <marker date="1543218152000" expanded="true" signature="8297:8359" ph="SELECT test_... rpt_test" />
+                <marker date="1543218152000" expanded="true" signature="8452:8561" ph="SELECT after... rpt_test_detail" />
+                <marker date="1543218152000" expanded="true" signature="8677:8724" ph="UPDATE rpt_test... " />
+                <marker date="1543218152000" expanded="true" signature="8867:8956" ph="SELECT befor... rpt_test_detail" />
+                <marker date="1543218152000" expanded="true" signature="9273:9390" ph="SELECT max_r... rpt_test_detail" />
+                <marker date="1543218152000" expanded="true" signature="9561:9631" ph="SELECT count... rpt_test_detail" />
+                <marker date="1543218152000" expanded="true" signature="9738:9827" ph="SELECT count... rpt_test_detail" />
+                <marker date="1543218152000" expanded="true" signature="9985:10172" ph="UPDATE rpt_test... " />
+                <marker date="1543218152000" expanded="true" signature="10526:10571" ph="SELECT code src_stock" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,9 +78,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>shopping_gw_num</find>
-      <find>shoppingcar-table-wrap</find>
-      <find>+ ' ' +</find>
       <find>re.</find>
       <find>sku_origin</find>
       <find>re.search</find>
@@ -125,6 +105,9 @@
       <find>init_n</find>
       <find>init_money</find>
       <find>total</find>
+      <find>mysql_rs</find>
+      <find>year</find>
+      <find>res</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -180,7 +163,6 @@
         <option value="$PROJECT_DIR$/turtle/log/daily_trade_error.log" />
         <option value="$PROJECT_DIR$/venv/max_draw_down.py" />
         <option value="$PROJECT_DIR$/max_draw_down.py" />
-        <option value="$PROJECT_DIR$/turtle/catch.py" />
         <option value="$PROJECT_DIR$/turtle/model_plan.py" />
         <option value="$PROJECT_DIR$/turtle/analysis.py" />
         <option value="$PROJECT_DIR$/turtle/analyze.py" />
@@ -193,6 +175,7 @@
         <option value="$PROJECT_DIR$/spider/spider_for_hg.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/SicBo.py" />
+        <option value="$PROJECT_DIR$/turtle/catch.py" />
       </list>
     </option>
   </component>
@@ -202,10 +185,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1658" />
     <option name="y" value="23" />
-    <option name="width" value="1397" />
-    <option name="height" value="877" />
+    <option name="width" value="1614" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -238,7 +222,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,13 +233,18 @@
             <path>
               <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_lab" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_lab" type="462c0819:PsiDirectoryNode" />
               <item name="turtle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,7 +277,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.catch">
+    <configuration name="catch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/turtle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_lab" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtle/catch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,9 +316,14 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.tests" />
+      <item index="1" class="java.lang.String" itemvalue="Python.catch" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.tests" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.catch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tests" />
       </list>
     </recent_temporary>
   </component>
@@ -331,8 +344,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1397" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1658" y="23" width="1614" height="1045" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -340,10 +352,9 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19112384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1654275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -353,7 +364,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299075" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +382,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -417,25 +430,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
           <caret line="746" column="0" lean-forward="false" selection-start-line="746" selection-start-column="0" selection-end-line="746" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/turtle/log/daily_trade_error.log" />
     <entry file="file://$PROJECT_DIR$/turtle/model_plan.py" />
     <entry file="file://$PROJECT_DIR$/turtle/log/calc_model_plan.log" />
-    <entry file="file://$PROJECT_DIR$/turtle/log/calc_model_detail.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle/log/calc_model_detail.log" />
     <entry file="file://$PROJECT_DIR$/turtle/sql.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -443,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5299">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,39 +465,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/cmd.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/cmd.txt" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1296655625/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="297" column="4" lean-forward="false" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/turtle/catch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <marker date="1540880553000" expanded="true" signature="1628:1686" ph="SELECT * FRO... src_industry" />
-            <marker date="1540880553000" expanded="true" signature="1794:1881" ph="INSERT INTO src_industry... " />
-            <marker date="1540880553000" expanded="true" signature="2504:4669" ph="INSERT INTO src_stock... " />
-            <marker date="1540880553000" expanded="true" signature="2727:2819" ph="INSERT INTO src_base_day... " />
-            <marker date="1540880553000" expanded="true" signature="2727:2826" ph="INSERT INTO src_base_day... " />
-            <marker date="1540880553000" expanded="true" signature="3619:3730" ph="INSERT INTO log_catch... " />
-            <marker date="1540880553000" expanded="true" signature="4306:4351" ph="SELECT code src_stock" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -501,9 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding>
-            <element signature="e#91#106#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -511,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="983" column="4" lean-forward="false" selection-start-line="983" selection-start-column="4" selection-end-line="983" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="183" column="4" lean-forward="false" selection-start-line="183" selection-start-column="4" selection-end-line="183" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,41 +501,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="1176" column="4" lean-forward="false" selection-start-line="1176" selection-start-column="4" selection-end-line="1176" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26421">
-          <caret line="10143" column="8" lean-forward="false" selection-start-line="10143" selection-start-column="5" selection-end-line="10143" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/b.html" />
     <entry file="file://$PROJECT_DIR$/spider/spider_for_hg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="424" column="16" lean-forward="true" selection-start-line="424" selection-start-column="16" selection-end-line="424" selection-end-column="16" />
-          <folding>
-            <element signature="e#91#106#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="27" column="87" lean-forward="true" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/a.html" />
     <entry file="file://$PROJECT_DIR$/spider/tool.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="172" column="40" lean-forward="false" selection-start-line="172" selection-start-column="31" selection-end-line="172" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,7 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,39 +573,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tushare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tushare.py" />
     <entry file="file://$PROJECT_DIR$/verify.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py" />
     <entry file="file://$PROJECT_DIR$/thread.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,16 +596,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5974">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SicBo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="71" column="26" lean-forward="false" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/turtle/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="269" column="67" lean-forward="false" selection-start-line="269" selection-start-column="66" selection-end-line="269" selection-end-column="67" />
+        <state relative-caret-position="4050">
+          <caret line="276" column="50" lean-forward="false" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
           <folding>
-            <element signature="e#86#100#0" expanded="true" />
             <marker date="1543218152000" expanded="true" signature="1809:1850" ph="SELECT * FRO... rpt_test_detail" />
             <marker date="1543218152000" expanded="true" signature="2212:2441" ph="UPDATE rpt_test_detail... " />
             <marker date="1543218152000" expanded="true" signature="3254:3298" ph="SELECT * FRO... src_base_day" />
@@ -700,23 +643,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql.py">
+    <entry file="file://$PROJECT_DIR$/turtle/catch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="131">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1514340491000" expanded="true" signature="406:426" ph="select * fro... t_user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SicBo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-          <folding>
-            <element signature="e#83#96#0" expanded="true" />
+            <element signature="e#87#107#0" expanded="true" />
+            <marker date="1546589904000" expanded="true" signature="1807:1865" ph="SELECT * FRO... src_industry" />
+            <marker date="1546589904000" expanded="true" signature="1976:2063" ph="INSERT INTO src_industry... " />
+            <marker date="1546589904000" expanded="true" signature="2312:2568" ph="INSERT INTO src_stock... " />
+            <marker date="1546589904000" expanded="true" signature="2922:5116" ph="INSERT INTO src_stock... " />
+            <marker date="1546589904000" expanded="true" signature="3199:3291" ph="INSERT INTO src_base_day... " />
+            <marker date="1546589904000" expanded="true" signature="3199:3298" ph="INSERT INTO src_base_day... " />
+            <marker date="1546589904000" expanded="true" signature="4053:4164" ph="INSERT INTO log_catch... " />
+            <marker date="1546589904000" expanded="true" signature="4747:4794" ph="SELECT code src_stock" />
           </folding>
         </state>
       </provider>
