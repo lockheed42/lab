@@ -14,54 +14,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="catch.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="catch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/turtle/catch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <state relative-caret-position="239">
+              <caret line="120" column="63" lean-forward="false" selection-start-line="120" selection-start-column="63" selection-end-line="120" selection-end-column="63" />
               <folding>
                 <element signature="e#87#107#0" expanded="true" />
-                <marker date="1546589904000" expanded="true" signature="1807:1865" ph="SELECT * FRO... src_industry" />
-                <marker date="1546589904000" expanded="true" signature="1976:2063" ph="INSERT INTO src_industry... " />
-                <marker date="1546589904000" expanded="true" signature="2312:2568" ph="INSERT INTO src_stock... " />
-                <marker date="1546589904000" expanded="true" signature="2922:5116" ph="INSERT INTO src_stock... " />
-                <marker date="1546589904000" expanded="true" signature="3199:3291" ph="INSERT INTO src_base_day... " />
-                <marker date="1546589904000" expanded="true" signature="3199:3298" ph="INSERT INTO src_base_day... " />
-                <marker date="1546589904000" expanded="true" signature="4053:4164" ph="INSERT INTO log_catch... " />
-                <marker date="1546589904000" expanded="true" signature="4747:4794" ph="SELECT code src_stock" />
+                <marker date="1551258834000" expanded="true" signature="1845:1912" ph="SELECT * FRO... src_industry" />
+                <marker date="1551258834000" expanded="true" signature="2023:2147" ph="INSERT INTO src_industry... " />
+                <marker date="1551258834000" expanded="true" signature="2396:2668" ph="INSERT INTO src_stock... " />
+                <marker date="1551258834000" expanded="true" signature="3145:5617" ph="INSERT INTO src_stock... " />
+                <marker date="1551258834000" expanded="true" signature="3627:3719" ph="INSERT INTO src_base_day... " />
+                <marker date="1551258834000" expanded="true" signature="3627:3726" ph="INSERT INTO src_base_day... " />
+                <marker date="1551258834000" expanded="true" signature="4574:4685" ph="INSERT INTO log_catch... " />
+                <marker date="1551258834000" expanded="true" signature="5268:5318" ph="SELECT code src_stock" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stock_error.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/turtle/log/stock_error.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="412" column="70" lean-forward="false" selection-start-line="412" selection-start-column="70" selection-end-line="412" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/turtle/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4050">
-              <caret line="276" column="50" lean-forward="false" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
+            <state relative-caret-position="446">
+              <caret line="272" column="36" lean-forward="true" selection-start-line="272" selection-start-column="36" selection-end-line="272" selection-end-column="36" />
               <folding>
-                <marker date="1543218152000" expanded="true" signature="1809:1850" ph="SELECT * FRO... rpt_test_detail" />
-                <marker date="1543218152000" expanded="true" signature="2212:2441" ph="UPDATE rpt_test_detail... " />
-                <marker date="1543218152000" expanded="true" signature="3254:3298" ph="SELECT * FRO... src_base_day" />
-                <marker date="1543218152000" expanded="true" signature="3254:3317" ph="SELECT * FRO... src_base_day" />
-                <marker date="1543218152000" expanded="true" signature="3254:3334" ph="SELECT * FRO... src_base_day" />
-                <marker date="1543218152000" expanded="true" signature="3477:3622" ph="INSERT INTO rpt_test... " />
-                <marker date="1543218152000" expanded="true" signature="4946:5017" ph="SELECT avg(`... src_base_day" />
-                <marker date="1543218152000" expanded="true" signature="4946:5158" ph="SELECT avg(`... src_base_day" />
-                <marker date="1543218152000" expanded="true" signature="5293:5364" ph="SELECT avg(`... src_base_day" />
-                <marker date="1543218152000" expanded="true" signature="5293:5506" ph="SELECT avg(`... src_base_day" />
-                <marker date="1543218152000" expanded="true" signature="6097:6152" ph="SELECT id, a... rpt_test_detail" />
-                <marker date="1543218152000" expanded="true" signature="6303:6558" ph="INSERT INTO rpt_test_detail... " />
-                <marker date="1543218152000" expanded="true" signature="8297:8359" ph="SELECT test_... rpt_test" />
-                <marker date="1543218152000" expanded="true" signature="8452:8561" ph="SELECT after... rpt_test_detail" />
-                <marker date="1543218152000" expanded="true" signature="8677:8724" ph="UPDATE rpt_test... " />
-                <marker date="1543218152000" expanded="true" signature="8867:8956" ph="SELECT befor... rpt_test_detail" />
-                <marker date="1543218152000" expanded="true" signature="9273:9390" ph="SELECT max_r... rpt_test_detail" />
-                <marker date="1543218152000" expanded="true" signature="9561:9631" ph="SELECT count... rpt_test_detail" />
-                <marker date="1543218152000" expanded="true" signature="9738:9827" ph="SELECT count... rpt_test_detail" />
-                <marker date="1543218152000" expanded="true" signature="9985:10172" ph="UPDATE rpt_test... " />
-                <marker date="1543218152000" expanded="true" signature="10526:10571" ph="SELECT code src_stock" />
+                <element signature="e#86#100#0" expanded="true" />
+                <marker date="1551259288000" expanded="true" signature="1809:1850" ph="SELECT * FRO... rpt_test_detail" />
+                <marker date="1551259288000" expanded="true" signature="2212:2441" ph="UPDATE rpt_test_detail... " />
+                <marker date="1551259288000" expanded="true" signature="3255:3299" ph="SELECT * FRO... src_base_day" />
+                <marker date="1551259288000" expanded="true" signature="3255:3318" ph="SELECT * FRO... src_base_day" />
+                <marker date="1551259288000" expanded="true" signature="3255:3335" ph="SELECT * FRO... src_base_day" />
+                <marker date="1551259288000" expanded="true" signature="3478:3623" ph="INSERT INTO rpt_test... " />
+                <marker date="1551259288000" expanded="true" signature="4947:5018" ph="SELECT avg(`... src_base_day" />
+                <marker date="1551259288000" expanded="true" signature="4947:5159" ph="SELECT avg(`... src_base_day" />
+                <marker date="1551259288000" expanded="true" signature="5294:5365" ph="SELECT avg(`... src_base_day" />
+                <marker date="1551259288000" expanded="true" signature="5294:5507" ph="SELECT avg(`... src_base_day" />
+                <marker date="1551259288000" expanded="true" signature="6098:6153" ph="SELECT id, a... rpt_test_detail" />
+                <marker date="1551259288000" expanded="true" signature="6304:6559" ph="INSERT INTO rpt_test_detail... " />
+                <marker date="1551259288000" expanded="true" signature="8298:8360" ph="SELECT test_... rpt_test" />
+                <marker date="1551259288000" expanded="true" signature="8453:8562" ph="SELECT after... rpt_test_detail" />
+                <marker date="1551259288000" expanded="true" signature="8678:8725" ph="UPDATE rpt_test... " />
+                <marker date="1551259288000" expanded="true" signature="8868:8957" ph="SELECT befor... rpt_test_detail" />
+                <marker date="1551259288000" expanded="true" signature="9274:9391" ph="SELECT max_r... rpt_test_detail" />
+                <marker date="1551259288000" expanded="true" signature="9562:9632" ph="SELECT count... rpt_test_detail" />
+                <marker date="1551259288000" expanded="true" signature="9739:9828" ph="SELECT count... rpt_test_detail" />
+                <marker date="1551259288000" expanded="true" signature="9986:10173" ph="UPDATE rpt_test... " />
+                <marker date="1551259288000" expanded="true" signature="10527:10572" ph="SELECT code src_stock" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sql.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/turtle/sql.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,12 +99,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>re.</find>
-      <find>sku_origin</find>
-      <find>re.search</find>
-      <find>shopping_jian</find>
-      <find>price</find>
-      <find>table_html</find>
       <find>title_label</find>
       <find>year_month_date(</find>
       <find>preorder(</find>
@@ -108,6 +123,12 @@
       <find>mysql_rs</find>
       <find>year</find>
       <find>res</find>
+      <find>tushare</find>
+      <find>stock_code</find>
+      <find>stock</find>
+      <find>data</find>
+      <find>iterrows</find>
+      <find>insert_sql</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -167,7 +188,6 @@
         <option value="$PROJECT_DIR$/turtle/analysis.py" />
         <option value="$PROJECT_DIR$/turtle/analyze.py" />
         <option value="$PROJECT_DIR$/turtle/sql.txt" />
-        <option value="$PROJECT_DIR$/turtle/model.py" />
         <option value="$PROJECT_DIR$/spider/spider.py" />
         <option value="$PROJECT_DIR$/spider/test.py" />
         <option value="$PROJECT_DIR$/spider/a.html" />
@@ -176,6 +196,7 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/SicBo.py" />
         <option value="$PROJECT_DIR$/turtle/catch.py" />
+        <option value="$PROJECT_DIR$/turtle/model.py" />
       </list>
     </option>
   </component>
@@ -222,6 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -233,18 +255,18 @@
             <path>
               <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_lab" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="turtle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_lab" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_lab" type="462c0819:PsiDirectoryNode" />
               <item name="turtle" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,20 +367,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1658" y="23" width="1614" height="1045" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1654275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1654275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -425,7 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/turtle/log/stock_error.log" />
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
@@ -437,13 +459,6 @@
     <entry file="file://$PROJECT_DIR$/turtle/model_plan.py" />
     <entry file="file://$PROJECT_DIR$/turtle/log/calc_model_plan.log" />
     <entry file="file://$PROJECT_DIR$/turtle/log/calc_model_detail.log" />
-    <entry file="file://$PROJECT_DIR$/turtle/sql.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1296655625/math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5299">
@@ -613,50 +628,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/turtle/model.py">
+    <entry file="file://$PROJECT_DIR$/turtle/log/stock_error.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4050">
-          <caret line="276" column="50" lean-forward="false" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
-          <folding>
-            <marker date="1543218152000" expanded="true" signature="1809:1850" ph="SELECT * FRO... rpt_test_detail" />
-            <marker date="1543218152000" expanded="true" signature="2212:2441" ph="UPDATE rpt_test_detail... " />
-            <marker date="1543218152000" expanded="true" signature="3254:3298" ph="SELECT * FRO... src_base_day" />
-            <marker date="1543218152000" expanded="true" signature="3254:3317" ph="SELECT * FRO... src_base_day" />
-            <marker date="1543218152000" expanded="true" signature="3254:3334" ph="SELECT * FRO... src_base_day" />
-            <marker date="1543218152000" expanded="true" signature="3477:3622" ph="INSERT INTO rpt_test... " />
-            <marker date="1543218152000" expanded="true" signature="4946:5017" ph="SELECT avg(`... src_base_day" />
-            <marker date="1543218152000" expanded="true" signature="4946:5158" ph="SELECT avg(`... src_base_day" />
-            <marker date="1543218152000" expanded="true" signature="5293:5364" ph="SELECT avg(`... src_base_day" />
-            <marker date="1543218152000" expanded="true" signature="5293:5506" ph="SELECT avg(`... src_base_day" />
-            <marker date="1543218152000" expanded="true" signature="6097:6152" ph="SELECT id, a... rpt_test_detail" />
-            <marker date="1543218152000" expanded="true" signature="6303:6558" ph="INSERT INTO rpt_test_detail... " />
-            <marker date="1543218152000" expanded="true" signature="8297:8359" ph="SELECT test_... rpt_test" />
-            <marker date="1543218152000" expanded="true" signature="8452:8561" ph="SELECT after... rpt_test_detail" />
-            <marker date="1543218152000" expanded="true" signature="8677:8724" ph="UPDATE rpt_test... " />
-            <marker date="1543218152000" expanded="true" signature="8867:8956" ph="SELECT befor... rpt_test_detail" />
-            <marker date="1543218152000" expanded="true" signature="9273:9390" ph="SELECT max_r... rpt_test_detail" />
-            <marker date="1543218152000" expanded="true" signature="9561:9631" ph="SELECT count... rpt_test_detail" />
-            <marker date="1543218152000" expanded="true" signature="9738:9827" ph="SELECT count... rpt_test_detail" />
-            <marker date="1543218152000" expanded="true" signature="9985:10172" ph="UPDATE rpt_test... " />
-            <marker date="1543218152000" expanded="true" signature="10526:10571" ph="SELECT code src_stock" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="412" column="70" lean-forward="false" selection-start-line="412" selection-start-column="70" selection-end-line="412" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/turtle/catch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        <state relative-caret-position="239">
+          <caret line="120" column="63" lean-forward="false" selection-start-line="120" selection-start-column="63" selection-end-line="120" selection-end-column="63" />
           <folding>
             <element signature="e#87#107#0" expanded="true" />
-            <marker date="1546589904000" expanded="true" signature="1807:1865" ph="SELECT * FRO... src_industry" />
-            <marker date="1546589904000" expanded="true" signature="1976:2063" ph="INSERT INTO src_industry... " />
-            <marker date="1546589904000" expanded="true" signature="2312:2568" ph="INSERT INTO src_stock... " />
-            <marker date="1546589904000" expanded="true" signature="2922:5116" ph="INSERT INTO src_stock... " />
-            <marker date="1546589904000" expanded="true" signature="3199:3291" ph="INSERT INTO src_base_day... " />
-            <marker date="1546589904000" expanded="true" signature="3199:3298" ph="INSERT INTO src_base_day... " />
-            <marker date="1546589904000" expanded="true" signature="4053:4164" ph="INSERT INTO log_catch... " />
-            <marker date="1546589904000" expanded="true" signature="4747:4794" ph="SELECT code src_stock" />
+            <marker date="1551258834000" expanded="true" signature="1845:1912" ph="SELECT * FRO... src_industry" />
+            <marker date="1551258834000" expanded="true" signature="2023:2147" ph="INSERT INTO src_industry... " />
+            <marker date="1551258834000" expanded="true" signature="2396:2668" ph="INSERT INTO src_stock... " />
+            <marker date="1551258834000" expanded="true" signature="3145:5617" ph="INSERT INTO src_stock... " />
+            <marker date="1551258834000" expanded="true" signature="3627:3719" ph="INSERT INTO src_base_day... " />
+            <marker date="1551258834000" expanded="true" signature="3627:3726" ph="INSERT INTO src_base_day... " />
+            <marker date="1551258834000" expanded="true" signature="4574:4685" ph="INSERT INTO log_catch... " />
+            <marker date="1551258834000" expanded="true" signature="5268:5318" ph="SELECT code src_stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle/sql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtle/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="272" column="36" lean-forward="true" selection-start-line="272" selection-start-column="36" selection-end-line="272" selection-end-column="36" />
+          <folding>
+            <element signature="e#86#100#0" expanded="true" />
+            <marker date="1551259288000" expanded="true" signature="1809:1850" ph="SELECT * FRO... rpt_test_detail" />
+            <marker date="1551259288000" expanded="true" signature="2212:2441" ph="UPDATE rpt_test_detail... " />
+            <marker date="1551259288000" expanded="true" signature="3255:3299" ph="SELECT * FRO... src_base_day" />
+            <marker date="1551259288000" expanded="true" signature="3255:3318" ph="SELECT * FRO... src_base_day" />
+            <marker date="1551259288000" expanded="true" signature="3255:3335" ph="SELECT * FRO... src_base_day" />
+            <marker date="1551259288000" expanded="true" signature="3478:3623" ph="INSERT INTO rpt_test... " />
+            <marker date="1551259288000" expanded="true" signature="4947:5018" ph="SELECT avg(`... src_base_day" />
+            <marker date="1551259288000" expanded="true" signature="4947:5159" ph="SELECT avg(`... src_base_day" />
+            <marker date="1551259288000" expanded="true" signature="5294:5365" ph="SELECT avg(`... src_base_day" />
+            <marker date="1551259288000" expanded="true" signature="5294:5507" ph="SELECT avg(`... src_base_day" />
+            <marker date="1551259288000" expanded="true" signature="6098:6153" ph="SELECT id, a... rpt_test_detail" />
+            <marker date="1551259288000" expanded="true" signature="6304:6559" ph="INSERT INTO rpt_test_detail... " />
+            <marker date="1551259288000" expanded="true" signature="8298:8360" ph="SELECT test_... rpt_test" />
+            <marker date="1551259288000" expanded="true" signature="8453:8562" ph="SELECT after... rpt_test_detail" />
+            <marker date="1551259288000" expanded="true" signature="8678:8725" ph="UPDATE rpt_test... " />
+            <marker date="1551259288000" expanded="true" signature="8868:8957" ph="SELECT befor... rpt_test_detail" />
+            <marker date="1551259288000" expanded="true" signature="9274:9391" ph="SELECT max_r... rpt_test_detail" />
+            <marker date="1551259288000" expanded="true" signature="9562:9632" ph="SELECT count... rpt_test_detail" />
+            <marker date="1551259288000" expanded="true" signature="9739:9828" ph="SELECT count... rpt_test_detail" />
+            <marker date="1551259288000" expanded="true" signature="9986:10173" ph="UPDATE rpt_test... " />
+            <marker date="1551259288000" expanded="true" signature="10527:10572" ph="SELECT code src_stock" />
           </folding>
         </state>
       </provider>

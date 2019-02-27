@@ -64,15 +64,17 @@ def catch_stock():
 
     cdate = time.strftime('%Y-%m-%d %H:%M:%S')
     pro = ts.pro_api(token)
-    rs = pro.stock_basic(fields='symbol, name, industry, fullname, market, list_status, list_date, delist_date')
-    for stock in rs.values:
+    rs = pro.stock_basic(
+        fields='symbol, ts_code, name, industry, fullname, market, list_status, list_date, delist_date')
+    for index, stock in rs.iterrows():
         try:
-            if stock[2] is not None:
-                sql = "SELECT * FROM src_industry WHERE name = '" + stock[2] + "'"
+            if stock['industry'] is not None:
+                sql = "SELECT * FROM src_industry WHERE name = '" + stock['industry'] + "'"
                 mysql_rs = mysql_fetch(sql)
 
                 if mysql_rs is None:
-                    sql = "INSERT INTO src_industry (`name`, `cdate`) VALUES ('" + stock[2] + "', '" + cdate + "')"
+                    sql = "INSERT INTO src_industry (`name`, `cdate`) VALUES ('" + stock['industry'] \
+                          + "', '" + cdate + "')"
                     mysql_rs = mysql_insert(sql)
                     industry_id = str(mysql_rs)
                 else:
@@ -80,33 +82,45 @@ def catch_stock():
             else:
                 industry_id = 0
 
-            insert_sql = "INSERT INTO src_stock (`code`, `name`, `fullname`, `industry_id`, `market`, `status`," \
+            insert_sql = "INSERT INTO src_stock (`code`, `ts_code`, `name`, `fullname`, `industry_id`, `market`, `status`," \
                          " `list_date`, `delist_date`, `cdate`, `udate`) " \
-                         "VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s','%s','%s','%s')" \
-                         % (stock[0], stock[1], stock[3], industry_id, stock[4], stock[5], stock[6], stock[7], cdate,
+                         "VALUES ('%s','%s', '%s', '%s', '%s', '%s', '%s', '%s','%s','%s','%s')" \
+                         % (stock['symbol'], stock['ts_code'], stock['name'], stock['fullname'], industry_id,
+                            stock['market'], stock['list_status'], stock['list_date'], stock['delist_date'], cdate,
                             cdate)
             mysql_insert(insert_sql)
         except BaseException as e:
-            log('stock_error', str(stock[0]) + '|' + str(stock[1]) + '|' + str(traceback.format_exc()))
+            log('stock_error', str(stock['symbol']) + '|' + str(stock['ts_code']) + '|' + str(traceback.format_exc()))
             continue
 
 
-def catch_daily_trade(stock_code, start, end):
-    """ 抓取个股 日交易信息 """
+def catch_daily_trade(stock_code, start, end, adj='hfq'):
+    """
+    抓取个股 日交易信息
+    stock_code  ts代码
+    start
+    end
+    adj         复权方式，默认后
+    """
     global token
 
     try:
-        pro = ts.pro_api(token)
-        data = pro.daily(ts_code=stock_code, start=start, end=end)
+        print('正在抓取： ' + stock_code + '  复权: ' + adj)
+
+        api = ts.pro_api(token)
+        data = ts.pro_bar(pro_api=api, ts_code=stock_code, adj=adj, start_date=start, end_date=end)
+        data = data.sort_index()
+
         counter = 0
         start_runtime = time.time()
 
         insert_sql = "INSERT INTO src_base_day (`code`, `date`, `open`, `close`, `high`, `low`, `volume`, `cdate`) VALUES "
         cdate = time.strftime('%Y-%m-%d %H:%M:%S')
         if data.empty is not True:
-            for day in data.values:
-                insert_sql += "('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s'),"\
-                              % (day[0], day[1], day[2], day[5], day[3], day[4], day[9], cdate)
+            for index, day in data.iterrows():
+                insert_sql += "('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')," \
+                              % (day['ts_code'][0:6], day['trade_date'], day['open'], day['close'], day['high'],
+                                 day['low'], day['vol'], cdate)
                 counter = counter + 1
             insert_sql = insert_sql.strip(',')
             mysql_insert(insert_sql)
@@ -134,16 +148,13 @@ def catch_daily_trade(stock_code, start, end):
 
 def init_all_day_trade():
     """ 初始化所有股票 日交易数据。剔除不追踪的"""
-    sql = "SELECT code from src_stock where `is_trace` = 1"
+    sql = "SELECT ts_code from src_stock where `is_trace` = 1"
     data = mysql_fetch(sql, False)
     for code in data:
-        print(code[0])
         # 1990年有10只股票，而且有些已经不存在了，以此为起点
-        catch_daily_trade(code[0], '19900101', '20191022')
+        catch_daily_trade(code[0], '19900101', '20190227')
 
 
 log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
 token = 'b122fa2788bd599ca9b5ae1b02a51fa0a5e4c7724e54de4955cb1c34'
-# init_all_day_trade()
-
-catch_daily_trade('600581.SH', '19900101', '20191022')
+init_all_day_trade()

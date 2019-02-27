@@ -97,7 +97,7 @@ def turtle(code, model_code, start_date='1990-01-01', end_date=''):
     # 持有状态，False为未持有
     have_status = False
     # 初始资金
-    money = 100000
+    money = 1000000
     # 持股天数
     have_day = 0
     # 最大回撤度
