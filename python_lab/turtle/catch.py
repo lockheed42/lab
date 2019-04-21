@@ -7,55 +7,11 @@
 __author__ = 'lockheed'
 
 import tushare as ts
-import pymysql
-import pymysql.cursors
 import time
 import traceback
 import json
-
-
-# import pandas as pd
-# from pandas import DataFrame
-# import numpy as np
-
-def log(file, content):
-    """其他日志"""
-    global host
-    global log_path
-    with open(log_path + "/" + file + ".log", 'a') as f:
-        f.write(time.strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(content) + '\n')
-
-
-def mysql_insert(sql):
-    """ 执行mysql语句"""
-    connection = pymysql.connect(host='localhost',
-                                 user='root',
-                                 password='',
-                                 db='test',
-                                 port=3306,
-                                 charset='utf8')
-
-    with connection.cursor() as cursor:
-        cursor.execute(sql)
-        connection.commit()
-        return cursor.lastrowid
-
-
-def mysql_fetch(sql, fetchone=True):
-    """ 执行mysql语句"""
-    connection = pymysql.connect(host='localhost',
-                                 user='root',
-                                 password='',
-                                 db='test',
-                                 port=3306,
-                                 charset='utf8')
-
-    with connection.cursor() as cursor:
-        cursor.execute(sql)
-        if fetchone is True:
-            return cursor.fetchone()
-        else:
-            return cursor.fetchall()
+from base import sim
+from base import mysql
 
 
 def catch_stock():
@@ -70,12 +26,12 @@ def catch_stock():
         try:
             if stock['industry'] is not None:
                 sql = "SELECT * FROM src_industry WHERE name = '" + stock['industry'] + "'"
-                mysql_rs = mysql_fetch(sql)
+                mysql_rs = mysql.mysql_fetch(sql)
 
                 if mysql_rs is None:
                     sql = "INSERT INTO src_industry (`name`, `cdate`) VALUES ('" + stock['industry'] \
                           + "', '" + cdate + "')"
-                    mysql_rs = mysql_insert(sql)
+                    mysql_rs = mysql.mysql_insert(sql)
                     industry_id = str(mysql_rs)
                 else:
                     industry_id = str(mysql_rs[0])
@@ -88,42 +44,54 @@ def catch_stock():
                          % (stock['symbol'], stock['ts_code'], stock['name'], stock['fullname'], industry_id,
                             stock['market'], stock['list_status'], stock['list_date'], stock['delist_date'], cdate,
                             cdate)
-            mysql_insert(insert_sql)
+            mysql.mysql_insert(insert_sql)
         except BaseException as e:
-            log('stock_error', str(stock['symbol']) + '|' + str(stock['ts_code']) + '|' + str(traceback.format_exc()))
+            sim.log('stock_error',
+                    str(stock['symbol']) + '|' + str(stock['ts_code']) + '|' + str(traceback.format_exc()))
             continue
 
 
 def catch_daily_trade(stock_code, start, end, adj='hfq'):
     """
     抓取个股 日交易信息
-    stock_code  ts代码
-    start
-    end
-    adj         复权方式，默认后
+    :param stock_code: ts代码
+    :param start:
+    :param end:
+    :param adj: 复权方式，默认后
+    :return:
     """
     global token
 
     try:
-        print('正在抓取： ' + stock_code + '  复权: ' + adj)
+        request_json = ''
+        result_json = ''
 
         api = ts.pro_api(token)
         data = ts.pro_bar(pro_api=api, ts_code=stock_code, adj=adj, start_date=start, end_date=end)
+        if data is None:
+            raise BaseException("返回数据为空")
         data = data.sort_index()
 
         counter = 0
         start_runtime = time.time()
 
+        high_list = []
         insert_sql = "INSERT INTO src_base_day (`code`, `date`, `open`, `close`, `high`, `low`, `volume`, `cdate`) VALUES "
         cdate = time.strftime('%Y-%m-%d %H:%M:%S')
         if data.empty is not True:
             for index, day in data.iterrows():
+                high_list.append(day['high'])
                 insert_sql += "('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')," \
                               % (day['ts_code'][0:6], day['trade_date'], day['open'], day['close'], day['high'],
                                  day['low'], day['vol'], cdate)
                 counter = counter + 1
+
+            # 后复权价过高时的检测
+            # high_list.sort(reverse=True)
+            # print(high_list[0:10])
+            # return
             insert_sql = insert_sql.strip(',')
-            mysql_insert(insert_sql)
+            mysql.mysql_insert(insert_sql)
 
         end_runtime = round(time.time() - start_runtime, 3)
         request_json = json.dumps({
@@ -138,23 +106,42 @@ def catch_daily_trade(stock_code, start, end, adj='hfq'):
         insert_sql = "INSERT INTO log_catch (`type`, `request`, `result`, `cdate`)" \
                      " VALUES ('daily_trade', '" + str(request_json) + "', '" + result_json + "', '" + time.strftime(
             '%Y-%m-%d %H:%M:%S') + "')"
-        mysql_insert(insert_sql)
+        mysql.mysql_insert(insert_sql)
     except BaseException as e:
         insert_sql = "INSERT INTO log_catch (`type`, `request`, `result`,`exception`, `cdate`)" \
                      " VALUES ('daily_trade', '" + str(request_json) + "', '" + result_json + "','" \
                      + str(traceback.format_exc()) + "', '" + time.strftime('%Y-%m-%d %H:%M:%S') + "')"
-        mysql_insert(insert_sql)
+        mysql.mysql_insert(insert_sql)
+        exit()
 
 
-def init_all_day_trade():
-    """ 初始化所有股票 日交易数据。剔除不追踪的"""
+def daily_trad_info(date):
+    """
+    更新每日数据，每分钟限制200次调用。
+    可以通过修改最终调用日期范围，来拉取一个日期范围内的数据
+    :param date:
+    :return:
+    """
     sql = "SELECT ts_code from src_stock where `is_trace` = 1"
-    data = mysql_fetch(sql, False)
+    data = mysql.mysql_fetch(sql, False)
+    right_time_point = int(time.time()) + 65
+    limit_counter = 0
     for code in data:
-        # 1990年有10只股票，而且有些已经不存在了，以此为起点
-        catch_daily_trade(code[0], '19900101', '20190227')
+        # 200次调用对比下时间，次数用完后，休眠满一分钟继续。
+        # 卡足60秒经常还会超时，为了稳定延长
+        limit_counter += 1
+        if limit_counter >= 200:
+            now_time = int(time.time())
+            sleep_time = right_time_point - now_time
+            if sleep_time > 0:
+                time.sleep(sleep_time)
+            limit_counter = 0
+            right_time_point = int(time.time()) + 65
+        catch_daily_trade(code[0], date, date)
 
 
+# TODO 已经在定时任务运行，修改慎重
 log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
 token = 'b122fa2788bd599ca9b5ae1b02a51fa0a5e4c7724e54de4955cb1c34'
-init_all_day_trade()
+
+daily_trad_info(time.strftime('%Y%m%d', time.localtime()))
