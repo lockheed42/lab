@@ -10,15 +10,17 @@ __author__ = 'lockheed'
 import math
 import time
 import traceback
+from multiprocessing import Pool
+import multiprocessing
 from base import mysql
-from decimal import Decimal
+from base import redis as base_redis
 
 log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
 
 
+# TODO class Sim以上的独立方法，仅仅为了让老文件model_turtle.py运行
 def log(file, content):
     """其他日志"""
-    global host
     global log_path
     with open(log_path + "/" + file + ".log", 'a') as f:
         f.write(time.strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(content) + '\n')
@@ -104,6 +106,8 @@ def calc_model_plan(test_id=0):
 
 
 class Sim:
+    log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
+
     # 测试明细数据最后一个id
     last_test_detail_id = 0
     # 持有状态，False为未持有
@@ -130,6 +134,7 @@ class Sim:
     # 回测模型代码
     model_code = ''
 
+    @profile
     def main(self, code, model_code, end_date, start_date='1990-01-01'):
         """
         回测主程序
@@ -139,8 +144,21 @@ class Sim:
         :param start_date:
         :return:
         """
-
         print(code)
+
+        # 每次运行初始化数值，应对多进程复用model的数据问题
+        self.last_test_detail_id = 0
+        self.have_status = False
+        self.money = 1000000
+        self.have_day = 0
+        self.max_draw_down = 0
+        self.draw_down_day = 0
+        self.max_draw_down_day = 0
+        self.interval_highest = 0
+        self.is_just_have = False
+        self.stop_loss_price = 0
+        self.test_id = 0
+
         self.model_code = model_code
         sql = "SELECT * FROM src_base_day WHERE code = '%s' and `date` >= '%s' and `date`<='%s'" \
               % (code, start_date, end_date)
@@ -151,6 +169,9 @@ class Sim:
             "INSERT INTO rpt_test (`code`, `init_money`, `start_date`, `end_date`, `cdate`, `model_code`) "
             "VALUES ('%s', %s, '%s', '%s', '%s', '%s')"
             % (code, self.money, start_date, end_date, time.strftime('%Y-%m-%d %H:%M:%S'), model_code))
+
+        # 交易准备模块
+        self.main_ready(code)
 
         for ids, code, date, open_p, close, high, low, vol, c_date in res:
             # 测算并记录【回撤相关数据】
@@ -177,8 +198,6 @@ class Sim:
             # 是否当日买入，用于屏蔽T+0
             self.is_just_have = False
 
-            # 交易准备模块
-            self.main_begin(ids, code, date, open_p, close, high, low, vol, c_date)
             # 交易前模块
             self.main_before(ids, code, date, open_p, close, high, low, vol, c_date)
             # 买入模块
@@ -197,6 +216,7 @@ class Sim:
         # 防止结束时还未卖出。
         if self.have_status is True:
             self.sell(close, date, self.have_day, self.max_draw_down, self.max_draw_down_day, self.last_test_detail_id)
+        self.main_end()
 
         self.calc_model_plan(self.test_id)
 
@@ -244,13 +264,11 @@ class Sim:
                             first_detail[1], last_detail[1], plan_info[0])
             mysql.mysql_insert(sql_update)
         except BaseException as e:
-            log('calc_model_plan', str(plan_info[0]) + '|' + str(traceback.format_exc()))
+            log('sim_model', str(plan_info[0]) + '|' + str(traceback.format_exc()))
 
     def log(self, file, content):
         """其他日志"""
-        global host
-        global log_path
-        with open(log_path + "/" + file + ".log", 'a') as f:
+        with open(self.log_path + "/" + file + ".log", 'a') as f:
             f.write(time.strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(content) + '\n')
 
     def sell(self, sell_price, date, have_day, max_draw_down, max_draw_down_day, last_test_detail_id, sell_type=1):
@@ -283,3 +301,73 @@ class Sim:
             "WHERE id = %s"
             % (have_day, profit_rate * 100, date, after_money, sell_price, max_draw_down * 100,
                max_draw_down_day, sell_type, last_test_detail_id))
+
+    def sub_process(self, pipe, sub_id):
+        """
+        子进程
+        :param sub_id:
+        :return:
+        """
+        # 为每次子进程提供一个连接池
+        redis = base_redis.Redis()
+
+        is_continue = True
+        while is_continue:
+            message = pipe.recv()
+            self.log('pipe_recv', str(sub_id) + '  ' + message)
+            # 收到结束信号中止循环
+            if message == '---end---':
+                is_continue = False
+
+            message_array = message.split('------')
+            code = message_array[0]
+            model_code = message_array[1]
+            end_date = message_array[2]
+            start_date = message_array[3]
+
+            # TODO
+            self.main(code, model_code, end_date, start_date)
+            redis.handle.lpush(redis.free_process_key_prefix, str(sub_id))
+
+    def multi_main(self, model_code, end_date, start_date='1990-01-01'):
+        """
+        多进程使用的主程序
+        :param model_code:
+        :param end_date:
+        :param start_date:
+        :return:
+        """
+        # 进程数。考虑CPU核数
+        process_num = 4
+
+        # 引入redis，并初始化
+        redis = base_redis.Redis()
+        redis.init(model_code, end_date, start_date)
+
+        # 多工作进程运行
+        process_pool = Pool(process_num)
+        pipe_pool = {}
+        for i in range(process_num):
+            pipe_pool[i] = multiprocessing.Pipe()
+            process_pool.apply_async(self.sub_process, args=(pipe_pool[i][1], i,))
+            # 设置空闲进程队列
+            redis.handle.lpush(redis.free_process_key_prefix, i)
+            # 重要，延长每个pipe创建的间隔
+            time.sleep(0.5)
+
+        # 主进程逻辑
+        while True:
+            sub_id = redis.handle.brpop(redis.free_process_key_prefix)[1]
+            mission_data = redis.handle.rpop(redis.mission_queue_key)
+            if mission_data is None:
+                # 任务全部做完，发送信号给子程序，并等待子进程结束
+                for j in range(process_num):
+                    pipe_pool[j][0].send('---end---')
+
+                process_pool.close()
+                process_pool.join()
+                print('All url done.')
+                exit()
+
+            log('pipe_send', mission_data)
+            pipe_pool[int(sub_id)][0].send(mission_data)

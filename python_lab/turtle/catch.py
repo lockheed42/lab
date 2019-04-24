@@ -112,7 +112,6 @@ def catch_daily_trade(stock_code, start, end, adj='hfq'):
                      " VALUES ('daily_trade', '" + str(request_json) + "', '" + result_json + "','" \
                      + str(traceback.format_exc()) + "', '" + time.strftime('%Y-%m-%d %H:%M:%S') + "')"
         mysql.mysql_insert(insert_sql)
-        exit()
 
 
 def daily_trad_info(date):

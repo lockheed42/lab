@@ -3,6 +3,12 @@
  */
 
 
+/* 检测最近自动抓取数据脚本的数据 */
+select `date`,count(*)
+from src_base_day
+where `date` > '2019-04-15'
+group by `date`;
+
 /* 获取某一计划 盈利个股 占比 */
 select
 (select count(*) from rpt_test

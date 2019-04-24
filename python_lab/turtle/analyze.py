@@ -12,7 +12,8 @@ from base import mysql
 
 def generate_echart_data(code, model_code):
     """
-    生成可视化数据，用于echart展示买点和卖点
+    已废弃，在view/kchart.php有可视化界面
+    生成可视化数据，用于echart展示买点和卖点。
     https://www.echartsjs.com/examples/editor.html?c=candlestick-sh
     :param code:
     :param model_code: 模型代码
@@ -103,5 +104,5 @@ def model_report():
     print(output)
 
 
-# model_report()
-generate_echart_data('600118', 'ma-004')
+model_report()
+# generate_echart_data('600118', 'ma-004')

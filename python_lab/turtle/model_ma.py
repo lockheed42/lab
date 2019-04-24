@@ -39,22 +39,34 @@ class ModelMa(sim.Sim):
     # 记录K先是否在均线之下
     is_under_ma = False
 
-    def main_begin(self, ids, code, date, open_p, close, high, low, vol, c_date):
+    def main_ready(self, code):
+        # 每次运行初始化数值，应对多进程复用model的数据问题
+        self.ma_5 = []
+        self.ma_10 = []
+        self.ma_20 = []
+        self.ma_30 = []
+        self.ma_60 = []
+        self.ma_5_p = 0
+        self.ma_10_p = 0
+        self.ma_20_p = 0
+        self.ma_30_p = 0
+        self.ma_60_p = 0
+        self.is_under_ma = False
+
+    @profile
+    def main_before(self, ids, code, date, open_p, close, high, low, vol, c_date):
         # 计算均线价
-        self.ma_5_p = np.mean(self.ma_5) if len(self.ma_5) == 5 else 99999
-        self.ma_10_p = np.mean(self.ma_10) if len(self.ma_10) == 10 else 99999
+        # self.ma_5_p = np.mean(self.ma_5) if len(self.ma_5) == 5 else 99999
+        # self.ma_10_p = np.mean(self.ma_10) if len(self.ma_10) == 10 else 99999
         self.ma_20_p = np.mean(self.ma_20) if len(self.ma_20) == 20 else 99999
-        self.ma_30_p = np.mean(self.ma_30) if len(self.ma_30) == 30 else 99999
+        # self.ma_30_p = np.mean(self.ma_30) if len(self.ma_30) == 30 else 99999
         self.ma_60_p = np.mean(self.ma_60) if len(self.ma_60) == 60 else 99999
-        if self.ma_20:
-            self.max_20_p = max(self.ma_20)
-        else:
-            self.max_20_p = 1
+        # if self.ma_20:
+        #     self.max_20_p = max(self.ma_20)
+        # else:
+        #     self.max_20_p = 1
         if self.have_status is False and self.ma_60_p > high:
             self.is_under_ma = True
-
-    def main_before(self, ids, code, date, open_p, close, high, low, vol, c_date):
-        pass
 
     def main_buy(self, ids, code, date, open_p, close, high, low, vol, c_date):
         # 买入条件
@@ -62,7 +74,7 @@ class ModelMa(sim.Sim):
         # if have_status is False and max_20_p > ma_5_p > ma_10_p > ma_20_p > ma_30_p and low <= max_20_p <= high:
         # 双均线。当K从长均线下方金叉时买入；或者跌破短均线卖出后，未跌破长均线再次金叉短均线买入
         if self.have_status is False and ((low >= self.ma_60_p and self.is_under_ma is True)
-                                          or (self.is_under_ma is False and low >= self.ma_30_p)):
+                                          or (self.is_under_ma is False and low >= self.ma_20_p)):
             # 记录买入价
             buy_price = low
             # TODO
@@ -100,9 +112,9 @@ class ModelMa(sim.Sim):
         # 退出条件 收盘价跌破 日均线，当日不会同时买卖
         # ma-001的条件
         # if close < ma_20_p:
-        ma_30_p_97 = self.ma_30_p * Decimal(0.97)
-        if low <= ma_30_p_97 or high <= ma_30_p_97:
-            sell_price = ma_30_p_97 if high >= ma_30_p_97 else high
+        ma_20_p_97 = self.ma_20_p * Decimal(0.97)
+        if low <= ma_20_p_97 or high <= ma_20_p_97:
+            sell_price = ma_20_p_97 if high >= ma_20_p_97 else high
             sim.sell(sell_price, date, self.have_day, self.max_draw_down, self.max_draw_down_day,
                      self.last_test_detail_id)
             self.have_status = False
@@ -127,21 +139,30 @@ class ModelMa(sim.Sim):
         self.ma_30.append(close)
         self.ma_60.append(close)
 
+    def main_end(self):
+        pass
+
 
 # main
 log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
 model_code = 'ma-test'
 
-# model = ModelMa()
-# model.main('000001', model_code, '2019-02-27')
-# exit()
+# 测试单条
+model = ModelMa()
+model.main('000001', model_code, '2019-02-27')
+exit()
 
-sql = "SELECT code FROM src_stock WHERE `status` = 'L' and `is_test` = 1"
-data = mysql.mysql_fetch(sql, False)
-for code in data:
-    try:
-        model = ModelMa()
-        model.main(code[0], model_code, '2019-02-27')
-    except BaseException as e:
-        sim.log('sim_model_ma', str(code[0]) + '|' + str(traceback.format_exc()))
-        continue
+# 单进程模拟
+# sql = "SELECT code FROM src_stock WHERE `status` = 'L' and `is_test` = 1"
+# data = mysql.mysql_fetch(sql, False)
+# for code in data:
+#     try:
+#         model = ModelMa()
+#         model.main(code[0], model_code, '2019-02-27')
+#     except BaseException as e:
+#         sim.log('sim_model_ma', str(code[0]) + '|' + str(traceback.format_exc()))
+#         continue
+
+# 多进程
+# model = ModelMa()
+# model.multi_main(model_code, '2019-02-27', '2003-01-01')

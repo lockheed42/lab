@@ -1,6 +1,7 @@
 # 编辑器
 .idea
-python_lab/.idea
+#python_lab/.idea
 html/
 html_old/
 log/
+#python_lab/turtle/dump.rdb
