@@ -138,7 +138,27 @@ class Sim:
                 self.last_close = close
                 self.last_date = date
 
-            self.main_end()
+            # 防止结束时还未卖出。
+            if self.have_status is True:
+                self.sell(self.last_close, self.last_date, self.have_day, self.max_draw_down, self.max_draw_down_day)
+
+            # 未交易跳过
+            if len(self.tmp_trade_record) == 0:
+                return
+
+            # 一次性插入所有交易明细
+            sql = "INSERT INTO rpt_test_detail (`model_code`, `test_id`, `code`, `sell_type`, `have_day`, `profit_rate`" \
+                  ", `max_retracement`, `retracement_day`, `buy_date`, `sell_date`, `before_money`, `after_money`" \
+                  ", `buy_trigger`, `sell_trigger`, `stock_number`, `status`, `cdate`) VALUES "
+            for d in self.tmp_trade_record:
+                sql += "('%s', %s, '%s', %s, %s, %.2f, %.2f, %s, '%s', '%s', %.2f, %.2f, %.3f, %.3f, %s, '%s', '%s')," \
+                       % (d['model_code'], d['test_id'], d['code'], d['sell_type'], d['have_day'], d['profit_rate'],
+                          d['max_retracement'], d['retracement_day'], d['buy_date'], d['sell_date'], d['before_money'],
+                          d['after_money'], d['buy_trigger'], d['sell_trigger'], d['stock_number'], d['status'],
+                          d['cdate'])
+
+            sql = sql.rstrip(',')
+            mysql.mysql_insert(sql)
 
             self.calc_model_plan(self.test_id)
         except BaseException as e:
@@ -165,7 +185,7 @@ class Sim:
 
             # 持有年份，年化收益
             have_year = math.ceil((last_detail[1] - first_detail[1]).days / 365)
-            profit_year = (final_money - start_money) / start_money / have_year * 100 if have_year > 0 else 0
+            profit_year = (pow(float(final_money / start_money), 1 / have_year) - 1) * 100 if have_year > 0 else 0
             # 回撤数据
             retracement_info = mysql.mysql_fetch(
                 "SELECT max_retracement, retracement_day FROM rpt_test_detail WHERE test_id = %s ORDER BY max_retracement DESC LIMIT 1"

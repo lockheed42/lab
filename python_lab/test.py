@@ -9,5 +9,7 @@ __author__ = 'lockheed'
 
 import random
 
-a = sum([1, 2, 3, 4])
-print(a)
+a = 8
+r = 3
+x = pow(a, 1 / r)
+print(x)

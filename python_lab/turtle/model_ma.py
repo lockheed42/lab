@@ -11,6 +11,7 @@ import time
 from decimal import Decimal
 from base import sim
 from base import mysql
+import math
 
 
 class ModelMa(sim.Sim):
@@ -157,37 +158,15 @@ class ModelMa(sim.Sim):
         self.ma_30.append(close)
         self.ma_60.append(close)
 
-    def main_end(self):
-        # 防止结束时还未卖出。
-        if self.have_status is True:
-            self.sell(self.last_close, self.last_date, self.have_day, self.max_draw_down, self.max_draw_down_day)
-
-        # 未交易跳过
-        if len(self.tmp_trade_record) == 0:
-            return
-
-            # 一次性插入所有交易明细
-        sql = "INSERT INTO rpt_test_detail (`model_code`, `test_id`, `code`, `sell_type`, `have_day`, `profit_rate`" \
-              ", `max_retracement`, `retracement_day`, `buy_date`, `sell_date`, `before_money`, `after_money`" \
-              ", `buy_trigger`, `sell_trigger`, `stock_number`, `status`, `cdate`) VALUES "
-        for d in self.tmp_trade_record:
-            sql += "('%s', %s, '%s', %s, %s, %.2f, %.2f, %s, '%s', '%s', %.2f, %.2f, %.3f, %.3f, %s, '%s', '%s')," \
-                   % (d['model_code'], d['test_id'], d['code'], d['sell_type'], d['have_day'], d['profit_rate'],
-                      d['max_retracement'], d['retracement_day'], d['buy_date'], d['sell_date'], d['before_money'],
-                      d['after_money'], d['buy_trigger'], d['sell_trigger'], d['stock_number'], d['status'], d['cdate'])
-
-        sql = sql.rstrip(',')
-        mysql.mysql_insert(sql)
-
 
 # main
 log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
 model_code = 'ma-test'
 
 # 测试单条
-# model = ModelMa()
-# model.main('002943', model_code, '2019-02-27')
-# exit()
+model = ModelMa()
+model.main('000001', model_code, '2019-02-27')
+exit()
 
 # 单进程模拟
 # sql = "SELECT code FROM src_stock WHERE `status` = 'L' and `is_test` = 1"
@@ -201,5 +180,6 @@ model_code = 'ma-test'
 #         continue
 
 # 多进程
-model = ModelMa()
-model.multi_main(model_code, '2019-02-27', '2003-01-01')
+# model = ModelMa()
+# model.multi_main(model_code, '2019-02-27', '2003-01-01')
+
