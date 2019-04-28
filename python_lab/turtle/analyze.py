@@ -8,6 +8,7 @@
 __author__ = 'lockheed'
 
 from base import mysql
+import math
 
 
 def generate_echart_data(code, model_code):
@@ -56,6 +57,7 @@ def model_report():
              "最大回撤率超过30%的数量\t" \
              "初始资金总和\t" \
              "结束资金总和\t" \
+             "手续费总和\t" \
              "结束与初始资金比例\t" \
              "\n"
     for ids, model_code in data:
@@ -66,6 +68,7 @@ def model_report():
         output += str(round(info[0] * 100, 2)) + "%\t"
 
         # 平均年化收益率
+        # 现在为所有测试个股的年华收益求平均
         info = mysql.mysql_fetch(
             "select avg(`profit_year`) from rpt_test where model_code='" + model_code + "' and `status` = 2")
         output += str(round(info[0], 2)) + "%\t"
@@ -96,11 +99,10 @@ def model_report():
         info = mysql.mysql_fetch(
             "select count(*) from rpt_test where model_code='" + model_code + "' and max_retracement > 30 and `status` = 2")
         output += str(info[0]) + "\t"
-
         # 总和收益
         info = mysql.mysql_fetch(
-            "select sum(init_money), sum(final_money) - sum(init_money),(sum(final_money) - sum(init_money)) / sum(init_money) from rpt_test where model_code = '" + model_code + "' and `status` = 2")
-        output += str(format(info[0], ',')) + "\t" + str(format(info[1], ',')) + "\t" + str(round(info[2], 2)) + "\n"
+            "select sum(init_money), sum(final_money), sum(handling_fee), sum(final_money) / sum(init_money) from rpt_test where model_code = '" + model_code + "' and `status` = 2")
+        output += str(format(info[0], ',')) + "\t" + str(format(info[1], ',')) + "\t" + str(format(info[2], ',')) + "\t" + str(round(info[3], 2)) + "\n"
     print(output)
 
 

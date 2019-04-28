@@ -9,6 +9,7 @@ __author__ = 'lockheed'
 
 import math
 import time
+from decimal import Decimal
 import traceback
 from multiprocessing import Pool
 import multiprocessing
@@ -51,6 +52,13 @@ class Sim:
     # 回测模型代码
     model_code = ''
 
+    # 券商佣金，万3
+    commission_percent = Decimal.from_float(0.0003)
+    # 印花税，千1
+    tax_percent = Decimal.from_float(0.001)
+    # 手续费总和
+    handling_fee = 0
+
     # 临时记录中途买卖数据
     tmp_trade_record = []
 
@@ -81,6 +89,7 @@ class Sim:
             self.tmp_trade_record = []
             self.last_close = 0
             self.last_date = ''
+            self.handling_fee = 0
 
             self.model_code = model_code
             sql = "SELECT * FROM src_base_day WHERE code = '%s' and `date` >= '%s' and `date`<='%s'" \
@@ -185,7 +194,8 @@ class Sim:
 
             # 持有年份，年化收益
             have_year = math.ceil((last_detail[1] - first_detail[1]).days / 365)
-            profit_year = (pow(float(final_money / start_money), 1 / have_year) - 1) * 100 if have_year > 0 else 0
+            profit_year = (pow(final_money / start_money,
+                               Decimal.from_float(1 / have_year)) - 1) * 100 if have_year > 0 else 0
             # 回撤数据
             retracement_info = mysql.mysql_fetch(
                 "SELECT max_retracement, retracement_day FROM rpt_test_detail WHERE test_id = %s ORDER BY max_retracement DESC LIMIT 1"
@@ -202,10 +212,10 @@ class Sim:
             success_times = success_times[0]
             success_rate = success_times / trade_times
             sql_update = "UPDATE rpt_test SET `final_money`=%.2f, `profit_year`=%.2f, `max_retracement`=%.2f, `retracement_day`=%s, " \
-                         "`trade_times`=%s, `success_rate`=%.2f, `start_date`='%s', `end_date`='%s',`status`=2 " \
+                         "`trade_times`=%s, `success_rate`=%.2f, `start_date`='%s', `end_date`='%s',`status`=2, `handling_fee`=%s " \
                          "WHERE `test_id`=%s" \
                          % (final_money, profit_year, max_retracement, retracement_day, trade_times, success_rate,
-                            first_detail[1], last_detail[1], plan_info[0])
+                            first_detail[1], last_detail[1], self.handling_fee, plan_info[0])
             mysql.mysql_insert(sql_update)
         except BaseException as e:
             self.log('sim_model', str(plan_info[0]) + '|' + str(traceback.format_exc()))
@@ -233,16 +243,13 @@ class Sim:
         stock_number = tmp['stock_number']
         buy_trigger = tmp['buy_trigger']
 
-        # last_info = mysql.mysql_fetch(
-        #     "SELECT `before_money`, `stock_number`, `buy_trigger` FROM rpt_test_detail WHERE id = %s" % last_test_detail_id)
-        # before_money = last_info[0]
-        # stock_number = last_info[1]
-        # buy_trigger = last_info[2]
-
         # 未买入现金
         rest_money = before_money - stock_number * buy_trigger
         # 买入部分变化
         after_money = rest_money + sell_price * stock_number
+        tmp_handling_fee = sell_price * stock_number * self.commission_percent + sell_price * stock_number * self.tax_percent
+        self.handling_fee += tmp_handling_fee
+        after_money = after_money - tmp_handling_fee
         # 收益率
         profit_rate = (sell_price - buy_trigger) / buy_trigger
 
@@ -258,13 +265,6 @@ class Sim:
         tmp['status'] = 2
         self.tmp_trade_record[len(self.tmp_trade_record) - 1] = tmp
 
-        # mysql.mysql_insert(
-        #     "UPDATE rpt_test_detail SET `have_day`=%s, `profit_rate`=%.2f, `sell_date`='%s',"
-        #     " `after_money`=%.2f, `sell_trigger`= %.3f, `max_retracement`=%.2f, `retracement_day`=%s,`sell_type`='%s', `status`=2 "
-        #     "WHERE id = %s"
-        #     % (have_day, profit_rate * 100, date, after_money, sell_price, max_draw_down * 100,
-        #        max_draw_down_day, sell_type, last_test_detail_id))
-
     def sub_process(self, pipe, sub_id):
         """
         子进程
@@ -277,7 +277,7 @@ class Sim:
         is_continue = True
         while is_continue:
             message = pipe.recv()
-            self.log('pipe_recv', str(sub_id) + '  ' + message)
+            # self.log('pipe_recv', str(sub_id) + '  ' + message)
             # 收到结束信号中止循环
             if message == '---end---':
                 is_continue = False
@@ -332,5 +332,5 @@ class Sim:
                 print('All url done.')
                 exit()
 
-            self.log('pipe_send', mission_data)
+            # self.log('pipe_send', mission_data)
             pipe_pool[int(sub_id)][0].send(mission_data)

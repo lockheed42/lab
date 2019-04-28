@@ -95,6 +95,9 @@ class ModelMa(sim.Sim):
             #         "SELECT id, after_money FROM rpt_test_detail WHERE id = %s" % self.last_test_detail_id)
             #     self.money = last_info[1]
 
+            tmp_handling_fee = self.money * self.commission_percent
+            self.handling_fee += tmp_handling_fee
+            self.money = self.money - tmp_handling_fee
             stock_number = int(self.money / buy_price)
             self.tmp_trade_record.append({
                 'test_id': self.test_id,
@@ -108,12 +111,6 @@ class ModelMa(sim.Sim):
                 'model_code': self.model_code,
             })
 
-            # insert_sql = "INSERT INTO rpt_test_detail (`test_id`, `code`,`buy_date`, `sell_date`," \
-            #              " `stock_number`,`before_money`, `buy_trigger`, `cdate`, `model_code`) " \
-            #              "VALUES (%s, '%s','%s','%s',%s,%s,%s,'%s','%s')" \
-            #              % (self.test_id, code, date, date, stock_number, self.money, buy_price,
-            #                 time.strftime('%Y-%m-%d %H:%M:%S'), self.model_code)
-            # self.last_test_detail_id = mysql.mysql_insert(insert_sql)
             self.have_status = True
             self.is_just_have = True
             self.is_under_ma = False
@@ -132,7 +129,7 @@ class ModelMa(sim.Sim):
         # 退出条件 收盘价跌破 日均线，当日不会同时买卖
         # ma-001的条件
         # if close < ma_20_p:
-        ma_20_p_97 = self.ma_20_p * Decimal(0.97)
+        ma_20_p_97 = self.ma_20_p * Decimal(0.99)
         if low <= ma_20_p_97 or high <= ma_20_p_97:
             sell_price = ma_20_p_97 if high >= ma_20_p_97 else high
             self.sell(sell_price, date, self.have_day, self.max_draw_down, self.max_draw_down_day)
@@ -161,25 +158,13 @@ class ModelMa(sim.Sim):
 
 # main
 log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
-model_code = 'ma-test'
+model_code = 'ma-005-04'
 
 # 测试单条
-model = ModelMa()
-model.main('000001', model_code, '2019-02-27')
-exit()
-
-# 单进程模拟
-# sql = "SELECT code FROM src_stock WHERE `status` = 'L' and `is_test` = 1"
-# data = mysql.mysql_fetch(sql, False)
-# for code in data:
-#     try:
-#         model = ModelMa()
-#         model.main(code[0], model_code, '2019-02-27')
-#     except BaseException as e:
-#         sim.log('sim_model_ma', str(code[0]) + '|' + str(traceback.format_exc()))
-#         continue
+# model = ModelMa()
+# model.main('000001', model_code, '2019-02-27', '2003-01-01')
+# exit()
 
 # 多进程
-# model = ModelMa()
-# model.multi_main(model_code, '2019-02-27', '2003-01-01')
-
+model = ModelMa()
+model.multi_main(model_code, '2019-02-27', '2003-01-01')
