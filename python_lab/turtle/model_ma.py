@@ -10,8 +10,6 @@ __author__ = 'lockheed'
 import time
 from decimal import Decimal
 from base import sim
-from base import mysql
-import math
 
 
 class ModelMa(sim.Sim):
@@ -155,16 +153,19 @@ class ModelMa(sim.Sim):
         self.ma_30.append(close)
         self.ma_60.append(close)
 
+    def track_model(self, code, end_date, start_date='1990-01-01'):
+        self.run_model = 'track'
+        self.main(code, 'track', end_date, start_date)
 
-# main
-log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
-model_code = 'ma-005-04'
 
-# 测试单条
-# model = ModelMa()
-# model.main('000001', model_code, '2019-02-27', '2003-01-01')
-# exit()
+if __name__ == '__main__':
+    # main
+    model_code = 'ma-005-04'
+    # 测试单条
+    model = ModelMa()
+    model.main('000001', model_code, '2019-02-27', '2003-01-01')
+    exit()
 
-# 多进程
-model = ModelMa()
-model.multi_main(model_code, '2019-02-27', '2003-01-01')
+    # 多进程
+    # model = ModelMa()
+    # model.multi_main(model_code, '2019-02-27', '2003-01-01')

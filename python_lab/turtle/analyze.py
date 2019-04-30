@@ -8,7 +8,6 @@
 __author__ = 'lockheed'
 
 from base import mysql
-import math
 
 
 def generate_echart_data(code, model_code):

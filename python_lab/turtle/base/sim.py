@@ -16,11 +16,12 @@ import multiprocessing
 from base import mysql
 from base import redis as base_redis
 
-log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
-
 
 class Sim:
+    # 日志目录
     log_path = '/Library/WebServer/Documents/code/lab/python_lab/turtle/log'
+    # 运行模式。sim=回测，track=跟踪
+    run_model = 'sim'
 
     # 测试明细数据最后一个id
     last_test_detail_id = 0
@@ -46,7 +47,8 @@ class Sim:
     last_close = 0
     # 最后一条交易日期，动态变动，用于防止结束时还未卖出。
     last_date = ''
-
+    # 临时记录中途买卖数据
+    tmp_trade_record = []
     # 测试计划ID
     test_id = 0
     # 回测模型代码
@@ -59,9 +61,6 @@ class Sim:
     # 手续费总和
     handling_fee = 0
 
-    # 临时记录中途买卖数据
-    tmp_trade_record = []
-
     def main(self, code, model_code, end_date, start_date='1990-01-01'):
         """
         回测主程序
@@ -71,8 +70,6 @@ class Sim:
         :param start_date:
         :return:
         """
-        print(code)
-
         try:
             # 每次运行初始化数值，应对多进程复用model的数据问题
             self.last_test_detail_id = 0
@@ -97,10 +94,15 @@ class Sim:
             res = mysql.mysql_fetch(sql, False)
 
             # 创建计划
-            self.test_id = mysql.mysql_insert(
-                "INSERT INTO rpt_test (`code`, `init_money`, `start_date`, `end_date`, `cdate`, `model_code`) "
-                "VALUES ('%s', %s, '%s', '%s', '%s', '%s')"
-                % (code, self.money, start_date, end_date, time.strftime('%Y-%m-%d %H:%M:%S'), model_code))
+            if self.run_model == 'sim':
+                self.test_id = mysql.mysql_insert(
+                    "INSERT INTO rpt_test (`code`, `init_money`, `start_date`, `end_date`, `cdate`, `model_code`) "
+                    "VALUES ('%s', %s, '%s', '%s', '%s', '%s')"
+                    % (code, self.money, start_date, end_date, time.strftime('%Y-%m-%d %H:%M:%S'), model_code))
+            elif self.run_model == 'track':
+                self.test_id = 0
+            else:
+                raise BaseException('run_model错误')
 
             # 交易准备模块
             self.main_ready(code)
@@ -155,21 +157,28 @@ class Sim:
             if len(self.tmp_trade_record) == 0:
                 return
 
-            # 一次性插入所有交易明细
-            sql = "INSERT INTO rpt_test_detail (`model_code`, `test_id`, `code`, `sell_type`, `have_day`, `profit_rate`" \
-                  ", `max_retracement`, `retracement_day`, `buy_date`, `sell_date`, `before_money`, `after_money`" \
-                  ", `buy_trigger`, `sell_trigger`, `stock_number`, `status`, `cdate`) VALUES "
-            for d in self.tmp_trade_record:
-                sql += "('%s', %s, '%s', %s, %s, %.2f, %.2f, %s, '%s', '%s', %.2f, %.2f, %.3f, %.3f, %s, '%s', '%s')," \
-                       % (d['model_code'], d['test_id'], d['code'], d['sell_type'], d['have_day'], d['profit_rate'],
-                          d['max_retracement'], d['retracement_day'], d['buy_date'], d['sell_date'], d['before_money'],
-                          d['after_money'], d['buy_trigger'], d['sell_trigger'], d['stock_number'], d['status'],
-                          d['cdate'])
+            if self.run_model == 'sim':
+                # 一次性插入所有交易明细
+                sql = "INSERT INTO rpt_test_detail (`model_code`, `test_id`, `code`, `sell_type`, `have_day`, `profit_rate`" \
+                      ", `max_retracement`, `retracement_day`, `buy_date`, `sell_date`, `before_money`, `after_money`" \
+                      ", `buy_trigger`, `sell_trigger`, `stock_number`, `status`, `cdate`) VALUES "
+                for d in self.tmp_trade_record:
+                    sql += "('%s', %s, '%s', %s, %s, %.2f, %.2f, %s, '%s', '%s', %.2f, %.2f, %.3f, %.3f, %s, '%s', '%s')," \
+                           % (d['model_code'], d['test_id'], d['code'], d['sell_type'], d['have_day'], d['profit_rate'],
+                              d['max_retracement'], d['retracement_day'], d['buy_date'], d['sell_date'],
+                              d['before_money'],
+                              d['after_money'], d['buy_trigger'], d['sell_trigger'], d['stock_number'], d['status'],
+                              d['cdate'])
 
-            sql = sql.rstrip(',')
-            mysql.mysql_insert(sql)
-
-            self.calc_model_plan(self.test_id)
+                sql = sql.rstrip(',')
+                mysql.mysql_insert(sql)
+                # 统计回测结果
+                self.calc_model_plan(self.test_id)
+            elif self.run_model == 'track':
+                if self.is_just_have is True:
+                    print(code)
+            else:
+                raise BaseException('run_model错误')
         except BaseException as e:
             self.log('sim_model', str(self.test_id) + '|' + str(traceback.format_exc()))
 
