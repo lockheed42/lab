@@ -53,6 +53,13 @@ class Sim:
     test_id = 0
     # 回测模型代码
     model_code = ''
+    # 买入价格
+    buy_price = 0
+
+    # TR池，记录每日波动值，池子大小取决于ATR需要的天数
+    tr_pool = []
+    # ATR
+    atr_p = 0
 
     # 券商佣金，万3
     commission_percent = Decimal.from_float(0.0003)
@@ -87,6 +94,9 @@ class Sim:
             self.last_close = 0
             self.last_date = ''
             self.handling_fee = 0
+            self.buy_price = 0
+            self.tr_pool = []
+            self.atr_p = 0
 
             self.model_code = model_code
             sql = "SELECT * FROM src_base_day WHERE code = '%s' and `date` >= '%s' and `date`<='%s'" \
@@ -137,13 +147,19 @@ class Sim:
                 # 买入模块
                 self.main_buy(ids, code, date, open_p, close, high, low, vol, c_date)
 
+                # 卖出策略
+                if self.have_status is True and self.is_just_have is False:
+                    self.main_sell(ids, code, date, open_p, close, high, low, vol, c_date)
+
                 # 止损策略
                 if self.have_status is True and self.is_just_have is False:
                     self.lost_control(ids, code, date, open_p, close, high, low, vol, c_date)
 
-                # 卖出策略
-                if self.have_status is True and self.is_just_have is False:
-                    self.main_sell(ids, code, date, open_p, close, high, low, vol, c_date)
+                # 计算atr
+                if len(self.tr_pool) >= 20:
+                    self.tr_pool.pop(0)
+                self.tr_pool.append(max(high - low, abs(self.last_close - low), abs(self.last_close - high)))
+                self.atr_p = sum(self.tr_pool) / len(self.tr_pool)
 
                 self.main_after(ids, code, date, open_p, close, high, low, vol, c_date)
                 self.last_close = close
@@ -176,7 +192,9 @@ class Sim:
                 self.calc_model_plan(self.test_id)
             elif self.run_model == 'track':
                 if self.is_just_have is True:
-                    print(code)
+                    sql = "select code, name from src_stock where code = %s" % code
+                    res = mysql.mysql_fetch(sql)
+                    print(res[0], res[1])
             else:
                 raise BaseException('run_model错误')
         except BaseException as e:
@@ -220,11 +238,21 @@ class Sim:
                 % plan_info[0])
             success_times = success_times[0]
             success_rate = success_times / trade_times
+
+            # 止损占总交易百分比
+            lost_control_times = mysql.mysql_fetch(
+                "SELECT count(*) FROM rpt_test_detail WHERE test_id = %s AND `sell_type`=2 " % plan_info[0])
+            lost_control_times = lost_control_times[0] / trade_times * 100
+
+            # 手续费占比
+            hanlding_fee_percent = self.handling_fee / final_money * 100
+
             sql_update = "UPDATE rpt_test SET `final_money`=%.2f, `profit_year`=%.2f, `max_retracement`=%.2f, `retracement_day`=%s, " \
-                         "`trade_times`=%s, `success_rate`=%.2f, `start_date`='%s', `end_date`='%s',`status`=2, `handling_fee`=%s " \
-                         "WHERE `test_id`=%s" \
+                         "`trade_times`=%s, `success_rate`=%.2f, `start_date`='%s', `end_date`='%s',`status`=2, `handling_fee`=%s, " \
+                         "`lost_percent`=%.2f, `fee_percent`=%.2f WHERE `test_id`=%s" \
                          % (final_money, profit_year, max_retracement, retracement_day, trade_times, success_rate,
-                            first_detail[1], last_detail[1], self.handling_fee, plan_info[0])
+                            first_detail[1], last_detail[1], self.handling_fee, lost_control_times,
+                            hanlding_fee_percent, plan_info[0])
             mysql.mysql_insert(sql_update)
         except BaseException as e:
             self.log('sim_model', str(plan_info[0]) + '|' + str(traceback.format_exc()))
@@ -260,7 +288,7 @@ class Sim:
         self.handling_fee += tmp_handling_fee
         after_money = after_money - tmp_handling_fee
         # 收益率
-        profit_rate = (sell_price - buy_trigger) / buy_trigger
+        profit_rate = (after_money - before_money) / before_money
 
         # 修改当次交易数据
         tmp['have_day'] = have_day
@@ -338,7 +366,7 @@ class Sim:
 
                 process_pool.close()
                 process_pool.join()
-                print('All url done.')
+                print('All done!!!')
                 exit()
 
             # self.log('pipe_send', mission_data)

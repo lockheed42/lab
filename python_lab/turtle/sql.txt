@@ -6,13 +6,14 @@
 /* 检测最近自动抓取数据脚本的数据 */
 select `date`,count(*)
 from src_base_day
-where `date` > '2019-04-15'
+where `date` > '2019-05-05'
 group by `date`;
 
 
 /* 获取某一模型个股统计数据，以收益率排序 */
-select b.name, b.code, a.start_date, a.end_date, (TO_DAYS(a.end_date) - TO_DAYS(a.start_date)) as days, a.profit_year, a.max_retracement, a.trade_times, a.success_rate, a.handling_fee
+select b.name, b.code, c.name, a.start_date, a.end_date, (TO_DAYS(a.end_date) - TO_DAYS(a.start_date)) as days, a.profit_year, a.max_retracement, a.trade_times, a.success_rate, a.handling_fee, a.trade_times/((TO_DAYS(a.end_date) - TO_DAYS(a.start_date))/365) as times_per_year
 from rpt_test a
 join src_stock b on a.code = b.code
+join src_industry c on b.industry_id = c.industry_id
 where a.model_code = 'ma-005-04'
-order by a.profit_year desc
+order by a.profit_year desc;

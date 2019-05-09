@@ -89,6 +89,27 @@ $trigger .= ']';
             return result;
         }
 
+        function calculateSD(dayCount, upOrDown = 1) {
+            var result = [];
+            var avg = 0;
+            for (var i = 0, len = data0.values.length; i < len; i++) {
+                if (i < dayCount) {
+                    result.push('-');
+                    continue;
+                }
+                var sum = 0;
+                for (var j = 0; j < dayCount; j++) {
+                    sum += data0.values[i - j][1];
+                }
+                avg = sum / dayCount;
+                var sum_sd = 0;
+                for (var k = 0; k < dayCount; k++) {
+                    sum_sd += Math.pow(data0.values[i - k][1] - avg, 2);
+                }
+                result.push(avg + Math.pow(sum_sd / dayCount, 0.5) * upOrDown*2);
+            }
+            return result;
+        }
 
 
         option = {
@@ -103,7 +124,7 @@ $trigger .= ']';
                 }
             },
             legend: {
-                data: ['日K', 'MA5', 'MA10', 'MA20', 'MA30', 'MA60']
+                data: ['日K', 'MA20', 'UPPER', 'DOWN']
             },
             grid: {
                 left: '10%',
@@ -171,24 +192,6 @@ $trigger .= ']';
                     },
                 },
                 {
-                    name: 'MA5',
-                    type: 'line',
-                    data: calculateMA(5),
-                    smooth: true,
-                    lineStyle: {
-                        normal: {opacity: 0.5}
-                    }
-                },
-                {
-                    name: 'MA10',
-                    type: 'line',
-                    data: calculateMA(10),
-                    smooth: true,
-                    lineStyle: {
-                        normal: {opacity: 0.5}
-                    }
-                },
-                {
                     name: 'MA20',
                     type: 'line',
                     data: calculateMA(20),
@@ -198,24 +201,24 @@ $trigger .= ']';
                     }
                 },
                 {
-                    name: 'MA30',
+                    name: 'UPPER',
                     type: 'line',
-                    data: calculateMA(30),
-                    smooth: true,
-                    lineStyle: {
-                        normal: {opacity: 0.5}
-                    }
-                },
-                {
-                    name: 'MA60',
-                    type: 'line',
-                    data: calculateMA(60),
+                    data: calculateSD(20),
                     smooth: true,
                     lineStyle: {
                         normal: {opacity: 0.5}
                     }
                 },
 
+                {
+                    name: 'DOWN',
+                    type: 'line',
+                    data: calculateSD(20,-1),
+                    smooth: true,
+                    lineStyle: {
+                        normal: {opacity: 0.5}
+                    }
+                },
             ]
         };
 
