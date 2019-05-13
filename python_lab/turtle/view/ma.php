@@ -103,7 +103,7 @@ $trigger .= ']';
                 }
             },
             legend: {
-                data: ['日K', 'MA20', 'MA30', 'MA60']
+                data: ['日K', 'MA05', 'MA10', 'MA20', 'MA60']
             },
             grid: {
                 left: '10%',
@@ -171,18 +171,27 @@ $trigger .= ']';
                     },
                 },
                 {
-                    name: 'MA20',
+                    name: 'MA05',
                     type: 'line',
-                    data: calculateMA(20),
+                    data: calculateMA(5),
                     smooth: true,
                     lineStyle: {
                         normal: {opacity: 0.5}
                     }
                 },
                 {
-                    name: 'MA30',
+                    name: 'MA10',
                     type: 'line',
-                    data: calculateMA(30),
+                    data: calculateMA(10),
+                    smooth: true,
+                    lineStyle: {
+                        normal: {opacity: 0.5}
+                    }
+                },
+                {
+                    name: 'MA20',
+                    type: 'line',
+                    data: calculateMA(20),
                     smooth: true,
                     lineStyle: {
                         normal: {opacity: 0.5}

@@ -13,17 +13,15 @@ from base import sim
 
 
 class ModelMa(sim.Sim):
-    # 20日收盘价集合
+    # 收盘价集合
+    ma_10 = []
     ma_20 = []
-    # 30日收盘价集合
     ma_30 = []
-    # 60日收盘价集合
     ma_60 = []
-    # 20日均线价
+    # 移动平均价
+    ma_10_p = 0
     ma_20_p = 0
-    # 30日均线价
     ma_30_p = 0
-    # 60日均线价
     ma_60_p = 0
     # 记录K先是否在均线之下
     is_under_ma = False
@@ -63,9 +61,11 @@ class ModelMa(sim.Sim):
 
     def main_ready(self, code):
         # 每次运行初始化数值，应对多进程复用model的数据问题
+        self.ma_10 = []
         self.ma_20 = []
         self.ma_30 = []
         self.ma_60 = []
+        self.ma_10_p = 0
         self.ma_20_p = 0
         self.ma_30_p = 0
         self.ma_60_p = 0
@@ -78,39 +78,20 @@ class ModelMa(sim.Sim):
         self.min_10_p = 0
 
     def main_before(self, ids, code, date, open_p, close, high, low, vol, c_date):
+        self.ma_10_p = self.get_ma(self.ma_10) if len(self.ma_10) == 10 else 99999
         self.ma_20_p = self.get_ma(self.ma_20) if len(self.ma_20) == 20 else 99999
         # self.ma_30_p = self.get_ma(self.ma_30) if len(self.ma_30) == 30 else 99999
         self.ma_60_p = self.get_ma(self.ma_60) if len(self.ma_60) == 60 else 99999
-        if len(self.max_20) >= 20:
-            self.max_20_p = max(self.max_20)
-        else:
-            self.max_20_p = 999999
 
-        if len(self.min_10) >= 10:
-            self.min_10_p = min(self.min_10)
-        else:
-            self.min_10_p = 1
+        self.max_20_p = max(self.max_20) if len(self.max_20) >= 20 else 999999
+        self.min_10_p = min(self.min_10) if len(self.min_10) >= 10 else 1
         if self.have_status is False and self.ma_60_p > high:
             self.is_under_ma = True
 
     def main_buy(self, ids, code, date, open_p, close, high, low, vol, c_date):
-        # 发出买入信号
-        # if self.buy_sign is False and self.have_status is False and (
-        #         ((self.ma_60_p <= low or self.ma_60_p + self.atr_p * 2 <= high) and self.is_under_ma is True)
-        #         or
-        #         # 未彻底破ma60前，高于ma20视为趋势延续，但此时必须 ma20高于ma60，防止错误信号
-        #         (self.is_under_ma is False and self.ma_60_p < self.ma_20_p <= low)):
-
-        # if self.buy_sign is False and self.have_status is False and low >= self.ma_30_p and self.is_under_ma is True:
-        #     self.buy_sign = True
-        #     return
-
         # 买入条件
-        if self.have_status is False and (
-                (self.ma_60_p <= high and self.is_under_ma is True and self.max_20_p <= high)
-                or
-                # 未彻底破ma60前，高于ma20视为趋势延续，但此时必须 ma20高于ma60，防止错误信号
-                (self.is_under_ma is False and self.ma_60_p <= self.ma_20_p <= high and self.max_20_p <= high)):
+        if (self.ma_60_p <= high and self.is_under_ma is True and self.max_20_p <= high) \
+                or (self.is_under_ma is False and self.ma_60_p <= self.ma_20_p <= high and self.max_20_p <= high):
             # 涨停板无法买入
             if high == low:
                 return
@@ -181,8 +162,6 @@ class ModelMa(sim.Sim):
                     sell_price = self.ma_60_p if open_p >= self.ma_60_p else open_p
 
             self.sell(sell_price, date, self.have_day, self.max_draw_down, self.max_draw_down_day)
-            self.have_status = False
-            self.have_day = 0
 
     def lost_control(self, ids, code, date, open_p, close, high, low, vol, c_date):
         # 计算止损价，判断是否需要止损
@@ -191,11 +170,11 @@ class ModelMa(sim.Sim):
         if close < self.stop_loss_price:
             sell_price = self.stop_loss_price if open_p >= self.stop_loss_price else open_p
             self.sell(sell_price, date, self.have_day, self.max_draw_down, self.max_draw_down_day, 2)
-            self.have_status = False
-            self.have_day = 0
 
     def main_after(self, ids, code, date, open_p, close, high, low, vol, c_date):
         # 收集收盘价
+        if len(self.ma_10) >= 10:
+            self.ma_10.pop(0)
         if len(self.ma_20) >= 20:
             self.ma_20.pop(0)
         # if len(self.ma_30) >= 30:
@@ -208,6 +187,7 @@ class ModelMa(sim.Sim):
         if len(self.min_10) >= 10:
             self.min_10.pop(0)
 
+        self.ma_10.append(close)
         self.ma_20.append(close)
         # self.ma_30.append(close)
         self.ma_60.append(close)

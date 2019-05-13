@@ -145,7 +145,8 @@ class Sim:
                 # 交易前模块
                 self.main_before(ids, code, date, open_p, close, high, low, vol, c_date)
                 # 买入模块
-                self.main_buy(ids, code, date, open_p, close, high, low, vol, c_date)
+                if self.have_status is False:
+                    self.main_buy(ids, code, date, open_p, close, high, low, vol, c_date)
 
                 # 卖出策略
                 if self.have_status is True and self.is_just_have is False:
@@ -198,6 +199,7 @@ class Sim:
             else:
                 raise BaseException('run_model错误')
         except BaseException as e:
+            print(traceback.format_exc())
             self.log('sim_model', str(self.test_id) + '|' + str(traceback.format_exc()))
 
     def calc_model_plan(self, test_id=0):
@@ -301,6 +303,9 @@ class Sim:
         tmp['sell_type'] = sell_type
         tmp['status'] = 2
         self.tmp_trade_record[len(self.tmp_trade_record) - 1] = tmp
+
+        self.have_status = False
+        self.have_day = 0
 
     def sub_process(self, pipe, sub_id):
         """
