@@ -136,7 +136,7 @@ def daily_trad_info(date):
                 time.sleep(sleep_time)
             limit_counter = 0
             right_time_point = int(time.time()) + 65
-        catch_daily_trade(code[0], '20190509', '20190509')
+        catch_daily_trade(code[0], date, date)
 
 
 # TODO 已经在定时任务运行，修改慎重

@@ -31,6 +31,7 @@ class Sim:
     money = 1000000
     # 持股天数
     have_day = 0
+
     # 最大回撤度
     max_draw_down = 0
     # 回撤天数
@@ -39,6 +40,7 @@ class Sim:
     max_draw_down_day = 0
     # 区间最高值，用于计算最大回撤
     interval_highest = 0
+
     # 是否当日买入，用于屏蔽T+0
     is_just_have = False
     # 止损价，在过程中计算
@@ -60,6 +62,15 @@ class Sim:
     tr_pool = []
     # ATR
     atr_p = 0
+
+    # 是否启用分布加仓
+    is_exec_step = True
+    # 分布加仓数据
+    step_buy = []
+    # 持续买入状态。当出发了买入后，按照逐步加仓原则持续买入
+    continue_buy = False
+    # 加仓时买入次数
+    continue_buy_max = 5
 
     # 券商佣金，万3
     commission_percent = Decimal.from_float(0.0003)
@@ -148,6 +159,10 @@ class Sim:
                 if self.have_status is False:
                     self.main_buy(ids, code, date, open_p, close, high, low, vol, c_date)
 
+                # 逐步加仓
+                if self.have_status is True and self.continue_buy is True:
+                    self.step_buy_action(open_p, close, high, low, vol, c_date)
+
                 # 卖出策略
                 if self.have_status is True and self.is_just_have is False:
                     self.main_sell(ids, code, date, open_p, close, high, low, vol, c_date)
@@ -178,14 +193,14 @@ class Sim:
                 # 一次性插入所有交易明细
                 sql = "INSERT INTO rpt_test_detail (`model_code`, `test_id`, `code`, `sell_type`, `have_day`, `profit_rate`" \
                       ", `max_retracement`, `retracement_day`, `buy_date`, `sell_date`, `before_money`, `after_money`" \
-                      ", `buy_trigger`, `sell_trigger`, `stock_number`, `status`, `cdate`) VALUES "
+                      ", `buy_trigger`, `sell_trigger`, `stock_number`, `status`, `cdate`, `buy_times`) VALUES "
                 for d in self.tmp_trade_record:
-                    sql += "('%s', %s, '%s', %s, %s, %.2f, %.2f, %s, '%s', '%s', %.2f, %.2f, %.3f, %.3f, %s, '%s', '%s')," \
+                    sql += "('%s', %s, '%s', %s, %s, %.2f, %.2f, %s, '%s', '%s', %.2f, %.2f, %.3f, %.3f, %s, '%s', '%s', %s)," \
                            % (d['model_code'], d['test_id'], d['code'], d['sell_type'], d['have_day'], d['profit_rate'],
                               d['max_retracement'], d['retracement_day'], d['buy_date'], d['sell_date'],
                               d['before_money'],
                               d['after_money'], d['buy_trigger'], d['sell_trigger'], d['stock_number'], d['status'],
-                              d['cdate'])
+                              d['cdate'], str(d['buy_times']))
 
                 sql = sql.rstrip(',')
                 mysql.mysql_insert(sql)
@@ -201,6 +216,133 @@ class Sim:
         except BaseException as e:
             print(traceback.format_exc())
             self.log('sim_model', str(self.test_id) + '|' + str(traceback.format_exc()))
+
+    def buy(self, code, date):
+        """
+        买入行为
+        :param code:
+        :param date:
+        :return:
+        """
+        # 获取上次卖出后的现金
+        if len(self.tmp_trade_record) != 0:
+            self.money = self.tmp_trade_record[len(self.tmp_trade_record) - 1]['after_money']
+
+        if self.is_exec_step is True:
+            # 计算分仓买入的价格，每次买入的股数
+            self.continue_buy = True
+            self.step_buy = []
+            start_price = self.buy_price
+            end_price = self.buy_price + self.atr_p * 2
+            stock_per_buy = int(
+                self.money / ((self.buy_price + self.atr_p) * (1 + self.commission_percent)) / self.continue_buy_max)
+            step_price = (end_price - start_price) / (self.continue_buy_max - 1)
+            for i in range(self.continue_buy_max):
+                self.step_buy.append({
+                    'price': start_price + step_price * i,
+                    'stock': stock_per_buy,
+                    'is_done': False if i != 0 else True
+                })
+
+            # TODO 下面的参数还没改
+            stock_number = stock_per_buy
+            tmp_handling_fee = self.buy_price * stock_per_buy * self.commission_percent
+            self.handling_fee += tmp_handling_fee
+            self.money = self.money - tmp_handling_fee
+        else:
+            stock_number = int(self.money / (self.buy_price * (1 + self.commission_percent)))
+            tmp_handling_fee = self.buy_price * stock_number * self.commission_percent
+            self.handling_fee += tmp_handling_fee
+            self.money = self.money - tmp_handling_fee
+
+        self.tmp_trade_record.append({
+            'test_id': self.test_id,
+            'code': code,
+            'buy_date': date,
+            'sell_date': date,
+            'stock_number': stock_number,
+            'before_money': self.money,
+            'buy_trigger': self.buy_price,
+            'cdate': time.strftime('%Y-%m-%d %H:%M:%S'),
+            'model_code': self.model_code,
+            'buy_times': 1,
+        })
+        self.have_status = True
+        self.is_just_have = True
+
+    def step_buy_action(self, open_p, close, high, low, vol, c_date):
+        """
+        执行分布买入，并修改tmp_trade_record相关数据。
+        思路，遍历预先计算好分仓买入数组，根据每条记录的状态和价格判断是否需要买入
+        :return:
+        """
+        # 最后一次交易明细
+        last_i = len(self.tmp_trade_record) - 1
+        last_record = self.tmp_trade_record[last_i]
+        # 分布买入计数，如果次数用完则修改 继续买入的状态
+        step_counter = 0
+        for i, ele in enumerate(self.step_buy):
+            # 已买入计划跳过
+            if ele['is_done'] is True:
+                step_counter += 1
+                continue
+            if low <= ele['price'] <= high:
+                new_total_money = last_record['buy_trigger'] * last_record['stock_number'] + ele['price'] * ele['stock']
+                new_total_stock = last_record['stock_number'] + ele['stock']
+                last_record['buy_trigger'] = new_total_money / new_total_stock
+                last_record['stock_number'] += ele['stock']
+                last_record['buy_times'] += 1
+                step_counter += 1
+                self.step_buy[i]['is_done'] = True
+                # 设置新的全局买入价格
+                # self.buy_price = last_record['buy_trigger']
+
+        if step_counter == self.continue_buy_max:
+            self.continue_buy = False
+        self.tmp_trade_record[last_i] = last_record
+
+    def sell(self, sell_price, date, have_day, max_draw_down, max_draw_down_day, sell_type=1):
+        """实现卖出行为，并做记录
+
+        Args:
+            sell_price： 卖出价格
+            date： 卖出日期
+            have_day： 持仓天数
+            max_draw_down： 最大回撤率
+            max_draw_down_day： 最大回撤持续天数
+            last_test_detail_id： 最近一条买入的测试记录id
+            sell_type： 卖出类型。1=正常退出，2=止损
+        """
+        # 获取买入时的数据
+        tmp = self.tmp_trade_record[len(self.tmp_trade_record) - 1]
+        before_money = tmp['before_money']
+        stock_number = tmp['stock_number']
+        buy_trigger = tmp['buy_trigger']
+
+        # 未买入现金
+        rest_money = before_money - stock_number * buy_trigger
+        # 买入部分变化
+        after_money = rest_money + sell_price * stock_number
+        tmp_handling_fee = sell_price * stock_number * (self.commission_percent + self.tax_percent)
+        self.handling_fee += tmp_handling_fee
+        after_money = after_money - tmp_handling_fee
+        # 收益率
+        profit_rate = (after_money - before_money) / before_money
+
+        # 修改当次交易数据
+        tmp['have_day'] = have_day
+        tmp['profit_rate'] = round(profit_rate * 100, 2)
+        tmp['sell_date'] = date
+        tmp['after_money'] = round(after_money, 2)
+        tmp['sell_trigger'] = round(sell_price, 3)
+        tmp['max_retracement'] = round(max_draw_down * 100, 2)
+        tmp['retracement_day'] = max_draw_down_day
+        tmp['sell_type'] = sell_type
+        tmp['status'] = 2
+        self.tmp_trade_record[len(self.tmp_trade_record) - 1] = tmp
+
+        self.have_status = False
+        self.have_day = 0
 
     def calc_model_plan(self, test_id=0):
         """统计回测概况数据"""
@@ -263,49 +405,6 @@ class Sim:
         """其他日志"""
         with open(self.log_path + "/" + file + ".log", 'a') as f:
             f.write(time.strftime('%Y-%m-%d %H:%M:%S') + '  ' + str(content) + '\n')
-
-    def sell(self, sell_price, date, have_day, max_draw_down, max_draw_down_day, sell_type=1):
-        """实现卖出行为，并做记录
-
-        Args:
-            sell_price： 卖出价格
-            date： 卖出日期
-            have_day： 持仓天数
-            max_draw_down： 最大回撤率
-            max_draw_down_day： 最大回撤持续天数
-            last_test_detail_id： 最近一条买入的测试记录id
-            sell_type： 卖出类型。1=正常退出，2=止损
-        """
-        # 获取买入时的数据
-        tmp = self.tmp_trade_record[len(self.tmp_trade_record) - 1]
-        before_money = tmp['before_money']
-        stock_number = tmp['stock_number']
-        buy_trigger = tmp['buy_trigger']
-
-        # 未买入现金
-        rest_money = before_money - stock_number * buy_trigger
-        # 买入部分变化
-        after_money = rest_money + sell_price * stock_number
-        tmp_handling_fee = sell_price * stock_number * self.commission_percent + sell_price * stock_number * self.tax_percent
-        self.handling_fee += tmp_handling_fee
-        after_money = after_money - tmp_handling_fee
-        # 收益率
-        profit_rate = (after_money - before_money) / before_money
-
-        # 修改当次交易数据
-        tmp['have_day'] = have_day
-        tmp['profit_rate'] = round(profit_rate * 100, 2)
-        tmp['sell_date'] = date
-        tmp['after_money'] = round(after_money, 2)
-        tmp['sell_trigger'] = round(sell_price, 3)
-        tmp['max_retracement'] = round(max_draw_down * 100, 2)
-        tmp['retracement_day'] = max_draw_down_day
-        tmp['sell_type'] = sell_type
-        tmp['status'] = 2
-        self.tmp_trade_record[len(self.tmp_trade_record) - 1] = tmp
-
-        self.have_status = False
-        self.have_day = 0
 
     def sub_process(self, pipe, sub_id):
         """

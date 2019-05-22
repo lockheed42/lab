@@ -9,7 +9,16 @@ __author__ = 'lockheed'
 
 import random
 
-a = 8
-r = 3
-x = pow(a, 1 / r)
-print(x)
+a = [
+    {'id': 1},
+    {'id': 2},
+    {'id': 3},
+]
+
+for i, ele in enumerate(a):
+    print(i)
+    print(ele)
+    if i == 1:
+        a[i] = '1233'
+
+print(a)
