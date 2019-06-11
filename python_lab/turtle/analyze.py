@@ -10,35 +10,6 @@ __author__ = 'lockheed'
 from base import mysql
 
 
-def generate_echart_data(code, model_code):
-    """
-    已废弃，在view/kchart.php有可视化界面
-    生成可视化数据，用于echart展示买点和卖点。
-    https://www.echartsjs.com/examples/editor.html?c=candlestick-sh
-    :param code:
-    :param model_code: 模型代码
-    :return:
-    """
-    info = mysql.mysql_fetch('select * from src_base_day where code = %s' % code, False)
-    string = ''
-    for logid, code, date, open, close, high, low, volume, cd in info:
-        string += "['%s', %s, %s, %s, %s],\n" % (date, open, close, low, high)
-
-    print(string)
-
-    info = mysql.mysql_fetch(
-        'select buy_date, sell_date, buy_trigger,sell_trigger  from rpt_test_detail where code = %s and model_code = "%s"'
-        % (code, model_code), False)
-    string = ''
-    for bd, sd, btr, selltr in info:
-        string += "{name: 'XX',coord: ['%s', %s],value: %s,itemStyle: {normal: {color: 'rgb(30,144,255)'}}},\n" % (
-            bd, btr, btr)
-        string += "{name: 'XX',coord: ['%s', %s],value: %s,itemStyle: {normal: {color: 'rgb(255,99,71)'}}},\n" % (
-            sd, selltr, selltr)
-
-    print(string)
-
-
 def model_report():
     """
     打印模型的统计数据，可复制到excel
@@ -113,7 +84,8 @@ def model_report():
         # 总和收益
         info = mysql.mysql_fetch(
             "select sum(init_money), sum(final_money), sum(handling_fee), sum(final_money) / sum(init_money) from rpt_test where model_code = '" + model_code + "' and `status` = 2")
-        output += str(format(info[0], ',')) + " " + str(format(info[1], ',')) + " " + str(format(info[2], ',')) + " " + str(round(info[3], 2)) + "\n"
+        output += str(format(info[0], ',')) + " " + str(format(info[1], ',')) + " " + str(
+            format(info[2], ',')) + " " + str(round(info[3], 2)) + "\n"
     print(output)
 
 

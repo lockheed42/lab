@@ -6,7 +6,7 @@
 /* 检测最近自动抓取数据脚本的数据 */
 select `date`,count(*)
 from src_base_day
-where `date` > '2019-05-05'
+where `date` > '2019-05-31'
 group by `date`;
 
 

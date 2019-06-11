@@ -4,6 +4,7 @@
 //参数
 $code = $_GET['code']??'';
 $model = $_GET['model']??'';
+$table_suffix = $_GET['table']??'';
 
 function mysql_read($sql)
 {
@@ -27,7 +28,7 @@ $kData .= "]";
 
 
 $trigger = '[';
-$rs = mysql_read('select buy_date, sell_date, buy_trigger,sell_trigger  from rpt_test_detail where code = "' . $code . '" and model_code = "' . $model . '"');
+$rs = mysql_read('select buy_date, sell_date, buy_trigger,sell_trigger  from rpt_test_detail'.$table_suffix.' where code = "' . $code . '" and model_code = "' . $model . '"');
 while ($row = mysqli_fetch_assoc($rs)) {
     $trigger .= "{name: 'XX',coord: ['" . $row['buy_date'] . "', " . $row['buy_trigger'] . "],value: " . $row['buy_trigger'] . ",itemStyle: {normal: {color: 'rgb(30,144,255)'}}},\n";
     $trigger .= "{name: 'XX',coord: ['" . $row['sell_date'] . "', " . $row['sell_trigger'] . "],value: " . $row['sell_trigger'] . ",itemStyle: {normal: {color: 'rgb(255,99,71)'}}},\n";
