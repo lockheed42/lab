@@ -67,6 +67,7 @@ def set_test(index_id):
     :param index_id:
     :return:
     """
+    # TODO 之后会考虑 添加结合行业等其他筛选条件
     sql = "SELECT stock_code FROM src_stock_index WHERE index_id IN (%s)" % index_id
     rs = mysql.mysql_fetch(sql, False)
     code_list_string = ''

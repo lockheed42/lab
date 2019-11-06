@@ -33,6 +33,16 @@ class ModelMa(sim.Sim):
     # 是否启用分布加仓
     is_exec_step = False
 
+    # MACD相关参数
+    diff_list = []
+    # DEA或者叫DEM
+    dea = 0
+    # 12与26平滑移动之差
+    diff = 0
+    last_ema12 = 0
+    last_ema26 = 0
+    last_dea = 0
+
     def get_ma(self, data):
         """
         求移动平均线当日价
@@ -67,6 +77,13 @@ class ModelMa(sim.Sim):
         self.buy_sign = False
         self.sell_sign = False
 
+        self.diff_list = []
+        self.last_ema12 = 0
+        self.last_ema26 = 0
+        self.dea = 0
+        self.last_dea = 0
+        self.diff = 0
+
     def main_before(self, ids, code, date, open_p, close, high, low, vol, c_date):
         self.ma_10_p = self.get_ma(self.ma_10) if len(self.ma_10) == 10 else 99999
         self.ma_20_p = self.get_ma(self.ma_20) if len(self.ma_20) == 20 else 99999
@@ -76,11 +93,35 @@ class ModelMa(sim.Sim):
         if self.have_status is False and self.ma_60_p > high:
             self.is_under_ma = True
 
+        # MACD相关参数
+        if len(self.diff_list) == 0:
+            self.diff_list.append(0)
+            ema12 = 0
+            ema26 = 0
+            self.dea = 0
+            self.diff = 0
+        elif len(self.diff_list) == 1:
+            ema12 = self.last_close * 11 / 13 + close * 2 / 13
+            ema26 = self.last_close * 25 / 27 + close * 2 / 27
+            self.diff = round(ema12 - ema26, 2)
+            self.dea = round(0 + self.diff * 2 / 10, 2)
+            self.diff_list.append(self.diff)
+        else:
+            ema12 = self.last_ema12 * 11 / 13 + close * 2 / 13
+            ema26 = self.last_ema26 * 25 / 27 + close * 2 / 27
+            self.diff = round(ema12 - ema26, 2)
+            self.dea = round(self.last_dea * 8 / 10 + self.diff * 2 / 10, 2)
+
+        self.last_dea = Decimal(self.dea)
+        self.last_ema12 = Decimal(ema12)
+        self.last_ema26 = Decimal(ema26)
+
     def main_buy(self, ids, code, date, open_p, close, high, low, vol, c_date):
         # TODO 买入价要经常思考是否可以更贴近实际
         # ma-6020-filter-ma20-adjust
-        if (self.ma_60_p <= high and self.is_under_ma is True and (self.ma_20_p * Decimal(1.05) <= high)) \
-                or (self.is_under_ma is False and self.ma_20_p * Decimal(1.05) <= high):
+        if (self.ma_60_p <= high and self.is_under_ma is True
+            and (self.ma_20_p * Decimal(1.05) <= high) and self.diff > self.dea) \
+                or (self.is_under_ma is False and self.ma_20_p * Decimal(1.05) <= high and self.diff > self.dea):
             # 涨停板无法买入
             if high == low:
                 return
@@ -139,12 +180,11 @@ class ModelMa(sim.Sim):
 
 if __name__ == '__main__':
     # main
-    model_code = 'ma-6020-model-41-300cyb'
+    model_code = 'ma-6020-macd-300cyb'
     # 测试单条
-    # model = ModelMa()
-    # # ModelMa().track_model('002709', '2019-02-27', '2003-01-01')
-    # model.main('000001', model_code, '2019-02-27', '2003-01-01')
-    # exit()
+    model = ModelMa()
+    model.main('000001', model_code, '2019-02-27', '2003-01-01')
+    exit()
 
     # 多进程
     model = ModelMa()

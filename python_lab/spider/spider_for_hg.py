@@ -433,7 +433,7 @@ key_path = ['brands.html', 'starter-kits.html', 'apv-mods.html', 'atomizers.html
 # file_url = html_res_path + '/' + get_domain(host) + '/product'
 # for root, dirs, files in os.walk(file_url):
 #     for file_obj in files:
-#         try:
+#         try:Elegomall
 #             print(file_obj)
 #             get_file_info(root, file_obj)
 #         except BaseException as e:
